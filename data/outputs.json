@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19 13:33:16",
+  "generatedAt": "2026-06-20 11:03:05",
   "outputDir": "C:/Users/Chris/Dropbox/Betting/Betting/Greyhounds/PDFs",
   "outputs": [
     {
@@ -7,8 +7,8 @@
       "model": "AFL goalscorers",
       "sport": "AFL",
       "extension": "xlsx",
-      "modified": "2026-06-15 18:57:03",
-      "size": 12652,
+      "modified": "2026-06-19 17:45:25",
+      "size": 24089,
       "fileUrl": "/files/AFL_goalscorers.xlsx",
       "sheets": [
         "AFL Goalscorers"
@@ -22,303 +22,15 @@
         "odds_2_plus",
         "odds_3_plus"
       ],
-      "rowCount": 144,
+      "rowCount": 468,
       "rows": [
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Josh Treacy",
-          "odds_1_plus": 1.21,
-          "odds_2_plus": 1.91,
-          "odds_3_plus": 3.87
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Jye Amiss",
-          "odds_1_plus": 1.25,
-          "odds_2_plus": 2.07,
-          "odds_3_plus": 4.5
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Patrick Voss",
-          "odds_1_plus": 1.25,
-          "odds_2_plus": 2.1,
-          "odds_3_plus": 4.61
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Michael Frederick",
-          "odds_1_plus": 1.45,
-          "odds_2_plus": 3.05,
-          "odds_3_plus": 8.72
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Isaiah Dudley",
-          "odds_1_plus": 1.49,
-          "odds_2_plus": 3.3,
-          "odds_3_plus": 9.93
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Shai Bolton",
-          "odds_1_plus": 1.59,
-          "odds_2_plus": 3.82,
-          "odds_3_plus": 12.66
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Murphy Reid",
-          "odds_1_plus": 1.66,
-          "odds_2_plus": 4.25,
-          "odds_3_plus": 15.04
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Sam Switkowski",
-          "odds_1_plus": 1.81,
-          "odds_2_plus": 5.18,
-          "odds_3_plus": 20.75
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Luke Jackson",
-          "odds_1_plus": 1.86,
-          "odds_2_plus": 5.54,
-          "odds_3_plus": 23.13
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Hayden Young",
-          "odds_1_plus": 2.31,
-          "odds_2_plus": 8.99,
-          "odds_3_plus": 49.97
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Mason Cox",
-          "odds_1_plus": 3.09,
-          "odds_2_plus": 16.92,
-          "odds_3_plus": 134.36
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Andrew Brayshaw",
-          "odds_1_plus": 3.51,
-          "odds_2_plus": 22.11,
-          "odds_3_plus": 203.3
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Nathan O'Driscoll",
-          "odds_1_plus": 3.87,
-          "odds_2_plus": 27.3,
-          "odds_3_plus": 281.39
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Jaeger O'Meara",
-          "odds_1_plus": 3.98,
-          "odds_2_plus": 28.96,
-          "odds_3_plus": 308.23
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Neil Erasmus",
-          "odds_1_plus": 4.06,
-          "odds_2_plus": 30.16,
-          "odds_3_plus": 327.92
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Corey Wagner",
-          "odds_1_plus": 6.13,
-          "odds_2_plus": 70.91,
-          "odds_3_plus": 1212.32
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Oscar McDonald",
-          "odds_1_plus": 6.46,
-          "odds_2_plus": 78.97,
-          "odds_3_plus": 1428.4
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "fremantle",
-          "player": "Alex Pearce",
-          "odds_1_plus": 10.34,
-          "odds_2_plus": 206.8,
-          "odds_3_plus": 6151.44
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Jeremy Cameron",
-          "odds_1_plus": 1.08,
-          "odds_2_plus": 1.38,
-          "odds_3_plus": 2.12
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Shannon Neale",
-          "odds_1_plus": 1.27,
-          "odds_2_plus": 2.17,
-          "odds_3_plus": 4.86
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Oliver Henry",
-          "odds_1_plus": 1.32,
-          "odds_2_plus": 2.43,
-          "odds_3_plus": 5.92
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Shaun Mannagh",
-          "odds_1_plus": 1.34,
-          "odds_2_plus": 2.5,
-          "odds_3_plus": 6.2
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Jack Martin",
-          "odds_1_plus": 1.47,
-          "odds_2_plus": 3.16,
-          "odds_3_plus": 9.22
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Patrick Dangerfield",
-          "odds_1_plus": 1.51,
-          "odds_2_plus": 3.4,
-          "odds_3_plus": 10.41
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Oliver Dempsey",
-          "odds_1_plus": 1.65,
-          "odds_2_plus": 4.2,
-          "odds_3_plus": 14.75
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Oliver Wiltshire",
-          "odds_1_plus": 1.71,
-          "odds_2_plus": 4.53,
-          "odds_3_plus": 16.74
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Gryan Miers",
-          "odds_1_plus": 2.09,
-          "odds_2_plus": 7.22,
-          "odds_3_plus": 35.31
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Jack Bowes",
-          "odds_1_plus": 2.12,
-          "odds_2_plus": 7.45,
-          "odds_3_plus": 37.14
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Max Holmes",
-          "odds_1_plus": 2.88,
-          "odds_2_plus": 14.56,
-          "odds_3_plus": 106.35
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Bailey Smith",
-          "odds_1_plus": 3.02,
-          "odds_2_plus": 16.1,
-          "odds_3_plus": 124.43
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Mark Blicavs",
-          "odds_1_plus": 3.43,
-          "odds_2_plus": 21.15,
-          "odds_3_plus": 189.8
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Tom Atkins",
-          "odds_1_plus": 5.55,
-          "odds_2_plus": 57.77,
-          "odds_3_plus": 887.2
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Jack Henry",
-          "odds_1_plus": 6.01,
-          "odds_2_plus": 68.1,
-          "odds_3_plus": 1139.93
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Oisin Mullin",
-          "odds_1_plus": 6.09,
-          "odds_2_plus": 69.96,
-          "odds_3_plus": 1187.87
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Tanner Bruhn",
-          "odds_1_plus": 7.5,
-          "odds_2_plus": 107.27,
-          "odds_3_plus": 2274.96
-        },
-        {
-          "date_local": "2026-06-18T00:00:00",
-          "team": "geelong cats",
-          "player": "Mark O'Connor",
-          "odds_1_plus": 7.88,
-          "odds_2_plus": 118.97,
-          "odds_3_plus": 2662.01
-        },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
           "player": "Ben King",
-          "odds_1_plus": 1.1,
-          "odds_2_plus": 1.45,
-          "odds_3_plus": 2.34
+          "odds_1_plus": 1.09,
+          "odds_2_plus": 1.42,
+          "odds_3_plus": 2.23
         },
         {
           "date_local": "2026-06-19T00:00:00",
@@ -326,855 +38,3735 @@
           "player": "Ben Long",
           "odds_1_plus": 1.33,
           "odds_2_plus": 2.46,
-          "odds_3_plus": 6.06
+          "odds_3_plus": 6.03
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
           "player": "Jed Walter",
-          "odds_1_plus": 1.38,
-          "odds_2_plus": 2.72,
-          "odds_3_plus": 7.16
+          "odds_1_plus": 1.37,
+          "odds_2_plus": 2.65,
+          "odds_3_plus": 6.86
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
           "player": "Bailey Humphrey",
           "odds_1_plus": 1.6,
-          "odds_2_plus": 3.89,
-          "odds_3_plus": 13.02
+          "odds_2_plus": 3.88,
+          "odds_3_plus": 12.96
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
           "player": "Christian Petracca",
-          "odds_1_plus": 1.66,
-          "odds_2_plus": 4.26,
-          "odds_3_plus": 15.14
+          "odds_1_plus": 1.63,
+          "odds_2_plus": 4.09,
+          "odds_3_plus": 14.14
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
           "player": "Lachlan Gulbin",
-          "odds_1_plus": 1.76,
-          "odds_2_plus": 4.87,
-          "odds_3_plus": 18.77
-        },
-        {
-          "date_local": "2026-06-19T00:00:00",
-          "team": "gold coast suns",
-          "player": "Will Graham",
-          "odds_1_plus": 1.78,
-          "odds_2_plus": 4.99,
-          "odds_3_plus": 19.56
+          "odds_1_plus": 1.79,
+          "odds_2_plus": 5.03,
+          "odds_3_plus": 19.8
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
           "player": "Leonardo Lombard",
-          "odds_1_plus": 1.87,
-          "odds_2_plus": 5.59,
-          "odds_3_plus": 23.5
+          "odds_1_plus": 1.82,
+          "odds_2_plus": 5.26,
+          "odds_3_plus": 21.26
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
           "player": "Touk Miller",
-          "odds_1_plus": 2.03,
-          "odds_2_plus": 6.71,
-          "odds_3_plus": 31.45
+          "odds_1_plus": 2.02,
+          "odds_2_plus": 6.67,
+          "odds_3_plus": 31.15
+        },
+        {
+          "date_local": "2026-06-19T00:00:00",
+          "team": "gold coast suns",
+          "player": "Zeke Uwland",
+          "odds_1_plus": 2.44,
+          "odds_2_plus": 10.16,
+          "odds_3_plus": 60.62
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
           "player": "Noah Anderson",
-          "odds_1_plus": 2.66,
-          "odds_2_plus": 12.23,
-          "odds_3_plus": 81.03
+          "odds_1_plus": 2.65,
+          "odds_2_plus": 12.14,
+          "odds_3_plus": 80.08
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
           "player": "Ned Moyle",
-          "odds_1_plus": 2.71,
-          "odds_2_plus": 12.71,
-          "odds_3_plus": 86.09
-        },
-        {
-          "date_local": "2026-06-19T00:00:00",
-          "team": "gold coast suns",
-          "player": "Jai Murray",
-          "odds_1_plus": 3.11,
-          "odds_2_plus": 17.12,
-          "odds_3_plus": 136.84
+          "odds_1_plus": 2.75,
+          "odds_2_plus": 13.19,
+          "odds_3_plus": 91.21
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
           "player": "Matt Rowell",
-          "odds_1_plus": 3.19,
-          "odds_2_plus": 18.05,
-          "odds_3_plus": 148.58
+          "odds_1_plus": 3.02,
+          "odds_2_plus": 16.05,
+          "odds_3_plus": 123.81
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
-          "player": "Lachie Weller",
+          "player": "Jai Murray",
+          "odds_1_plus": 3.22,
+          "odds_2_plus": 18.51,
+          "odds_3_plus": 154.51
+        },
+        {
+          "date_local": "2026-06-19T00:00:00",
+          "team": "gold coast suns",
+          "player": "Ben Jepson",
+          "odds_1_plus": 3.32,
+          "odds_2_plus": 19.65,
+          "odds_3_plus": 169.45
+        },
+        {
+          "date_local": "2026-06-19T00:00:00",
+          "team": "gold coast suns",
+          "player": "Sam Clohesy",
           "odds_1_plus": 3.48,
-          "odds_2_plus": 21.72,
-          "odds_3_plus": 197.78
-        },
-        {
-          "date_local": "2026-06-19T00:00:00",
-          "team": "gold coast suns",
-          "player": "Jarrod Witts",
-          "odds_1_plus": 4.36,
-          "odds_2_plus": 34.91,
-          "odds_3_plus": 410.63
+          "odds_2_plus": 21.71,
+          "odds_3_plus": 197.66
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
           "player": "Daniel Rioli",
-          "odds_1_plus": 4.67,
-          "odds_2_plus": 40.43,
-          "odds_3_plus": 514.13
+          "odds_1_plus": 4.66,
+          "odds_2_plus": 40.29,
+          "odds_3_plus": 511.41
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
           "player": "Joel Jeffrey",
           "odds_1_plus": 4.72,
-          "odds_2_plus": 41.31,
-          "odds_3_plus": 531.33
+          "odds_2_plus": 41.35,
+          "odds_3_plus": 532.09
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "gold coast suns",
           "player": "John Noble",
-          "odds_1_plus": 4.95,
-          "odds_2_plus": 45.61,
-          "odds_3_plus": 618.36
+          "odds_1_plus": 4.94,
+          "odds_2_plus": 45.36,
+          "odds_3_plus": 613.13
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Nick Watson",
-          "odds_1_plus": 1.17,
-          "odds_2_plus": 1.76,
-          "odds_3_plus": 3.36
+          "odds_1_plus": 1.18,
+          "odds_2_plus": 1.77,
+          "odds_3_plus": 3.39
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Mabior Chol",
           "odds_1_plus": 1.22,
-          "odds_2_plus": 1.95,
-          "odds_3_plus": 4.02
+          "odds_2_plus": 1.96,
+          "odds_3_plus": 4.05
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Mitch Lewis",
-          "odds_1_plus": 1.26,
-          "odds_2_plus": 2.15,
-          "odds_3_plus": 4.8
+          "odds_1_plus": 1.27,
+          "odds_2_plus": 2.16,
+          "odds_3_plus": 4.84
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Jack Ginnivan",
           "odds_1_plus": 1.43,
-          "odds_2_plus": 2.94,
-          "odds_3_plus": 8.18
+          "odds_2_plus": 2.96,
+          "odds_3_plus": 8.26
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Dylan Moore",
-          "odds_1_plus": 1.45,
-          "odds_2_plus": 3.09,
-          "odds_3_plus": 8.87
+          "odds_1_plus": 1.46,
+          "odds_2_plus": 3.11,
+          "odds_3_plus": 8.97
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Connor Macdonald",
           "odds_1_plus": 1.53,
-          "odds_2_plus": 3.48,
-          "odds_3_plus": 10.82
+          "odds_2_plus": 3.5,
+          "odds_3_plus": 10.94
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Cameron Nairn",
-          "odds_1_plus": 1.59,
-          "odds_2_plus": 3.85,
-          "odds_3_plus": 12.78
+          "odds_1_plus": 1.6,
+          "odds_2_plus": 3.86,
+          "odds_3_plus": 12.86
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Will Day",
-          "odds_1_plus": 2.6,
-          "odds_2_plus": 11.7,
-          "odds_3_plus": 75.6
+          "odds_1_plus": 2.61,
+          "odds_2_plus": 11.79,
+          "odds_3_plus": 76.49
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Jai Newcombe",
-          "odds_1_plus": 2.72,
-          "odds_2_plus": 12.82,
-          "odds_3_plus": 87.19
+          "odds_1_plus": 2.73,
+          "odds_2_plus": 12.93,
+          "odds_3_plus": 88.37
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Blake Hardwick",
-          "odds_1_plus": 2.88,
-          "odds_2_plus": 14.55,
-          "odds_3_plus": 106.24
+          "odds_1_plus": 2.9,
+          "odds_2_plus": 14.71,
+          "odds_3_plus": 108.06
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Ned Reeves",
-          "odds_1_plus": 2.92,
-          "odds_2_plus": 14.94,
-          "odds_3_plus": 110.76
+          "odds_1_plus": 2.93,
+          "odds_2_plus": 15.1,
+          "odds_3_plus": 112.56
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Lloyd Meek",
-          "odds_1_plus": 3.14,
-          "odds_2_plus": 17.45,
-          "odds_3_plus": 140.98
+          "odds_1_plus": 3.15,
+          "odds_2_plus": 17.63,
+          "odds_3_plus": 143.26
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Josh Weddle",
-          "odds_1_plus": 3.19,
-          "odds_2_plus": 18.06,
-          "odds_3_plus": 148.66
+          "odds_1_plus": 3.2,
+          "odds_2_plus": 18.27,
+          "odds_3_plus": 151.3
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Massimo D'Ambrosio",
-          "odds_1_plus": 3.42,
-          "odds_2_plus": 20.98,
-          "odds_3_plus": 187.5
+          "odds_1_plus": 3.43,
+          "odds_2_plus": 21.16,
+          "odds_3_plus": 189.95
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Cam Mackenzie",
-          "odds_1_plus": 4.08,
-          "odds_2_plus": 30.42,
-          "odds_3_plus": 332.34
+          "odds_1_plus": 4.09,
+          "odds_2_plus": 30.65,
+          "odds_3_plus": 336.18
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Josh Ward",
-          "odds_1_plus": 5.76,
-          "odds_2_plus": 62.49,
-          "odds_3_plus": 999.93
+          "odds_1_plus": 5.78,
+          "odds_2_plus": 62.93,
+          "odds_3_plus": 1010.87
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "James Sicily",
-          "odds_1_plus": 5.94,
-          "odds_2_plus": 66.46,
-          "odds_3_plus": 1098.47
+          "odds_1_plus": 5.98,
+          "odds_2_plus": 67.36,
+          "odds_3_plus": 1121.08
         },
         {
           "date_local": "2026-06-19T00:00:00",
           "team": "hawthorn",
           "player": "Jarman Impey",
-          "odds_1_plus": 6.8,
-          "odds_2_plus": 87.92,
-          "odds_3_plus": 1681.74
+          "odds_1_plus": 6.85,
+          "odds_2_plus": 89.14,
+          "odds_3_plus": 1717.28
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Riley Thilthorpe",
           "odds_1_plus": 1.19,
-          "odds_2_plus": 1.84,
-          "odds_3_plus": 3.64
+          "odds_2_plus": 1.82,
+          "odds_3_plus": 3.58
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "adelaide crows",
+          "player": "Josh Rachele",
+          "odds_1_plus": 1.24,
+          "odds_2_plus": 2.06,
+          "odds_3_plus": 4.46
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Darcy Fogarty",
           "odds_1_plus": 1.26,
-          "odds_2_plus": 2.15,
-          "odds_3_plus": 4.79
-        },
-        {
-          "date_local": "2026-06-20T00:00:00",
-          "team": "adelaide crows",
-          "player": "Josh Rachele",
-          "odds_1_plus": 1.27,
-          "odds_2_plus": 2.17,
-          "odds_3_plus": 4.86
+          "odds_2_plus": 2.13,
+          "odds_3_plus": 4.7
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Ben Keays",
-          "odds_1_plus": 1.35,
-          "odds_2_plus": 2.56,
-          "odds_3_plus": 6.49
+          "odds_1_plus": 1.33,
+          "odds_2_plus": 2.48,
+          "odds_3_plus": 6.13
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Luke Pedlar",
-          "odds_1_plus": 1.49,
-          "odds_2_plus": 3.26,
-          "odds_3_plus": 9.72
+          "odds_1_plus": 1.45,
+          "odds_2_plus": 3.08,
+          "odds_3_plus": 8.84
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Toby Murray",
-          "odds_1_plus": 1.59,
-          "odds_2_plus": 3.82,
-          "odds_3_plus": 12.63
+          "odds_1_plus": 1.53,
+          "odds_2_plus": 3.48,
+          "odds_3_plus": 10.85
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Jordan Dawson",
-          "odds_1_plus": 1.79,
-          "odds_2_plus": 5.09,
-          "odds_3_plus": 20.17
+          "odds_1_plus": 1.78,
+          "odds_2_plus": 5.02,
+          "odds_3_plus": 19.71
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Alex Neal-Bullen",
-          "odds_1_plus": 1.8,
-          "odds_2_plus": 5.12,
-          "odds_3_plus": 20.37
-        },
-        {
-          "date_local": "2026-06-20T00:00:00",
-          "team": "adelaide crows",
-          "player": "Jake Soligo",
-          "odds_1_plus": 1.95,
-          "odds_2_plus": 6.19,
-          "odds_3_plus": 27.61
+          "odds_1_plus": 1.79,
+          "odds_2_plus": 5.04,
+          "odds_3_plus": 19.87
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Zac Taylor",
-          "odds_1_plus": 1.96,
-          "odds_2_plus": 6.24,
-          "odds_3_plus": 28
+          "odds_1_plus": 1.83,
+          "odds_2_plus": 5.36,
+          "odds_3_plus": 21.91
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "adelaide crows",
+          "player": "Jake Soligo",
+          "odds_1_plus": 1.94,
+          "odds_2_plus": 6.09,
+          "odds_3_plus": 26.9
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Brayden Cook",
-          "odds_1_plus": 2.55,
-          "odds_2_plus": 11.18,
-          "odds_3_plus": 70.44
+          "odds_1_plus": 2.4,
+          "odds_2_plus": 9.75,
+          "odds_3_plus": 56.8
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "James Peatling",
-          "odds_1_plus": 2.73,
-          "odds_2_plus": 13,
-          "odds_3_plus": 89.15
+          "odds_1_plus": 2.71,
+          "odds_2_plus": 12.78,
+          "odds_3_plus": 86.82
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Daniel Curtin",
-          "odds_1_plus": 2.92,
-          "odds_2_plus": 14.98,
-          "odds_3_plus": 111.22
+          "odds_1_plus": 2.9,
+          "odds_2_plus": 14.72,
+          "odds_3_plus": 108.18
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Lachlan McAndrew",
-          "odds_1_plus": 3.11,
-          "odds_2_plus": 17.1,
-          "odds_3_plus": 136.55
+          "odds_1_plus": 3.08,
+          "odds_2_plus": 16.83,
+          "odds_3_plus": 133.3
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Sam Berry",
-          "odds_1_plus": 3.76,
-          "odds_2_plus": 25.68,
-          "odds_3_plus": 256.06
+          "odds_1_plus": 3.73,
+          "odds_2_plus": 25.2,
+          "odds_3_plus": 248.79
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Luke Nankervis",
-          "odds_1_plus": 7.04,
-          "odds_2_plus": 94.33,
-          "odds_3_plus": 1871.52
+          "odds_1_plus": 7,
+          "odds_2_plus": 93.15,
+          "odds_3_plus": 1835.96
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Hugo Hall-Kahan",
-          "odds_1_plus": 8.47,
-          "odds_2_plus": 137.86,
-          "odds_3_plus": 3328.86
+          "odds_1_plus": 8.45,
+          "odds_2_plus": 137.02,
+          "odds_3_plus": 3298.01
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "adelaide crows",
           "player": "Nick Murray",
-          "odds_1_plus": 8.96,
-          "odds_2_plus": 154.64,
-          "odds_3_plus": 3961.73
+          "odds_1_plus": 8.91,
+          "odds_2_plus": 152.76,
+          "odds_3_plus": 3889.01
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Harry McKay",
-          "odds_1_plus": 1.4,
-          "odds_2_plus": 2.82,
-          "odds_3_plus": 7.64
+          "odds_1_plus": 1.41,
+          "odds_2_plus": 2.86,
+          "odds_3_plus": 7.81
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Will Hayward",
-          "odds_1_plus": 1.59,
-          "odds_2_plus": 3.86,
-          "odds_3_plus": 12.84
+          "odds_1_plus": 1.6,
+          "odds_2_plus": 3.91,
+          "odds_3_plus": 13.15
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Brodie Kemp",
-          "odds_1_plus": 1.7,
-          "odds_2_plus": 4.47,
-          "odds_3_plus": 16.36
+          "odds_1_plus": 1.71,
+          "odds_2_plus": 4.54,
+          "odds_3_plus": 16.75
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Ben Ainsworth",
-          "odds_1_plus": 1.78,
-          "odds_2_plus": 5.02,
-          "odds_3_plus": 19.74
+          "odds_1_plus": 1.8,
+          "odds_2_plus": 5.1,
+          "odds_3_plus": 20.23
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Jack Ison",
-          "odds_1_plus": 1.81,
-          "odds_2_plus": 5.22,
-          "odds_3_plus": 20.99
+          "odds_1_plus": 1.82,
+          "odds_2_plus": 5.28,
+          "odds_3_plus": 21.43
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Mitch McGovern",
-          "odds_1_plus": 1.84,
-          "odds_2_plus": 5.36,
-          "odds_3_plus": 21.97
+          "odds_1_plus": 1.85,
+          "odds_2_plus": 5.45,
+          "odds_3_plus": 22.51
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Flynn Young",
-          "odds_1_plus": 1.91,
-          "odds_2_plus": 5.89,
-          "odds_3_plus": 25.51
+          "odds_1_plus": 1.92,
+          "odds_2_plus": 5.97,
+          "odds_3_plus": 26.07
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Talor Byrne",
-          "odds_1_plus": 1.92,
-          "odds_2_plus": 5.92,
-          "odds_3_plus": 25.71
+          "odds_1_plus": 1.93,
+          "odds_2_plus": 6,
+          "odds_3_plus": 26.28
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Francis Evans",
-          "odds_1_plus": 2,
-          "odds_2_plus": 6.54,
-          "odds_3_plus": 30.2
+          "odds_1_plus": 2.02,
+          "odds_2_plus": 6.64,
+          "odds_3_plus": 30.93
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Jagga Smith",
-          "odds_1_plus": 2.44,
-          "odds_2_plus": 10.1,
-          "odds_3_plus": 60.06
+          "odds_1_plus": 2.45,
+          "odds_2_plus": 10.24,
+          "odds_3_plus": 61.4
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Patrick Cripps",
-          "odds_1_plus": 2.71,
-          "odds_2_plus": 12.77,
-          "odds_3_plus": 86.73
+          "odds_1_plus": 2.73,
+          "odds_2_plus": 13,
+          "odds_3_plus": 89.18
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Blake Acres",
-          "odds_1_plus": 3.85,
-          "odds_2_plus": 26.97,
-          "odds_3_plus": 276.15
+          "odds_1_plus": 3.88,
+          "odds_2_plus": 27.45,
+          "odds_3_plus": 283.85
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Marc Pittonet",
-          "odds_1_plus": 3.87,
-          "odds_2_plus": 27.21,
-          "odds_3_plus": 280
+          "odds_1_plus": 3.9,
+          "odds_2_plus": 27.77,
+          "odds_3_plus": 288.84
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "George Hewett",
-          "odds_1_plus": 4,
-          "odds_2_plus": 29.23,
-          "odds_3_plus": 312.5
+          "odds_1_plus": 4.04,
+          "odds_2_plus": 29.76,
+          "odds_3_plus": 321.38
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Sam Walsh",
-          "odds_1_plus": 4.45,
-          "odds_2_plus": 36.47,
-          "odds_3_plus": 438.95
+          "odds_1_plus": 4.49,
+          "odds_2_plus": 37.13,
+          "odds_3_plus": 451.32
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Adam Cerra",
-          "odds_1_plus": 4.5,
-          "odds_2_plus": 37.36,
-          "odds_3_plus": 455.61
+          "odds_1_plus": 4.54,
+          "odds_2_plus": 38.04,
+          "odds_3_plus": 468.37
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Oliver Florent",
-          "odds_1_plus": 9.04,
-          "odds_2_plus": 157.36,
-          "odds_3_plus": 4067.67
+          "odds_1_plus": 9.15,
+          "odds_2_plus": 161.2,
+          "odds_3_plus": 4218.97
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "carlton",
           "player": "Wade Derksen",
-          "odds_1_plus": 12.71,
-          "odds_2_plus": 314.37,
-          "odds_3_plus": 11586.34
+          "odds_1_plus": 12.92,
+          "odds_2_plus": 324.92,
+          "odds_3_plus": 12178.17
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Daniel McStay",
+          "odds_1_plus": 1.29,
+          "odds_2_plus": 2.25,
+          "odds_3_plus": 5.19
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Tim Membrey",
+          "odds_1_plus": 1.29,
+          "odds_2_plus": 2.27,
+          "odds_3_plus": 5.26
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Angus Anderson",
+          "odds_1_plus": 1.4,
+          "odds_2_plus": 2.78,
+          "odds_3_plus": 7.46
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Mitch Podhajski",
+          "odds_1_plus": 1.42,
+          "odds_2_plus": 2.89,
+          "odds_3_plus": 7.95
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Jack Buller",
+          "odds_1_plus": 1.42,
+          "odds_2_plus": 2.92,
+          "odds_3_plus": 8.1
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Lachie Schultz",
+          "odds_1_plus": 1.43,
+          "odds_2_plus": 2.94,
+          "odds_3_plus": 8.21
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Jordan De Goey",
+          "odds_1_plus": 1.49,
+          "odds_2_plus": 3.29,
+          "odds_3_plus": 9.86
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Harvey Harrison",
+          "odds_1_plus": 1.54,
+          "odds_2_plus": 3.53,
+          "odds_3_plus": 11.09
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Nick Daicos",
+          "odds_1_plus": 1.72,
+          "odds_2_plus": 4.59,
+          "odds_3_plus": 17.05
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Beau McCreery",
+          "odds_1_plus": 1.87,
+          "odds_2_plus": 5.56,
+          "odds_3_plus": 23.28
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Patrick Lipinski",
+          "odds_1_plus": 1.93,
+          "odds_2_plus": 6.04,
+          "odds_3_plus": 26.59
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Roan Steele",
+          "odds_1_plus": 2.1,
+          "odds_2_plus": 7.24,
+          "odds_3_plus": 35.49
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Jack Crisp",
+          "odds_1_plus": 2.82,
+          "odds_2_plus": 13.92,
+          "odds_3_plus": 99.19
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Darcy Cameron",
+          "odds_1_plus": 3.36,
+          "odds_2_plus": 20.27,
+          "odds_3_plus": 177.81
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Scott Pendlebury",
+          "odds_1_plus": 3.48,
+          "odds_2_plus": 21.82,
+          "odds_3_plus": 199.15
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Edward Allan",
+          "odds_1_plus": 3.9,
+          "odds_2_plus": 27.74,
+          "odds_3_plus": 288.45
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Dan Houston",
+          "odds_1_plus": 4.66,
+          "odds_2_plus": 40.17,
+          "odds_3_plus": 509.06
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "collingwood",
+          "player": "Josh Daicos",
+          "odds_1_plus": 5.23,
+          "odds_2_plus": 51.04,
+          "odds_3_plus": 734.36
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "greater western sydney",
+          "player": "Jesse Hogan",
+          "odds_1_plus": 1.13,
+          "odds_2_plus": 1.56,
+          "odds_3_plus": 2.69
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Toby Greene",
-          "odds_1_plus": 1.18,
-          "odds_2_plus": 1.8,
-          "odds_3_plus": 3.5
+          "odds_1_plus": 1.19,
+          "odds_2_plus": 1.84,
+          "odds_3_plus": 3.63
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Jake Stringer",
-          "odds_1_plus": 1.19,
+          "odds_1_plus": 1.2,
           "odds_2_plus": 1.85,
-          "odds_3_plus": 3.66
+          "odds_3_plus": 3.68
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Aaron Cadman",
-          "odds_1_plus": 1.22,
-          "odds_2_plus": 1.96,
-          "odds_3_plus": 4.06
-        },
-        {
-          "date_local": "2026-06-20T00:00:00",
-          "team": "greater western sydney",
-          "player": "Max Gruzewski",
-          "odds_1_plus": 1.28,
-          "odds_2_plus": 2.21,
-          "odds_3_plus": 5.03
+          "odds_1_plus": 1.21,
+          "odds_2_plus": 1.92,
+          "odds_3_plus": 3.93
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Phoenix Gothard",
           "odds_1_plus": 1.36,
-          "odds_2_plus": 2.61,
-          "odds_3_plus": 6.71
+          "odds_2_plus": 2.6,
+          "odds_3_plus": 6.63
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Callum Brown",
-          "odds_1_plus": 1.41,
-          "odds_2_plus": 2.88,
-          "odds_3_plus": 7.91
+          "odds_1_plus": 1.45,
+          "odds_2_plus": 3.08,
+          "odds_3_plus": 8.86
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Brent Daniels",
-          "odds_1_plus": 1.43,
-          "odds_2_plus": 2.94,
-          "odds_3_plus": 8.17
+          "odds_1_plus": 1.47,
+          "odds_2_plus": 3.16,
+          "odds_3_plus": 9.25
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Toby Bedford",
-          "odds_1_plus": 1.62,
-          "odds_2_plus": 3.98,
-          "odds_3_plus": 13.51
-        },
-        {
-          "date_local": "2026-06-20T00:00:00",
-          "team": "greater western sydney",
-          "player": "Stephen Coniglio",
-          "odds_1_plus": 2.01,
-          "odds_2_plus": 6.63,
-          "odds_3_plus": 30.82
+          "odds_1_plus": 1.63,
+          "odds_2_plus": 4.09,
+          "odds_3_plus": 14.15
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Toby McMullin",
-          "odds_1_plus": 2.07,
-          "odds_2_plus": 7.01,
-          "odds_3_plus": 33.69
+          "odds_1_plus": 2.16,
+          "odds_2_plus": 7.72,
+          "odds_3_plus": 39.26
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Harvey Thomas",
-          "odds_1_plus": 2.44,
-          "odds_2_plus": 10.11,
-          "odds_3_plus": 60.13
+          "odds_1_plus": 2.53,
+          "odds_2_plus": 11.01,
+          "odds_3_plus": 68.79
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Finn Callaghan",
-          "odds_1_plus": 3.08,
-          "odds_2_plus": 16.73,
-          "odds_3_plus": 132.09
+          "odds_1_plus": 3.2,
+          "odds_2_plus": 18.21,
+          "odds_3_plus": 150.55
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "greater western sydney",
+          "player": "Ryan Angwin",
+          "odds_1_plus": 3.61,
+          "odds_2_plus": 23.58,
+          "odds_3_plus": 224.5
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Conor Stone",
-          "odds_1_plus": 3.64,
-          "odds_2_plus": 24,
-          "odds_3_plus": 230.76
+          "odds_1_plus": 3.89,
+          "odds_2_plus": 27.5,
+          "odds_3_plus": 284.56
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Leek Aleer",
-          "odds_1_plus": 3.87,
-          "odds_2_plus": 27.3,
-          "odds_3_plus": 281.46
+          "odds_1_plus": 4.1,
+          "odds_2_plus": 30.74,
+          "odds_3_plus": 337.67
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Clayton Oliver",
-          "odds_1_plus": 4.08,
-          "odds_2_plus": 30.41,
-          "odds_3_plus": 332.26
+          "odds_1_plus": 4.25,
+          "odds_2_plus": 33.18,
+          "odds_3_plus": 379.83
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Kieren Briggs",
-          "odds_1_plus": 4.21,
-          "odds_2_plus": 32.55,
-          "odds_3_plus": 368.82
+          "odds_1_plus": 4.41,
+          "odds_2_plus": 35.76,
+          "odds_3_plus": 426.06
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Harry Himmelberg",
-          "odds_1_plus": 6.35,
-          "odds_2_plus": 76.27,
-          "odds_3_plus": 1354.59
+          "odds_1_plus": 6.64,
+          "odds_2_plus": 83.64,
+          "odds_3_plus": 1558.7
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "greater western sydney",
           "player": "Joe Fonti",
-          "odds_1_plus": 11.52,
-          "odds_2_plus": 257.55,
-          "odds_3_plus": 8572.97
+          "odds_1_plus": 12.2,
+          "odds_2_plus": 289.4,
+          "odds_3_plus": 10224.3
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Bayley Fritsch",
-          "odds_1_plus": 1.37,
-          "odds_2_plus": 2.68,
-          "odds_3_plus": 6.98
+          "odds_1_plus": 1.4,
+          "odds_2_plus": 2.83,
+          "odds_3_plus": 7.67
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
-          "player": "Brody Mihocek",
-          "odds_1_plus": 1.39,
-          "odds_2_plus": 2.75,
-          "odds_3_plus": 7.29
+          "player": "Jake Melksham",
+          "odds_1_plus": 1.43,
+          "odds_2_plus": 2.96,
+          "odds_3_plus": 8.26
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Kysaiah Pickett",
           "odds_1_plus": 1.45,
-          "odds_2_plus": 3.06,
-          "odds_3_plus": 8.77
+          "odds_2_plus": 3.04,
+          "odds_3_plus": 8.67
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Jacob van Rooyen",
-          "odds_1_plus": 1.5,
-          "odds_2_plus": 3.33,
-          "odds_3_plus": 10.09
+          "odds_1_plus": 1.52,
+          "odds_2_plus": 3.45,
+          "odds_3_plus": 10.71
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Luker Kentfield",
-          "odds_1_plus": 1.66,
-          "odds_2_plus": 4.26,
-          "odds_3_plus": 15.14
+          "odds_1_plus": 1.76,
+          "odds_2_plus": 4.88,
+          "odds_3_plus": 18.89
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Paddy Cross",
-          "odds_1_plus": 1.73,
-          "odds_2_plus": 4.7,
-          "odds_3_plus": 17.73
+          "odds_1_plus": 1.82,
+          "odds_2_plus": 5.23,
+          "odds_3_plus": 21.1
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Kade Chandler",
-          "odds_1_plus": 1.81,
-          "odds_2_plus": 5.21,
-          "odds_3_plus": 20.94
+          "odds_1_plus": 1.84,
+          "odds_2_plus": 5.36,
+          "odds_3_plus": 21.97
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Harry Sharp",
-          "odds_1_plus": 1.83,
-          "odds_2_plus": 5.31,
-          "odds_3_plus": 21.6
+          "odds_1_plus": 1.89,
+          "odds_2_plus": 5.72,
+          "odds_3_plus": 24.38
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Harvey Langford",
-          "odds_1_plus": 2.06,
-          "odds_2_plus": 6.95,
-          "odds_3_plus": 33.22
+          "odds_1_plus": 2.13,
+          "odds_2_plus": 7.53,
+          "odds_3_plus": 37.73
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
-          "player": "Latrelle Pickett",
-          "odds_1_plus": 2.08,
-          "odds_2_plus": 7.1,
-          "odds_3_plus": 34.37
+          "player": "Bailey Laurie",
+          "odds_1_plus": 2.14,
+          "odds_2_plus": 7.61,
+          "odds_3_plus": 38.43
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Harrison Petty",
-          "odds_1_plus": 2.69,
-          "odds_2_plus": 12.52,
-          "odds_3_plus": 84.12
+          "odds_1_plus": 2.6,
+          "odds_2_plus": 11.67,
+          "odds_3_plus": 75.34
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Max Gawn",
-          "odds_1_plus": 3.13,
-          "odds_2_plus": 17.41,
-          "odds_3_plus": 140.49
+          "odds_1_plus": 3,
+          "odds_2_plus": 15.9,
+          "odds_3_plus": 122.07
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Tom Sparrow",
-          "odds_1_plus": 3.29,
-          "odds_2_plus": 19.27,
-          "odds_3_plus": 164.44
+          "odds_1_plus": 3.41,
+          "odds_2_plus": 20.84,
+          "odds_3_plus": 185.61
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "melbourne",
+          "player": "Joel Fitzgerald",
+          "odds_1_plus": 3.64,
+          "odds_2_plus": 23.96,
+          "odds_3_plus": 230.18
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Ed Langdon",
-          "odds_1_plus": 4.07,
-          "odds_2_plus": 30.33,
-          "odds_3_plus": 330.84
-        },
-        {
-          "date_local": "2026-06-20T00:00:00",
-          "team": "melbourne",
-          "player": "Caleb Windsor",
-          "odds_1_plus": 4.15,
-          "odds_2_plus": 31.54,
-          "odds_3_plus": 351.37
+          "odds_1_plus": 4,
+          "odds_2_plus": 29.2,
+          "odds_3_plus": 312.04
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Daniel Turner",
-          "odds_1_plus": 4.2,
-          "odds_2_plus": 32.4,
-          "odds_3_plus": 366.23
+          "odds_1_plus": 4.39,
+          "odds_2_plus": 35.56,
+          "odds_3_plus": 422.35
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Jack Steele",
-          "odds_1_plus": 4.56,
-          "odds_2_plus": 38.4,
-          "odds_3_plus": 475.12
+          "odds_1_plus": 4.74,
+          "odds_2_plus": 41.63,
+          "odds_3_plus": 537.61
         },
         {
           "date_local": "2026-06-20T00:00:00",
           "team": "melbourne",
           "player": "Koltyn Tholstrup",
-          "odds_1_plus": 6.18,
-          "odds_2_plus": 72.24,
-          "odds_3_plus": 1247.3
+          "odds_1_plus": 6.51,
+          "odds_2_plus": 80.26,
+          "odds_3_plus": 1463.93
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Mitch Georgiades",
+          "odds_1_plus": 1.27,
+          "odds_2_plus": 2.16,
+          "odds_3_plus": 4.83
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Corey Durdin",
+          "odds_1_plus": 1.72,
+          "odds_2_plus": 4.61,
+          "odds_3_plus": 17.17
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Tom Cochrane",
+          "odds_1_plus": 1.79,
+          "odds_2_plus": 5.08,
+          "odds_3_plus": 20.12
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Jack Whitlock",
+          "odds_1_plus": 1.8,
+          "odds_2_plus": 5.09,
+          "odds_3_plus": 20.21
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Jason Horne-Francis",
+          "odds_1_plus": 1.91,
+          "odds_2_plus": 5.86,
+          "odds_3_plus": 25.3
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Joe Berry",
+          "odds_1_plus": 2.13,
+          "odds_2_plus": 7.49,
+          "odds_3_plus": 37.49
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Joe Richards",
+          "odds_1_plus": 2.15,
+          "odds_2_plus": 7.66,
+          "odds_3_plus": 38.84
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Todd Marshall",
+          "odds_1_plus": 2.76,
+          "odds_2_plus": 13.29,
+          "odds_3_plus": 92.29
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Darcy Byrne-Jones",
+          "odds_1_plus": 2.97,
+          "odds_2_plus": 15.58,
+          "odds_3_plus": 118.22
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Xavier Bamert",
+          "odds_1_plus": 3.29,
+          "odds_2_plus": 19.38,
+          "odds_3_plus": 165.86
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Ewan Mackinlay",
+          "odds_1_plus": 3.56,
+          "odds_2_plus": 22.86,
+          "odds_3_plus": 214.03
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Jordon Sweet",
+          "odds_1_plus": 3.8,
+          "odds_2_plus": 26.18,
+          "odds_3_plus": 263.87
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Zak Butters",
+          "odds_1_plus": 4.37,
+          "odds_2_plus": 35.21,
+          "odds_3_plus": 415.96
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Ollie Wines",
+          "odds_1_plus": 5.3,
+          "odds_2_plus": 52.63,
+          "odds_3_plus": 769.45
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Jase Burgoyne",
+          "odds_1_plus": 5.36,
+          "odds_2_plus": 53.67,
+          "odds_3_plus": 792.88
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Willem Drew",
+          "odds_1_plus": 6.71,
+          "odds_2_plus": 85.52,
+          "odds_3_plus": 1612.21
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Kane Farrell",
+          "odds_1_plus": 7.92,
+          "odds_2_plus": 120.2,
+          "odds_3_plus": 2703.95
+        },
+        {
+          "date_local": "2026-06-20T00:00:00",
+          "team": "port adelaide",
+          "player": "Jackson Mead",
+          "odds_1_plus": 9.26,
+          "odds_2_plus": 165.37,
+          "odds_3_plus": 4385.46
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Nick Larkey",
+          "odds_1_plus": 1.23,
+          "odds_2_plus": 2,
+          "odds_3_plus": 4.2
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Paul Curtis",
+          "odds_1_plus": 1.41,
+          "odds_2_plus": 2.85,
+          "odds_3_plus": 7.75
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Cooper Trembath",
+          "odds_1_plus": 1.47,
+          "odds_2_plus": 3.17,
+          "odds_3_plus": 9.29
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Jack Darling",
+          "odds_1_plus": 1.52,
+          "odds_2_plus": 3.45,
+          "odds_3_plus": 10.67
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Cameron Zurhaar",
+          "odds_1_plus": 1.59,
+          "odds_2_plus": 3.85,
+          "odds_3_plus": 12.79
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Zane Duursma",
+          "odds_1_plus": 1.8,
+          "odds_2_plus": 5.13,
+          "odds_3_plus": 20.43
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Jacob Konstanty",
+          "odds_1_plus": 2.16,
+          "odds_2_plus": 7.72,
+          "odds_3_plus": 39.28
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Charlie Spargo",
+          "odds_1_plus": 2.23,
+          "odds_2_plus": 8.29,
+          "odds_3_plus": 43.98
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Colby McKercher",
+          "odds_1_plus": 2.59,
+          "odds_2_plus": 11.51,
+          "odds_3_plus": 73.75
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Jy Simpkin",
+          "odds_1_plus": 2.85,
+          "odds_2_plus": 14.18,
+          "odds_3_plus": 102.14
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Harry Sheezel",
+          "odds_1_plus": 3.24,
+          "odds_2_plus": 18.72,
+          "odds_3_plus": 157.17
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Cooper Harvey",
+          "odds_1_plus": 3.38,
+          "odds_2_plus": 20.5,
+          "odds_3_plus": 180.83
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Luke Davies-Uniacke",
+          "odds_1_plus": 3.7,
+          "odds_2_plus": 24.78,
+          "odds_3_plus": 242.39
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Tom Blamires",
+          "odds_1_plus": 3.76,
+          "odds_2_plus": 25.61,
+          "odds_3_plus": 255.08
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Luke Parker",
+          "odds_1_plus": 3.79,
+          "odds_2_plus": 26.11,
+          "odds_3_plus": 262.72
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Taylor Goad",
+          "odds_1_plus": 3.81,
+          "odds_2_plus": 26.37,
+          "odds_3_plus": 266.72
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "George Wardlaw",
+          "odds_1_plus": 3.89,
+          "odds_2_plus": 27.6,
+          "odds_3_plus": 286.25
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "north melbourne",
+          "player": "Tristan Xerri",
+          "odds_1_plus": 4.29,
+          "odds_2_plus": 33.76,
+          "odds_3_plus": 390.1
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Liam Fawcett",
+          "odds_1_plus": 1.36,
+          "odds_2_plus": 2.6,
+          "odds_3_plus": 6.65
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Jasper Alger",
+          "odds_1_plus": 1.41,
+          "odds_2_plus": 2.85,
+          "odds_3_plus": 7.75
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Mykelti Lefau",
+          "odds_1_plus": 1.49,
+          "odds_2_plus": 3.25,
+          "odds_3_plus": 9.67
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Seth Campbell",
+          "odds_1_plus": 1.53,
+          "odds_2_plus": 3.48,
+          "odds_3_plus": 10.85
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Sam Cumming",
+          "odds_1_plus": 1.57,
+          "odds_2_plus": 3.74,
+          "odds_3_plus": 12.23
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Steely Green",
+          "odds_1_plus": 1.61,
+          "odds_2_plus": 3.96,
+          "odds_3_plus": 13.42
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Maurice Rioli",
+          "odds_1_plus": 1.99,
+          "odds_2_plus": 6.47,
+          "odds_3_plus": 29.67
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Tyler Sonsie",
+          "odds_1_plus": 2.22,
+          "odds_2_plus": 8.21,
+          "odds_3_plus": 43.36
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Tim Taranto",
+          "odds_1_plus": 2.26,
+          "odds_2_plus": 8.56,
+          "odds_3_plus": 46.31
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Noah Balta",
+          "odds_1_plus": 3.21,
+          "odds_2_plus": 18.4,
+          "odds_3_plus": 153.01
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Oliver Hayes-Brown",
+          "odds_1_plus": 3.63,
+          "odds_2_plus": 23.84,
+          "odds_3_plus": 228.38
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Dion Prestia",
+          "odds_1_plus": 3.64,
+          "odds_2_plus": 23.95,
+          "odds_3_plus": 229.97
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Patrick Retschko",
+          "odds_1_plus": 4.23,
+          "odds_2_plus": 32.88,
+          "odds_3_plus": 374.45
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Jacob Hopper",
+          "odds_1_plus": 4.39,
+          "odds_2_plus": 35.46,
+          "odds_3_plus": 420.52
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Jayden Short",
+          "odds_1_plus": 6.37,
+          "odds_2_plus": 76.81,
+          "odds_3_plus": 1369.14
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Tom Brown",
+          "odds_1_plus": 6.44,
+          "odds_2_plus": 78.52,
+          "odds_3_plus": 1415.93
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "Sam Banks",
+          "odds_1_plus": 7.29,
+          "odds_2_plus": 101.36,
+          "odds_3_plus": 2087.29
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "richmond",
+          "player": "James Trezise",
+          "odds_1_plus": 7.32,
+          "odds_2_plus": 102.26,
+          "odds_3_plus": 2115.67
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Liam Ryan",
+          "odds_1_plus": 1.34,
+          "odds_2_plus": 2.53,
+          "odds_3_plus": 6.34
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Cooper Sharman",
+          "odds_1_plus": 1.4,
+          "odds_2_plus": 2.78,
+          "odds_3_plus": 7.47
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Mitch Owens",
+          "odds_1_plus": 1.46,
+          "odds_2_plus": 3.11,
+          "odds_3_plus": 8.97
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Max Hall",
+          "odds_1_plus": 1.53,
+          "odds_2_plus": 3.51,
+          "odds_3_plus": 10.98
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Dan Butler",
+          "odds_1_plus": 1.6,
+          "odds_2_plus": 3.88,
+          "odds_3_plus": 12.96
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Darcy Wilson",
+          "odds_1_plus": 1.68,
+          "odds_2_plus": 4.34,
+          "odds_3_plus": 15.59
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Campbell Lake",
+          "odds_1_plus": 1.68,
+          "odds_2_plus": 4.38,
+          "odds_3_plus": 15.81
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Mason Wood",
+          "odds_1_plus": 2.08,
+          "odds_2_plus": 7.08,
+          "odds_3_plus": 34.27
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Nasiah Wanganeen-Milera",
+          "odds_1_plus": 2.44,
+          "odds_2_plus": 10.12,
+          "odds_3_plus": 60.28
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Tom De Koning",
+          "odds_1_plus": 2.67,
+          "odds_2_plus": 12.35,
+          "odds_3_plus": 82.26
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Rowan Marshall",
+          "odds_1_plus": 2.73,
+          "odds_2_plus": 12.96,
+          "odds_3_plus": 88.75
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Hugo Garcia",
+          "odds_1_plus": 3.58,
+          "odds_2_plus": 23.11,
+          "odds_3_plus": 217.69
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Anthony Caminiti",
+          "odds_1_plus": 3.79,
+          "odds_2_plus": 26.08,
+          "odds_3_plus": 262.25
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Bradley Hill",
+          "odds_1_plus": 3.89,
+          "odds_2_plus": 27.5,
+          "odds_3_plus": 284.55
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Jack Silvagni",
+          "odds_1_plus": 4.39,
+          "odds_2_plus": 35.57,
+          "odds_3_plus": 422.53
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Marcus Windhager",
+          "odds_1_plus": 4.86,
+          "odds_2_plus": 43.92,
+          "odds_3_plus": 583.6
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Alix Tauru",
+          "odds_1_plus": 4.94,
+          "odds_2_plus": 45.47,
+          "odds_3_plus": 615.51
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "st kilda",
+          "player": "Jack Sinclair",
+          "odds_1_plus": 5.03,
+          "odds_2_plus": 47.19,
+          "odds_3_plus": 651.47
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Aaron Naughton",
+          "odds_1_plus": 1.14,
+          "odds_2_plus": 1.62,
+          "odds_3_plus": 2.88
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Cody Weightman",
+          "odds_1_plus": 1.38,
+          "odds_2_plus": 2.7,
+          "odds_3_plus": 7.07
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Rhylee West",
+          "odds_1_plus": 1.4,
+          "odds_2_plus": 2.83,
+          "odds_3_plus": 7.68
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Will Lewis",
+          "odds_1_plus": 1.46,
+          "odds_2_plus": 3.14,
+          "odds_3_plus": 9.12
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Jordan Croft",
+          "odds_1_plus": 1.49,
+          "odds_2_plus": 3.26,
+          "odds_3_plus": 9.74
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Arthur Jones",
+          "odds_1_plus": 1.5,
+          "odds_2_plus": 3.33,
+          "odds_3_plus": 10.07
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Marcus Bontempelli",
+          "odds_1_plus": 1.53,
+          "odds_2_plus": 3.47,
+          "odds_3_plus": 10.77
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Adam Treloar",
+          "odds_1_plus": 1.77,
+          "odds_2_plus": 4.92,
+          "odds_3_plus": 19.09
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Cooper Hynes",
+          "odds_1_plus": 1.87,
+          "odds_2_plus": 5.59,
+          "odds_3_plus": 23.45
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Joel Freijah",
+          "odds_1_plus": 1.87,
+          "odds_2_plus": 5.61,
+          "odds_3_plus": 23.61
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Ed Richards",
+          "odds_1_plus": 1.98,
+          "odds_2_plus": 6.37,
+          "odds_3_plus": 28.96
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Ryley Sanders",
+          "odds_1_plus": 2.25,
+          "odds_2_plus": 8.52,
+          "odds_3_plus": 45.91
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Tim English",
+          "odds_1_plus": 2.32,
+          "odds_2_plus": 9.04,
+          "odds_3_plus": 50.43
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Matthew Kennedy",
+          "odds_1_plus": 2.51,
+          "odds_2_plus": 10.75,
+          "odds_3_plus": 66.25
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Luke Kennedy",
+          "odds_1_plus": 3.03,
+          "odds_2_plus": 16.24,
+          "odds_3_plus": 126.12
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Buku Khamis",
+          "odds_1_plus": 4.6,
+          "odds_2_plus": 39.11,
+          "odds_3_plus": 488.63
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Rory Lobb",
+          "odds_1_plus": 4.65,
+          "odds_2_plus": 40,
+          "odds_3_plus": 505.72
+        },
+        {
+          "date_local": "2026-06-21T00:00:00",
+          "team": "western bulldogs",
+          "player": "Lachlan Bramble",
+          "odds_1_plus": 5.59,
+          "odds_2_plus": 58.67,
+          "odds_3_plus": 908.34
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Riley Thilthorpe",
+          "odds_1_plus": 1.19,
+          "odds_2_plus": 1.85,
+          "odds_3_plus": 3.65
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Josh Rachele",
+          "odds_1_plus": 1.25,
+          "odds_2_plus": 2.09,
+          "odds_3_plus": 4.56
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Darcy Fogarty",
+          "odds_1_plus": 1.26,
+          "odds_2_plus": 2.15,
+          "odds_3_plus": 4.81
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Ben Keays",
+          "odds_1_plus": 1.34,
+          "odds_2_plus": 2.51,
+          "odds_3_plus": 6.28
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Luke Pedlar",
+          "odds_1_plus": 1.46,
+          "odds_2_plus": 3.12,
+          "odds_3_plus": 9.06
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Toby Murray",
+          "odds_1_plus": 1.54,
+          "odds_2_plus": 3.54,
+          "odds_3_plus": 11.14
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Jordan Dawson",
+          "odds_1_plus": 1.8,
+          "odds_2_plus": 5.11,
+          "odds_3_plus": 20.3
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Alex Neal-Bullen",
+          "odds_1_plus": 1.8,
+          "odds_2_plus": 5.13,
+          "odds_3_plus": 20.42
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Zac Taylor",
+          "odds_1_plus": 1.85,
+          "odds_2_plus": 5.45,
+          "odds_3_plus": 22.51
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Jake Soligo",
+          "odds_1_plus": 1.95,
+          "odds_2_plus": 6.19,
+          "odds_3_plus": 27.64
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Brayden Cook",
+          "odds_1_plus": 2.42,
+          "odds_2_plus": 9.94,
+          "odds_3_plus": 58.6
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "James Peatling",
+          "odds_1_plus": 2.74,
+          "odds_2_plus": 13.04,
+          "odds_3_plus": 89.57
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Daniel Curtin",
+          "odds_1_plus": 2.92,
+          "odds_2_plus": 15.01,
+          "odds_3_plus": 111.6
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Lachlan McAndrew",
+          "odds_1_plus": 3.11,
+          "odds_2_plus": 17.17,
+          "odds_3_plus": 137.52
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Sam Berry",
+          "odds_1_plus": 3.76,
+          "odds_2_plus": 25.71,
+          "odds_3_plus": 256.6
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Luke Nankervis",
+          "odds_1_plus": 7.07,
+          "odds_2_plus": 95.25,
+          "odds_3_plus": 1899.38
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Hugo Hall-Kahan",
+          "odds_1_plus": 8.54,
+          "odds_2_plus": 139.98,
+          "odds_3_plus": 3406.76
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "adelaide crows",
+          "player": "Nick Murray",
+          "odds_1_plus": 9.01,
+          "odds_2_plus": 156.13,
+          "odds_3_plus": 4019.75
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Logan Morris",
+          "odds_1_plus": 1.14,
+          "odds_2_plus": 1.62,
+          "odds_3_plus": 2.89
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Charlie Cameron",
+          "odds_1_plus": 1.2,
+          "odds_2_plus": 1.87,
+          "odds_3_plus": 3.75
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Zac Bailey",
+          "odds_1_plus": 1.3,
+          "odds_2_plus": 2.31,
+          "odds_3_plus": 5.43
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Kai Lohmann",
+          "odds_1_plus": 1.32,
+          "odds_2_plus": 2.4,
+          "odds_3_plus": 5.78
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Eric Hipwood",
+          "odds_1_plus": 1.35,
+          "odds_2_plus": 2.54,
+          "odds_3_plus": 6.4
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Cam Rayner",
+          "odds_1_plus": 1.39,
+          "odds_2_plus": 2.76,
+          "odds_3_plus": 7.35
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Conor McKenna",
+          "odds_1_plus": 1.68,
+          "odds_2_plus": 4.35,
+          "odds_3_plus": 15.67
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Sam Draper",
+          "odds_1_plus": 2.05,
+          "odds_2_plus": 6.86,
+          "odds_3_plus": 32.54
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Will Ashcroft",
+          "odds_1_plus": 2.4,
+          "odds_2_plus": 9.8,
+          "odds_3_plus": 57.24
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Levi Ashcroft",
+          "odds_1_plus": 2.74,
+          "odds_2_plus": 13.01,
+          "odds_3_plus": 89.22
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Lachie Neale",
+          "odds_1_plus": 2.98,
+          "odds_2_plus": 15.67,
+          "odds_3_plus": 119.33
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Bruce Reville",
+          "odds_1_plus": 3.14,
+          "odds_2_plus": 17.45,
+          "odds_3_plus": 140.95
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Jarrod Berry",
+          "odds_1_plus": 3.19,
+          "odds_2_plus": 18.13,
+          "odds_3_plus": 149.62
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Darcy Fort",
+          "odds_1_plus": 3.28,
+          "odds_2_plus": 19.17,
+          "odds_3_plus": 163.05
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "James Tunstill",
+          "odds_1_plus": 3.32,
+          "odds_2_plus": 19.69,
+          "odds_3_plus": 170.03
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Josh Dunkley",
+          "odds_1_plus": 4.09,
+          "odds_2_plus": 30.65,
+          "odds_3_plus": 336.25
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Jaspa Fletcher",
+          "odds_1_plus": 4.68,
+          "odds_2_plus": 40.52,
+          "odds_3_plus": 515.85
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "brisbane lions",
+          "player": "Ty Gallop",
+          "odds_1_plus": 5.27,
+          "odds_2_plus": 51.89,
+          "odds_3_plus": 753.03
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Harry McKay",
+          "odds_1_plus": 1.23,
+          "odds_2_plus": 1.99,
+          "odds_3_plus": 4.16
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Will Hayward",
+          "odds_1_plus": 1.36,
+          "odds_2_plus": 2.59,
+          "odds_3_plus": 6.59
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Brodie Kemp",
+          "odds_1_plus": 1.43,
+          "odds_2_plus": 2.94,
+          "odds_3_plus": 8.21
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Ben Ainsworth",
+          "odds_1_plus": 1.49,
+          "odds_2_plus": 3.26,
+          "odds_3_plus": 9.75
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Jack Ison",
+          "odds_1_plus": 1.51,
+          "odds_2_plus": 3.37,
+          "odds_3_plus": 10.27
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Mitch McGovern",
+          "odds_1_plus": 1.52,
+          "odds_2_plus": 3.46,
+          "odds_3_plus": 10.75
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Flynn Young",
+          "odds_1_plus": 1.58,
+          "odds_2_plus": 3.76,
+          "odds_3_plus": 12.31
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Talor Byrne",
+          "odds_1_plus": 1.58,
+          "odds_2_plus": 3.77,
+          "odds_3_plus": 12.4
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Francis Evans",
+          "odds_1_plus": 1.64,
+          "odds_2_plus": 4.14,
+          "odds_3_plus": 14.42
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Jagga Smith",
+          "odds_1_plus": 1.95,
+          "odds_2_plus": 6.16,
+          "odds_3_plus": 27.42
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Patrick Cripps",
+          "odds_1_plus": 2.16,
+          "odds_2_plus": 7.72,
+          "odds_3_plus": 39.26
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Blake Acres",
+          "odds_1_plus": 2.99,
+          "odds_2_plus": 15.71,
+          "odds_3_plus": 119.74
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Marc Pittonet",
+          "odds_1_plus": 3,
+          "odds_2_plus": 15.88,
+          "odds_3_plus": 121.81
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "George Hewett",
+          "odds_1_plus": 3.1,
+          "odds_2_plus": 16.98,
+          "odds_3_plus": 135.1
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Sam Walsh",
+          "odds_1_plus": 3.42,
+          "odds_2_plus": 21.02,
+          "odds_3_plus": 187.99
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Adam Cerra",
+          "odds_1_plus": 3.46,
+          "odds_2_plus": 21.51,
+          "odds_3_plus": 194.9
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Oliver Florent",
+          "odds_1_plus": 6.82,
+          "odds_2_plus": 88.39,
+          "odds_3_plus": 1695.44
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "carlton",
+          "player": "Wade Derksen",
+          "odds_1_plus": 9.56,
+          "odds_2_plus": 176.36,
+          "odds_3_plus": 4834.35
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Daniel McStay",
+          "odds_1_plus": 1.23,
+          "odds_2_plus": 2.01,
+          "odds_3_plus": 4.27
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Tim Membrey",
+          "odds_1_plus": 1.24,
+          "odds_2_plus": 2.03,
+          "odds_3_plus": 4.32
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Angus Anderson",
+          "odds_1_plus": 1.33,
+          "odds_2_plus": 2.46,
+          "odds_3_plus": 6.03
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Mitch Podhajski",
+          "odds_1_plus": 1.35,
+          "odds_2_plus": 2.54,
+          "odds_3_plus": 6.41
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Jack Buller",
+          "odds_1_plus": 1.35,
+          "odds_2_plus": 2.57,
+          "odds_3_plus": 6.53
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Lachie Schultz",
+          "odds_1_plus": 1.36,
+          "odds_2_plus": 2.59,
+          "odds_3_plus": 6.61
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Jordan De Goey",
+          "odds_1_plus": 1.41,
+          "odds_2_plus": 2.88,
+          "odds_3_plus": 7.89
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Harvey Harrison",
+          "odds_1_plus": 1.45,
+          "odds_2_plus": 3.08,
+          "odds_3_plus": 8.83
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Nick Daicos",
+          "odds_1_plus": 1.61,
+          "odds_2_plus": 3.96,
+          "odds_3_plus": 13.43
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Beau McCreery",
+          "odds_1_plus": 1.74,
+          "odds_2_plus": 4.77,
+          "odds_3_plus": 18.15
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Patrick Lipinski",
+          "odds_1_plus": 1.81,
+          "odds_2_plus": 5.17,
+          "odds_3_plus": 20.67
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Roan Steele",
+          "odds_1_plus": 1.95,
+          "odds_2_plus": 6.17,
+          "odds_3_plus": 27.49
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Jack Crisp",
+          "odds_1_plus": 2.6,
+          "odds_2_plus": 11.69,
+          "odds_3_plus": 75.51
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Darcy Cameron",
+          "odds_1_plus": 3.09,
+          "odds_2_plus": 16.92,
+          "odds_3_plus": 134.42
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Scott Pendlebury",
+          "odds_1_plus": 3.2,
+          "odds_2_plus": 18.19,
+          "odds_3_plus": 150.33
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Edward Allan",
+          "odds_1_plus": 3.57,
+          "odds_2_plus": 23.04,
+          "odds_3_plus": 216.72
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Dan Houston",
+          "odds_1_plus": 4.26,
+          "odds_2_plus": 33.31,
+          "odds_3_plus": 382.11
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "collingwood",
+          "player": "Josh Daicos",
+          "odds_1_plus": 4.77,
+          "odds_2_plus": 42.24,
+          "odds_3_plus": 549.82
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Nate Caddy",
+          "odds_1_plus": 1.37,
+          "odds_2_plus": 2.64,
+          "odds_3_plus": 6.8
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Hussien El Achkar",
+          "odds_1_plus": 1.57,
+          "odds_2_plus": 3.7,
+          "odds_3_plus": 12.01
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Kyle Langford",
+          "odds_1_plus": 1.63,
+          "odds_2_plus": 4.08,
+          "odds_3_plus": 14.11
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Sullivan Robey",
+          "odds_1_plus": 1.78,
+          "odds_2_plus": 4.98,
+          "odds_3_plus": 19.5
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Harrison Jones",
+          "odds_1_plus": 1.78,
+          "odds_2_plus": 5.01,
+          "odds_3_plus": 19.69
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Dyson Sharp",
+          "odds_1_plus": 1.82,
+          "odds_2_plus": 5.26,
+          "odds_3_plus": 21.28
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Nik Cox",
+          "odds_1_plus": 1.95,
+          "odds_2_plus": 6.15,
+          "odds_3_plus": 27.37
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Archer Day-Wicks",
+          "odds_1_plus": 2.04,
+          "odds_2_plus": 6.8,
+          "odds_3_plus": 32.14
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Archie Perkins",
+          "odds_1_plus": 2.05,
+          "odds_2_plus": 6.89,
+          "odds_3_plus": 32.79
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Xavier Duursma",
+          "odds_1_plus": 2.7,
+          "odds_2_plus": 12.6,
+          "odds_3_plus": 84.94
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Zach Merrett",
+          "odds_1_plus": 2.88,
+          "odds_2_plus": 14.57,
+          "odds_3_plus": 106.52
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Sam Durham",
+          "odds_1_plus": 3.09,
+          "odds_2_plus": 16.87,
+          "odds_3_plus": 133.81
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Will Setterfield",
+          "odds_1_plus": 3.93,
+          "odds_2_plus": 28.21,
+          "odds_3_plus": 295.96
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Elijah Tsatas",
+          "odds_1_plus": 3.96,
+          "odds_2_plus": 28.59,
+          "odds_3_plus": 302.19
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Nick Bryan",
+          "odds_1_plus": 5.31,
+          "odds_2_plus": 52.65,
+          "odds_3_plus": 769.98
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Mason Redman",
+          "odds_1_plus": 6.13,
+          "odds_2_plus": 70.96,
+          "odds_3_plus": 1213.79
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Ben McKay",
+          "odds_1_plus": 7.32,
+          "odds_2_plus": 102.03,
+          "odds_3_plus": 2108.55
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "essendon",
+          "player": "Lachlan Blakiston",
+          "odds_1_plus": 8.72,
+          "odds_2_plus": 146,
+          "odds_3_plus": 3631.15
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Josh Treacy",
+          "odds_1_plus": 1.2,
+          "odds_2_plus": 1.85,
+          "odds_3_plus": 3.68
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Jye Amiss",
+          "odds_1_plus": 1.23,
+          "odds_2_plus": 2.01,
+          "odds_3_plus": 4.27
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Patrick Voss",
+          "odds_1_plus": 1.24,
+          "odds_2_plus": 2.04,
+          "odds_3_plus": 4.38
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Michael Frederick",
+          "odds_1_plus": 1.43,
+          "odds_2_plus": 2.94,
+          "odds_3_plus": 8.2
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Isaiah Dudley",
+          "odds_1_plus": 1.47,
+          "odds_2_plus": 3.18,
+          "odds_3_plus": 9.32
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Shai Bolton",
+          "odds_1_plus": 1.56,
+          "odds_2_plus": 3.68,
+          "odds_3_plus": 11.91
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Murphy Reid",
+          "odds_1_plus": 1.63,
+          "odds_2_plus": 4.07,
+          "odds_3_plus": 14.05
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Sam Switkowski",
+          "odds_1_plus": 1.77,
+          "odds_2_plus": 4.96,
+          "odds_3_plus": 19.34
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Luke Jackson",
+          "odds_1_plus": 1.83,
+          "odds_2_plus": 5.32,
+          "odds_3_plus": 21.69
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Hayden Young",
+          "odds_1_plus": 2.26,
+          "odds_2_plus": 8.59,
+          "odds_3_plus": 46.56
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Mason Cox",
+          "odds_1_plus": 3.02,
+          "odds_2_plus": 16.13,
+          "odds_3_plus": 124.82
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Andrew Brayshaw",
+          "odds_1_plus": 3.42,
+          "odds_2_plus": 21.01,
+          "odds_3_plus": 187.89
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Nathan O'Driscoll",
+          "odds_1_plus": 3.77,
+          "odds_2_plus": 25.85,
+          "odds_3_plus": 258.78
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Jaeger O'Meara",
+          "odds_1_plus": 3.88,
+          "odds_2_plus": 27.44,
+          "odds_3_plus": 283.59
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Neil Erasmus",
+          "odds_1_plus": 3.96,
+          "odds_2_plus": 28.57,
+          "odds_3_plus": 301.76
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Corey Wagner",
+          "odds_1_plus": 5.95,
+          "odds_2_plus": 66.69,
+          "odds_3_plus": 1104.28
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Oscar McDonald",
+          "odds_1_plus": 6.32,
+          "odds_2_plus": 75.51,
+          "odds_3_plus": 1334.13
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "fremantle",
+          "player": "Alex Pearce",
+          "odds_1_plus": 10.09,
+          "odds_2_plus": 196.82,
+          "odds_3_plus": 5707.98
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Ben King",
+          "odds_1_plus": 1.12,
+          "odds_2_plus": 1.54,
+          "odds_3_plus": 2.64
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Ben Long",
+          "odds_1_plus": 1.4,
+          "odds_2_plus": 2.81,
+          "odds_3_plus": 7.61
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Jed Walter",
+          "odds_1_plus": 1.45,
+          "odds_2_plus": 3.05,
+          "odds_3_plus": 8.7
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Bailey Humphrey",
+          "odds_1_plus": 1.71,
+          "odds_2_plus": 4.55,
+          "odds_3_plus": 16.81
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Christian Petracca",
+          "odds_1_plus": 1.75,
+          "odds_2_plus": 4.81,
+          "odds_3_plus": 18.43
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Lachlan Gulbin",
+          "odds_1_plus": 1.92,
+          "odds_2_plus": 5.95,
+          "odds_3_plus": 25.91
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Leonardo Lombard",
+          "odds_1_plus": 1.96,
+          "odds_2_plus": 6.22,
+          "odds_3_plus": 27.88
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Touk Miller",
+          "odds_1_plus": 2.19,
+          "odds_2_plus": 7.95,
+          "odds_3_plus": 41.2
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Zeke Uwland",
+          "odds_1_plus": 2.66,
+          "odds_2_plus": 12.26,
+          "odds_3_plus": 81.42
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Noah Anderson",
+          "odds_1_plus": 2.89,
+          "odds_2_plus": 14.69,
+          "odds_3_plus": 107.86
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Ned Moyle",
+          "odds_1_plus": 3.01,
+          "odds_2_plus": 15.99,
+          "odds_3_plus": 123.1
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Matt Rowell",
+          "odds_1_plus": 3.3,
+          "odds_2_plus": 19.51,
+          "odds_3_plus": 167.56
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Jai Murray",
+          "odds_1_plus": 3.54,
+          "odds_2_plus": 22.53,
+          "odds_3_plus": 209.25
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Ben Jepson",
+          "odds_1_plus": 3.64,
+          "odds_2_plus": 23.92,
+          "odds_3_plus": 229.61
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Sam Clohesy",
+          "odds_1_plus": 3.82,
+          "odds_2_plus": 26.48,
+          "odds_3_plus": 268.46
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Daniel Rioli",
+          "odds_1_plus": 5.15,
+          "odds_2_plus": 49.56,
+          "odds_3_plus": 702.11
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "Joel Jeffrey",
+          "odds_1_plus": 5.22,
+          "odds_2_plus": 50.88,
+          "odds_3_plus": 730.79
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "gold coast suns",
+          "player": "John Noble",
+          "odds_1_plus": 5.46,
+          "odds_2_plus": 55.85,
+          "odds_3_plus": 842.53
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Jesse Hogan",
+          "odds_1_plus": 1.21,
+          "odds_2_plus": 1.91,
+          "odds_3_plus": 3.89
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Toby Greene",
+          "odds_1_plus": 1.3,
+          "odds_2_plus": 2.32,
+          "odds_3_plus": 5.46
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Jake Stringer",
+          "odds_1_plus": 1.3,
+          "odds_2_plus": 2.34,
+          "odds_3_plus": 5.55
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Aaron Cadman",
+          "odds_1_plus": 1.33,
+          "odds_2_plus": 2.44,
+          "odds_3_plus": 5.98
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Phoenix Gothard",
+          "odds_1_plus": 1.52,
+          "odds_2_plus": 3.43,
+          "odds_3_plus": 10.59
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Callum Brown",
+          "odds_1_plus": 1.64,
+          "odds_2_plus": 4.14,
+          "odds_3_plus": 14.45
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Brent Daniels",
+          "odds_1_plus": 1.66,
+          "odds_2_plus": 4.26,
+          "odds_3_plus": 15.14
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Toby Bedford",
+          "odds_1_plus": 1.87,
+          "odds_2_plus": 5.63,
+          "odds_3_plus": 23.73
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Toby McMullin",
+          "odds_1_plus": 2.53,
+          "odds_2_plus": 10.99,
+          "odds_3_plus": 68.58
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Harvey Thomas",
+          "odds_1_plus": 3.01,
+          "odds_2_plus": 15.96,
+          "odds_3_plus": 122.68
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Finn Callaghan",
+          "odds_1_plus": 3.84,
+          "odds_2_plus": 26.77,
+          "odds_3_plus": 273.08
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Ryan Angwin",
+          "odds_1_plus": 4.35,
+          "odds_2_plus": 34.86,
+          "odds_3_plus": 409.7
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Conor Stone",
+          "odds_1_plus": 4.69,
+          "odds_2_plus": 40.75,
+          "odds_3_plus": 520.42
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Leek Aleer",
+          "odds_1_plus": 4.95,
+          "odds_2_plus": 45.67,
+          "odds_3_plus": 619.61
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Clayton Oliver",
+          "odds_1_plus": 5.15,
+          "odds_2_plus": 49.4,
+          "odds_3_plus": 698.47
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Kieren Briggs",
+          "odds_1_plus": 5.34,
+          "odds_2_plus": 53.3,
+          "odds_3_plus": 784.63
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Harry Himmelberg",
+          "odds_1_plus": 8.12,
+          "odds_2_plus": 126.34,
+          "odds_3_plus": 2916.19
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "greater western sydney",
+          "player": "Joe Fonti",
+          "odds_1_plus": 15.01,
+          "odds_2_plus": 440.64,
+          "odds_3_plus": 19288.11
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Nick Watson",
+          "odds_1_plus": 1.15,
+          "odds_2_plus": 1.66,
+          "odds_3_plus": 3.01
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Mabior Chol",
+          "odds_1_plus": 1.19,
+          "odds_2_plus": 1.82,
+          "odds_3_plus": 3.57
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Mitch Lewis",
+          "odds_1_plus": 1.23,
+          "odds_2_plus": 2,
+          "odds_3_plus": 4.23
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Jack Ginnivan",
+          "odds_1_plus": 1.38,
+          "odds_2_plus": 2.7,
+          "odds_3_plus": 7.1
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Dylan Moore",
+          "odds_1_plus": 1.41,
+          "odds_2_plus": 2.83,
+          "odds_3_plus": 7.69
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Connor Macdonald",
+          "odds_1_plus": 1.47,
+          "odds_2_plus": 3.18,
+          "odds_3_plus": 9.33
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Cameron Nairn",
+          "odds_1_plus": 1.53,
+          "odds_2_plus": 3.49,
+          "odds_3_plus": 10.91
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Will Day",
+          "odds_1_plus": 2.47,
+          "odds_2_plus": 10.45,
+          "odds_3_plus": 63.39
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Jai Newcombe",
+          "odds_1_plus": 2.58,
+          "odds_2_plus": 11.45,
+          "odds_3_plus": 73.11
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Blake Hardwick",
+          "odds_1_plus": 2.74,
+          "odds_2_plus": 13.03,
+          "odds_3_plus": 89.45
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Ned Reeves",
+          "odds_1_plus": 2.77,
+          "odds_2_plus": 13.35,
+          "odds_3_plus": 92.91
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Lloyd Meek",
+          "odds_1_plus": 2.97,
+          "odds_2_plus": 15.56,
+          "odds_3_plus": 117.99
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Josh Weddle",
+          "odds_1_plus": 3.02,
+          "odds_2_plus": 16.15,
+          "odds_3_plus": 124.95
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Massimo D'Ambrosio",
+          "odds_1_plus": 3.23,
+          "odds_2_plus": 18.63,
+          "odds_3_plus": 156.01
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Cam Mackenzie",
+          "odds_1_plus": 3.84,
+          "odds_2_plus": 26.87,
+          "odds_3_plus": 274.63
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Josh Ward",
+          "odds_1_plus": 5.41,
+          "odds_2_plus": 54.85,
+          "odds_3_plus": 819.51
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "James Sicily",
+          "odds_1_plus": 5.6,
+          "odds_2_plus": 58.94,
+          "odds_3_plus": 914.76
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "hawthorn",
+          "player": "Jarman Impey",
+          "odds_1_plus": 6.41,
+          "odds_2_plus": 77.89,
+          "odds_3_plus": 1398.56
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Nick Larkey",
+          "odds_1_plus": 1.2,
+          "odds_2_plus": 1.89,
+          "odds_3_plus": 3.81
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Paul Curtis",
+          "odds_1_plus": 1.37,
+          "odds_2_plus": 2.66,
+          "odds_3_plus": 6.93
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Cooper Trembath",
+          "odds_1_plus": 1.43,
+          "odds_2_plus": 2.96,
+          "odds_3_plus": 8.28
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Jack Darling",
+          "odds_1_plus": 1.48,
+          "odds_2_plus": 3.21,
+          "odds_3_plus": 9.48
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Cameron Zurhaar",
+          "odds_1_plus": 1.54,
+          "odds_2_plus": 3.57,
+          "odds_3_plus": 11.33
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Zane Duursma",
+          "odds_1_plus": 1.74,
+          "odds_2_plus": 4.74,
+          "odds_3_plus": 17.97
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Jacob Konstanty",
+          "odds_1_plus": 2.08,
+          "odds_2_plus": 7.09,
+          "odds_3_plus": 34.3
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Charlie Spargo",
+          "odds_1_plus": 2.14,
+          "odds_2_plus": 7.6,
+          "odds_3_plus": 38.35
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Colby McKercher",
+          "odds_1_plus": 2.48,
+          "odds_2_plus": 10.52,
+          "odds_3_plus": 64.03
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Jy Simpkin",
+          "odds_1_plus": 2.73,
+          "odds_2_plus": 12.95,
+          "odds_3_plus": 88.62
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Harry Sheezel",
+          "odds_1_plus": 3.1,
+          "odds_2_plus": 17.05,
+          "odds_3_plus": 135.99
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Cooper Harvey",
+          "odds_1_plus": 3.24,
+          "odds_2_plus": 18.68,
+          "odds_3_plus": 156.71
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Luke Davies-Uniacke",
+          "odds_1_plus": 3.54,
+          "odds_2_plus": 22.53,
+          "odds_3_plus": 209.24
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Tom Blamires",
+          "odds_1_plus": 3.59,
+          "odds_2_plus": 23.28,
+          "odds_3_plus": 220.1
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Luke Parker",
+          "odds_1_plus": 3.63,
+          "odds_2_plus": 23.74,
+          "odds_3_plus": 226.95
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Taylor Goad",
+          "odds_1_plus": 3.64,
+          "odds_2_plus": 23.96,
+          "odds_3_plus": 230.09
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "George Wardlaw",
+          "odds_1_plus": 3.72,
+          "odds_2_plus": 25.08,
+          "odds_3_plus": 246.88
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "north melbourne",
+          "player": "Tristan Xerri",
+          "odds_1_plus": 4.09,
+          "odds_2_plus": 30.64,
+          "odds_3_plus": 336.01
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Mitch Georgiades",
+          "odds_1_plus": 1.18,
+          "odds_2_plus": 1.79,
+          "odds_3_plus": 3.46
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Corey Durdin",
+          "odds_1_plus": 1.54,
+          "odds_2_plus": 3.56,
+          "odds_3_plus": 11.28
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Tom Cochrane",
+          "odds_1_plus": 1.6,
+          "odds_2_plus": 3.91,
+          "odds_3_plus": 13.12
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Jack Whitlock",
+          "odds_1_plus": 1.6,
+          "odds_2_plus": 3.92,
+          "odds_3_plus": 13.18
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Jason Horne-Francis",
+          "odds_1_plus": 1.7,
+          "odds_2_plus": 4.47,
+          "odds_3_plus": 16.36
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Joe Berry",
+          "odds_1_plus": 1.88,
+          "odds_2_plus": 5.64,
+          "odds_3_plus": 23.84
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Joe Richards",
+          "odds_1_plus": 1.89,
+          "odds_2_plus": 5.77,
+          "odds_3_plus": 24.67
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Todd Marshall",
+          "odds_1_plus": 2.4,
+          "odds_2_plus": 9.82,
+          "odds_3_plus": 57.41
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Darcy Byrne-Jones",
+          "odds_1_plus": 2.58,
+          "odds_2_plus": 11.44,
+          "odds_3_plus": 73.05
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Xavier Bamert",
+          "odds_1_plus": 2.84,
+          "odds_2_plus": 14.14,
+          "odds_3_plus": 101.7
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Ewan Mackinlay",
+          "odds_1_plus": 3.06,
+          "odds_2_plus": 16.61,
+          "odds_3_plus": 130.54
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Jordon Sweet",
+          "odds_1_plus": 3.26,
+          "odds_2_plus": 18.97,
+          "odds_3_plus": 160.37
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Zak Butters",
+          "odds_1_plus": 3.74,
+          "odds_2_plus": 25.35,
+          "odds_3_plus": 250.99
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Ollie Wines",
+          "odds_1_plus": 4.51,
+          "odds_2_plus": 37.62,
+          "odds_3_plus": 460.49
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Jase Burgoyne",
+          "odds_1_plus": 4.56,
+          "odds_2_plus": 38.36,
+          "odds_3_plus": 474.32
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Willem Drew",
+          "odds_1_plus": 5.68,
+          "odds_2_plus": 60.73,
+          "odds_3_plus": 957.27
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Kane Farrell",
+          "odds_1_plus": 6.7,
+          "odds_2_plus": 85.24,
+          "odds_3_plus": 1604.18
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "port adelaide",
+          "player": "Jackson Mead",
+          "odds_1_plus": 7.82,
+          "odds_2_plus": 116.93,
+          "odds_3_plus": 2593.11
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Liam Fawcett",
+          "odds_1_plus": 1.62,
+          "odds_2_plus": 4,
+          "odds_3_plus": 13.62
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Jasper Alger",
+          "odds_1_plus": 1.69,
+          "odds_2_plus": 4.43,
+          "odds_3_plus": 16.14
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Mykelti Lefau",
+          "odds_1_plus": 1.8,
+          "odds_2_plus": 5.15,
+          "odds_3_plus": 20.6
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Seth Campbell",
+          "odds_1_plus": 1.87,
+          "odds_2_plus": 5.57,
+          "odds_3_plus": 23.35
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Sam Cumming",
+          "odds_1_plus": 1.93,
+          "odds_2_plus": 6.04,
+          "odds_3_plus": 26.6
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Steely Green",
+          "odds_1_plus": 1.99,
+          "odds_2_plus": 6.43,
+          "odds_3_plus": 29.39
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Maurice Rioli",
+          "odds_1_plus": 2.53,
+          "odds_2_plus": 10.97,
+          "odds_3_plus": 68.41
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Tyler Sonsie",
+          "odds_1_plus": 2.85,
+          "odds_2_plus": 14.16,
+          "odds_3_plus": 101.87
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Tim Taranto",
+          "odds_1_plus": 2.91,
+          "odds_2_plus": 14.82,
+          "odds_3_plus": 109.34
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Noah Balta",
+          "odds_1_plus": 4.24,
+          "odds_2_plus": 33.03,
+          "odds_3_plus": 377.09
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Oliver Hayes-Brown",
+          "odds_1_plus": 4.82,
+          "odds_2_plus": 43.12,
+          "odds_3_plus": 567.53
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Dion Prestia",
+          "odds_1_plus": 4.83,
+          "odds_2_plus": 43.33,
+          "odds_3_plus": 571.73
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Patrick Retschko",
+          "odds_1_plus": 5.65,
+          "odds_2_plus": 59.98,
+          "odds_3_plus": 939.5
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Jacob Hopper",
+          "odds_1_plus": 5.87,
+          "odds_2_plus": 64.86,
+          "odds_3_plus": 1058.39
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Jayden Short",
+          "odds_1_plus": 8.62,
+          "odds_2_plus": 142.85,
+          "odds_3_plus": 3513.27
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Tom Brown",
+          "odds_1_plus": 8.72,
+          "odds_2_plus": 146.1,
+          "odds_3_plus": 3634.88
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "Sam Banks",
+          "odds_1_plus": 9.9,
+          "odds_2_plus": 189.29,
+          "odds_3_plus": 5380.69
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "richmond",
+          "player": "James Trezise",
+          "odds_1_plus": 9.94,
+          "odds_2_plus": 191,
+          "odds_3_plus": 5454.65
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Charlie Curnow",
+          "odds_1_plus": 1.19,
+          "odds_2_plus": 1.83,
+          "odds_3_plus": 3.58
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Joel Amartey",
+          "odds_1_plus": 1.35,
+          "odds_2_plus": 2.55,
+          "odds_3_plus": 6.43
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Logan McDonald",
+          "odds_1_plus": 1.4,
+          "odds_2_plus": 2.82,
+          "odds_3_plus": 7.65
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Isaac Heeney",
+          "odds_1_plus": 1.45,
+          "odds_2_plus": 3.06,
+          "odds_3_plus": 8.74
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Hayden McLean",
+          "odds_1_plus": 1.51,
+          "odds_2_plus": 3.38,
+          "odds_3_plus": 10.31
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Malcolm Rosas",
+          "odds_1_plus": 1.59,
+          "odds_2_plus": 3.82,
+          "odds_3_plus": 12.64
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Chad Warner",
+          "odds_1_plus": 1.63,
+          "odds_2_plus": 4.04,
+          "odds_3_plus": 13.85
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Caiden Cleary",
+          "odds_1_plus": 2.4,
+          "odds_2_plus": 9.74,
+          "odds_3_plus": 56.74
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Jake Lloyd",
+          "odds_1_plus": 2.53,
+          "odds_2_plus": 10.95,
+          "odds_3_plus": 68.17
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "James Jordon",
+          "odds_1_plus": 2.62,
+          "odds_2_plus": 11.89,
+          "odds_3_plus": 77.57
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "James Rowbottom",
+          "odds_1_plus": 2.82,
+          "odds_2_plus": 13.87,
+          "odds_3_plus": 98.6
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Brodie Grundy",
+          "odds_1_plus": 3.44,
+          "odds_2_plus": 21.3,
+          "odds_3_plus": 191.89
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Angus Sheldrick",
+          "odds_1_plus": 4.19,
+          "odds_2_plus": 32.27,
+          "odds_3_plus": 363.93
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Jai Serong",
+          "odds_1_plus": 4.27,
+          "odds_2_plus": 33.55,
+          "odds_3_plus": 386.36
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Nick Blakey",
+          "odds_1_plus": 5.16,
+          "odds_2_plus": 49.68,
+          "odds_3_plus": 704.64
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Matt Roberts",
+          "odds_1_plus": 6.05,
+          "odds_2_plus": 68.96,
+          "odds_3_plus": 1161.87
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Sam Wicks",
+          "odds_1_plus": 7.95,
+          "odds_2_plus": 121.01,
+          "odds_3_plus": 2731.77
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "sydney swans",
+          "player": "Joel Hamling",
+          "odds_1_plus": 8.96,
+          "odds_2_plus": 154.44,
+          "odds_3_plus": 3954.16
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Jake Waterman",
+          "odds_1_plus": 1.27,
+          "odds_2_plus": 2.2,
+          "odds_3_plus": 4.99
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Jobe Shanahan",
+          "odds_1_plus": 1.57,
+          "odds_2_plus": 3.73,
+          "odds_3_plus": 12.18
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Milan Murdock",
+          "odds_1_plus": 1.75,
+          "odds_2_plus": 4.82,
+          "odds_3_plus": 18.46
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Harvey Johnston",
+          "odds_1_plus": 2,
+          "odds_2_plus": 6.53,
+          "odds_3_plus": 30.07
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Cooper Duff-Tytler",
+          "odds_1_plus": 2.21,
+          "odds_2_plus": 8.15,
+          "odds_3_plus": 42.78
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Elijah Hewett",
+          "odds_1_plus": 2.37,
+          "odds_2_plus": 9.49,
+          "odds_3_plus": 54.46
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Elliot Yeo",
+          "odds_1_plus": 2.41,
+          "odds_2_plus": 9.87,
+          "odds_3_plus": 57.88
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Harley Reid",
+          "odds_1_plus": 2.41,
+          "odds_2_plus": 9.89,
+          "odds_3_plus": 58.11
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Tom Cole",
+          "odds_1_plus": 2.93,
+          "odds_2_plus": 15.05,
+          "odds_3_plus": 112.05
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Bailey J. Williams",
+          "odds_1_plus": 3.09,
+          "odds_2_plus": 16.92,
+          "odds_3_plus": 134.32
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Marcus Herbert",
+          "odds_1_plus": 3.62,
+          "odds_2_plus": 23.72,
+          "odds_3_plus": 226.59
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Liam Baker",
+          "odds_1_plus": 3.89,
+          "odds_2_plus": 27.51,
+          "odds_3_plus": 284.79
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Tom Gross",
+          "odds_1_plus": 4.2,
+          "odds_2_plus": 32.38,
+          "odds_3_plus": 365.89
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Bo Allan",
+          "odds_1_plus": 4.35,
+          "odds_2_plus": 34.84,
+          "odds_3_plus": 409.35
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Tim Kelly",
+          "odds_1_plus": 5.02,
+          "odds_2_plus": 47,
+          "odds_3_plus": 647.39
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Ryan Maric",
+          "odds_1_plus": 5.21,
+          "odds_2_plus": 50.6,
+          "odds_3_plus": 724.63
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Hamish Davis",
+          "odds_1_plus": 5.82,
+          "odds_2_plus": 63.85,
+          "odds_3_plus": 1033.38
+        },
+        {
+          "date_local": "2026-06-22T00:00:00",
+          "team": "west coast eagles",
+          "player": "Brady Hough",
+          "odds_1_plus": 9.13,
+          "odds_2_plus": 160.58,
+          "odds_3_plus": 4194.72
         }
       ]
     },
@@ -1183,8 +3775,8 @@
       "model": "AFL upcoming projections",
       "sport": "AFL",
       "extension": "xlsx",
-      "modified": "2026-06-15 18:57:03",
-      "size": 8596,
+      "modified": "2026-06-19 17:45:25",
+      "size": 11402,
       "fileUrl": "/files/AFL_upcoming_projections.xlsx",
       "sheets": [
         "AFL Projections"
@@ -1220,69 +3812,9 @@
         "gate_action",
         "gate_reason"
       ],
-      "rowCount": 8,
+      "rowCount": 26,
       "rows": [
         {
-          "match_id": "8160",
-          "match_date_local": "2026-06-18T18:10:00",
-          "home_team": "fremantle",
-          "away_team": "geelong cats",
-          "venue": "Optus Stadium",
-          "tab_line": -13.5,
-          "tab_total": 174.5,
-          "model_used": "currentpar_plus_ssm_anchor_overlay",
-          "projection_type": "No Rain",
-          "pred_line": 7.29,
-          "pred_total": 195.168,
-          "hga_pts_selected": 10.5,
-          "lineup_delta_line_raw_selected": 0.4359,
-          "lineup_delta_total_raw_selected": 8.565,
-          "afl_total_env_base_total": 181.9669,
-          "afl_total_env_historical_avg": 170.0926,
-          "afl_total_env_current_avg": 181.1754,
-          "afl_total_env_completed_games": 114,
-          "afl_total_env_current_weight": 1,
-          "afl_total_env_adjustment": 11.0828,
-          "pred_line_pre_bias_adj": 10.2735,
-          "pred_total_pre_bias_adj": 193.0497,
-          "bias_line_correction": -2.9835,
-          "bias_total_correction": 2.1183,
-          "bias_correction_applied": true,
-          "gate_trigger": false,
-          "gate_action": "none",
-          "gate_reason": null
-        },
-        {
-          "match_id": "8160",
-          "match_date_local": "2026-06-18T18:10:00",
-          "home_team": "fremantle",
-          "away_team": "geelong cats",
-          "venue": "Optus Stadium",
-          "tab_line": -13.5,
-          "tab_total": 174.5,
-          "model_used": "currentpar_plus_ssm_anchor_overlay",
-          "projection_type": "Weather Adjusted",
-          "pred_line": 7.29,
-          "pred_total": 195.168,
-          "hga_pts_selected": 10.5,
-          "lineup_delta_line_raw_selected": 0.4359,
-          "lineup_delta_total_raw_selected": 8.565,
-          "afl_total_env_base_total": 181.9669,
-          "afl_total_env_historical_avg": 170.0926,
-          "afl_total_env_current_avg": 181.1754,
-          "afl_total_env_completed_games": 114,
-          "afl_total_env_current_weight": 1,
-          "afl_total_env_adjustment": 11.0828,
-          "pred_line_pre_bias_adj": 10.2735,
-          "pred_total_pre_bias_adj": 193.0497,
-          "bias_line_correction": -2.9835,
-          "bias_total_correction": 2.1183,
-          "bias_correction_applied": true,
-          "gate_trigger": false,
-          "gate_action": "none",
-          "gate_reason": null
-        },
-        {
           "match_id": "8161",
           "match_date_local": "2026-06-19T19:40:00",
           "home_team": "gold coast suns",
@@ -1292,21 +3824,21 @@
           "tab_total": 183.5,
           "model_used": "currentpar_plus_ssm_anchor_overlay",
           "projection_type": "No Rain",
-          "pred_line": 2.2937,
-          "pred_total": 189.1164,
+          "pred_line": 2.6099,
+          "pred_total": 187.8421,
           "hga_pts_selected": 5.3,
-          "lineup_delta_line_raw_selected": -7.1775,
-          "lineup_delta_total_raw_selected": 11.1881,
-          "afl_total_env_base_total": 175.9153,
+          "lineup_delta_line_raw_selected": -2.1634,
+          "lineup_delta_total_raw_selected": 11.6321,
+          "afl_total_env_base_total": 175.398,
           "afl_total_env_historical_avg": 170.0926,
-          "afl_total_env_current_avg": 181.1754,
-          "afl_total_env_completed_games": 114,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
           "afl_total_env_current_weight": 1,
-          "afl_total_env_adjustment": 11.0828,
-          "pred_line_pre_bias_adj": 5.2772,
-          "pred_total_pre_bias_adj": 186.9981,
-          "bias_line_correction": -2.9835,
-          "bias_total_correction": 2.1183,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": 5.3546,
+          "pred_total_pre_bias_adj": 186.1938,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
           "bias_correction_applied": true,
           "gate_trigger": false,
           "gate_action": "none",
@@ -1322,21 +3854,21 @@
           "tab_total": 183.5,
           "model_used": "currentpar_plus_ssm_anchor_overlay",
           "projection_type": "Weather Adjusted",
-          "pred_line": 2.2937,
-          "pred_total": 189.1164,
+          "pred_line": 2.6099,
+          "pred_total": 187.8421,
           "hga_pts_selected": 5.3,
-          "lineup_delta_line_raw_selected": -7.1775,
-          "lineup_delta_total_raw_selected": 11.1881,
-          "afl_total_env_base_total": 175.9153,
+          "lineup_delta_line_raw_selected": -2.1634,
+          "lineup_delta_total_raw_selected": 11.6321,
+          "afl_total_env_base_total": 175.398,
           "afl_total_env_historical_avg": 170.0926,
-          "afl_total_env_current_avg": 181.1754,
-          "afl_total_env_completed_games": 114,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
           "afl_total_env_current_weight": 1,
-          "afl_total_env_adjustment": 11.0828,
-          "pred_line_pre_bias_adj": 5.2772,
-          "pred_total_pre_bias_adj": 186.9981,
-          "bias_line_correction": -2.9835,
-          "bias_total_correction": 2.1183,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": 5.3546,
+          "pred_total_pre_bias_adj": 186.1938,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
           "bias_correction_applied": true,
           "gate_trigger": false,
           "gate_action": "none",
@@ -1352,21 +3884,21 @@
           "tab_total": 186.5,
           "model_used": "currentpar_plus_ssm_anchor_overlay",
           "projection_type": "No Rain",
-          "pred_line": -34.7951,
-          "pred_total": 180.4616,
+          "pred_line": -35.1987,
+          "pred_total": 179.4426,
           "hga_pts_selected": 0,
-          "lineup_delta_line_raw_selected": 1.8414,
-          "lineup_delta_total_raw_selected": 0.8511,
-          "afl_total_env_base_total": 167.2605,
+          "lineup_delta_line_raw_selected": 3.29,
+          "lineup_delta_total_raw_selected": 3.9595,
+          "afl_total_env_base_total": 166.9985,
           "afl_total_env_historical_avg": 170.0926,
-          "afl_total_env_current_avg": 181.1754,
-          "afl_total_env_completed_games": 114,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
           "afl_total_env_current_weight": 1,
-          "afl_total_env_adjustment": 11.0828,
-          "pred_line_pre_bias_adj": -31.8117,
-          "pred_total_pre_bias_adj": 178.3434,
-          "bias_line_correction": -2.9835,
-          "bias_total_correction": 2.1183,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -32.454,
+          "pred_total_pre_bias_adj": 177.7943,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
           "bias_correction_applied": true,
           "gate_trigger": false,
           "gate_action": "none",
@@ -1382,21 +3914,81 @@
           "tab_total": 186.5,
           "model_used": "currentpar_plus_ssm_anchor_overlay",
           "projection_type": "Weather Adjusted",
-          "pred_line": -34.7951,
-          "pred_total": 180.4616,
+          "pred_line": -35.1987,
+          "pred_total": 179.4426,
           "hga_pts_selected": 0,
-          "lineup_delta_line_raw_selected": 1.8414,
-          "lineup_delta_total_raw_selected": 0.8511,
-          "afl_total_env_base_total": 167.2605,
+          "lineup_delta_line_raw_selected": 3.29,
+          "lineup_delta_total_raw_selected": 3.9595,
+          "afl_total_env_base_total": 166.9985,
           "afl_total_env_historical_avg": 170.0926,
-          "afl_total_env_current_avg": 181.1754,
-          "afl_total_env_completed_games": 114,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
           "afl_total_env_current_weight": 1,
-          "afl_total_env_adjustment": 11.0828,
-          "pred_line_pre_bias_adj": -31.8117,
-          "pred_total_pre_bias_adj": 178.3434,
-          "bias_line_correction": -2.9835,
-          "bias_total_correction": 2.1183,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -32.454,
+          "pred_total_pre_bias_adj": 177.7943,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8163",
+          "match_date_local": "2026-06-20T19:35:00",
+          "home_team": "collingwood",
+          "away_team": "port adelaide",
+          "venue": "MCG",
+          "tab_line": -13.5,
+          "tab_total": 162.5,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "No Rain",
+          "pred_line": -40.8965,
+          "pred_total": 179.8395,
+          "hga_pts_selected": 5.3,
+          "lineup_delta_line_raw_selected": -4.5783,
+          "lineup_delta_total_raw_selected": 4.2609,
+          "afl_total_env_base_total": 167.3954,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -38.1518,
+          "pred_total_pre_bias_adj": 178.1912,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8163",
+          "match_date_local": "2026-06-20T19:35:00",
+          "home_team": "collingwood",
+          "away_team": "port adelaide",
+          "venue": "MCG",
+          "tab_line": -13.5,
+          "tab_total": 162.5,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "Weather Adjusted",
+          "pred_line": -42.0976,
+          "pred_total": 171.1804,
+          "hga_pts_selected": 5.3,
+          "lineup_delta_line_raw_selected": -4.5783,
+          "lineup_delta_total_raw_selected": 4.2609,
+          "afl_total_env_base_total": 167.3954,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -39.3529,
+          "pred_total_pre_bias_adj": 169.5321,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
           "bias_correction_applied": true,
           "gate_trigger": false,
           "gate_action": "none",
@@ -1412,21 +4004,21 @@
           "tab_total": 177.5,
           "model_used": "currentpar_plus_ssm_anchor_overlay",
           "projection_type": "No Rain",
-          "pred_line": -12.849,
-          "pred_total": 184.5493,
+          "pred_line": -18.6499,
+          "pred_total": 184.9661,
           "hga_pts_selected": 5.3,
-          "lineup_delta_line_raw_selected": 13.4767,
-          "lineup_delta_total_raw_selected": 0.0282,
-          "afl_total_env_base_total": 171.3482,
+          "lineup_delta_line_raw_selected": 27.5779,
+          "lineup_delta_total_raw_selected": 2.7187,
+          "afl_total_env_base_total": 172.5219,
           "afl_total_env_historical_avg": 170.0926,
-          "afl_total_env_current_avg": 181.1754,
-          "afl_total_env_completed_games": 114,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
           "afl_total_env_current_weight": 1,
-          "afl_total_env_adjustment": 11.0828,
-          "pred_line_pre_bias_adj": -9.8655,
-          "pred_total_pre_bias_adj": 182.431,
-          "bias_line_correction": -2.9835,
-          "bias_total_correction": 2.1183,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -15.9052,
+          "pred_total_pre_bias_adj": 183.3178,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
           "bias_correction_applied": true,
           "gate_trigger": false,
           "gate_action": "none",
@@ -1442,21 +4034,561 @@
           "tab_total": 177.5,
           "model_used": "currentpar_plus_ssm_anchor_overlay",
           "projection_type": "Weather Adjusted",
-          "pred_line": -12.8789,
-          "pred_total": 184.3243,
+          "pred_line": -18.6806,
+          "pred_total": 184.7446,
           "hga_pts_selected": 5.3,
-          "lineup_delta_line_raw_selected": 13.4767,
-          "lineup_delta_total_raw_selected": 0.0282,
-          "afl_total_env_base_total": 171.3482,
+          "lineup_delta_line_raw_selected": 27.5779,
+          "lineup_delta_total_raw_selected": 2.7187,
+          "afl_total_env_base_total": 172.5219,
           "afl_total_env_historical_avg": 170.0926,
-          "afl_total_env_current_avg": 181.1754,
-          "afl_total_env_completed_games": 114,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
           "afl_total_env_current_weight": 1,
-          "afl_total_env_adjustment": 11.0828,
-          "pred_line_pre_bias_adj": -9.8954,
-          "pred_total_pre_bias_adj": 182.206,
-          "bias_line_correction": -2.9835,
-          "bias_total_correction": 2.1183,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -15.936,
+          "pred_total_pre_bias_adj": 183.0963,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8165",
+          "match_date_local": "2026-06-21T13:10:00",
+          "home_team": "richmond",
+          "away_team": "north melbourne",
+          "venue": "MCG",
+          "tab_line": 18.5,
+          "tab_total": 175.5,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "No Rain",
+          "pred_line": 6.2697,
+          "pred_total": 160.3193,
+          "hga_pts_selected": 3.8,
+          "lineup_delta_line_raw_selected": -19.1994,
+          "lineup_delta_total_raw_selected": 5.1241,
+          "afl_total_env_base_total": 147.8752,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": 9.0144,
+          "pred_total_pre_bias_adj": 158.671,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8165",
+          "match_date_local": "2026-06-21T13:10:00",
+          "home_team": "richmond",
+          "away_team": "north melbourne",
+          "venue": "MCG",
+          "tab_line": 18.5,
+          "tab_total": 175.5,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "Weather Adjusted",
+          "pred_line": 6.2261,
+          "pred_total": 160.005,
+          "hga_pts_selected": 3.8,
+          "lineup_delta_line_raw_selected": -19.1994,
+          "lineup_delta_total_raw_selected": 5.1241,
+          "afl_total_env_base_total": 147.8752,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": 8.9708,
+          "pred_total_pre_bias_adj": 158.3567,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8166",
+          "match_date_local": "2026-06-21T15:15:00",
+          "home_team": "st kilda",
+          "away_team": "western bulldogs",
+          "venue": "Marvel Stadium",
+          "tab_line": -1.5,
+          "tab_total": 183.5,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "No Rain",
+          "pred_line": 22.3528,
+          "pred_total": 190.2093,
+          "hga_pts_selected": 3.2,
+          "lineup_delta_line_raw_selected": 17.7828,
+          "lineup_delta_total_raw_selected": -0.0696,
+          "afl_total_env_base_total": 177.7651,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": 25.0975,
+          "pred_total_pre_bias_adj": 188.561,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8166",
+          "match_date_local": "2026-06-21T15:15:00",
+          "home_team": "st kilda",
+          "away_team": "western bulldogs",
+          "venue": "Marvel Stadium",
+          "tab_line": -1.5,
+          "tab_total": 183.5,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "Weather Adjusted",
+          "pred_line": 22.3528,
+          "pred_total": 190.2093,
+          "hga_pts_selected": 3.2,
+          "lineup_delta_line_raw_selected": 17.7828,
+          "lineup_delta_total_raw_selected": -0.0696,
+          "afl_total_env_base_total": 177.7651,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": 25.0975,
+          "pred_total_pre_bias_adj": 188.561,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8167",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "carlton",
+          "away_team": "west coast eagles",
+          "venue": "Marvel Stadium",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "No Rain",
+          "pred_line": -34.6818,
+          "pred_total": 162.9197,
+          "hga_pts_selected": 0,
+          "lineup_delta_line_raw_selected": 8.5019,
+          "lineup_delta_total_raw_selected": 5.3462,
+          "afl_total_env_base_total": 150.4756,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -31.9372,
+          "pred_total_pre_bias_adj": 161.2714,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8167",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "carlton",
+          "away_team": "west coast eagles",
+          "venue": "Marvel Stadium",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "Weather Adjusted",
+          "pred_line": -34.6818,
+          "pred_total": 162.9197,
+          "hga_pts_selected": 0,
+          "lineup_delta_line_raw_selected": 8.5019,
+          "lineup_delta_total_raw_selected": 5.3462,
+          "afl_total_env_base_total": 150.4756,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -31.9372,
+          "pred_total_pre_bias_adj": 161.2714,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8168",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "brisbane lions",
+          "away_team": "sydney swans",
+          "venue": "Gabba",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "No Rain",
+          "pred_line": -17.3694,
+          "pred_total": 191.2458,
+          "hga_pts_selected": 5.3,
+          "lineup_delta_line_raw_selected": 8.4805,
+          "lineup_delta_total_raw_selected": -4.2745,
+          "afl_total_env_base_total": 178.8016,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -14.6247,
+          "pred_total_pre_bias_adj": 189.5974,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8168",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "brisbane lions",
+          "away_team": "sydney swans",
+          "venue": "Gabba",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "Weather Adjusted",
+          "pred_line": -17.4011,
+          "pred_total": 191.0171,
+          "hga_pts_selected": 5.3,
+          "lineup_delta_line_raw_selected": 8.4805,
+          "lineup_delta_total_raw_selected": -4.2745,
+          "afl_total_env_base_total": 178.8016,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -14.6564,
+          "pred_total_pre_bias_adj": 189.3688,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8169",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "north melbourne",
+          "away_team": "essendon",
+          "venue": "Marvel Stadium",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "No Rain",
+          "pred_line": -14.1822,
+          "pred_total": 161.1294,
+          "hga_pts_selected": 3.2,
+          "lineup_delta_line_raw_selected": 9.5759,
+          "lineup_delta_total_raw_selected": 10.2431,
+          "afl_total_env_base_total": 148.6852,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -11.4375,
+          "pred_total_pre_bias_adj": 159.4811,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8169",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "north melbourne",
+          "away_team": "essendon",
+          "venue": "Marvel Stadium",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "Weather Adjusted",
+          "pred_line": -14.1822,
+          "pred_total": 161.1294,
+          "hga_pts_selected": 3.2,
+          "lineup_delta_line_raw_selected": 9.5759,
+          "lineup_delta_total_raw_selected": 10.2431,
+          "afl_total_env_base_total": 148.6852,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -11.4375,
+          "pred_total_pre_bias_adj": 159.4811,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8171",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "fremantle",
+          "away_team": "gold coast suns",
+          "venue": "Optus Stadium",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "No Rain",
+          "pred_line": -12.8598,
+          "pred_total": 185.7932,
+          "hga_pts_selected": 10.5,
+          "lineup_delta_line_raw_selected": 0.8478,
+          "lineup_delta_total_raw_selected": 12.5849,
+          "afl_total_env_base_total": 173.349,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -10.1152,
+          "pred_total_pre_bias_adj": 184.1448,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8171",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "fremantle",
+          "away_team": "gold coast suns",
+          "venue": "Optus Stadium",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "Weather Adjusted",
+          "pred_line": -13.7399,
+          "pred_total": 179.4489,
+          "hga_pts_selected": 10.5,
+          "lineup_delta_line_raw_selected": 0.8478,
+          "lineup_delta_total_raw_selected": 12.5849,
+          "afl_total_env_base_total": 173.349,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -10.9952,
+          "pred_total_pre_bias_adj": 177.8006,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8172",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "hawthorn",
+          "away_team": "greater western sydney",
+          "venue": "MCG",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "No Rain",
+          "pred_line": -15.8519,
+          "pred_total": 188.6883,
+          "hga_pts_selected": 5.3,
+          "lineup_delta_line_raw_selected": 4.8037,
+          "lineup_delta_total_raw_selected": 5.1337,
+          "afl_total_env_base_total": 176.2442,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -13.1073,
+          "pred_total_pre_bias_adj": 187.04,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8172",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "hawthorn",
+          "away_team": "greater western sydney",
+          "venue": "MCG",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "Weather Adjusted",
+          "pred_line": -15.8519,
+          "pred_total": 188.6883,
+          "hga_pts_selected": 5.3,
+          "lineup_delta_line_raw_selected": 4.8037,
+          "lineup_delta_total_raw_selected": 5.1337,
+          "afl_total_env_base_total": 176.2442,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -13.1073,
+          "pred_total_pre_bias_adj": 187.04,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8174",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "collingwood",
+          "away_team": "richmond",
+          "venue": "MCG",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "No Rain",
+          "pred_line": -62.6227,
+          "pred_total": 173.653,
+          "hga_pts_selected": 3.2,
+          "lineup_delta_line_raw_selected": 4.728,
+          "lineup_delta_total_raw_selected": -3.3081,
+          "afl_total_env_base_total": 161.2089,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -59.878,
+          "pred_total_pre_bias_adj": 172.0047,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8174",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "collingwood",
+          "away_team": "richmond",
+          "venue": "MCG",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "Weather Adjusted",
+          "pred_line": -62.6227,
+          "pred_total": 173.653,
+          "hga_pts_selected": 3.2,
+          "lineup_delta_line_raw_selected": 4.728,
+          "lineup_delta_total_raw_selected": -3.3081,
+          "afl_total_env_base_total": 161.2089,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": -59.878,
+          "pred_total_pre_bias_adj": 172.0047,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8179",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "port adelaide",
+          "away_team": "adelaide crows",
+          "venue": "Adelaide Oval",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "No Rain",
+          "pred_line": 23.2007,
+          "pred_total": 177.8631,
+          "hga_pts_selected": 3.2,
+          "lineup_delta_line_raw_selected": -17.7325,
+          "lineup_delta_total_raw_selected": 12.4189,
+          "afl_total_env_base_total": 165.419,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": 25.9454,
+          "pred_total_pre_bias_adj": 176.2148,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
+          "bias_correction_applied": true,
+          "gate_trigger": false,
+          "gate_action": "none",
+          "gate_reason": null
+        },
+        {
+          "match_id": "8179",
+          "match_date_local": "2026-06-22T12:00:00",
+          "home_team": "port adelaide",
+          "away_team": "adelaide crows",
+          "venue": "Adelaide Oval",
+          "tab_line": null,
+          "tab_total": null,
+          "model_used": "currentpar_plus_ssm_anchor_overlay",
+          "projection_type": "Weather Adjusted",
+          "pred_line": 23.2007,
+          "pred_total": 177.8631,
+          "hga_pts_selected": 3.2,
+          "lineup_delta_line_raw_selected": -17.7325,
+          "lineup_delta_total_raw_selected": 12.4189,
+          "afl_total_env_base_total": 165.419,
+          "afl_total_env_historical_avg": 170.0926,
+          "afl_total_env_current_avg": 180.8884,
+          "afl_total_env_completed_games": 121,
+          "afl_total_env_current_weight": 1,
+          "afl_total_env_adjustment": 10.7958,
+          "pred_line_pre_bias_adj": 25.9454,
+          "pred_total_pre_bias_adj": 176.2148,
+          "bias_line_correction": -2.7447,
+          "bias_total_correction": 1.6483,
           "bias_correction_applied": true,
           "gate_trigger": false,
           "gate_action": "none",
@@ -5303,8 +8435,8 @@
       "model": "nznbl upcoming",
       "sport": "NZNBL",
       "extension": "xlsx",
-      "modified": "2026-06-15 18:30:56",
-      "size": 7677,
+      "modified": "2026-06-20 11:02:57",
+      "size": 7756,
       "fileUrl": "/files/nznbl_upcoming.xlsx",
       "sheets": [
         "upcoming"
@@ -5330,86 +8462,26 @@
         "Q1 Line Ref",
         "Q1 Total Ref"
       ],
-      "rowCount": 6,
+      "rowCount": 7,
       "rows": [
-        {
-          "Game Date": "17 Jun",
-          "Home Team": "Nelson Giants",
-          "Away Team": "Manawatu Jets",
-          "Full Model": "PaceEff",
-          "Full Line": -0.89,
-          "Full Total": 190.95,
-          "Full Total Adj": -0.17,
-          "Hga Points": 0,
-          "H1 Line": -0.45,
-          "H1 Total": 95.47,
-          "Q1 Line": -0.22,
-          "Q1 Total": 47.74,
-          "Full Line Ref": -1.12,
-          "Full Total Ref": 180.59,
-          "H1 Line Ref": -0.56,
-          "H1 Total Ref": 90.3,
-          "Q1 Line Ref": -0.28,
-          "Q1 Total Ref": 45.15
-        },
-        {
-          "Game Date": "18 Jun",
-          "Home Team": "Southland Sharks",
-          "Away Team": "Taranaki Airs",
-          "Full Model": "PaceEff",
-          "Full Line": -18.43,
-          "Full Total": 173.91,
-          "Full Total Adj": -0.17,
-          "Hga Points": 0,
-          "H1 Line": -9.21,
-          "H1 Total": 86.96,
-          "Q1 Line": -4.61,
-          "Q1 Total": 43.48,
-          "Full Line Ref": -13.15,
-          "Full Total Ref": 173.48,
-          "H1 Line Ref": -6.58,
-          "H1 Total Ref": 86.74,
-          "Q1 Line Ref": -3.29,
-          "Q1 Total Ref": 43.37
-        },
-        {
-          "Game Date": "19 Jun",
-          "Home Team": "Canterbury Rams",
-          "Away Team": "Tauranga Whai",
-          "Full Model": "PaceEff",
-          "Full Line": -19.28,
-          "Full Total": 175.29,
-          "Full Total Adj": -0.17,
-          "Hga Points": 0,
-          "H1 Line": -9.64,
-          "H1 Total": 87.65,
-          "Q1 Line": -4.82,
-          "Q1 Total": 43.82,
-          "Full Line Ref": -12.73,
-          "Full Total Ref": 179.91,
-          "H1 Line Ref": -6.37,
-          "H1 Total Ref": 89.95,
-          "Q1 Line Ref": -3.18,
-          "Q1 Total Ref": 44.98
-        },
         {
           "Game Date": "20 Jun",
           "Home Team": "Auckland Tuatara",
           "Away Team": "Hawke s Bay Hawks",
           "Full Model": "PaceEff",
-          "Full Line": -23.16,
-          "Full Total": 193.49,
-          "Full Total Adj": -0.17,
+          "Full Line": -23.38,
+          "Full Total": 194.14,
+          "Full Total Adj": -0.16,
           "Hga Points": 0,
-          "H1 Line": -11.58,
-          "H1 Total": 96.74,
-          "Q1 Line": -5.79,
-          "Q1 Total": 48.37,
-          "Full Line Ref": -14.3,
-          "Full Total Ref": 183.7,
-          "H1 Line Ref": -7.15,
-          "H1 Total Ref": 91.85,
-          "Q1 Line Ref": -3.58,
+          "H1 Line": -11.69,
+          "H1 Total": 97.07,
+          "Q1 Line": -5.85,
+          "Q1 Total": 48.54,
+          "Full Line Ref": -14.22,
+          "Full Total Ref": 183.72,
+          "H1 Line Ref": -7.11,
+          "H1 Total Ref": 91.86,
+          "Q1 Line Ref": -3.55,
           "Q1 Total Ref": 45.93
         },
         {
@@ -5417,19 +8489,19 @@
           "Home Team": "Otago Nuggets",
           "Away Team": "Taranaki Airs",
           "Full Model": "PaceEff",
-          "Full Line": -3.36,
-          "Full Total": 165.28,
-          "Full Total Adj": -0.17,
+          "Full Line": -4.16,
+          "Full Total": 166.34,
+          "Full Total Adj": -0.16,
           "Hga Points": 0,
-          "H1 Line": -1.68,
-          "H1 Total": 82.64,
-          "Q1 Line": -0.84,
-          "Q1 Total": 41.32,
-          "Full Line Ref": -5.2,
-          "Full Total Ref": 166.97,
-          "H1 Line Ref": -2.6,
-          "H1 Total Ref": 83.48,
-          "Q1 Line Ref": -1.3,
+          "H1 Line": -2.08,
+          "H1 Total": 83.17,
+          "Q1 Line": -1.04,
+          "Q1 Total": 41.59,
+          "Full Line Ref": -5.32,
+          "Full Total Ref": 166.94,
+          "H1 Line Ref": -2.66,
+          "H1 Total Ref": 83.47,
+          "Q1 Line Ref": -1.33,
           "Q1 Total Ref": 41.74
         },
         {
@@ -5437,20 +8509,100 @@
           "Home Team": "Franklin Bulls",
           "Away Team": "Wellington Saints",
           "Full Model": "PaceEff",
-          "Full Line": 12.56,
-          "Full Total": 184.24,
-          "Full Total Adj": -0.17,
+          "Full Line": 12.04,
+          "Full Total": 185.16,
+          "Full Total Adj": -0.16,
           "Hga Points": 0,
-          "H1 Line": 6.28,
-          "H1 Total": 92.12,
-          "Q1 Line": 3.14,
-          "Q1 Total": 46.06,
-          "Full Line Ref": 6.05,
-          "Full Total Ref": 188.01,
-          "H1 Line Ref": 3.03,
-          "H1 Total Ref": 94.01,
-          "Q1 Line Ref": 1.51,
-          "Q1 Total Ref": 47
+          "H1 Line": 6.02,
+          "H1 Total": 92.58,
+          "Q1 Line": 3.01,
+          "Q1 Total": 46.29,
+          "Full Line Ref": 5.99,
+          "Full Total Ref": 187.94,
+          "H1 Line Ref": 2.99,
+          "H1 Total Ref": 93.97,
+          "Q1 Line Ref": 1.5,
+          "Q1 Total Ref": 46.99
+        },
+        {
+          "Game Date": "22 Jun",
+          "Home Team": "Hawke s Bay Hawks",
+          "Away Team": "Southland Sharks",
+          "Full Model": "PaceEff",
+          "Full Line": 16.64,
+          "Full Total": 189.21,
+          "Full Total Adj": -0.16,
+          "Hga Points": 0,
+          "H1 Line": 8.32,
+          "H1 Total": 94.61,
+          "Q1 Line": 4.16,
+          "Q1 Total": 47.3,
+          "Full Line Ref": 9.29,
+          "Full Total Ref": 184.97,
+          "H1 Line Ref": 4.64,
+          "H1 Total Ref": 92.49,
+          "Q1 Line Ref": 2.32,
+          "Q1 Total Ref": 46.24
+        },
+        {
+          "Game Date": "24 Jun",
+          "Home Team": "Tauranga Whai",
+          "Away Team": "Southland Sharks",
+          "Full Model": "PaceEff",
+          "Full Line": 13.95,
+          "Full Total": 169.69,
+          "Full Total Adj": -0.16,
+          "Hga Points": 0,
+          "H1 Line": 6.97,
+          "H1 Total": 84.84,
+          "Q1 Line": 3.49,
+          "Q1 Total": 42.42,
+          "Full Line Ref": 8.83,
+          "Full Total Ref": 177.85,
+          "H1 Line Ref": 4.42,
+          "H1 Total Ref": 88.92,
+          "Q1 Line Ref": 2.21,
+          "Q1 Total Ref": 44.46
+        },
+        {
+          "Game Date": "25 Jun",
+          "Home Team": "Manawatu Jets",
+          "Away Team": "Otago Nuggets",
+          "Full Model": "PaceEff",
+          "Full Line": 1.38,
+          "Full Total": 178.09,
+          "Full Total Adj": -0.16,
+          "Hga Points": 0,
+          "H1 Line": 0.69,
+          "H1 Total": 89.05,
+          "Q1 Line": 0.34,
+          "Q1 Total": 44.52,
+          "Full Line Ref": 0.93,
+          "Full Total Ref": 179.75,
+          "H1 Line Ref": 0.46,
+          "H1 Total Ref": 89.88,
+          "Q1 Line Ref": 0.23,
+          "Q1 Total Ref": 44.94
+        },
+        {
+          "Game Date": "26 Jun",
+          "Home Team": "Wellington Saints",
+          "Away Team": "Nelson Giants",
+          "Full Model": "PaceEff",
+          "Full Line": -16,
+          "Full Total": 180.12,
+          "Full Total Adj": -0.16,
+          "Hga Points": 0,
+          "H1 Line": -8,
+          "H1 Total": 90.06,
+          "Q1 Line": -4,
+          "Q1 Total": 45.03,
+          "Full Line Ref": -10.65,
+          "Full Total Ref": 177.52,
+          "H1 Line Ref": -5.32,
+          "H1 Total Ref": 88.76,
+          "Q1 Line Ref": -2.66,
+          "Q1 Total Ref": 44.38
         }
       ]
     },
