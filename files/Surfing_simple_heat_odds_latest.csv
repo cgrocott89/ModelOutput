@@ -1,4 +1,4 @@
-heat_key,event,event_date,tour,gender,round,heat,location,surfer_1,surfer_2,surfer_1_prob,surfer_2_prob,surfer_1_model_odds,surfer_2_model_odds,model_pick,pick_prob,pick_model_odds,surfer_1_recent_heats,surfer_2_recent_heats,surfer_1_rank,surfer_2_rank,condition,confidence_flag,event_url,confidence_note
-440_results_112994,VIVO Rio Pro Presented By Corona Cero,"Jun 19 - 27, 2026",ct,women,,1,"Saquarema, Rio de Janeiro, Brazil",Sawyer Lindblad,Tya Zebrowski,0.544,0.456,1.837,2.194,Sawyer Lindblad,0.544,1.837,8,8,4,15,forecast ok,good,https://www.worldsurfleague.com/events/2026/ct/440/vivo-rio-pro,Both surfers have usable recent heat history.
-440_results_113027,VIVO Rio Pro Presented By Corona Cero,"Jun 19 - 27, 2026",ct,men,,1,"Saquarema, Rio de Janeiro, Brazil",Leonardo Fioravanti,Joao Chianca,0.609,0.391,1.642,2.557,Leonardo Fioravanti,0.609,1.642,8,8,2,17,forecast ok,good,https://www.worldsurfleague.com/events/2026/ct/440/vivo-rio-pro,Both surfers have usable recent heat history.
-440_results_113028,VIVO Rio Pro Presented By Corona Cero,"Jun 19 - 27, 2026",ct,men,,2,"Saquarema, Rio de Janeiro, Brazil",Yago Dora,Ethan Ewing,0.559,0.441,1.789,2.268,Yago Dora,0.559,1.789,8,8,3,7,forecast ok,good,https://www.worldsurfleague.com/events/2026/ct/440/vivo-rio-pro,Both surfers have usable recent heat history.
+Event,Date,Tour,Gender,Surfer 1,Surfer 2,Surfer 1 Odds,Surfer 2 Odds,Confidence
+VIVO Rio Pro Presented By Corona Cero,"Jun 19 - 27, 2026",CT,men,Leonardo Fioravanti,Joao Chianca,1.642,2.557,good
+VIVO Rio Pro Presented By Corona Cero,"Jun 19 - 27, 2026",CT,women,Sawyer Lindblad,Tya Zebrowski,1.837,2.194,good
+VIVO Rio Pro Presented By Corona Cero,"Jun 19 - 27, 2026",CT,men,Yago Dora,Ethan Ewing,1.789,2.268,good
