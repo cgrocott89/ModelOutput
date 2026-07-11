@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11 09:45:11",
+  "generatedAt": "2026-07-11 10:01:57",
   "outputDir": "C:/Users/Chris/Dropbox/Betting/Betting/Greyhounds/PDFs",
   "outputs": [
     {
@@ -9,7 +9,7 @@
       "extension": "xlsx",
       "modified": "2026-06-23 07:15:21",
       "size": 19818,
-      "fileUrl": "/files/AFL_goalscorers.xlsx",
+      "fileUrl": "/files/AFL_goalscorers.xlsx?v=1782162921-19818",
       "sheets": [
         "AFL Goalscorers"
       ],
@@ -2625,7 +2625,7 @@
       "extension": "xlsx",
       "modified": "2026-07-08 15:40:46",
       "size": 9123,
-      "fileUrl": "/files/AFL_upcoming_projections.xlsx",
+      "fileUrl": "/files/AFL_upcoming_projections.xlsx?v=1783489246-9123",
       "sheets": [
         "AFL Projections"
       ],
@@ -3135,7 +3135,7 @@
       "extension": "html",
       "modified": "2026-07-08 15:41:29",
       "size": 1561101,
-      "fileUrl": "/files/AFL_weekly_betting_report.html",
+      "fileUrl": "/files/AFL_weekly_betting_report.html?v=1783489289-1561101",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
@@ -3149,7 +3149,7 @@
       "extension": "xlsx",
       "modified": "2026-07-09 06:51:33",
       "size": 16185,
-      "fileUrl": "/files/NRL_anytime_tryscorers.xlsx",
+      "fileUrl": "/files/NRL_anytime_tryscorers.xlsx?v=1783543893-16185",
       "sheets": [
         "Anytime"
       ],
@@ -5486,7 +5486,7 @@
       "extension": "xlsx",
       "modified": "2026-07-09 06:51:32",
       "size": 28000,
-      "fileUrl": "/files/NRL_try_channel_matchups.xlsx",
+      "fileUrl": "/files/NRL_try_channel_matchups.xlsx?v=1783543892-28000",
       "sheets": [
         "Heatmap",
         "Detail",
@@ -5865,7 +5865,7 @@
       "extension": "xlsx",
       "modified": "2026-07-09 06:53:13",
       "size": 10479,
-      "fileUrl": "/files/NRL_upcoming_projections.xlsx",
+      "fileUrl": "/files/NRL_upcoming_projections.xlsx?v=1783543993-10479",
       "sheets": [
         "LeanMain"
       ],
@@ -6722,7 +6722,7 @@
       "extension": "html",
       "modified": "2026-07-09 06:57:14",
       "size": 1450841,
-      "fileUrl": "/files/NRL_weekly_betting_report.html",
+      "fileUrl": "/files/NRL_weekly_betting_report.html?v=1783544234-1450841",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
@@ -6736,7 +6736,7 @@
       "extension": "xlsx",
       "modified": "2026-07-09 07:01:28",
       "size": 7529,
-      "fileUrl": "/files/NRLW_upcoming_projections.xlsx",
+      "fileUrl": "/files/NRLW_upcoming_projections.xlsx?v=1783544488-7529",
       "sheets": [
         "Projections"
       ],
@@ -6812,7 +6812,7 @@
       "extension": "html",
       "modified": "2026-07-01 21:27:41",
       "size": 7841,
-      "fileUrl": "/files/NRLW_weekly_betting_report.html",
+      "fileUrl": "/files/NRLW_weekly_betting_report.html?v=1782905261-7841",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
@@ -6826,7 +6826,7 @@
       "extension": "xlsx",
       "modified": "2026-06-20 11:02:57",
       "size": 7756,
-      "fileUrl": "/files/nznbl_upcoming.xlsx",
+      "fileUrl": "/files/nznbl_upcoming.xlsx?v=1781917377-7756",
       "sheets": [
         "upcoming"
       ],
@@ -7002,7 +7002,7 @@
       "extension": "xlsx",
       "modified": "2026-07-01 14:18:10",
       "size": 7201,
-      "fileUrl": "/files/SSN_upcoming_projections.xlsx",
+      "fileUrl": "/files/SSN_upcoming_projections.xlsx?v=1782879490-7201",
       "sheets": [
         "SSN PaceEff"
       ],
@@ -7090,7 +7090,7 @@
       "extension": "csv",
       "modified": "2026-06-30 21:14:21",
       "size": 413,
-      "fileUrl": "/files/Surfing_simple_heat_odds_latest.csv",
+      "fileUrl": "/files/Surfing_simple_heat_odds_latest.csv?v=1782818061-413",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -7148,7 +7148,7 @@
       "extension": "xlsx",
       "modified": "2026-06-29 21:30:42",
       "size": 10385,
-      "fileUrl": "/files/t20i_upcoming_boundary_projections_latest.xlsx",
+      "fileUrl": "/files/t20i_upcoming_boundary_projections_latest.xlsx?v=1782732642-10385",
       "sheets": [
         "T20I Boundaries"
       ],
@@ -7668,7 +7668,7 @@
       "extension": "csv",
       "modified": "2026-07-08 22:59:13",
       "size": 16558,
-      "fileUrl": "/files/weekly_returns_nrl_afl_super_rugby_summary_latest.csv",
+      "fileUrl": "/files/weekly_returns_nrl_afl_super_rugby_summary_latest.csv?v=1783515553-16558",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
