@@ -1,0 +1,3 @@
+"match_id","match_date","home_team","away_team","hga_bucket","HGA_cat_pts","model_line","model_total","model_1h_line","model_1h_total","model_q1_line","model_q1_total","home_score","away_score","h1_home_score","h1_away_score","q1_home_score","q1_away_score","fair_home","fair_away"
+"AFL1_1",2026-07-25,"richmond","carlton",NA,0,19.2,170.4,5.8,59.7,3.7,25.6,75.6,94.8,26.9,32.7,10.9,14.6,3.37,1.42
+"AFL1_2",2026-07-26,"hawthorn","essendon",NA,0,-43.3,175.5,-6.2,61.4,-6.1,26.3,109.4,66.1,33.8,27.6,16.2,10.1,1.13,8.75
