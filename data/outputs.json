@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29 08:21:21",
+  "generatedAt": "2026-07-31 09:35:03",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -7,9 +7,9 @@
       "model": "AFL upcoming projections",
       "sport": "AFL",
       "extension": "xlsx",
-      "modified": "2026-07-27 19:29:49",
-      "size": 9901,
-      "fileUrl": "/files/AFL_upcoming_projections.xlsx?v=1785144589-9901",
+      "modified": "2026-07-31 09:34:43",
+      "size": 10771,
+      "fileUrl": "/files/AFL_upcoming_projections.xlsx?v=1785454483-10771",
       "sheets": [
         "AFL V2 Projections"
       ],
@@ -26,39 +26,27 @@
         "Venue",
         "Forecast Rain mm"
       ],
-      "rowCount": 6,
+      "rowCount": 8,
       "rows": [
-        {
-          "Date": "2026-07-30",
-          "Time": "19:30",
-          "Home Team": "collingwood",
-          "Away Team": "geelong cats",
-          "Projected Line": -4.9,
-          "Projected Total": 174.1,
-          "Market Line": 1,
-          "Market Total": null,
-          "Venue": "MCG",
-          "Forecast Rain mm": 0.3
-        },
         {
           "Date": "2026-07-31",
           "Time": "18:10",
           "Home Team": "fremantle",
           "Away Team": "western bulldogs",
-          "Projected Line": 22.1,
+          "Projected Line": 22,
           "Projected Total": 168.4,
           "Market Line": -31.5,
           "Market Total": null,
           "Venue": "Optus Stadium",
-          "Forecast Rain mm": 0
+          "Forecast Rain mm": 3
         },
         {
           "Date": "2026-08-01",
           "Time": "19:40",
           "Home Team": "carlton",
           "Away Team": "brisbane lions",
-          "Projected Line": -16.2,
-          "Projected Total": 179,
+          "Projected Line": -16.3,
+          "Projected Total": 179.1,
           "Market Line": null,
           "Market Total": null,
           "Venue": "Marvel Stadium",
@@ -69,20 +57,20 @@
           "Time": "13:35",
           "Home Team": "hawthorn",
           "Away Team": "north melbourne",
-          "Projected Line": 44.9,
-          "Projected Total": 176,
+          "Projected Line": 44.8,
+          "Projected Total": 175.9,
           "Market Line": -30.5,
           "Market Total": null,
           "Venue": "UTAS Stadium",
-          "Forecast Rain mm": 0.7
+          "Forecast Rain mm": 0.1
         },
         {
           "Date": "2026-08-01",
           "Time": "13:05",
           "Home Team": "st kilda",
           "Away Team": "sydney swans",
-          "Projected Line": -7.6,
-          "Projected Total": 177.2,
+          "Projected Line": -7.7,
+          "Projected Total": 177.1,
           "Market Line": 6.5,
           "Market Total": null,
           "Venue": "Marvel Stadium",
@@ -99,6 +87,42 @@
           "Market Total": null,
           "Venue": "Adelaide Oval",
           "Forecast Rain mm": 0
+        },
+        {
+          "Date": "2026-08-02",
+          "Time": "16:40",
+          "Home Team": "essendon",
+          "Away Team": "adelaide crows",
+          "Projected Line": -39.1,
+          "Projected Total": 166.3,
+          "Market Line": 38,
+          "Market Total": null,
+          "Venue": "Marvel Stadium",
+          "Forecast Rain mm": 0.2
+        },
+        {
+          "Date": "2026-08-02",
+          "Time": "13:10",
+          "Home Team": "richmond",
+          "Away Team": "west coast eagles",
+          "Projected Line": 0.9,
+          "Projected Total": 166.1,
+          "Market Line": 1,
+          "Market Total": null,
+          "Venue": "MCG",
+          "Forecast Rain mm": 0.1
+        },
+        {
+          "Date": "2026-08-02",
+          "Time": "15:15",
+          "Home Team": "gold coast suns",
+          "Away Team": "melbourne",
+          "Projected Line": 2.1,
+          "Projected Total": 180.1,
+          "Market Line": null,
+          "Market Total": null,
+          "Venue": "People First Stadium",
+          "Forecast Rain mm": 0.6
         }
       ]
     },
@@ -107,9 +131,9 @@
       "model": "AFL round summary",
       "sport": "AFL",
       "extension": "html",
-      "modified": "2026-07-27 19:29:58",
-      "size": 1363422,
-      "fileUrl": "/files/AFL_weekly_betting_report.html?v=1785144598-1363422",
+      "modified": "2026-07-31 09:34:52",
+      "size": 1489421,
+      "fileUrl": "/files/AFL_weekly_betting_report.html?v=1785454492-1489421",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
@@ -340,9 +364,9 @@
       "model": "Commonwealth Netball upcoming projections",
       "sport": "Model",
       "extension": "xlsx",
-      "modified": "2026-07-27 17:27:48",
-      "size": 12592,
-      "fileUrl": "/files/Commonwealth_Netball_upcoming_projections.xlsx?v=1785137268-12592",
+      "modified": "2026-07-30 14:04:38",
+      "size": 10699,
+      "fileUrl": "/files/Commonwealth_Netball_upcoming_projections.xlsx?v=1785384278-10699",
       "sheets": [
         "Projections",
         "Configuration"
@@ -384,444 +408,12 @@
         "fixture_scraped_at",
         "source_url"
       ],
-      "rowCount": 18,
+      "rowCount": 6,
       "rows": [
         {
           "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "27-Jul-2026 23:00",
-          "match_date": "2026-07-27T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "England",
-          "away_team": "Malawi",
-          "projected_home_score": 66.77,
-          "projected_away_score": 41.43,
-          "projected_home_margin": 25.34,
-          "projected_home_line": -25.34,
-          "projected_total": 108.2,
-          "attack_rating_home": 36.94,
-          "defence_rating_home": 31.34,
-          "overall_strength_home": 68.28,
-          "attack_rating_away": 22.56,
-          "defence_rating_away": 20.37,
-          "overall_strength_away": 42.93,
-          "hga_points": 0,
-          "prior_matches_home": 59,
-          "prior_matches_away": 26,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": 25.34,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/england-dOWvft6I/malawi-EoA0csHu/"
-        },
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "28-Jul-2026 01:00",
-          "match_date": "2026-07-28T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "Tonga",
-          "away_team": "Northern Ireland",
-          "projected_home_score": 59.48,
-          "projected_away_score": 48.85,
-          "projected_home_margin": 10.63,
-          "projected_home_line": -10.63,
-          "projected_total": 108.33,
-          "attack_rating_home": 22.07,
-          "defence_rating_home": 10.63,
-          "overall_strength_home": 32.7,
-          "attack_rating_away": 9.28,
-          "defence_rating_away": 12.8,
-          "overall_strength_away": 22.07,
-          "hga_points": 0,
-          "prior_matches_home": 33,
-          "prior_matches_away": 8,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": 10.63,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/northern-ireland-QJrTbO6g/tonga-tKG3iRli/"
-        },
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "28-Jul-2026 04:00",
-          "match_date": "2026-07-28T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "Jamaica",
-          "away_team": "Uganda",
-          "projected_home_score": 57.15,
-          "projected_away_score": 49.63,
-          "projected_home_margin": 7.52,
-          "projected_home_line": -7.52,
-          "projected_total": 106.77,
-          "attack_rating_home": 31.36,
-          "defence_rating_home": 26.89,
-          "overall_strength_home": 58.25,
-          "attack_rating_away": 26.31,
-          "defence_rating_away": 24.42,
-          "overall_strength_away": 50.73,
-          "hga_points": 0,
-          "prior_matches_home": 33,
-          "prior_matches_away": 23,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": 7.52,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/jamaica-vFQwEb86/uganda-S8zoKzzD/"
-        },
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "28-Jul-2026 06:00",
-          "match_date": "2026-07-28T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "Scotland",
-          "away_team": "Trinidad & Tobago",
-          "projected_home_score": 57.9,
-          "projected_away_score": 35.63,
-          "projected_home_margin": 22.28,
-          "projected_home_line": -22.28,
-          "projected_total": 93.53,
-          "attack_rating_home": 14.71,
-          "defence_rating_home": 18.39,
-          "overall_strength_home": 33.1,
-          "attack_rating_away": 3.81,
-          "defence_rating_away": 7.01,
-          "overall_strength_away": 10.82,
-          "hga_points": 0,
-          "prior_matches_home": 21,
-          "prior_matches_away": 14,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": 22.28,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/scotland-h6pL0pxs/trinidad-tobago-d8EnZlV9/"
-        },
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "28-Jul-2026 23:00",
-          "match_date": "2026-07-28T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "South Africa",
-          "away_team": "Northern Ireland",
-          "projected_home_score": 70.32,
-          "projected_away_score": 32.1,
-          "projected_home_margin": 38.22,
-          "projected_home_line": -38.22,
-          "projected_total": 102.42,
-          "attack_rating_home": 32.91,
-          "defence_rating_home": 27.38,
-          "overall_strength_home": 60.29,
-          "attack_rating_away": 9.28,
-          "defence_rating_away": 12.8,
-          "overall_strength_away": 22.07,
-          "hga_points": 0,
-          "prior_matches_home": 39,
-          "prior_matches_away": 8,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": 38.22,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/northern-ireland-QJrTbO6g/south-africa-8lVsDINC/"
-        },
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "29-Jul-2026 01:00",
-          "match_date": "2026-07-29T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "Wales",
-          "away_team": "Trinidad & Tobago",
-          "projected_home_score": 64.39,
-          "projected_away_score": 42.64,
-          "projected_home_margin": 21.76,
-          "projected_home_line": -21.76,
-          "projected_total": 107.03,
-          "attack_rating_home": 21.2,
-          "defence_rating_home": 11.38,
-          "overall_strength_home": 32.58,
-          "attack_rating_away": 3.81,
-          "defence_rating_away": 7.01,
-          "overall_strength_away": 10.82,
-          "hga_points": 0,
-          "prior_matches_home": 15,
-          "prior_matches_away": 14,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": 21.76,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/trinidad-tobago-d8EnZlV9/wales-WdqPa4im/"
-        },
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "29-Jul-2026 04:00",
-          "match_date": "2026-07-29T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "New Zealand",
-          "away_team": "Uganda",
-          "projected_home_score": 66.07,
-          "projected_away_score": 44.43,
-          "projected_home_margin": 21.64,
-          "projected_home_line": -21.64,
-          "projected_total": 110.5,
-          "attack_rating_home": 40.29,
-          "defence_rating_home": 32.08,
-          "overall_strength_home": 72.37,
-          "attack_rating_away": 26.31,
-          "defence_rating_away": 24.42,
-          "overall_strength_away": 50.73,
-          "hga_points": 0,
-          "prior_matches_home": 54,
-          "prior_matches_away": 23,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": 21.64,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/new-zealand-txv5fV4O/uganda-S8zoKzzD/"
-        },
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "29-Jul-2026 06:00",
-          "match_date": "2026-07-29T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "Australia",
-          "away_team": "Malawi",
-          "projected_home_score": 74.7,
-          "projected_away_score": 36.76,
-          "projected_home_margin": 37.94,
-          "projected_home_line": -37.94,
-          "projected_total": 111.46,
-          "attack_rating_home": 44.87,
-          "defence_rating_home": 36.01,
-          "overall_strength_home": 80.87,
-          "attack_rating_away": 22.56,
-          "defence_rating_away": 20.37,
-          "overall_strength_away": 42.93,
-          "hga_points": 0,
-          "prior_matches_home": 54,
-          "prior_matches_away": 26,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": 37.94,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/australia-KSx9gkKU/malawi-EoA0csHu/"
-        },
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "29-Jul-2026 23:00",
-          "match_date": "2026-07-29T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "Jamaica",
-          "away_team": "Scotland",
-          "projected_home_score": 63.18,
-          "projected_away_score": 38.02,
-          "projected_home_margin": 25.15,
-          "projected_home_line": -25.15,
-          "projected_total": 101.2,
-          "attack_rating_home": 31.36,
-          "defence_rating_home": 26.89,
-          "overall_strength_home": 58.25,
-          "attack_rating_away": 14.71,
-          "defence_rating_away": 18.39,
-          "overall_strength_away": 33.1,
-          "hga_points": 0,
-          "prior_matches_home": 33,
-          "prior_matches_away": 21,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": 25.15,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/jamaica-vFQwEb86/scotland-h6pL0pxs/"
-        },
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "30-Jul-2026 01:00",
-          "match_date": "2026-07-30T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "England",
-          "away_team": "Tonga",
-          "projected_home_score": 76.51,
-          "projected_away_score": 40.93,
-          "projected_home_margin": 35.58,
-          "projected_home_line": -35.58,
-          "projected_total": 117.45,
-          "attack_rating_home": 36.94,
-          "defence_rating_home": 31.34,
-          "overall_strength_home": 68.28,
-          "attack_rating_away": 22.07,
-          "defence_rating_away": 10.63,
-          "overall_strength_away": 32.7,
-          "hga_points": 0,
-          "prior_matches_home": 59,
-          "prior_matches_away": 33,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": 35.58,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/england-dOWvft6I/tonga-tKG3iRli/"
-        },
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "30-Jul-2026 04:00",
-          "match_date": "2026-07-30T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "New Zealand",
-          "away_team": "Wales",
-          "projected_home_score": 79.11,
-          "projected_away_score": 39.32,
-          "projected_home_margin": 39.79,
-          "projected_home_line": -39.79,
-          "projected_total": 118.43,
-          "attack_rating_home": 40.29,
-          "defence_rating_home": 32.08,
-          "overall_strength_home": 72.37,
-          "attack_rating_away": 21.2,
-          "defence_rating_away": 11.38,
-          "overall_strength_away": 32.58,
-          "hga_points": 0,
-          "prior_matches_home": 54,
-          "prior_matches_away": 15,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": 39.79,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/new-zealand-txv5fV4O/wales-WdqPa4im/"
-        },
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "30-Jul-2026 06:00",
-          "match_date": "2026-07-30T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "Australia",
-          "away_team": "South Africa",
-          "projected_home_score": 67.69,
-          "projected_away_score": 47.11,
-          "projected_home_margin": 20.59,
-          "projected_home_line": -20.59,
-          "projected_total": 114.8,
-          "attack_rating_home": 44.87,
-          "defence_rating_home": 36.01,
-          "overall_strength_home": 80.87,
-          "attack_rating_away": 32.91,
-          "defence_rating_away": 27.38,
-          "overall_strength_away": 60.29,
-          "hga_points": 0,
-          "prior_matches_home": 54,
-          "prior_matches_away": 39,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": 20.59,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/australia-KSx9gkKU/south-africa-8lVsDINC/"
-        },
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
+          "generated_at": "2026-07-30 14:04:37 AEST",
+          "state_as_of_date": "2026-07-28",
           "config_id": "single_score_head_geometric_wls_decay_0.92",
           "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
           "total_config_id": "single_score_head_geometric_wls_decay_0.92",
@@ -830,34 +422,34 @@
           "competition": "Commonwealth Games",
           "home_team": "Malawi",
           "away_team": "Tonga",
-          "projected_home_score": 62.14,
-          "projected_away_score": 51.91,
-          "projected_home_margin": 10.24,
-          "projected_home_line": -10.24,
-          "projected_total": 114.05,
-          "attack_rating_home": 22.56,
-          "defence_rating_home": 20.37,
-          "overall_strength_home": 42.93,
-          "attack_rating_away": 22.07,
-          "defence_rating_away": 10.63,
-          "overall_strength_away": 32.7,
+          "projected_home_score": 63.5,
+          "projected_away_score": 51.48,
+          "projected_home_margin": 12.02,
+          "projected_home_line": -12.02,
+          "projected_total": 114.99,
+          "attack_rating_home": 22.23,
+          "defence_rating_home": 20.61,
+          "overall_strength_home": 42.84,
+          "attack_rating_away": 21.79,
+          "defence_rating_away": 9.03,
+          "overall_strength_away": 30.82,
           "hga_points": 0,
-          "prior_matches_home": 26,
-          "prior_matches_away": 33,
+          "prior_matches_home": 27,
+          "prior_matches_away": 35,
           "cold_start_home": false,
           "cold_start_away": false,
           "cold_start_flag": false,
           "identified_matchup": true,
           "identification_status": "identified",
           "schedule_component": 1,
-          "projected_home_margin_raw": 10.24,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
+          "projected_home_margin_raw": 12.02,
+          "fixture_scraped_at": "2026-07-30 14:04:36 AEST",
           "source_url": "https://www.flashscore.com.au/match/netball/malawi-EoA0csHu/tonga-tKG3iRli/"
         },
         {
           "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
+          "generated_at": "2026-07-30 14:04:37 AEST",
+          "state_as_of_date": "2026-07-28",
           "config_id": "single_score_head_geometric_wls_decay_0.92",
           "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
           "total_config_id": "single_score_head_geometric_wls_decay_0.92",
@@ -866,34 +458,34 @@
           "competition": "Commonwealth Games",
           "home_team": "Uganda",
           "away_team": "Scotland",
-          "projected_home_score": 58.12,
-          "projected_away_score": 40.49,
-          "projected_home_margin": 17.63,
-          "projected_home_line": -17.63,
-          "projected_total": 98.61,
-          "attack_rating_home": 26.31,
-          "defence_rating_home": 24.42,
-          "overall_strength_home": 50.73,
-          "attack_rating_away": 14.71,
-          "defence_rating_away": 18.39,
-          "overall_strength_away": 33.1,
+          "projected_home_score": 58.49,
+          "projected_away_score": 42.2,
+          "projected_home_margin": 16.29,
+          "projected_home_line": -16.29,
+          "projected_total": 100.69,
+          "attack_rating_home": 27.37,
+          "defence_rating_home": 24.45,
+          "overall_strength_home": 51.83,
+          "attack_rating_away": 16.35,
+          "defence_rating_away": 19.19,
+          "overall_strength_away": 35.54,
           "hga_points": 0,
-          "prior_matches_home": 23,
-          "prior_matches_away": 21,
+          "prior_matches_home": 25,
+          "prior_matches_away": 22,
           "cold_start_home": false,
           "cold_start_away": false,
           "cold_start_flag": false,
           "identified_matchup": true,
           "identification_status": "identified",
           "schedule_component": 1,
-          "projected_home_margin_raw": 17.63,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
+          "projected_home_margin_raw": 16.29,
+          "fixture_scraped_at": "2026-07-30 14:04:36 AEST",
           "source_url": "https://www.flashscore.com.au/match/netball/scotland-h6pL0pxs/uganda-S8zoKzzD/"
         },
         {
           "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
+          "generated_at": "2026-07-30 14:04:37 AEST",
+          "state_as_of_date": "2026-07-28",
           "config_id": "single_score_head_geometric_wls_decay_0.92",
           "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
           "total_config_id": "single_score_head_geometric_wls_decay_0.92",
@@ -902,34 +494,34 @@
           "competition": "Commonwealth Games",
           "home_team": "New Zealand",
           "away_team": "Trinidad & Tobago",
-          "projected_home_score": 83.48,
-          "projected_away_score": 21.94,
-          "projected_home_margin": 61.55,
-          "projected_home_line": -61.55,
-          "projected_total": 105.42,
-          "attack_rating_home": 40.29,
-          "defence_rating_home": 32.08,
-          "overall_strength_home": 72.37,
-          "attack_rating_away": 3.81,
-          "defence_rating_away": 7.01,
-          "overall_strength_away": 10.82,
+          "projected_home_score": 87.08,
+          "projected_away_score": 20.87,
+          "projected_home_margin": 66.21,
+          "projected_home_line": -66.21,
+          "projected_total": 107.95,
+          "attack_rating_home": 40.19,
+          "defence_rating_home": 33.56,
+          "overall_strength_home": 73.75,
+          "attack_rating_away": 4.12,
+          "defence_rating_away": 3.41,
+          "overall_strength_away": 7.54,
           "hga_points": 0,
-          "prior_matches_home": 54,
-          "prior_matches_away": 14,
+          "prior_matches_home": 55,
+          "prior_matches_away": 16,
           "cold_start_home": false,
           "cold_start_away": false,
           "cold_start_flag": false,
           "identified_matchup": true,
           "identification_status": "identified",
           "schedule_component": 1,
-          "projected_home_margin_raw": 61.55,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
+          "projected_home_margin_raw": 66.21,
+          "fixture_scraped_at": "2026-07-30 14:04:36 AEST",
           "source_url": "https://www.flashscore.com.au/match/netball/new-zealand-txv5fV4O/trinidad-tobago-d8EnZlV9/"
         },
         {
           "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
+          "generated_at": "2026-07-30 14:04:37 AEST",
+          "state_as_of_date": "2026-07-28",
           "config_id": "single_score_head_geometric_wls_decay_0.92",
           "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
           "total_config_id": "single_score_head_geometric_wls_decay_0.92",
@@ -938,34 +530,34 @@
           "competition": "Commonwealth Games",
           "home_team": "Australia",
           "away_team": "Northern Ireland",
-          "projected_home_score": 82.28,
-          "projected_away_score": 23.47,
-          "projected_home_margin": 58.8,
-          "projected_home_line": -58.8,
-          "projected_total": 105.75,
-          "attack_rating_home": 44.87,
-          "defence_rating_home": 36.01,
-          "overall_strength_home": 80.87,
-          "attack_rating_away": 9.28,
-          "defence_rating_away": 12.8,
-          "overall_strength_away": 22.07,
+          "projected_home_score": 83.6,
+          "projected_away_score": 23.12,
+          "projected_home_margin": 60.48,
+          "projected_home_line": -60.48,
+          "projected_total": 106.72,
+          "attack_rating_home": 45.8,
+          "defence_rating_home": 36.48,
+          "overall_strength_home": 82.28,
+          "attack_rating_away": 9.29,
+          "defence_rating_away": 12.51,
+          "overall_strength_away": 21.8,
           "hga_points": 0,
           "prior_matches_home": 54,
-          "prior_matches_away": 8,
+          "prior_matches_away": 10,
           "cold_start_home": false,
           "cold_start_away": false,
           "cold_start_flag": false,
           "identified_matchup": true,
           "identification_status": "identified",
           "schedule_component": 1,
-          "projected_home_margin_raw": 58.8,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
+          "projected_home_margin_raw": 60.48,
+          "fixture_scraped_at": "2026-07-30 14:04:36 AEST",
           "source_url": "https://www.flashscore.com.au/match/netball/australia-KSx9gkKU/northern-ireland-QJrTbO6g/"
         },
         {
           "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
+          "generated_at": "2026-07-30 14:04:37 AEST",
+          "state_as_of_date": "2026-07-28",
           "config_id": "single_score_head_geometric_wls_decay_0.92",
           "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
           "total_config_id": "single_score_head_geometric_wls_decay_0.92",
@@ -974,19 +566,19 @@
           "competition": "Commonwealth Games",
           "home_team": "Jamaica",
           "away_team": "Wales",
-          "projected_home_score": 70.19,
-          "projected_away_score": 44.51,
-          "projected_home_margin": 25.67,
-          "projected_home_line": -25.67,
-          "projected_total": 114.7,
-          "attack_rating_home": 31.36,
-          "defence_rating_home": 26.89,
-          "overall_strength_home": 58.25,
-          "attack_rating_away": 21.2,
-          "defence_rating_away": 11.38,
-          "overall_strength_away": 32.58,
+          "projected_home_score": 69.03,
+          "projected_away_score": 42.55,
+          "projected_home_margin": 26.48,
+          "projected_home_line": -26.48,
+          "projected_total": 111.57,
+          "attack_rating_home": 31.15,
+          "defence_rating_home": 28.85,
+          "overall_strength_home": 59.99,
+          "attack_rating_away": 21.08,
+          "defence_rating_away": 12.43,
+          "overall_strength_away": 33.52,
           "hga_points": 0,
-          "prior_matches_home": 33,
+          "prior_matches_home": 35,
           "prior_matches_away": 15,
           "cold_start_home": false,
           "cold_start_away": false,
@@ -994,14 +586,14 @@
           "identified_matchup": true,
           "identification_status": "identified",
           "schedule_component": 1,
-          "projected_home_margin_raw": 25.67,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
+          "projected_home_margin_raw": 26.48,
+          "fixture_scraped_at": "2026-07-30 14:04:36 AEST",
           "source_url": "https://www.flashscore.com.au/match/netball/jamaica-vFQwEb86/wales-WdqPa4im/"
         },
         {
           "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-07-27 17:27:45 AEST",
-          "state_as_of_date": "2026-07-26",
+          "generated_at": "2026-07-30 14:04:37 AEST",
+          "state_as_of_date": "2026-07-28",
           "config_id": "single_score_head_geometric_wls_decay_0.92",
           "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
           "total_config_id": "single_score_head_geometric_wls_decay_0.92",
@@ -1010,28 +602,28 @@
           "competition": "Commonwealth Games",
           "home_team": "England",
           "away_team": "South Africa",
-          "projected_home_score": 59.76,
-          "projected_away_score": 51.77,
-          "projected_home_margin": 7.99,
-          "projected_home_line": -7.99,
-          "projected_total": 111.53,
-          "attack_rating_home": 36.94,
-          "defence_rating_home": 31.34,
-          "overall_strength_home": 68.28,
-          "attack_rating_away": 32.91,
-          "defence_rating_away": 27.38,
-          "overall_strength_away": 60.29,
+          "projected_home_score": 60.2,
+          "projected_away_score": 53.55,
+          "projected_home_margin": 6.65,
+          "projected_home_line": -6.65,
+          "projected_total": 113.75,
+          "attack_rating_home": 38.18,
+          "defence_rating_home": 32.44,
+          "overall_strength_home": 70.62,
+          "attack_rating_away": 35.69,
+          "defence_rating_away": 28.29,
+          "overall_strength_away": 63.97,
           "hga_points": 0,
-          "prior_matches_home": 59,
-          "prior_matches_away": 39,
+          "prior_matches_home": 60,
+          "prior_matches_away": 41,
           "cold_start_home": false,
           "cold_start_away": false,
           "cold_start_flag": false,
           "identified_matchup": true,
           "identification_status": "identified",
           "schedule_component": 1,
-          "projected_home_margin_raw": 7.99,
-          "fixture_scraped_at": "2026-07-27 17:27:44 AEST",
+          "projected_home_margin_raw": 6.65,
+          "fixture_scraped_at": "2026-07-30 14:04:36 AEST",
           "source_url": "https://www.flashscore.com.au/match/netball/england-dOWvft6I/south-africa-8lVsDINC/"
         }
       ]
@@ -1041,9 +633,9 @@
       "model": "NRL anytime tryscorers",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-07-29 08:04:24",
-      "size": 17386,
-      "fileUrl": "/files/NRL_anytime_tryscorers.xlsx?v=1785276264-17386",
+      "modified": "2026-07-31 09:25:56",
+      "size": 17381,
+      "fileUrl": "/files/NRL_anytime_tryscorers.xlsx?v=1785453956-17381",
       "sheets": [
         "Anytime"
       ],
@@ -1070,7 +662,7 @@
           "Team": "north queensland cowboys",
           "Player": "Braidon Burns",
           "Starter": true,
-          "Anytimeodds": 2.19
+          "Anytimeodds": 2.12
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1081,7 +673,7 @@
           "Team": "north queensland cowboys",
           "Player": "Murray Taulagi",
           "Starter": true,
-          "Anytimeodds": 2.27
+          "Anytimeodds": 2.21
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1092,7 +684,7 @@
           "Team": "north queensland cowboys",
           "Player": "Scott Drinkwater",
           "Starter": true,
-          "Anytimeodds": 2.91
+          "Anytimeodds": 2.81
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1103,7 +695,7 @@
           "Team": "north queensland cowboys",
           "Player": "Tom Chester",
           "Starter": true,
-          "Anytimeodds": 3.63
+          "Anytimeodds": 3.5
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1114,7 +706,7 @@
           "Team": "north queensland cowboys",
           "Player": "Zac Laybutt",
           "Starter": true,
-          "Anytimeodds": 3.82
+          "Anytimeodds": 3.69
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1125,7 +717,7 @@
           "Team": "north queensland cowboys",
           "Player": "Heilum Luki",
           "Starter": true,
-          "Anytimeodds": 4.54
+          "Anytimeodds": 4.38
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1136,7 +728,7 @@
           "Team": "north queensland cowboys",
           "Player": "Jeremiah Nanai",
           "Starter": true,
-          "Anytimeodds": 4.54
+          "Anytimeodds": 4.38
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1147,7 +739,7 @@
           "Team": "north queensland cowboys",
           "Player": "Jake Clifford",
           "Starter": true,
-          "Anytimeodds": 4.78
+          "Anytimeodds": 4.61
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1158,7 +750,7 @@
           "Team": "north queensland cowboys",
           "Player": "Jaxon Purdue",
           "Starter": true,
-          "Anytimeodds": 7.6
+          "Anytimeodds": 7.31
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1169,7 +761,7 @@
           "Team": "north queensland cowboys",
           "Player": "Soni Luke",
           "Starter": true,
-          "Anytimeodds": 9.16
+          "Anytimeodds": 8.81
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1180,7 +772,7 @@
           "Team": "north queensland cowboys",
           "Player": "Reuben Cotter",
           "Starter": true,
-          "Anytimeodds": 9.82
+          "Anytimeodds": 9.45
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1191,7 +783,7 @@
           "Team": "north queensland cowboys",
           "Player": "Sam McIntyre",
           "Starter": false,
-          "Anytimeodds": 14.57
+          "Anytimeodds": 14.01
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1200,9 +792,9 @@
           "Home Team": "north queensland cowboys",
           "Away Team": "sydney roosters",
           "Team": "north queensland cowboys",
-          "Player": "Liam Sutton",
-          "Starter": false,
-          "Anytimeodds": 23.31
+          "Player": "Thomas Mikaele",
+          "Starter": true,
+          "Anytimeodds": 25.26
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1257,7 +849,7 @@
           "Team": "sydney roosters",
           "Player": "Robert Toia",
           "Starter": true,
-          "Anytimeodds": 3.31
+          "Anytimeodds": 3.32
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1301,7 +893,7 @@
           "Team": "sydney roosters",
           "Player": "Sam Walker",
           "Starter": true,
-          "Anytimeodds": 4.67
+          "Anytimeodds": 4.68
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1312,7 +904,7 @@
           "Team": "sydney roosters",
           "Player": "Reece Robson",
           "Starter": true,
-          "Anytimeodds": 8.22
+          "Anytimeodds": 8.23
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1323,7 +915,7 @@
           "Team": "sydney roosters",
           "Player": "Victor Radley",
           "Starter": true,
-          "Anytimeodds": 8.38
+          "Anytimeodds": 8.39
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1334,7 +926,29 @@
           "Team": "sydney roosters",
           "Player": "Connor Watson",
           "Starter": false,
-          "Anytimeodds": 10.62
+          "Anytimeodds": 10.63
+        },
+        {
+          "Date Local": "2026-07-30T00:00:00",
+          "Time Local": "19:50",
+          "Match ID": "sched-2026-20260730-1950-north-queensland-cowboys-sydney-roosters",
+          "Home Team": "north queensland cowboys",
+          "Away Team": "sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Salesi Foketi",
+          "Starter": true,
+          "Anytimeodds": 12.1
+        },
+        {
+          "Date Local": "2026-07-30T00:00:00",
+          "Time Local": "19:50",
+          "Match ID": "sched-2026-20260730-1950-north-queensland-cowboys-sydney-roosters",
+          "Home Team": "north queensland cowboys",
+          "Away Team": "sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Spencer Leniu",
+          "Starter": false,
+          "Anytimeodds": 12.5
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1345,18 +959,7 @@
           "Team": "sydney roosters",
           "Player": "Egan Butcher",
           "Starter": false,
-          "Anytimeodds": 12.8
-        },
-        {
-          "Date Local": "2026-07-30T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260730-1950-north-queensland-cowboys-sydney-roosters",
-          "Home Team": "north queensland cowboys",
-          "Away Team": "sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Spencer Leniu",
-          "Starter": true,
-          "Anytimeodds": 16.38
+          "Anytimeodds": 12.81
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1367,7 +970,7 @@
           "Team": "sydney roosters",
           "Player": "Naufahu Whyte",
           "Starter": true,
-          "Anytimeodds": 18.24
+          "Anytimeodds": 18.25
         },
         {
           "Date Local": "2026-07-30T00:00:00",
@@ -1378,18 +981,7 @@
           "Team": "sydney roosters",
           "Player": "Reece Foley",
           "Starter": false,
-          "Anytimeodds": 25.55
-        },
-        {
-          "Date Local": "2026-07-30T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260730-1950-north-queensland-cowboys-sydney-roosters",
-          "Home Team": "north queensland cowboys",
-          "Away Team": "sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Benaiah Ioelu",
-          "Starter": false,
-          "Anytimeodds": 25.55
+          "Anytimeodds": 25.57
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1400,7 +992,7 @@
           "Team": "dolphins",
           "Player": "Hamiso Tabuai-Fidow",
           "Starter": true,
-          "Anytimeodds": 1.99
+          "Anytimeodds": 2
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1411,7 +1003,7 @@
           "Team": "dolphins",
           "Player": "Selwyn Cobbo",
           "Starter": true,
-          "Anytimeodds": 2.06
+          "Anytimeodds": 2.08
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1422,7 +1014,7 @@
           "Team": "dolphins",
           "Player": "Jamayne Isaako",
           "Starter": true,
-          "Anytimeodds": 2.16
+          "Anytimeodds": 2.18
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1433,7 +1025,7 @@
           "Team": "dolphins",
           "Player": "Herbie Farnworth",
           "Starter": true,
-          "Anytimeodds": 2.47
+          "Anytimeodds": 2.49
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1444,7 +1036,7 @@
           "Team": "dolphins",
           "Player": "Jack Bostock",
           "Starter": true,
-          "Anytimeodds": 2.92
+          "Anytimeodds": 2.95
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1455,7 +1047,7 @@
           "Team": "dolphins",
           "Player": "Connelly Lemuelu",
           "Starter": true,
-          "Anytimeodds": 4.19
+          "Anytimeodds": 4.23
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1466,7 +1058,7 @@
           "Team": "dolphins",
           "Player": "Kulikefu Finefeuiaki",
           "Starter": true,
-          "Anytimeodds": 4.19
+          "Anytimeodds": 4.23
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1477,7 +1069,7 @@
           "Team": "dolphins",
           "Player": "Kodi Nikorima",
           "Starter": true,
-          "Anytimeodds": 5.17
+          "Anytimeodds": 5.22
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1488,7 +1080,7 @@
           "Team": "dolphins",
           "Player": "Brad Schneider",
           "Starter": true,
-          "Anytimeodds": 5.8
+          "Anytimeodds": 5.86
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1499,7 +1091,7 @@
           "Team": "dolphins",
           "Player": "Jeremy Marshall-King",
           "Starter": true,
-          "Anytimeodds": 6.67
+          "Anytimeodds": 6.73
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1510,7 +1102,7 @@
           "Team": "dolphins",
           "Player": "Ray Stone",
           "Starter": false,
-          "Anytimeodds": 9.23
+          "Anytimeodds": 9.32
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1521,7 +1113,7 @@
           "Team": "dolphins",
           "Player": "Max Plath",
           "Starter": false,
-          "Anytimeodds": 9.75
+          "Anytimeodds": 9.85
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1532,7 +1124,7 @@
           "Team": "dolphins",
           "Player": "Thomas Flegler",
           "Starter": true,
-          "Anytimeodds": 10.01
+          "Anytimeodds": 10.11
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1543,7 +1135,7 @@
           "Team": "dolphins",
           "Player": "Isaiya Katoa",
           "Starter": false,
-          "Anytimeodds": 10.91
+          "Anytimeodds": 11.01
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1554,7 +1146,7 @@
           "Team": "dolphins",
           "Player": "Kurt Donoghoe",
           "Starter": false,
-          "Anytimeodds": 14.55
+          "Anytimeodds": 14.7
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1565,7 +1157,7 @@
           "Team": "dolphins",
           "Player": "Felise Kaufusi",
           "Starter": false,
-          "Anytimeodds": 15.18
+          "Anytimeodds": 15.34
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1576,7 +1168,7 @@
           "Team": "dolphins",
           "Player": "Morgan Knowles",
           "Starter": true,
-          "Anytimeodds": 15.46
+          "Anytimeodds": 15.61
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1587,7 +1179,7 @@
           "Team": "dolphins",
           "Player": "Tom Gilbert",
           "Starter": false,
-          "Anytimeodds": 15.8
+          "Anytimeodds": 15.96
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1598,7 +1190,7 @@
           "Team": "st george-illawarra dragons",
           "Player": "Tyrell Sloan",
           "Starter": true,
-          "Anytimeodds": 2.87
+          "Anytimeodds": 2.73
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1609,7 +1201,7 @@
           "Team": "st george-illawarra dragons",
           "Player": "Setu Tu",
           "Starter": true,
-          "Anytimeodds": 3.05
+          "Anytimeodds": 2.9
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1620,7 +1212,7 @@
           "Team": "st george-illawarra dragons",
           "Player": "Mathew Feagai",
           "Starter": true,
-          "Anytimeodds": 3.14
+          "Anytimeodds": 2.98
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1631,7 +1223,7 @@
           "Team": "st george-illawarra dragons",
           "Player": "Valentine Holmes",
           "Starter": true,
-          "Anytimeodds": 3.36
+          "Anytimeodds": 3.19
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1642,7 +1234,7 @@
           "Team": "st george-illawarra dragons",
           "Player": "Clinton Gutherson",
           "Starter": true,
-          "Anytimeodds": 3.37
+          "Anytimeodds": 3.2
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1653,7 +1245,7 @@
           "Team": "st george-illawarra dragons",
           "Player": "Dylan Egan",
           "Starter": true,
-          "Anytimeodds": 5.34
+          "Anytimeodds": 5.04
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1664,7 +1256,7 @@
           "Team": "st george-illawarra dragons",
           "Player": "Hamish Stewart",
           "Starter": true,
-          "Anytimeodds": 5.34
+          "Anytimeodds": 5.04
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1675,7 +1267,7 @@
           "Team": "st george-illawarra dragons",
           "Player": "Jacob Liddle",
           "Starter": false,
-          "Anytimeodds": 7.06
+          "Anytimeodds": 6.66
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1686,7 +1278,7 @@
           "Team": "st george-illawarra dragons",
           "Player": "Kyle Flanagan",
           "Starter": true,
-          "Anytimeodds": 7.33
+          "Anytimeodds": 6.91
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1697,7 +1289,7 @@
           "Team": "st george-illawarra dragons",
           "Player": "Daniel Atkinson",
           "Starter": true,
-          "Anytimeodds": 7.82
+          "Anytimeodds": 7.37
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1708,7 +1300,7 @@
           "Team": "st george-illawarra dragons",
           "Player": "Damien Cook",
           "Starter": true,
-          "Anytimeodds": 8.76
+          "Anytimeodds": 8.26
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1719,7 +1311,7 @@
           "Team": "st george-illawarra dragons",
           "Player": "Luciano Leilua",
           "Starter": false,
-          "Anytimeodds": 12.72
+          "Anytimeodds": 11.98
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1730,7 +1322,7 @@
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Jethro Rinakama",
           "Starter": true,
-          "Anytimeodds": 2.67
+          "Anytimeodds": 2.62
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1741,7 +1333,7 @@
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Jacob Kiraz",
           "Starter": true,
-          "Anytimeodds": 3.2
+          "Anytimeodds": 3.15
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1752,7 +1344,7 @@
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Matt Burton",
           "Starter": true,
-          "Anytimeodds": 3.83
+          "Anytimeodds": 3.76
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1763,7 +1355,7 @@
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Connor Tracey",
           "Starter": true,
-          "Anytimeodds": 4.94
+          "Anytimeodds": 4.85
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1774,7 +1366,7 @@
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Enari Tuala",
           "Starter": true,
-          "Anytimeodds": 5.09
+          "Anytimeodds": 5
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1785,7 +1377,7 @@
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Viliame Kikau",
           "Starter": true,
-          "Anytimeodds": 5.41
+          "Anytimeodds": 5.31
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1796,7 +1388,7 @@
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Jacob Preston",
           "Starter": true,
-          "Anytimeodds": 5.41
+          "Anytimeodds": 5.31
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1807,7 +1399,7 @@
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Lachlan Galvin",
           "Starter": true,
-          "Anytimeodds": 6.44
+          "Anytimeodds": 6.31
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1818,7 +1410,7 @@
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Stephen Crichton",
           "Starter": true,
-          "Anytimeodds": 7.3
+          "Anytimeodds": 7.16
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1829,7 +1421,7 @@
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Jonathan Sua",
           "Starter": false,
-          "Anytimeodds": 13.56
+          "Anytimeodds": 13.29
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1840,7 +1432,7 @@
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Kurt Mann",
           "Starter": false,
-          "Anytimeodds": 13.96
+          "Anytimeodds": 13.68
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1851,7 +1443,7 @@
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Bailey Hayward",
           "Starter": true,
-          "Anytimeodds": 16.36
+          "Anytimeodds": 16.03
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1862,7 +1454,7 @@
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Josh Curran",
           "Starter": false,
-          "Anytimeodds": 17.05
+          "Anytimeodds": 16.71
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1873,7 +1465,7 @@
           "Team": "melbourne storm",
           "Player": "Moses Leo",
           "Starter": true,
-          "Anytimeodds": 2.15
+          "Anytimeodds": 2.12
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1884,7 +1476,7 @@
           "Team": "melbourne storm",
           "Player": "Sualauvi Faalogo",
           "Starter": true,
-          "Anytimeodds": 2.29
+          "Anytimeodds": 2.25
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1895,7 +1487,7 @@
           "Team": "melbourne storm",
           "Player": "Jahrome Hughes",
           "Starter": true,
-          "Anytimeodds": 3.21
+          "Anytimeodds": 3.15
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1906,7 +1498,7 @@
           "Team": "melbourne storm",
           "Player": "Siulagi Tuimalatu-Brown",
           "Starter": true,
-          "Anytimeodds": 3.25
+          "Anytimeodds": 3.19
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1917,7 +1509,7 @@
           "Team": "melbourne storm",
           "Player": "Manaia Waitere",
           "Starter": true,
-          "Anytimeodds": 3.48
+          "Anytimeodds": 3.41
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1928,7 +1520,7 @@
           "Team": "melbourne storm",
           "Player": "Tyran Wishart",
           "Starter": true,
-          "Anytimeodds": 3.75
+          "Anytimeodds": 3.68
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1939,7 +1531,7 @@
           "Team": "melbourne storm",
           "Player": "Cooper Clarke",
           "Starter": true,
-          "Anytimeodds": 4.27
+          "Anytimeodds": 4.19
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1950,7 +1542,7 @@
           "Team": "melbourne storm",
           "Player": "Oryn Keeley",
           "Starter": true,
-          "Anytimeodds": 4.27
+          "Anytimeodds": 4.19
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1961,7 +1553,7 @@
           "Team": "melbourne storm",
           "Player": "Nick Meaney",
           "Starter": true,
-          "Anytimeodds": 4.37
+          "Anytimeodds": 4.29
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1972,7 +1564,7 @@
           "Team": "melbourne storm",
           "Player": "Trent Toelau",
           "Starter": true,
-          "Anytimeodds": 7.18
+          "Anytimeodds": 7.03
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1983,7 +1575,7 @@
           "Team": "melbourne storm",
           "Player": "Josh King",
           "Starter": true,
-          "Anytimeodds": 9.22
+          "Anytimeodds": 9.03
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -1994,7 +1586,7 @@
           "Team": "melbourne storm",
           "Player": "Stefano Utoikamanu",
           "Starter": true,
-          "Anytimeodds": 11.02
+          "Anytimeodds": 10.79
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -2005,7 +1597,7 @@
           "Team": "melbourne storm",
           "Player": "Joe Chan",
           "Starter": false,
-          "Anytimeodds": 16.27
+          "Anytimeodds": 15.92
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -2016,7 +1608,7 @@
           "Team": "melbourne storm",
           "Player": "Shawn Blore",
           "Starter": false,
-          "Anytimeodds": 18.03
+          "Anytimeodds": 17.64
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -2027,7 +1619,7 @@
           "Team": "melbourne storm",
           "Player": "Trent Loiero",
           "Starter": true,
-          "Anytimeodds": 18.78
+          "Anytimeodds": 18.38
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -2038,7 +1630,7 @@
           "Team": "melbourne storm",
           "Player": "Hayden Watson",
           "Starter": false,
-          "Anytimeodds": 20.27
+          "Anytimeodds": 19.84
         },
         {
           "Date Local": "2026-07-31T00:00:00",
@@ -2049,7 +1641,7 @@
           "Team": "melbourne storm",
           "Player": "Angus Hinchey",
           "Starter": false,
-          "Anytimeodds": 20.27
+          "Anytimeodds": 19.84
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2742,7 +2334,7 @@
           "Team": "brisbane broncos",
           "Player": "Reece Walsh",
           "Starter": true,
-          "Anytimeodds": 2.67
+          "Anytimeodds": 2.66
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2775,7 +2367,7 @@
           "Team": "brisbane broncos",
           "Player": "Xavier Willison",
           "Starter": true,
-          "Anytimeodds": 4.25
+          "Anytimeodds": 4.24
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2786,7 +2378,7 @@
           "Team": "brisbane broncos",
           "Player": "Jordan Riki",
           "Starter": true,
-          "Anytimeodds": 4.25
+          "Anytimeodds": 4.24
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2797,7 +2389,7 @@
           "Team": "brisbane broncos",
           "Player": "Deine Mariner",
           "Starter": true,
-          "Anytimeodds": 4.67
+          "Anytimeodds": 4.66
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2808,7 +2400,7 @@
           "Team": "brisbane broncos",
           "Player": "Adam Reynolds",
           "Starter": true,
-          "Anytimeodds": 5.45
+          "Anytimeodds": 5.44
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2819,7 +2411,7 @@
           "Team": "brisbane broncos",
           "Player": "Billy Walters",
           "Starter": false,
-          "Anytimeodds": 7.01
+          "Anytimeodds": 6.99
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2830,7 +2422,7 @@
           "Team": "brisbane broncos",
           "Player": "Ben Talty",
           "Starter": false,
-          "Anytimeodds": 7.38
+          "Anytimeodds": 7.36
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2841,7 +2433,7 @@
           "Team": "brisbane broncos",
           "Player": "Cory Paix",
           "Starter": true,
-          "Anytimeodds": 7.76
+          "Anytimeodds": 7.74
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2852,7 +2444,7 @@
           "Team": "brisbane broncos",
           "Player": "Gehamat Shibasaki",
           "Starter": false,
-          "Anytimeodds": 9.22
+          "Anytimeodds": 9.2
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2863,7 +2455,7 @@
           "Team": "brisbane broncos",
           "Player": "Payne Haas",
           "Starter": true,
-          "Anytimeodds": 12.59
+          "Anytimeodds": 12.55
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2874,7 +2466,7 @@
           "Team": "brisbane broncos",
           "Player": "Va'a Semu",
           "Starter": true,
-          "Anytimeodds": 14.04
+          "Anytimeodds": 14
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2896,7 +2488,7 @@
           "Team": "newcastle knights",
           "Player": "Greg Marzhew",
           "Starter": true,
-          "Anytimeodds": 2.65
+          "Anytimeodds": 2.64
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2907,7 +2499,7 @@
           "Team": "newcastle knights",
           "Player": "Fletcher Sharpe",
           "Starter": true,
-          "Anytimeodds": 3.3
+          "Anytimeodds": 3.29
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2918,7 +2510,7 @@
           "Team": "newcastle knights",
           "Player": "Bradman Best",
           "Starter": true,
-          "Anytimeodds": 3.88
+          "Anytimeodds": 3.87
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2929,7 +2521,7 @@
           "Team": "newcastle knights",
           "Player": "Kalyn Ponga",
           "Starter": true,
-          "Anytimeodds": 4.63
+          "Anytimeodds": 4.61
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2940,7 +2532,7 @@
           "Team": "newcastle knights",
           "Player": "Jermaine McEwen",
           "Starter": true,
-          "Anytimeodds": 5.22
+          "Anytimeodds": 5.2
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2951,7 +2543,7 @@
           "Team": "newcastle knights",
           "Player": "Francis Manuleleua",
           "Starter": true,
-          "Anytimeodds": 5.22
+          "Anytimeodds": 5.2
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2962,7 +2554,7 @@
           "Team": "newcastle knights",
           "Player": "Dane Gagai",
           "Starter": true,
-          "Anytimeodds": 6.76
+          "Anytimeodds": 6.73
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2973,7 +2565,7 @@
           "Team": "newcastle knights",
           "Player": "Trey Mooney",
           "Starter": true,
-          "Anytimeodds": 6.94
+          "Anytimeodds": 6.92
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2984,7 +2576,7 @@
           "Team": "newcastle knights",
           "Player": "Sandon Smith",
           "Starter": true,
-          "Anytimeodds": 7.54
+          "Anytimeodds": 7.52
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -2995,7 +2587,7 @@
           "Team": "newcastle knights",
           "Player": "Harrison Graham",
           "Starter": false,
-          "Anytimeodds": 10.44
+          "Anytimeodds": 10.4
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -3006,7 +2598,7 @@
           "Team": "newcastle knights",
           "Player": "Fletcher Hunt",
           "Starter": false,
-          "Anytimeodds": 11.38
+          "Anytimeodds": 11.33
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -3017,7 +2609,7 @@
           "Team": "newcastle knights",
           "Player": "Phoenix Crossland",
           "Starter": true,
-          "Anytimeodds": 11.53
+          "Anytimeodds": 11.48
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -3028,7 +2620,7 @@
           "Team": "newcastle knights",
           "Player": "Tyson Frizell",
           "Starter": false,
-          "Anytimeodds": 16.31
+          "Anytimeodds": 16.25
         },
         {
           "Date Local": "2026-08-01T00:00:00",
@@ -3039,7 +2631,7 @@
           "Team": "newcastle knights",
           "Player": "Brodie Jones",
           "Starter": false,
-          "Anytimeodds": 18.38
+          "Anytimeodds": 18.31
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3424,7 +3016,7 @@
           "Team": "parramatta eels",
           "Player": "Jordan Samrani",
           "Starter": true,
-          "Anytimeodds": 3.73
+          "Anytimeodds": 3.72
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3446,7 +3038,7 @@
           "Team": "parramatta eels",
           "Player": "Kelma Tuilagi",
           "Starter": true,
-          "Anytimeodds": 4.2
+          "Anytimeodds": 4.19
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3457,7 +3049,7 @@
           "Team": "parramatta eels",
           "Player": "Kitione Kautoga",
           "Starter": true,
-          "Anytimeodds": 4.2
+          "Anytimeodds": 4.19
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3468,7 +3060,7 @@
           "Team": "parramatta eels",
           "Player": "Ronald Volkman",
           "Starter": true,
-          "Anytimeodds": 4.63
+          "Anytimeodds": 4.62
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3479,7 +3071,7 @@
           "Team": "parramatta eels",
           "Player": "Tallyn Da Silva",
           "Starter": true,
-          "Anytimeodds": 4.94
+          "Anytimeodds": 4.93
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3490,7 +3082,7 @@
           "Team": "parramatta eels",
           "Player": "Jack De Belin",
           "Starter": true,
-          "Anytimeodds": 10.19
+          "Anytimeodds": 10.17
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3501,7 +3093,7 @@
           "Team": "parramatta eels",
           "Player": "Junior Paulo",
           "Starter": false,
-          "Anytimeodds": 12.09
+          "Anytimeodds": 12.07
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3512,7 +3104,7 @@
           "Team": "parramatta eels",
           "Player": "Joash Papalii",
           "Starter": false,
-          "Anytimeodds": 12.48
+          "Anytimeodds": 12.46
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3523,7 +3115,7 @@
           "Team": "parramatta eels",
           "Player": "Dylan Walker",
           "Starter": false,
-          "Anytimeodds": 13.57
+          "Anytimeodds": 13.55
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3534,7 +3126,7 @@
           "Team": "parramatta eels",
           "Player": "Jack Williams",
           "Starter": true,
-          "Anytimeodds": 13.64
+          "Anytimeodds": 13.62
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3545,7 +3137,7 @@
           "Team": "parramatta eels",
           "Player": "Sam Tuivaiti",
           "Starter": true,
-          "Anytimeodds": 15.89
+          "Anytimeodds": 15.86
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3589,7 +3181,7 @@
           "Team": "wests tigers",
           "Player": "Junior Tupou",
           "Starter": true,
-          "Anytimeodds": 3.13
+          "Anytimeodds": 3.12
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3600,7 +3192,7 @@
           "Team": "wests tigers",
           "Player": "Samuela Fainu",
           "Starter": true,
-          "Anytimeodds": 3.84
+          "Anytimeodds": 3.83
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3611,7 +3203,7 @@
           "Team": "wests tigers",
           "Player": "Sione Fainu",
           "Starter": true,
-          "Anytimeodds": 3.84
+          "Anytimeodds": 3.83
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3633,7 +3225,7 @@
           "Team": "wests tigers",
           "Player": "Patrick Herbert",
           "Starter": true,
-          "Anytimeodds": 5.26
+          "Anytimeodds": 5.25
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3644,7 +3236,7 @@
           "Team": "wests tigers",
           "Player": "Jarome Luai",
           "Starter": true,
-          "Anytimeodds": 5.37
+          "Anytimeodds": 5.36
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3655,7 +3247,7 @@
           "Team": "wests tigers",
           "Player": "Apisai Koroisau",
           "Starter": true,
-          "Anytimeodds": 5.38
+          "Anytimeodds": 5.37
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3666,7 +3258,7 @@
           "Team": "wests tigers",
           "Player": "Terrell May",
           "Starter": true,
-          "Anytimeodds": 10.03
+          "Anytimeodds": 10.01
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3677,7 +3269,7 @@
           "Team": "wests tigers",
           "Player": "Fonua Pole",
           "Starter": true,
-          "Anytimeodds": 10.15
+          "Anytimeodds": 10.13
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3688,7 +3280,7 @@
           "Team": "wests tigers",
           "Player": "Alex Seyfarth",
           "Starter": false,
-          "Anytimeodds": 15.9
+          "Anytimeodds": 15.87
         },
         {
           "Date Local": "2026-08-02T00:00:00",
@@ -3699,7 +3291,7 @@
           "Team": "wests tigers",
           "Player": "Bunty Afoa",
           "Starter": false,
-          "Anytimeodds": 18.25
+          "Anytimeodds": 18.22
         }
       ]
     },
@@ -3708,9 +3300,9 @@
       "model": "NRL futures sim",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-07-29 08:05:58",
-      "size": 14648,
-      "fileUrl": "/files/NRL_futures_sim.xlsx?v=1785276358-14648",
+      "modified": "2026-07-31 09:26:31",
+      "size": 14647,
+      "fileUrl": "/files/NRL_futures_sim.xlsx?v=1785453991-14647",
       "sheets": [
         "futures",
         "remaining_games",
@@ -4104,9 +3696,9 @@
       "model": "NRL try channel matchups",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-07-29 08:04:23",
-      "size": 29133,
-      "fileUrl": "/files/NRL_try_channel_matchups.xlsx?v=1785276263-29133",
+      "modified": "2026-07-31 09:25:56",
+      "size": 30324,
+      "fileUrl": "/files/NRL_try_channel_matchups.xlsx?v=1785453956-30324",
       "sheets": [
         "Heatmap",
         "Detail",
@@ -4138,7 +3730,7 @@
         "right_wing_def",
         "focus_players"
       ],
-      "rowCount": 16,
+      "rowCount": 18,
       "rows": [
         {
           "date_local": "2026-07-30T00:00:00",
@@ -4523,6 +4115,54 @@
           "right_wing_off": 0.77,
           "right_wing_def": 1.07,
           "focus_players": "left_centre 1.18 (off 1.12 x def 1.06): Starford To'a; right_centre 1.51 (off 1.31 x def 1.15): Heamasi Makasini"
+        },
+        {
+          "date_local": "2026-08-06T00:00:00",
+          "time_local": "19:50",
+          "matchup": "gold coast titans v north queensland cowboys",
+          "attack_team": "north queensland cowboys",
+          "defence_team": "gold coast titans",
+          "side": "away",
+          "left_wing": 1.1,
+          "left_wing_off": 1.14,
+          "left_wing_def": 0.96,
+          "left_centre": 0.67,
+          "left_centre_off": 0.71,
+          "left_centre_def": 0.94,
+          "fullback": 1.19,
+          "fullback_off": 1.07,
+          "fullback_def": 1.11,
+          "right_centre": 1.44,
+          "right_centre_off": 1.4,
+          "right_centre_def": 1.03,
+          "right_wing": 1.07,
+          "right_wing_off": 1.07,
+          "right_wing_def": 1,
+          "focus_players": "fullback 1.19 (off 1.07 x def 1.11): Scott Drinkwater; right_centre 1.44 (off 1.40 x def 1.03): Zac Laybutt"
+        },
+        {
+          "date_local": "2026-08-06T00:00:00",
+          "time_local": "19:50",
+          "matchup": "gold coast titans v north queensland cowboys",
+          "attack_team": "gold coast titans",
+          "defence_team": "north queensland cowboys",
+          "side": "home",
+          "left_wing": 1.4,
+          "left_wing_off": 1.23,
+          "left_wing_def": 1.14,
+          "left_centre": 0.96,
+          "left_centre_off": 0.97,
+          "left_centre_def": 0.98,
+          "fullback": 0.6,
+          "fullback_off": 0.71,
+          "fullback_def": 0.84,
+          "right_centre": 0.94,
+          "right_centre_off": 1,
+          "right_centre_def": 0.95,
+          "right_wing": 0.85,
+          "right_wing_off": 0.95,
+          "right_wing_def": 0.89,
+          "focus_players": "left_wing 1.40 (off 1.23 x def 1.14): Phillip Sami"
         }
       ]
     },
@@ -4531,9 +4171,9 @@
       "model": "NRL upcoming projections",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-07-29 08:04:24",
-      "size": 11660,
-      "fileUrl": "/files/NRL_upcoming_projections.xlsx?v=1785276264-11660",
+      "modified": "2026-07-31 09:25:57",
+      "size": 12125,
+      "fileUrl": "/files/NRL_upcoming_projections.xlsx?v=1785453957-12125",
       "sheets": [
         "LeanMain"
       ],
@@ -4552,14 +4192,14 @@
         "Venue",
         "Forecast Rain mm"
       ],
-      "rowCount": 32,
+      "rowCount": 36,
       "rows": [
         {
           "Date": "2026-07-30T00:00:00",
           "Time": "19:50",
           "Home Team": "north queensland cowboys",
           "Away Team": "sydney roosters",
-          "Projected Line": 3.2,
+          "Projected Line": 2.9,
           "Projected Total": 43.9,
           "Market Period": "FT",
           "Projection Type": "No Rain",
@@ -4573,7 +4213,7 @@
           "Time": "19:50",
           "Home Team": "north queensland cowboys",
           "Away Team": "sydney roosters",
-          "Projected Line": 3.2,
+          "Projected Line": 2.9,
           "Projected Total": 43.9,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted",
@@ -4587,7 +4227,7 @@
           "Time": "19:50",
           "Home Team": "north queensland cowboys",
           "Away Team": "sydney roosters",
-          "Projected Line": 1.6,
+          "Projected Line": 1.4,
           "Projected Total": 22,
           "Market Period": "1H",
           "Projection Type": "No Rain",
@@ -4601,7 +4241,7 @@
           "Time": "19:50",
           "Home Team": "north queensland cowboys",
           "Away Team": "sydney roosters",
-          "Projected Line": 1.6,
+          "Projected Line": 1.4,
           "Projected Total": 22,
           "Market Period": "1H",
           "Projection Type": "Weather Adjusted",
@@ -4615,63 +4255,63 @@
           "Time": "18:00",
           "Home Team": "st george-illawarra dragons",
           "Away Team": "dolphins",
-          "Projected Line": 9.2,
+          "Projected Line": 7.7,
           "Projected Total": 45,
           "Market Period": "FT",
           "Projection Type": "No Rain",
           "Closing Market Line": 10,
           "Closing Market Total": 49.5,
           "Venue": "WIN Stadium, Wollongong",
-          "Forecast Rain mm": 0.2
+          "Forecast Rain mm": 0
         },
         {
           "Date": "2026-07-31T00:00:00",
           "Time": "18:00",
           "Home Team": "st george-illawarra dragons",
           "Away Team": "dolphins",
-          "Projected Line": 9.2,
-          "Projected Total": 44.9,
+          "Projected Line": 7.7,
+          "Projected Total": 45,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted",
           "Closing Market Line": 10,
           "Closing Market Total": 49.5,
           "Venue": "WIN Stadium, Wollongong",
-          "Forecast Rain mm": 0.2
+          "Forecast Rain mm": 0
         },
         {
           "Date": "2026-07-31T00:00:00",
           "Time": "18:00",
           "Home Team": "st george-illawarra dragons",
           "Away Team": "dolphins",
-          "Projected Line": 4.6,
+          "Projected Line": 3.9,
           "Projected Total": 22.5,
           "Market Period": "1H",
           "Projection Type": "No Rain",
           "Closing Market Line": 10,
           "Closing Market Total": 49.5,
           "Venue": "WIN Stadium, Wollongong",
-          "Forecast Rain mm": 0.2
+          "Forecast Rain mm": 0
         },
         {
           "Date": "2026-07-31T00:00:00",
           "Time": "18:00",
           "Home Team": "st george-illawarra dragons",
           "Away Team": "dolphins",
-          "Projected Line": 4.6,
+          "Projected Line": 3.9,
           "Projected Total": 22.5,
           "Market Period": "1H",
           "Projection Type": "Weather Adjusted",
           "Closing Market Line": 10,
           "Closing Market Total": 49.5,
           "Venue": "WIN Stadium, Wollongong",
-          "Forecast Rain mm": 0.2
+          "Forecast Rain mm": 0
         },
         {
           "Date": "2026-07-31T00:00:00",
           "Time": "20:00",
           "Home Team": "melbourne storm",
           "Away Team": "canterbury-bankstown bulldogs",
-          "Projected Line": -7.4,
+          "Projected Line": -7.5,
           "Projected Total": 39,
           "Market Period": "FT",
           "Projection Type": "No Rain",
@@ -4685,7 +4325,7 @@
           "Time": "20:00",
           "Home Team": "melbourne storm",
           "Away Team": "canterbury-bankstown bulldogs",
-          "Projected Line": -7.4,
+          "Projected Line": -7.5,
           "Projected Total": 39,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted",
@@ -4846,7 +4486,7 @@
           "Closing Market Line": null,
           "Closing Market Total": null,
           "Venue": "Suncorp Stadium, Brisbane",
-          "Forecast Rain mm": 0.8
+          "Forecast Rain mm": 0.5
         },
         {
           "Date": "2026-08-01T00:00:00",
@@ -4854,13 +4494,13 @@
           "Home Team": "brisbane broncos",
           "Away Team": "newcastle knights",
           "Projected Line": -4.6,
-          "Projected Total": 42.9,
+          "Projected Total": 43.1,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted",
           "Closing Market Line": null,
           "Closing Market Total": null,
           "Venue": "Suncorp Stadium, Brisbane",
-          "Forecast Rain mm": 0.8
+          "Forecast Rain mm": 0.5
         },
         {
           "Date": "2026-08-01T00:00:00",
@@ -4874,7 +4514,7 @@
           "Closing Market Line": null,
           "Closing Market Total": null,
           "Venue": "Suncorp Stadium, Brisbane",
-          "Forecast Rain mm": 0.8
+          "Forecast Rain mm": 0.5
         },
         {
           "Date": "2026-08-01T00:00:00",
@@ -4888,7 +4528,7 @@
           "Closing Market Line": null,
           "Closing Market Total": null,
           "Venue": "Suncorp Stadium, Brisbane",
-          "Forecast Rain mm": 0.8
+          "Forecast Rain mm": 0.5
         },
         {
           "Date": "2026-08-02T00:00:00",
@@ -4958,7 +4598,7 @@
           "Closing Market Line": 2.5,
           "Closing Market Total": 48.5,
           "Venue": "Leichhardt Oval, Sydney",
-          "Forecast Rain mm": 0.1
+          "Forecast Rain mm": 0
         },
         {
           "Date": "2026-08-02T00:00:00",
@@ -4966,13 +4606,13 @@
           "Home Team": "wests tigers",
           "Away Team": "parramatta eels",
           "Projected Line": 2.1,
-          "Projected Total": 44.3,
+          "Projected Total": 44.4,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted",
           "Closing Market Line": 2.5,
           "Closing Market Total": 48.5,
           "Venue": "Leichhardt Oval, Sydney",
-          "Forecast Rain mm": 0.1
+          "Forecast Rain mm": 0
         },
         {
           "Date": "2026-08-02T00:00:00",
@@ -4986,7 +4626,7 @@
           "Closing Market Line": 2.5,
           "Closing Market Total": 48.5,
           "Venue": "Leichhardt Oval, Sydney",
-          "Forecast Rain mm": 0.1
+          "Forecast Rain mm": 0
         },
         {
           "Date": "2026-08-02T00:00:00",
@@ -4994,13 +4634,69 @@
           "Home Team": "wests tigers",
           "Away Team": "parramatta eels",
           "Projected Line": 1,
-          "Projected Total": 22.1,
+          "Projected Total": 22.2,
           "Market Period": "1H",
           "Projection Type": "Weather Adjusted",
           "Closing Market Line": 2.5,
           "Closing Market Total": 48.5,
           "Venue": "Leichhardt Oval, Sydney",
-          "Forecast Rain mm": 0.1
+          "Forecast Rain mm": 0
+        },
+        {
+          "Date": "2026-08-06T00:00:00",
+          "Time": "19:50",
+          "Home Team": "gold coast titans",
+          "Away Team": "north queensland cowboys",
+          "Projected Line": 0.7,
+          "Projected Total": 45.7,
+          "Market Period": "FT",
+          "Projection Type": "No Rain",
+          "Closing Market Line": null,
+          "Closing Market Total": null,
+          "Venue": "Cbus Super Stadium, Gold Coast",
+          "Forecast Rain mm": 0
+        },
+        {
+          "Date": "2026-08-06T00:00:00",
+          "Time": "19:50",
+          "Home Team": "gold coast titans",
+          "Away Team": "north queensland cowboys",
+          "Projected Line": 0.7,
+          "Projected Total": 45.7,
+          "Market Period": "FT",
+          "Projection Type": "Weather Adjusted",
+          "Closing Market Line": null,
+          "Closing Market Total": null,
+          "Venue": "Cbus Super Stadium, Gold Coast",
+          "Forecast Rain mm": 0
+        },
+        {
+          "Date": "2026-08-06T00:00:00",
+          "Time": "19:50",
+          "Home Team": "gold coast titans",
+          "Away Team": "north queensland cowboys",
+          "Projected Line": 0.3,
+          "Projected Total": 22.9,
+          "Market Period": "1H",
+          "Projection Type": "No Rain",
+          "Closing Market Line": null,
+          "Closing Market Total": null,
+          "Venue": "Cbus Super Stadium, Gold Coast",
+          "Forecast Rain mm": 0
+        },
+        {
+          "Date": "2026-08-06T00:00:00",
+          "Time": "19:50",
+          "Home Team": "gold coast titans",
+          "Away Team": "north queensland cowboys",
+          "Projected Line": 0.3,
+          "Projected Total": 22.9,
+          "Market Period": "1H",
+          "Projection Type": "Weather Adjusted",
+          "Closing Market Line": null,
+          "Closing Market Total": null,
+          "Venue": "Cbus Super Stadium, Gold Coast",
+          "Forecast Rain mm": 0
         }
       ]
     },
@@ -5009,9 +4705,9 @@
       "model": "NRL round summary",
       "sport": "NRL",
       "extension": "html",
-      "modified": "2026-07-29 08:05:19",
-      "size": 1014621,
-      "fileUrl": "/files/NRL_weekly_betting_report.html?v=1785276319-1014621",
+      "modified": "2026-07-31 09:26:18",
+      "size": 1016947,
+      "fileUrl": "/files/NRL_weekly_betting_report.html?v=1785453978-1016947",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
@@ -5023,9 +4719,9 @@
       "model": "NRLW futures sim",
       "sport": "NRLW",
       "extension": "xlsx",
-      "modified": "2026-07-29 08:16:42",
-      "size": 13451,
-      "fileUrl": "/files/NRLW_futures_sim.xlsx?v=1785277002-13451",
+      "modified": "2026-07-31 09:29:38",
+      "size": 13442,
+      "fileUrl": "/files/NRLW_futures_sim.xlsx?v=1785454178-13442",
       "sheets": [
         "futures",
         "remaining_games",
@@ -5066,16 +4762,16 @@
           "make_top4_fair_odds": 1.38,
           "miss_top4_pct": 27.7,
           "miss_top4_fair_odds": 3.61,
-          "make_top8_pct": 97.6,
+          "make_top8_pct": 97.7,
           "make_top8_fair_odds": 1.02,
-          "miss_top8_pct": 2.4,
-          "miss_top8_fair_odds": 42.46,
-          "minor_premiership_pct": 21,
-          "minor_premiership_fair_odds": 4.76,
-          "make_grand_final_pct": 41.4,
-          "make_grand_final_fair_odds": 2.42,
-          "premiership_pct": 23.6,
-          "premiership_fair_odds": 4.24,
+          "miss_top8_pct": 2.3,
+          "miss_top8_fair_odds": 42.83,
+          "minor_premiership_pct": 21.2,
+          "minor_premiership_fair_odds": 4.72,
+          "make_grand_final_pct": 41.5,
+          "make_grand_final_fair_odds": 2.41,
+          "premiership_pct": 23.7,
+          "premiership_fair_odds": 4.23,
           "venue": null
         },
         {
@@ -5084,42 +4780,20 @@
           "current_wins": 3,
           "projected_wins": 7,
           "simulated_avg_wins": 7,
-          "make_top4_pct": 74.3,
+          "make_top4_pct": 74.2,
           "make_top4_fair_odds": 1.35,
-          "miss_top4_pct": 25.7,
-          "miss_top4_fair_odds": 3.89,
-          "make_top8_pct": 97.8,
+          "miss_top4_pct": 25.8,
+          "miss_top4_fair_odds": 3.88,
+          "make_top8_pct": 97.7,
           "make_top8_fair_odds": 1.02,
-          "miss_top8_pct": 2.2,
-          "miss_top8_fair_odds": 44.54,
-          "minor_premiership_pct": 22,
-          "minor_premiership_fair_odds": 4.54,
+          "miss_top8_pct": 2.3,
+          "miss_top8_fair_odds": 44.25,
+          "minor_premiership_pct": 22.1,
+          "minor_premiership_fair_odds": 4.53,
           "make_grand_final_pct": 38.8,
-          "make_grand_final_fair_odds": 2.58,
+          "make_grand_final_fair_odds": 2.57,
           "premiership_pct": 20.3,
-          "premiership_fair_odds": 4.93,
-          "venue": null
-        },
-        {
-          "team_key": "sydneyroosters",
-          "team": "Sydney Roosters",
-          "current_wins": 4,
-          "projected_wins": 7.5,
-          "simulated_avg_wins": 7.5,
-          "make_top4_pct": 79.2,
-          "make_top4_fair_odds": 1.26,
-          "miss_top4_pct": 20.8,
-          "miss_top4_fair_odds": 4.81,
-          "make_top8_pct": 98.7,
-          "make_top8_fair_odds": 1.01,
-          "miss_top8_pct": 1.3,
-          "miss_top8_fair_odds": 79.68,
-          "minor_premiership_pct": 25,
-          "minor_premiership_fair_odds": 4.01,
-          "make_grand_final_pct": 36.5,
-          "make_grand_final_fair_odds": 2.74,
-          "premiership_pct": 16.7,
-          "premiership_fair_odds": 6,
+          "premiership_fair_odds": 4.94,
           "venue": null
         },
         {
@@ -5128,20 +4802,42 @@
           "current_wins": 4,
           "projected_wins": 7.3,
           "simulated_avg_wins": 7.3,
-          "make_top4_pct": 75.2,
+          "make_top4_pct": 75,
           "make_top4_fair_odds": 1.33,
-          "miss_top4_pct": 24.8,
-          "miss_top4_fair_odds": 4.04,
+          "miss_top4_pct": 25,
+          "miss_top4_fair_odds": 4,
           "make_top8_pct": 98.1,
           "make_top8_fair_odds": 1.02,
           "miss_top8_pct": 1.9,
-          "miss_top8_fair_odds": 53.76,
+          "miss_top8_fair_odds": 52.91,
           "minor_premiership_pct": 25.9,
           "minor_premiership_fair_odds": 3.86,
           "make_grand_final_pct": 35.7,
           "make_grand_final_fair_odds": 2.8,
           "premiership_pct": 16.5,
-          "premiership_fair_odds": 6.07,
+          "premiership_fair_odds": 6.08,
+          "venue": null
+        },
+        {
+          "team_key": "sydneyroosters",
+          "team": "Sydney Roosters",
+          "current_wins": 4,
+          "projected_wins": 7.4,
+          "simulated_avg_wins": 7.4,
+          "make_top4_pct": 78.8,
+          "make_top4_fair_odds": 1.27,
+          "miss_top4_pct": 21.2,
+          "miss_top4_fair_odds": 4.71,
+          "make_top8_pct": 98.7,
+          "make_top8_fair_odds": 1.01,
+          "miss_top8_pct": 1.3,
+          "miss_top8_fair_odds": 76.92,
+          "minor_premiership_pct": 24.6,
+          "minor_premiership_fair_odds": 4.07,
+          "make_grand_final_pct": 36,
+          "make_grand_final_fair_odds": 2.77,
+          "premiership_pct": 16.4,
+          "premiership_fair_odds": 6.11,
           "venue": null
         },
         {
@@ -5150,42 +4846,42 @@
           "current_wins": 2,
           "projected_wins": 5.7,
           "simulated_avg_wins": 5.7,
-          "make_top4_pct": 25.6,
-          "make_top4_fair_odds": 3.9,
-          "miss_top4_pct": 74.4,
-          "miss_top4_fair_odds": 1.34,
+          "make_top4_pct": 25.7,
+          "make_top4_fair_odds": 3.89,
+          "miss_top4_pct": 74.3,
+          "miss_top4_fair_odds": 1.35,
           "make_top8_pct": 84.4,
-          "make_top8_fair_odds": 1.18,
+          "make_top8_fair_odds": 1.19,
           "miss_top8_pct": 15.6,
-          "miss_top8_fair_odds": 6.42,
-          "minor_premiership_pct": 1.2,
-          "minor_premiership_fair_odds": 80,
+          "miss_top8_fair_odds": 6.39,
+          "minor_premiership_pct": 1.3,
+          "minor_premiership_fair_odds": 79.68,
           "make_grand_final_pct": 14.5,
-          "make_grand_final_fair_odds": 6.88,
+          "make_grand_final_fair_odds": 6.89,
           "premiership_pct": 7.7,
-          "premiership_fair_odds": 12.95,
+          "premiership_fair_odds": 12.94,
           "venue": null
         },
         {
           "team_key": "weststigers",
           "team": "Wests Tigers",
           "current_wins": 2,
-          "projected_wins": 5.8,
-          "simulated_avg_wins": 5.8,
-          "make_top4_pct": 25.4,
-          "make_top4_fair_odds": 3.93,
-          "miss_top4_pct": 74.6,
-          "miss_top4_fair_odds": 1.34,
-          "make_top8_pct": 77.4,
-          "make_top8_fair_odds": 1.29,
-          "miss_top8_pct": 22.6,
-          "miss_top8_fair_odds": 4.43,
+          "projected_wins": 5.9,
+          "simulated_avg_wins": 5.9,
+          "make_top4_pct": 25.9,
+          "make_top4_fair_odds": 3.86,
+          "miss_top4_pct": 74.1,
+          "miss_top4_fair_odds": 1.35,
+          "make_top8_pct": 77.8,
+          "make_top8_fair_odds": 1.28,
+          "miss_top8_pct": 22.2,
+          "miss_top8_fair_odds": 4.51,
           "minor_premiership_pct": 1.9,
-          "minor_premiership_fair_odds": 53.91,
-          "make_grand_final_pct": 11.6,
-          "make_grand_final_fair_odds": 8.59,
-          "premiership_pct": 5.7,
-          "premiership_fair_odds": 17.56,
+          "minor_premiership_fair_odds": 51.95,
+          "make_grand_final_pct": 12,
+          "make_grand_final_fair_odds": 8.33,
+          "premiership_pct": 5.9,
+          "premiership_fair_odds": 16.84,
           "venue": null
         },
         {
@@ -5194,18 +4890,18 @@
           "current_wins": 2,
           "projected_wins": 5.5,
           "simulated_avg_wins": 5.5,
-          "make_top4_pct": 28.5,
-          "make_top4_fair_odds": 3.51,
-          "miss_top4_pct": 71.5,
-          "miss_top4_fair_odds": 1.4,
-          "make_top8_pct": 80.9,
+          "make_top4_pct": 28.3,
+          "make_top4_fair_odds": 3.54,
+          "miss_top4_pct": 71.7,
+          "miss_top4_fair_odds": 1.39,
+          "make_top8_pct": 80.8,
           "make_top8_fair_odds": 1.24,
-          "miss_top8_pct": 19.1,
-          "miss_top8_fair_odds": 5.24,
+          "miss_top8_pct": 19.2,
+          "miss_top8_fair_odds": 5.2,
           "minor_premiership_pct": 2.3,
-          "minor_premiership_fair_odds": 43.01,
+          "minor_premiership_fair_odds": 42.92,
           "make_grand_final_pct": 12,
-          "make_grand_final_fair_odds": 8.3,
+          "make_grand_final_fair_odds": 8.36,
           "premiership_pct": 5.4,
           "premiership_fair_odds": 18.47,
           "venue": null
@@ -5214,22 +4910,22 @@
           "team_key": "stgeorgeillawarradragons",
           "team": "St George-Illawarra Dragons",
           "current_wins": 1,
-          "projected_wins": 4.9,
+          "projected_wins": 5,
           "simulated_avg_wins": 4.9,
-          "make_top4_pct": 8.9,
-          "make_top4_fair_odds": 11.18,
-          "miss_top4_pct": 91.1,
+          "make_top4_pct": 9.2,
+          "make_top4_fair_odds": 10.83,
+          "miss_top4_pct": 90.8,
           "miss_top4_fair_odds": 1.1,
-          "make_top8_pct": 56.1,
-          "make_top8_fair_odds": 1.78,
-          "miss_top8_pct": 43.9,
-          "miss_top8_fair_odds": 2.28,
+          "make_top8_pct": 56.7,
+          "make_top8_fair_odds": 1.76,
+          "miss_top8_pct": 43.3,
+          "miss_top8_fair_odds": 2.31,
           "minor_premiership_pct": 0.4,
-          "minor_premiership_fair_odds": 263.16,
-          "make_grand_final_pct": 5,
-          "make_grand_final_fair_odds": 20.16,
-          "premiership_pct": 2.3,
-          "premiership_fair_odds": 42.74,
+          "minor_premiership_fair_odds": 246.91,
+          "make_grand_final_pct": 5.1,
+          "make_grand_final_fair_odds": 19.63,
+          "premiership_pct": 2.4,
+          "premiership_fair_odds": 41.67,
           "venue": null
         },
         {
@@ -5239,19 +4935,19 @@
           "projected_wins": 4.4,
           "simulated_avg_wins": 4.4,
           "make_top4_pct": 6.4,
-          "make_top4_fair_odds": 15.7,
+          "make_top4_fair_odds": 15.69,
           "miss_top4_pct": 93.6,
           "miss_top4_fair_odds": 1.07,
-          "make_top8_pct": 46.4,
-          "make_top8_fair_odds": 2.16,
-          "miss_top8_pct": 53.6,
+          "make_top8_pct": 46.2,
+          "make_top8_fair_odds": 2.17,
+          "miss_top8_pct": 53.8,
           "miss_top8_fair_odds": 1.86,
-          "minor_premiership_pct": 0.3,
-          "minor_premiership_fair_odds": 384.62,
+          "minor_premiership_pct": 0.2,
+          "minor_premiership_fair_odds": 400,
           "make_grand_final_pct": 2.3,
-          "make_grand_final_fair_odds": 43.2,
+          "make_grand_final_fair_odds": 43.1,
           "premiership_pct": 0.9,
-          "premiership_fair_odds": 116.28,
+          "premiership_fair_odds": 116.96,
           "venue": null
         },
         {
@@ -5260,20 +4956,20 @@
           "current_wins": 0,
           "projected_wins": 3.8,
           "simulated_avg_wins": 3.8,
-          "make_top4_pct": 1.8,
-          "make_top4_fair_odds": 54.79,
-          "miss_top4_pct": 98.2,
+          "make_top4_pct": 1.9,
+          "make_top4_fair_odds": 52.77,
+          "miss_top4_pct": 98.1,
           "miss_top4_fair_odds": 1.02,
-          "make_top8_pct": 26.7,
-          "make_top8_fair_odds": 3.75,
-          "miss_top8_pct": 73.3,
-          "miss_top8_fair_odds": 1.36,
+          "make_top8_pct": 26.9,
+          "make_top8_fair_odds": 3.72,
+          "miss_top8_pct": 73.1,
+          "miss_top8_fair_odds": 1.37,
           "minor_premiership_pct": 0,
           "minor_premiership_fair_odds": 5000,
           "make_grand_final_pct": 1.1,
-          "make_grand_final_fair_odds": 93.9,
+          "make_grand_final_fair_odds": 91.74,
           "premiership_pct": 0.5,
-          "premiership_fair_odds": 194.17,
+          "premiership_fair_odds": 198.02,
           "venue": null
         },
         {
@@ -5282,20 +4978,20 @@
           "current_wins": 1,
           "projected_wins": 3.6,
           "simulated_avg_wins": 3.7,
-          "make_top4_pct": 2.1,
-          "make_top4_fair_odds": 48.66,
-          "miss_top4_pct": 97.9,
+          "make_top4_pct": 2,
+          "make_top4_fair_odds": 50.13,
+          "miss_top4_pct": 98,
           "miss_top4_fair_odds": 1.02,
-          "make_top8_pct": 25.3,
-          "make_top8_fair_odds": 3.95,
-          "miss_top8_pct": 74.7,
-          "miss_top8_fair_odds": 1.34,
+          "make_top8_pct": 24.6,
+          "make_top8_fair_odds": 4.07,
+          "miss_top8_pct": 75.4,
+          "miss_top8_fair_odds": 1.33,
           "minor_premiership_pct": 0.1,
           "minor_premiership_fair_odds": 1818.18,
           "make_grand_final_pct": 0.8,
-          "make_grand_final_fair_odds": 121.95,
+          "make_grand_final_fair_odds": 129.87,
           "premiership_pct": 0.3,
-          "premiership_fair_odds": 322.58,
+          "premiership_fair_odds": 333.33,
           "venue": null
         },
         {
@@ -5305,19 +5001,19 @@
           "projected_wins": 3.3,
           "simulated_avg_wins": 3.3,
           "make_top4_pct": 0.3,
-          "make_top4_fair_odds": 370.37,
+          "make_top4_fair_odds": 377.36,
           "miss_top4_pct": 99.7,
           "miss_top4_fair_odds": 1,
           "make_top8_pct": 10.5,
-          "make_top8_fair_odds": 9.5,
+          "make_top8_fair_odds": 9.51,
           "miss_top8_pct": 89.5,
           "miss_top8_fair_odds": 1.12,
           "minor_premiership_pct": 0,
           "minor_premiership_fair_odds": null,
-          "make_grand_final_pct": 0.3,
-          "make_grand_final_fair_odds": 392.16,
+          "make_grand_final_pct": 0.2,
+          "make_grand_final_fair_odds": 408.16,
           "premiership_pct": 0.1,
-          "premiership_fair_odds": 869.57,
+          "premiership_fair_odds": 952.38,
           "venue": null
         }
       ]
@@ -5327,9 +5023,9 @@
       "model": "NRLW upcoming projections",
       "sport": "NRLW",
       "extension": "xlsx",
-      "modified": "2026-07-29 08:16:31",
-      "size": 8238,
-      "fileUrl": "/files/NRLW_upcoming_projections.xlsx?v=1785276991-8238",
+      "modified": "2026-07-31 09:29:27",
+      "size": 8244,
+      "fileUrl": "/files/NRLW_upcoming_projections.xlsx?v=1785454167-8244",
       "sheets": [
         "Projections"
       ],
@@ -5356,8 +5052,8 @@
           "Venue": null,
           "Projection Type": "No Rain (Primary)",
           "Forecast Rain mm": 0,
-          "Home Line": -6.7201,
-          "Total": 42.3662,
+          "Home Line": -6.7009,
+          "Total": 42.4011,
           "Weather Applied": "No - primary model"
         },
         {
@@ -5368,8 +5064,8 @@
           "Venue": null,
           "Projection Type": "Weather Adjusted (Reference)",
           "Forecast Rain mm": 0,
-          "Home Line": -6.7201,
-          "Total": 42.3662,
+          "Home Line": -6.7009,
+          "Total": 42.4011,
           "Weather Applied": "Reference only - heuristic -0.3 total pts/mm, cap +/-6"
         },
         {
@@ -5380,8 +5076,8 @@
           "Venue": null,
           "Projection Type": "No Rain (Primary)",
           "Forecast Rain mm": 0,
-          "Home Line": -7.2917,
-          "Total": 40.0536,
+          "Home Line": -7.6503,
+          "Total": 40.0303,
           "Weather Applied": "No - primary model"
         },
         {
@@ -5392,8 +5088,8 @@
           "Venue": null,
           "Projection Type": "Weather Adjusted (Reference)",
           "Forecast Rain mm": 0,
-          "Home Line": -7.2917,
-          "Total": 40.0536,
+          "Home Line": -7.6503,
+          "Total": 40.0303,
           "Weather Applied": "Reference only - heuristic -0.3 total pts/mm, cap +/-6"
         },
         {
@@ -5404,8 +5100,8 @@
           "Venue": null,
           "Projection Type": "No Rain (Primary)",
           "Forecast Rain mm": 0,
-          "Home Line": 17.1491,
-          "Total": 40.1456,
+          "Home Line": 17.5656,
+          "Total": 40.1082,
           "Weather Applied": "No - primary model"
         },
         {
@@ -5416,8 +5112,8 @@
           "Venue": null,
           "Projection Type": "Weather Adjusted (Reference)",
           "Forecast Rain mm": 0,
-          "Home Line": 17.1491,
-          "Total": 40.1456,
+          "Home Line": 17.5656,
+          "Total": 40.1082,
           "Weather Applied": "Reference only - heuristic -0.3 total pts/mm, cap +/-6"
         },
         {
@@ -5428,8 +5124,8 @@
           "Venue": null,
           "Projection Type": "No Rain (Primary)",
           "Forecast Rain mm": 0,
-          "Home Line": 18.1348,
-          "Total": 45.3647,
+          "Home Line": 18.2061,
+          "Total": 45.38,
           "Weather Applied": "No - primary model"
         },
         {
@@ -5440,8 +5136,8 @@
           "Venue": null,
           "Projection Type": "Weather Adjusted (Reference)",
           "Forecast Rain mm": 0,
-          "Home Line": 18.1348,
-          "Total": 45.3647,
+          "Home Line": 18.2061,
+          "Total": 45.38,
           "Weather Applied": "Reference only - heuristic -0.3 total pts/mm, cap +/-6"
         },
         {
@@ -5452,8 +5148,8 @@
           "Venue": null,
           "Projection Type": "No Rain (Primary)",
           "Forecast Rain mm": 0,
-          "Home Line": -0.7779,
-          "Total": 41.4417,
+          "Home Line": -0.7884,
+          "Total": 41.458,
           "Weather Applied": "No - primary model"
         },
         {
@@ -5464,8 +5160,8 @@
           "Venue": null,
           "Projection Type": "Weather Adjusted (Reference)",
           "Forecast Rain mm": 0,
-          "Home Line": -0.7779,
-          "Total": 41.4417,
+          "Home Line": -0.7884,
+          "Total": 41.458,
           "Weather Applied": "Reference only - heuristic -0.3 total pts/mm, cap +/-6"
         },
         {
@@ -5476,8 +5172,8 @@
           "Venue": null,
           "Projection Type": "No Rain (Primary)",
           "Forecast Rain mm": 0,
-          "Home Line": 9.4714,
-          "Total": 39.7045,
+          "Home Line": 9.6001,
+          "Total": 39.7382,
           "Weather Applied": "No - primary model"
         },
         {
@@ -5488,8 +5184,8 @@
           "Venue": null,
           "Projection Type": "Weather Adjusted (Reference)",
           "Forecast Rain mm": 0,
-          "Home Line": 9.4714,
-          "Total": 39.7045,
+          "Home Line": 9.6001,
+          "Total": 39.7382,
           "Weather Applied": "Reference only - heuristic -0.3 total pts/mm, cap +/-6"
         }
       ]
@@ -5499,9 +5195,9 @@
       "model": "NRLW round summary",
       "sport": "NRLW",
       "extension": "html",
-      "modified": "2026-07-29 08:16:42",
+      "modified": "2026-07-31 09:29:38",
       "size": 11297,
-      "fileUrl": "/files/NRLW_weekly_betting_report.html?v=1785277002-11297",
+      "fileUrl": "/files/NRLW_weekly_betting_report.html?v=1785454178-11297",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
