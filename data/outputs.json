@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04 06:54:19",
+  "generatedAt": "2026-08-04 07:08:33",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -131,350 +131,6 @@
       "rows": []
     },
     {
-      "file": "Commonwealth_3x3_upcoming_projections.xlsx",
-      "model": "Commonwealth 3x3 upcoming projections",
-      "sport": "Model",
-      "extension": "xlsx",
-      "modified": "2026-07-29 08:21:09",
-      "size": 14123,
-      "fileUrl": "/files/Commonwealth_3x3_upcoming_projections.xlsx?v=1785277269-14123",
-      "sheets": [
-        "Projections",
-        "Config",
-        "Backtest",
-        "H2H_Calibration"
-      ],
-      "defaultSheet": "Projections",
-      "columns": [
-        "model_version",
-        "config_id",
-        "state_as_of_date",
-        "match_date",
-        "match_time",
-        "competition",
-        "gender",
-        "home_team",
-        "away_team",
-        "projected_home_score",
-        "projected_away_score",
-        "projected_home_margin",
-        "projected_home_line",
-        "projected_total",
-        "home_win_probability",
-        "away_win_probability",
-        "fair_home_odds",
-        "fair_away_odds",
-        "prior_matches_home",
-        "prior_matches_away",
-        "cold_start_home",
-        "cold_start_away",
-        "cold_start_flag",
-        "latent_home_score_10m",
-        "latent_away_score_10m",
-        "latent_home_margin",
-        "latent_total_10m",
-        "simulation_score_sd",
-        "latent_total_attack_defence",
-        "latent_total_direct",
-        "latent_total_margin_scaled",
-        "total_head",
-        "simulation_max_home_score",
-        "simulation_max_away_score",
-        "rule_simulations",
-        "hga_points",
-        "scraped_at",
-        "source_url"
-      ],
-      "rowCount": 4,
-      "rows": [
-        {
-          "model_version": "commonwealth_3x3_scorereg_v1.3.0",
-          "config_id": "men_m0.95_t0.95",
-          "state_as_of_date": "2026-07-27",
-          "match_date": "2026-07-29T00:00:00",
-          "match_time": "20:30",
-          "competition": "Commonwealth Games 3x3 Men",
-          "gender": "Men",
-          "home_team": "England",
-          "away_team": "New Zealand",
-          "projected_home_score": 17.31,
-          "projected_away_score": 16.661,
-          "projected_home_margin": 0.649,
-          "projected_home_line": -0.649,
-          "projected_total": 33.972,
-          "home_win_probability": 0.563,
-          "away_win_probability": 0.437,
-          "fair_home_odds": 1.775,
-          "fair_away_odds": 2.29,
-          "prior_matches_home": 13,
-          "prior_matches_away": 43,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "latent_home_score_10m": 17.4349,
-          "latent_away_score_10m": 16.7829,
-          "latent_home_margin": 0.6519,
-          "latent_total_10m": 34.2178,
-          "simulation_score_sd": 2.9578,
-          "latent_total_attack_defence": 34.2178,
-          "latent_total_direct": 34.2178,
-          "latent_total_margin_scaled": 38.2173,
-          "total_head": "direct_total",
-          "simulation_max_home_score": 22,
-          "simulation_max_away_score": 22,
-          "rule_simulations": 25000,
-          "hga_points": 0,
-          "scraped_at": "2026-07-29 08:20:36 AEST",
-          "source_url": "https://www.flashscore.com.au/basketball/world/commonwealth-games-3x3/"
-        },
-        {
-          "model_version": "commonwealth_3x3_scorereg_v1.3.0",
-          "config_id": "men_m0.95_t0.95",
-          "state_as_of_date": "2026-07-27",
-          "match_date": "2026-07-29T00:00:00",
-          "match_time": "21:00",
-          "competition": "Commonwealth Games 3x3 Men",
-          "gender": "Men",
-          "home_team": "Australia",
-          "away_team": "Scotland",
-          "projected_home_score": 18.907,
-          "projected_away_score": 13.719,
-          "projected_home_margin": 5.188,
-          "projected_home_line": -5.188,
-          "projected_total": 32.626,
-          "home_win_probability": 0.9,
-          "away_win_probability": 0.1,
-          "fair_home_odds": 1.111,
-          "fair_away_odds": 10.04,
-          "prior_matches_home": 50,
-          "prior_matches_away": 10,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "latent_home_score_10m": 19.4558,
-          "latent_away_score_10m": 13.9524,
-          "latent_home_margin": 5.5034,
-          "latent_total_10m": 33.4082,
-          "simulation_score_sd": 2.9578,
-          "latent_total_attack_defence": 33.4082,
-          "latent_total_direct": 33.4082,
-          "latent_total_margin_scaled": 33.7877,
-          "total_head": "direct_total",
-          "simulation_max_home_score": 22,
-          "simulation_max_away_score": 22,
-          "rule_simulations": 25000,
-          "hga_points": 0,
-          "scraped_at": "2026-07-29 08:20:36 AEST",
-          "source_url": "https://www.flashscore.com.au/basketball/world/commonwealth-games-3x3/"
-        },
-        {
-          "model_version": "commonwealth_3x3_scorereg_v1.3.0",
-          "config_id": "women_m0.95_t0.95",
-          "state_as_of_date": "2026-07-27",
-          "match_date": "2026-07-29T00:00:00",
-          "match_time": "22:30",
-          "competition": "Commonwealth Games 3x3 Women",
-          "gender": "Women",
-          "home_team": "New Zealand",
-          "away_team": "Uganda",
-          "projected_home_score": 18.193,
-          "projected_away_score": 11.229,
-          "projected_home_margin": 6.964,
-          "projected_home_line": -6.964,
-          "projected_total": 29.423,
-          "home_win_probability": 0.942,
-          "away_win_probability": 0.058,
-          "fair_home_odds": 1.061,
-          "fair_away_odds": 17.277,
-          "prior_matches_home": 32,
-          "prior_matches_away": 16,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "latent_home_score_10m": 18.6124,
-          "latent_away_score_10m": 11.3999,
-          "latent_home_margin": 7.2126,
-          "latent_total_10m": 30.0123,
-          "simulation_score_sd": 3.2267,
-          "latent_total_attack_defence": 30.0123,
-          "latent_total_direct": 30.0123,
-          "latent_total_margin_scaled": 30.2854,
-          "total_head": "direct_total",
-          "simulation_max_home_score": 22,
-          "simulation_max_away_score": 22,
-          "rule_simulations": 25000,
-          "hga_points": 0,
-          "scraped_at": "2026-07-29 08:20:36 AEST",
-          "source_url": "https://www.flashscore.com.au/basketball/world/commonwealth-games-3x3-women/"
-        },
-        {
-          "model_version": "commonwealth_3x3_scorereg_v1.3.0",
-          "config_id": "women_m0.95_t0.95",
-          "state_as_of_date": "2026-07-27",
-          "match_date": "2026-07-29T00:00:00",
-          "match_time": "23:00",
-          "competition": "Commonwealth Games 3x3 Women",
-          "gender": "Women",
-          "home_team": "Australia",
-          "away_team": "Jamaica",
-          "projected_home_score": 20.156,
-          "projected_away_score": 10.042,
-          "projected_home_margin": 10.114,
-          "projected_home_line": -10.114,
-          "projected_total": 30.197,
-          "home_win_probability": 0.991,
-          "away_win_probability": 0.009,
-          "fair_home_odds": 1.009,
-          "fair_away_odds": 113.122,
-          "prior_matches_home": 69,
-          "prior_matches_away": 14,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "latent_home_score_10m": 21.891,
-          "latent_away_score_10m": 10.7973,
-          "latent_home_margin": 11.0936,
-          "latent_total_10m": 32.6883,
-          "simulation_score_sd": 3.2267,
-          "latent_total_attack_defence": 32.6883,
-          "latent_total_direct": 32.6883,
-          "latent_total_margin_scaled": 31.2349,
-          "total_head": "direct_total",
-          "simulation_max_home_score": 22,
-          "simulation_max_away_score": 22,
-          "rule_simulations": 25000,
-          "hga_points": 0,
-          "scraped_at": "2026-07-29 08:20:36 AEST",
-          "source_url": "https://www.flashscore.com.au/basketball/world/commonwealth-games-3x3-women/"
-        }
-      ]
-    },
-    {
-      "file": "Commonwealth_Netball_upcoming_projections.xlsx",
-      "model": "Commonwealth Netball upcoming projections",
-      "sport": "Model",
-      "extension": "xlsx",
-      "modified": "2026-08-02 14:49:29",
-      "size": 9851,
-      "fileUrl": "/files/Commonwealth_Netball_upcoming_projections.xlsx?v=1785646169-9851",
-      "sheets": [
-        "Projections",
-        "Configuration"
-      ],
-      "defaultSheet": "Projections",
-      "columns": [
-        "model_version",
-        "generated_at",
-        "state_as_of_date",
-        "config_id",
-        "margin_config_id",
-        "total_config_id",
-        "match_datetime_local",
-        "match_date",
-        "competition",
-        "home_team",
-        "away_team",
-        "projected_home_score",
-        "projected_away_score",
-        "projected_home_margin",
-        "projected_home_line",
-        "projected_total",
-        "attack_rating_home",
-        "defence_rating_home",
-        "overall_strength_home",
-        "attack_rating_away",
-        "defence_rating_away",
-        "overall_strength_away",
-        "hga_points",
-        "prior_matches_home",
-        "prior_matches_away",
-        "cold_start_home",
-        "cold_start_away",
-        "cold_start_flag",
-        "identified_matchup",
-        "identification_status",
-        "schedule_component",
-        "projected_home_margin_raw",
-        "fixture_scraped_at",
-        "source_url"
-      ],
-      "rowCount": 2,
-      "rows": [
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-08-02 14:49:28 AEST",
-          "state_as_of_date": "2026-08-02",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "02-Aug-2026 18:00",
-          "match_date": "2026-08-02T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "Australia",
-          "away_team": "England",
-          "projected_home_score": 61.9,
-          "projected_away_score": 53.24,
-          "projected_home_margin": 8.65,
-          "projected_home_line": -8.65,
-          "projected_total": 115.14,
-          "attack_rating_home": 43.5,
-          "defence_rating_home": 36.12,
-          "overall_strength_home": 79.61,
-          "attack_rating_away": 39.06,
-          "defence_rating_away": 31.9,
-          "overall_strength_away": 70.96,
-          "hga_points": 0,
-          "prior_matches_home": 58,
-          "prior_matches_away": 63,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": 8.65,
-          "fixture_scraped_at": "2026-08-02 14:49:28 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/australia-KSx9gkKU/england-dOWvft6I/"
-        },
-        {
-          "model_version": "commonwealth_netball_winston_scorereg_v2",
-          "generated_at": "2026-08-02 14:49:28 AEST",
-          "state_as_of_date": "2026-08-02",
-          "config_id": "single_score_head_geometric_wls_decay_0.92",
-          "margin_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "total_config_id": "single_score_head_geometric_wls_decay_0.92",
-          "match_datetime_local": "02-Aug-2026 22:00",
-          "match_date": "2026-08-02T00:00:00",
-          "competition": "Commonwealth Games",
-          "home_team": "Jamaica",
-          "away_team": "New Zealand",
-          "projected_home_score": 47.77,
-          "projected_away_score": 57.87,
-          "projected_home_margin": -10.11,
-          "projected_home_line": 10.11,
-          "projected_total": 105.64,
-          "attack_rating_home": 30.04,
-          "defence_rating_home": 30.9,
-          "overall_strength_home": 60.94,
-          "attack_rating_away": 38.46,
-          "defence_rating_away": 32.58,
-          "overall_strength_away": 71.04,
-          "hga_points": 0,
-          "prior_matches_home": 38,
-          "prior_matches_away": 59,
-          "cold_start_home": false,
-          "cold_start_away": false,
-          "cold_start_flag": false,
-          "identified_matchup": true,
-          "identification_status": "identified",
-          "schedule_component": 1,
-          "projected_home_margin_raw": -10.11,
-          "fixture_scraped_at": "2026-08-02 14:49:28 AEST",
-          "source_url": "https://www.flashscore.com.au/match/netball/jamaica-vFQwEb86/new-zealand-txv5fV4O/"
-        }
-      ]
-    },
-    {
       "file": "NRL_anytime_tryscorers.xlsx",
       "model": "NRL anytime tryscorers",
       "sport": "NRL",
@@ -487,2866 +143,1566 @@
       ],
       "defaultSheet": "Anytime",
       "columns": [
-        "Date Local",
-        "Time Local",
-        "Match ID",
-        "Home Team",
-        "Away Team",
+        "Game",
         "Team",
         "Player",
-        "Starter",
-        "Anytimeodds"
+        "Price"
       ],
       "rowCount": 259,
       "rows": [
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "Ronaldo Mulitalo",
-          "Starter": true,
-          "Anytimeodds": 1.9
+          "Price": 1.9
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "Sione Katoa",
-          "Starter": true,
-          "Anytimeodds": 2.11
+          "Price": 2.11
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "William Kennedy",
-          "Starter": true,
-          "Anytimeodds": 3.02
+          "Price": 3.02
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "Mawene Hiroti",
-          "Starter": true,
-          "Anytimeodds": 3.07
+          "Price": 3.07
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "Kayal Iro",
-          "Starter": true,
-          "Anytimeodds": 3.13
+          "Price": 3.13
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "Braydon Trindall",
-          "Starter": true,
-          "Anytimeodds": 3.13
+          "Price": 3.13
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "Briton Nikora",
-          "Starter": true,
-          "Anytimeodds": 3.59
+          "Price": 3.59
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "Teig Wilton",
-          "Starter": true,
-          "Anytimeodds": 3.89
+          "Price": 3.89
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "Nicholas Hynes",
-          "Starter": true,
-          "Anytimeodds": 4.61
+          "Price": 4.61
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "Addin Fonua-Blake",
-          "Starter": true,
-          "Anytimeodds": 5.39
+          "Price": 5.39
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "Thomas Hazelton",
-          "Starter": true,
-          "Anytimeodds": 5.54
+          "Price": 5.54
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "Blayke Brailey",
-          "Starter": true,
-          "Anytimeodds": 10.57
+          "Price": 10.57
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "Cameron McInnes",
-          "Starter": true,
-          "Anytimeodds": 12.07
+          "Price": 12.07
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "cronulla-sutherland sharks",
           "Player": "Tuku Hau Tapuha",
-          "Starter": false,
-          "Anytimeodds": 13.57
+          "Price": 13.57
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Alex Johnston",
-          "Starter": true,
-          "Anytimeodds": 1.87
+          "Price": 1.87
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Campbell Graham",
-          "Starter": true,
-          "Anytimeodds": 2.75
+          "Price": 2.75
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Tallis Duncan",
-          "Starter": true,
-          "Anytimeodds": 3.05
+          "Price": 3.05
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Cody Walker",
-          "Starter": true,
-          "Anytimeodds": 3.75
+          "Price": 3.75
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Matthew Dufty",
-          "Starter": true,
-          "Anytimeodds": 4.48
+          "Price": 4.48
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Jack Wighton",
-          "Starter": true,
-          "Anytimeodds": 4.48
+          "Price": 4.48
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "David Fifita",
-          "Starter": true,
-          "Anytimeodds": 4.96
+          "Price": 4.96
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Euan Aitken",
-          "Starter": true,
-          "Anytimeodds": 7.1
+          "Price": 7.1
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Ashton Ward",
-          "Starter": true,
-          "Anytimeodds": 7.58
+          "Price": 7.58
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Keaon Koloamatangi",
-          "Starter": true,
-          "Anytimeodds": 8.13
+          "Price": 8.13
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Cameron Murray",
-          "Starter": true,
-          "Anytimeodds": 8.14
+          "Price": 8.14
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Brandon Smith",
-          "Starter": true,
-          "Anytimeodds": 12.46
+          "Price": 12.46
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "John Radel",
-          "Starter": false,
-          "Anytimeodds": 13.24
+          "Price": 13.24
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Tevita Tatola",
-          "Starter": true,
-          "Anytimeodds": 13.37
+          "Price": 13.37
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Jye Gray",
-          "Starter": false,
-          "Anytimeodds": 14.74
+          "Price": 14.74
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260802-1400-cronulla-sutherland-sharks-south-sydney-rabbitohs",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
+          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
           "Team": "south sydney rabbitohs",
           "Player": "Jamie Humphreys",
-          "Starter": false,
-          "Anytimeodds": 16.24
+          "Price": 16.24
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Josh Addo-Carr",
-          "Starter": true,
-          "Anytimeodds": 1.88
+          "Price": 1.88
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Brian Kelly",
-          "Starter": true,
-          "Anytimeodds": 2.25
+          "Price": 2.25
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Isaiah Iongi",
-          "Starter": true,
-          "Anytimeodds": 2.72
+          "Price": 2.72
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Araz Nanva",
-          "Starter": true,
-          "Anytimeodds": 2.98
+          "Price": 2.98
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Jordan Samrani",
-          "Starter": true,
-          "Anytimeodds": 3.28
+          "Price": 3.28
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Ronald Volkman",
-          "Starter": true,
-          "Anytimeodds": 4.06
+          "Price": 4.06
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Jonah Pezet",
-          "Starter": true,
-          "Anytimeodds": 4.06
+          "Price": 4.06
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Tallyn Da Silva",
-          "Starter": true,
-          "Anytimeodds": 4.33
+          "Price": 4.33
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Kitione Kautoga",
-          "Starter": true,
-          "Anytimeodds": 5.55
+          "Price": 5.55
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Kelma Tuilagi",
-          "Starter": true,
-          "Anytimeodds": 6.84
+          "Price": 6.84
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Jack De Belin",
-          "Starter": true,
-          "Anytimeodds": 8.83
+          "Price": 8.83
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Joash Papalii",
-          "Starter": false,
-          "Anytimeodds": 10.8
+          "Price": 10.8
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Dylan Walker",
-          "Starter": false,
-          "Anytimeodds": 11.75
+          "Price": 11.75
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Jack Williams",
-          "Starter": true,
-          "Anytimeodds": 11.8
+          "Price": 11.8
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "parramatta eels",
           "Player": "Sam Tuivaiti",
-          "Starter": true,
-          "Anytimeodds": 13.74
+          "Price": 13.74
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Jeral Skelton",
-          "Starter": true,
-          "Anytimeodds": 2.43
+          "Price": 2.43
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Sunia Turuva",
-          "Starter": true,
-          "Anytimeodds": 2.65
+          "Price": 2.65
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Jahream Bula",
-          "Starter": true,
-          "Anytimeodds": 2.93
+          "Price": 2.93
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Adam Doueihi",
-          "Starter": true,
-          "Anytimeodds": 3.33
+          "Price": 3.33
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Starford To'a",
-          "Starter": true,
-          "Anytimeodds": 3.69
+          "Price": 3.69
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Heamasi Makasini",
-          "Starter": true,
-          "Anytimeodds": 4.68
+          "Price": 4.68
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Samuela Fainu",
-          "Starter": true,
-          "Anytimeodds": 5.1
+          "Price": 5.1
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Sione Fainu",
-          "Starter": true,
-          "Anytimeodds": 5.64
+          "Price": 5.64
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Jarome Luai",
-          "Starter": true,
-          "Anytimeodds": 5.77
+          "Price": 5.77
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Alex Seyfarth",
-          "Starter": true,
-          "Anytimeodds": 7.25
+          "Price": 7.25
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Jared Haywood",
-          "Starter": true,
-          "Anytimeodds": 8.22
+          "Price": 8.22
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Terrell May",
-          "Starter": true,
-          "Anytimeodds": 10.81
+          "Price": 10.81
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Apisai Koroisau",
-          "Starter": false,
-          "Anytimeodds": 12.47
+          "Price": 12.47
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Latu Fainu",
-          "Starter": false,
-          "Anytimeodds": 15.56
+          "Price": 15.56
         },
         {
-          "Date Local": "2026-08-02T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260802-1605-wests-tigers-parramatta-eels",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
+          "Game": "parramatta eels at wests tigers",
           "Team": "wests tigers",
           "Player": "Fonua Pole",
-          "Starter": false,
-          "Anytimeodds": 17.82
+          "Price": 17.82
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Phillip Sami",
-          "Starter": true,
-          "Anytimeodds": 2.03
+          "Price": 2.03
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Dean Ieremia",
-          "Starter": true,
-          "Anytimeodds": 2.81
+          "Price": 2.81
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Jojo Fifita",
-          "Starter": true,
-          "Anytimeodds": 3.08
+          "Price": 3.08
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Jayden Campbell",
-          "Starter": true,
-          "Anytimeodds": 3.32
+          "Price": 3.32
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Keano Kini",
-          "Starter": true,
-          "Anytimeodds": 3.57
+          "Price": 3.57
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Arama Hau",
-          "Starter": true,
-          "Anytimeodds": 3.63
+          "Price": 3.63
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Beau Fermor",
-          "Starter": true,
-          "Anytimeodds": 3.64
+          "Price": 3.64
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "AJ Brimson",
-          "Starter": true,
-          "Anytimeodds": 3.69
+          "Price": 3.69
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Oliver Pascoe",
-          "Starter": true,
-          "Anytimeodds": 4.84
+          "Price": 4.84
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Zane Harrison",
-          "Starter": true,
-          "Anytimeodds": 7.64
+          "Price": 7.64
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Tino Fa'asuamaleaui",
-          "Starter": true,
-          "Anytimeodds": 7.73
+          "Price": 7.73
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Cooper Bai",
-          "Starter": false,
-          "Anytimeodds": 8.78
+          "Price": 8.78
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Chris Randall",
-          "Starter": true,
-          "Anytimeodds": 8.97
+          "Price": 8.97
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Klese Haas",
-          "Starter": false,
-          "Anytimeodds": 18.84
+          "Price": 18.84
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Sam Verrills",
-          "Starter": false,
-          "Anytimeodds": 19.35
+          "Price": 19.35
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Lachlan Ilias",
-          "Starter": false,
-          "Anytimeodds": 24.09
+          "Price": 24.09
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Braidon Burns",
-          "Starter": true,
-          "Anytimeodds": 2.14
+          "Price": 2.14
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Murray Taulagi",
-          "Starter": true,
-          "Anytimeodds": 2.23
+          "Price": 2.23
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Jeremiah Nanai",
-          "Starter": true,
-          "Anytimeodds": 2.46
+          "Price": 2.46
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Scott Drinkwater",
-          "Starter": true,
-          "Anytimeodds": 2.84
+          "Price": 2.84
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Tom Chester",
-          "Starter": true,
-          "Anytimeodds": 3.54
+          "Price": 3.54
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Zac Laybutt",
-          "Starter": true,
-          "Anytimeodds": 3.73
+          "Price": 3.73
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Tom Dearden",
-          "Starter": true,
-          "Anytimeodds": 3.8
+          "Price": 3.8
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Heilum Luki",
-          "Starter": true,
-          "Anytimeodds": 4.07
+          "Price": 4.07
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Reed Mahoney",
-          "Starter": true,
-          "Anytimeodds": 6.35
+          "Price": 6.35
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Jaxon Purdue",
-          "Starter": true,
-          "Anytimeodds": 7.4
+          "Price": 7.4
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Reuben Cotter",
-          "Starter": true,
-          "Anytimeodds": 9.56
+          "Price": 9.56
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Sam McIntyre",
-          "Starter": false,
-          "Anytimeodds": 14.18
+          "Price": 14.18
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Soni Luke",
-          "Starter": false,
-          "Anytimeodds": 17.28
+          "Price": 17.28
         },
         {
-          "Date Local": "2026-08-06T00:00:00",
-          "Time Local": "19:50",
-          "Match ID": "sched-2026-20260806-1950-gold-coast-titans-north-queensland-cowboys",
-          "Home Team": "gold coast titans",
-          "Away Team": "north queensland cowboys",
+          "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Griffin Neame",
-          "Starter": true,
-          "Anytimeodds": 18.09
+          "Price": 18.09
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Jethro Rinakama",
-          "Starter": true,
-          "Anytimeodds": 2.61
+          "Price": 2.61
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Jacob Kiraz",
-          "Starter": true,
-          "Anytimeodds": 3.14
+          "Price": 3.14
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Matt Burton",
-          "Starter": true,
-          "Anytimeodds": 3.75
+          "Price": 3.75
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Jacob Preston",
-          "Starter": true,
-          "Anytimeodds": 4.37
+          "Price": 4.37
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Connor Tracey",
-          "Starter": true,
-          "Anytimeodds": 4.83
+          "Price": 4.83
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Enari Tuala",
-          "Starter": true,
-          "Anytimeodds": 4.97
+          "Price": 4.97
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Lachlan Galvin",
-          "Starter": true,
-          "Anytimeodds": 6.29
+          "Price": 6.29
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Jaeman Salmon",
-          "Starter": true,
-          "Anytimeodds": 6.71
+          "Price": 6.71
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Josh Curran",
-          "Starter": true,
-          "Anytimeodds": 7.06
+          "Price": 7.06
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Sean O'Sullivan",
-          "Starter": true,
-          "Anytimeodds": 10.66
+          "Price": 10.66
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Bailey Hayward",
-          "Starter": true,
-          "Anytimeodds": 15.95
+          "Price": 15.95
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Gordon Chan Kum Tong",
-          "Starter": false,
-          "Anytimeodds": 24.37
+          "Price": 24.37
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Viliame Kikau",
-          "Starter": false,
-          "Anytimeodds": 25.63
+          "Price": 25.63
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Harry Hayes",
-          "Starter": false,
-          "Anytimeodds": 26.55
+          "Price": 26.55
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Mark Nawaqanitawase",
-          "Starter": true,
-          "Anytimeodds": 1.74
+          "Price": 1.74
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Daniel Tupou",
-          "Starter": true,
-          "Anytimeodds": 2.02
+          "Price": 2.02
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Hugo Savala",
-          "Starter": true,
-          "Anytimeodds": 2.93
+          "Price": 2.93
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Cody Ramsey",
-          "Starter": true,
-          "Anytimeodds": 3.2
+          "Price": 3.2
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Billy Smith",
-          "Starter": true,
-          "Anytimeodds": 3.59
+          "Price": 3.59
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Daly Cherry-Evans",
-          "Starter": true,
-          "Anytimeodds": 4.43
+          "Price": 4.43
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Nat Butcher",
-          "Starter": true,
-          "Anytimeodds": 4.43
+          "Price": 4.43
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Sam Walker",
-          "Starter": true,
-          "Anytimeodds": 4.44
+          "Price": 4.44
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Siua Wong",
-          "Starter": true,
-          "Anytimeodds": 7.05
+          "Price": 7.05
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Reece Robson",
-          "Starter": true,
-          "Anytimeodds": 7.79
+          "Price": 7.79
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Victor Radley",
-          "Starter": true,
-          "Anytimeodds": 7.94
+          "Price": 7.94
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Connor Watson",
-          "Starter": false,
-          "Anytimeodds": 10.05
+          "Price": 10.05
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Egan Butcher",
-          "Starter": false,
-          "Anytimeodds": 12.11
+          "Price": 12.11
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Spencer Leniu",
-          "Starter": true,
-          "Anytimeodds": 15.49
+          "Price": 15.49
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Naufahu Whyte",
-          "Starter": true,
-          "Anytimeodds": 17.25
+          "Price": 17.25
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-sydney-roosters-canterbury-bankstown-bulldogs",
-          "Home Team": "sydney roosters",
-          "Away Team": "canterbury-bankstown bulldogs",
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Rex Bassingthwaighte",
-          "Starter": false,
-          "Anytimeodds": 25.72
+          "Price": 25.72
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Thomas Jenkins",
-          "Starter": true,
-          "Anytimeodds": 2.09
+          "Price": 2.09
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Brian To'o",
-          "Starter": true,
-          "Anytimeodds": 2.49
+          "Price": 2.49
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Casey McLean",
-          "Starter": true,
-          "Anytimeodds": 3.12
+          "Price": 3.12
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Dylan Edwards",
-          "Starter": true,
-          "Anytimeodds": 3.5
+          "Price": 3.5
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Paul Alamoti",
-          "Starter": true,
-          "Anytimeodds": 5.06
+          "Price": 5.06
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Nathan Cleary",
-          "Starter": true,
-          "Anytimeodds": 5.23
+          "Price": 5.23
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Blaize Talagi",
-          "Starter": true,
-          "Anytimeodds": 5.5
+          "Price": 5.5
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Liam Martin",
-          "Starter": true,
-          "Anytimeodds": 6.04
+          "Price": 6.04
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Isaiah Papali'i",
-          "Starter": true,
-          "Anytimeodds": 7.24
+          "Price": 7.24
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Freddy Lussick",
-          "Starter": true,
-          "Anytimeodds": 8.42
+          "Price": 8.42
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Lindsay Smith",
-          "Starter": true,
-          "Anytimeodds": 9.34
+          "Price": 9.34
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Izack Tago",
-          "Starter": false,
-          "Anytimeodds": 9.48
+          "Price": 9.48
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Isaah Yeo",
-          "Starter": true,
-          "Anytimeodds": 11.59
+          "Price": 11.59
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Liam Henry",
-          "Starter": false,
-          "Anytimeodds": 14.94
+          "Price": 14.94
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Moses Leota",
-          "Starter": true,
-          "Anytimeodds": 20.21
+          "Price": 20.21
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Scott Sorensen",
-          "Starter": false,
-          "Anytimeodds": 21.31
+          "Price": 21.31
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Alofiana Khan-Pereira",
-          "Starter": true,
-          "Anytimeodds": 1.95
+          "Price": 1.95
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Dallin Watene-Zelezniak",
-          "Starter": true,
-          "Anytimeodds": 2.28
+          "Price": 2.28
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Ali Leiataua",
-          "Starter": true,
-          "Anytimeodds": 4.31
+          "Price": 4.31
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Leka Halasima",
-          "Starter": false,
-          "Anytimeodds": 5.44
+          "Price": 5.44
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Taine Tuaupiki",
-          "Starter": true,
-          "Anytimeodds": 5.58
+          "Price": 5.58
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Adam Pompey",
-          "Starter": true,
-          "Anytimeodds": 5.76
+          "Price": 5.76
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Jacob Laban",
-          "Starter": true,
-          "Anytimeodds": 5.92
+          "Price": 5.92
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Chanel Harris-Tavita",
-          "Starter": true,
-          "Anytimeodds": 6.02
+          "Price": 6.02
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Te Maire Martin",
-          "Starter": true,
-          "Anytimeodds": 6.05
+          "Price": 6.05
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Kurt Capewell",
-          "Starter": true,
-          "Anytimeodds": 6.43
+          "Price": 6.43
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Wayde Egan",
-          "Starter": true,
-          "Anytimeodds": 8.79
+          "Price": 8.79
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "James Fisher-Harris",
-          "Starter": true,
-          "Anytimeodds": 12.79
+          "Price": 12.79
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Sam Healey",
-          "Starter": false,
-          "Anytimeodds": 13.57
+          "Price": 13.57
         },
         {
-          "Date Local": "2026-08-07T00:00:00",
-          "Time Local": "20:00",
-          "Match ID": "sched-2026-20260807-2000-warriors-penrith-panthers",
-          "Home Team": "warriors",
-          "Away Team": "penrith panthers",
+          "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Erin Clark",
-          "Starter": true,
-          "Anytimeodds": 15.05
+          "Price": 15.05
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Tom Trbojevic",
-          "Starter": true,
-          "Anytimeodds": 2.28
+          "Price": 2.28
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Jason Saab",
-          "Starter": true,
-          "Anytimeodds": 2.35
+          "Price": 2.35
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Lehi Hopoate",
-          "Starter": true,
-          "Anytimeodds": 2.42
+          "Price": 2.42
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Tolutau Koula",
-          "Starter": true,
-          "Anytimeodds": 2.86
+          "Price": 2.86
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Reuben Garrick",
-          "Starter": true,
-          "Anytimeodds": 2.97
+          "Price": 2.97
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Haumole Olakau'atu",
-          "Starter": true,
-          "Anytimeodds": 3.32
+          "Price": 3.32
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Joey Walsh",
-          "Starter": true,
-          "Anytimeodds": 4.38
+          "Price": 4.38
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Ethan Bullemor",
-          "Starter": true,
-          "Anytimeodds": 6.31
+          "Price": 6.31
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Jamal Fogarty",
-          "Starter": true,
-          "Anytimeodds": 8.31
+          "Price": 8.31
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Jake Simpkin",
-          "Starter": true,
-          "Anytimeodds": 15.38
+          "Price": 15.38
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Simione Laiafi",
-          "Starter": true,
-          "Anytimeodds": 17.89
+          "Price": 17.89
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Aaron Schoupp",
-          "Starter": false,
-          "Anytimeodds": 18.7
+          "Price": 18.7
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Jake Trbojevic",
-          "Starter": true,
-          "Anytimeodds": 20.51
+          "Price": 20.51
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Taniela Paseka",
-          "Starter": true,
-          "Anytimeodds": 21.13
+          "Price": 21.13
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Nicholas Lenaz",
-          "Starter": false,
-          "Anytimeodds": 24.19
+          "Price": 24.19
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Will Warbrick",
-          "Starter": true,
-          "Anytimeodds": 2.24
+          "Price": 2.24
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Sualauvi Faalogo",
-          "Starter": true,
-          "Anytimeodds": 2.47
+          "Price": 2.47
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Siulagi Tuimalatu-Brown",
-          "Starter": true,
-          "Anytimeodds": 3.53
+          "Price": 3.53
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Harry Grant",
-          "Starter": true,
-          "Anytimeodds": 3.77
+          "Price": 3.77
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Tyran Wishart",
-          "Starter": true,
-          "Anytimeodds": 4.08
+          "Price": 4.08
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Nick Meaney",
-          "Starter": true,
-          "Anytimeodds": 4.76
+          "Price": 4.76
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Jack Howarth",
-          "Starter": true,
-          "Anytimeodds": 4.78
+          "Price": 4.78
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Oryn Keeley",
-          "Starter": true,
-          "Anytimeodds": 5.55
+          "Price": 5.55
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Trent Toelau",
-          "Starter": true,
-          "Anytimeodds": 6.26
+          "Price": 6.26
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Cooper Clarke",
-          "Starter": true,
-          "Anytimeodds": 7.37
+          "Price": 7.37
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Josh King",
-          "Starter": true,
-          "Anytimeodds": 10.12
+          "Price": 10.12
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Stefano Utoikamanu",
-          "Starter": true,
-          "Anytimeodds": 12.1
+          "Price": 12.1
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Trent Loiero",
-          "Starter": true,
-          "Anytimeodds": 20.66
+          "Price": 20.66
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Davvy Moale",
-          "Starter": false,
-          "Anytimeodds": 23.34
+          "Price": 23.34
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "15:00",
-          "Match ID": "sched-2026-20260808-1500-melbourne-storm-manly-warringah-sea-eagles",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
+          "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Gabriel Satrick",
-          "Starter": false,
-          "Anytimeodds": 23.99
+          "Price": 23.99
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Deine Mariner",
-          "Starter": true,
-          "Anytimeodds": 2.13
+          "Price": 2.13
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Josiah Karapani",
-          "Starter": true,
-          "Anytimeodds": 2.67
+          "Price": 2.67
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Reece Walsh",
-          "Starter": true,
-          "Anytimeodds": 2.95
+          "Price": 2.95
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Ezra Mam",
-          "Starter": true,
-          "Anytimeodds": 3.03
+          "Price": 3.03
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Gehamat Shibasaki",
-          "Starter": true,
-          "Anytimeodds": 3.07
+          "Price": 3.07
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Kotoni Staggs",
-          "Starter": true,
-          "Anytimeodds": 3.41
+          "Price": 3.41
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Adam Reynolds",
-          "Starter": true,
-          "Anytimeodds": 6.12
+          "Price": 6.12
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Jordan Riki",
-          "Starter": true,
-          "Anytimeodds": 6.64
+          "Price": 6.64
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Brendan Piakura",
-          "Starter": true,
-          "Anytimeodds": 7.21
+          "Price": 7.21
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Ben Talty",
-          "Starter": false,
-          "Anytimeodds": 8.31
+          "Price": 8.31
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Cory Paix",
-          "Starter": true,
-          "Anytimeodds": 8.75
+          "Price": 8.75
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Xavier Willison",
-          "Starter": true,
-          "Anytimeodds": 9.19
+          "Price": 9.19
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Payne Haas",
-          "Starter": true,
-          "Anytimeodds": 14.24
+          "Price": 14.24
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Hamiso Tabuai-Fidow",
-          "Starter": true,
-          "Anytimeodds": 1.86
+          "Price": 1.86
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Jamayne Isaako",
-          "Starter": true,
-          "Anytimeodds": 2.02
+          "Price": 2.02
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Tevita Naufahu",
-          "Starter": true,
-          "Anytimeodds": 2.21
+          "Price": 2.21
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Herbie Farnworth",
-          "Starter": true,
-          "Anytimeodds": 2.3
+          "Price": 2.3
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Selwyn Cobbo",
-          "Starter": true,
-          "Anytimeodds": 3.43
+          "Price": 3.43
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Kodi Nikorima",
-          "Starter": true,
-          "Anytimeodds": 4.76
+          "Price": 4.76
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Connelly Lemuelu",
-          "Starter": true,
-          "Anytimeodds": 5.26
+          "Price": 5.26
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Brad Schneider",
-          "Starter": true,
-          "Anytimeodds": 5.33
+          "Price": 5.33
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Jeremy Marshall-King",
-          "Starter": true,
-          "Anytimeodds": 6.12
+          "Price": 6.12
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Kulikefu Finefeuiaki",
-          "Starter": true,
-          "Anytimeodds": 6.43
+          "Price": 6.43
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Max Plath",
-          "Starter": false,
-          "Anytimeodds": 8.92
+          "Price": 8.92
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Thomas Flegler",
-          "Starter": true,
-          "Anytimeodds": 9.16
+          "Price": 9.16
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Kurt Donoghoe",
-          "Starter": false,
-          "Anytimeodds": 13.3
+          "Price": 13.3
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Felise Kaufusi",
-          "Starter": false,
-          "Anytimeodds": 13.87
+          "Price": 13.87
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Morgan Knowles",
-          "Starter": true,
-          "Anytimeodds": 14.12
+          "Price": 14.12
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Tom Gilbert",
-          "Starter": false,
-          "Anytimeodds": 14.43
+          "Price": 14.43
         },
         {
-          "Date Local": "2026-08-08T00:00:00",
-          "Time Local": "17:30",
-          "Match ID": "sched-2026-20260808-1730-dolphins-brisbane-broncos",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
+          "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Francis Molo",
-          "Starter": true,
-          "Anytimeodds": 15.13
+          "Price": 15.13
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Xavier Savage",
-          "Starter": true,
-          "Anytimeodds": 2.53
+          "Price": 2.53
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Hudson Young",
-          "Starter": true,
-          "Anytimeodds": 3.05
+          "Price": 3.05
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Kaeo Weekes",
-          "Starter": true,
-          "Anytimeodds": 3.06
+          "Price": 3.06
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Jed Stuart",
-          "Starter": true,
-          "Anytimeodds": 3.25
+          "Price": 3.25
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Noah Martin",
-          "Starter": true,
-          "Anytimeodds": 3.54
+          "Price": 3.54
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Simi Sasagi",
-          "Starter": true,
-          "Anytimeodds": 3.57
+          "Price": 3.57
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Matthew Timoko",
-          "Starter": true,
-          "Anytimeodds": 3.8
+          "Price": 3.8
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Zac Hosking",
-          "Starter": true,
-          "Anytimeodds": 3.85
+          "Price": 3.85
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Ethan Strange",
-          "Starter": true,
-          "Anytimeodds": 3.93
+          "Price": 3.93
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Owen Pattie",
-          "Starter": true,
-          "Anytimeodds": 5.91
+          "Price": 5.91
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Ethan Sanders",
-          "Starter": true,
-          "Anytimeodds": 8.29
+          "Price": 8.29
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Tom Starling",
-          "Starter": false,
-          "Anytimeodds": 15.33
+          "Price": 15.33
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Joseph Tapine",
-          "Starter": true,
-          "Anytimeodds": 16.04
+          "Price": 16.04
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Corey Horsburgh",
-          "Starter": false,
-          "Anytimeodds": 16.98
+          "Price": 16.98
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Daine Laurie",
-          "Starter": false,
-          "Anytimeodds": 18.63
+          "Price": 18.63
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Savelio Tamale",
-          "Starter": false,
-          "Anytimeodds": 21.17
+          "Price": 21.17
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Dominic Young",
-          "Starter": true,
-          "Anytimeodds": 2.14
+          "Price": 2.14
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Greg Marzhew",
-          "Starter": true,
-          "Anytimeodds": 2.5
+          "Price": 2.5
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Fletcher Sharpe",
-          "Starter": true,
-          "Anytimeodds": 3.11
+          "Price": 3.11
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Dylan Lucas",
-          "Starter": true,
-          "Anytimeodds": 3.63
+          "Price": 3.63
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Bradman Best",
-          "Starter": true,
-          "Anytimeodds": 3.64
+          "Price": 3.64
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Kalyn Ponga",
-          "Starter": true,
-          "Anytimeodds": 4.33
+          "Price": 4.33
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Dylan Brown",
-          "Starter": true,
-          "Anytimeodds": 5.36
+          "Price": 5.36
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Dane Gagai",
-          "Starter": true,
-          "Anytimeodds": 6.31
+          "Price": 6.31
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Trey Mooney",
-          "Starter": true,
-          "Anytimeodds": 6.48
+          "Price": 6.48
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Francis Manuleleua",
-          "Starter": true,
-          "Anytimeodds": 7.68
+          "Price": 7.68
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Harrison Graham",
-          "Starter": false,
-          "Anytimeodds": 9.73
+          "Price": 9.73
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Fletcher Hunt",
-          "Starter": false,
-          "Anytimeodds": 10.6
+          "Price": 10.6
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Phoenix Crossland",
-          "Starter": true,
-          "Anytimeodds": 10.74
+          "Price": 10.74
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "14:00",
-          "Match ID": "sched-2026-20260809-1400-canberra-raiders-newcastle-knights",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
+          "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Brodie Jones",
-          "Starter": false,
-          "Anytimeodds": 17.1
+          "Price": 17.1
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Tyrell Sloan",
-          "Starter": true,
-          "Anytimeodds": 3.16
+          "Price": 3.16
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Setu Tu",
-          "Starter": true,
-          "Anytimeodds": 3.37
+          "Price": 3.37
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Mathew Feagai",
-          "Starter": true,
-          "Anytimeodds": 3.47
+          "Price": 3.47
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Valentine Holmes",
-          "Starter": true,
-          "Anytimeodds": 3.71
+          "Price": 3.71
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Clinton Gutherson",
-          "Starter": true,
-          "Anytimeodds": 3.73
+          "Price": 3.73
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Dylan Egan",
-          "Starter": true,
-          "Anytimeodds": 7.45
+          "Price": 7.45
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Jacob Liddle",
-          "Starter": false,
-          "Anytimeodds": 7.88
+          "Price": 7.88
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Kyle Flanagan",
-          "Starter": true,
-          "Anytimeodds": 8.18
+          "Price": 8.18
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Daniel Atkinson",
-          "Starter": true,
-          "Anytimeodds": 8.73
+          "Price": 8.73
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Hamish Stewart",
-          "Starter": true,
-          "Anytimeodds": 9.51
+          "Price": 9.51
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Damien Cook",
-          "Starter": true,
-          "Anytimeodds": 9.8
+          "Price": 9.8
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Luciano Leilua",
-          "Starter": false,
-          "Anytimeodds": 14.26
+          "Price": 14.26
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Ryan Couchman",
-          "Starter": true,
-          "Anytimeodds": 30.79
+          "Price": 30.79
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Loko Jnr Pasifiki Tonga",
-          "Starter": true,
-          "Anytimeodds": 30.79
+          "Price": 30.79
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Mosese Suli",
-          "Starter": false,
-          "Anytimeodds": 38.22
+          "Price": 38.22
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Josh Kerr",
-          "Starter": false,
-          "Anytimeodds": 40.85
+          "Price": 40.85
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Jacob Halangahu",
-          "Starter": false,
-          "Anytimeodds": 51.11
+          "Price": 51.11
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Toby Couchman",
-          "Starter": true,
-          "Anytimeodds": 51.99
+          "Price": 51.99
         },
         {
-          "Date Local": "2026-08-09T00:00:00",
-          "Time Local": "16:05",
-          "Match ID": "sched-2026-20260809-1605-st-george-illawarra-dragons-cronulla-sutherland-sharks",
-          "Home Team": "st george-illawarra dragons",
-          "Away Team": "cronulla-sutherland sharks",
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Lyhkan King-Togia",
-          "Starter": false,
-          "Anytimeodds": 59.91
+          "Price": 59.91
         }
       ]
     },
