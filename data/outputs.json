@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04 07:08:33",
+  "generatedAt": "2026-08-04 21:45:35",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -7,9 +7,9 @@
       "model": "AFL upcoming projections",
       "sport": "AFL",
       "extension": "xlsx",
-      "modified": "2026-08-03 18:41:13",
-      "size": 10224,
-      "fileUrl": "/files/AFL_upcoming_projections.xlsx?v=1785746473-10224",
+      "modified": "2026-08-04 21:45:19",
+      "size": 11683,
+      "fileUrl": "/files/AFL_upcoming_projections.xlsx?v=1785843919-11683",
       "sheets": [
         "AFL V2 Projections"
       ],
@@ -28,7 +28,7 @@
         "Venue",
         "Forecast Rain mm"
       ],
-      "rowCount": 6,
+      "rowCount": 9,
       "rows": [
         {
           "Date": "2026-08-06",
@@ -113,6 +113,48 @@
           "Market Total": null,
           "Venue": "Adelaide Oval",
           "Forecast Rain mm": 22.5
+        },
+        {
+          "Date": "2026-08-09",
+          "Time": "19:20",
+          "Home Team": "st kilda",
+          "Away Team": "carlton",
+          "Selected / Hybrid Home Line": -5.2,
+          "TEAM Home Line": -5.2,
+          "PLAYER Home Line": 5.1,
+          "Projected Total": 170.6,
+          "Market Line": -9.5,
+          "Market Total": null,
+          "Venue": "Marvel Stadium",
+          "Forecast Rain mm": 3.1
+        },
+        {
+          "Date": "2026-08-09",
+          "Time": "14:10",
+          "Home Team": "west coast eagles",
+          "Away Team": "collingwood",
+          "Selected / Hybrid Home Line": 30.2,
+          "TEAM Home Line": 30.2,
+          "PLAYER Home Line": 31.6,
+          "Projected Total": 165.6,
+          "Market Line": 24.5,
+          "Market Total": null,
+          "Venue": "Optus Stadium",
+          "Forecast Rain mm": 2.8
+        },
+        {
+          "Date": "2026-08-09",
+          "Time": "13:10",
+          "Home Team": "greater western sydney",
+          "Away Team": "gold coast suns",
+          "Selected / Hybrid Home Line": -12.7,
+          "TEAM Home Line": -12.7,
+          "PLAYER Home Line": -4.4,
+          "Projected Total": 178.9,
+          "Market Line": -10.5,
+          "Market Total": null,
+          "Venue": "Corroboree Group Oval Manuka",
+          "Forecast Rain mm": 15.8
         }
       ]
     },
@@ -121,9 +163,9 @@
       "model": "AFL round summary",
       "sport": "AFL",
       "extension": "html",
-      "modified": "2026-08-03 18:41:24",
-      "size": 1361954,
-      "fileUrl": "/files/AFL_weekly_betting_report.html?v=1785746484-1361954",
+      "modified": "2026-08-04 21:45:29",
+      "size": 1549478,
+      "fileUrl": "/files/AFL_weekly_betting_report.html?v=1785843929-1549478",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
@@ -135,9 +177,9 @@
       "model": "NRL anytime tryscorers",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-08-03 20:18:41",
-      "size": 18252,
-      "fileUrl": "/files/NRL_anytime_tryscorers.xlsx?v=1785752321-18252",
+      "modified": "2026-08-04 21:37:19",
+      "size": 17404,
+      "fileUrl": "/files/NRL_anytime_tryscorers.xlsx?v=1785843439-17404",
       "sheets": [
         "Anytime"
       ],
@@ -148,373 +190,13 @@
         "Player",
         "Price"
       ],
-      "rowCount": 259,
+      "rowCount": 240,
       "rows": [
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "Ronaldo Mulitalo",
-          "Price": 1.9
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "Sione Katoa",
-          "Price": 2.11
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "William Kennedy",
-          "Price": 3.02
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "Mawene Hiroti",
-          "Price": 3.07
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "Kayal Iro",
-          "Price": 3.13
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "Braydon Trindall",
-          "Price": 3.13
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "Briton Nikora",
-          "Price": 3.59
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "Teig Wilton",
-          "Price": 3.89
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "Nicholas Hynes",
-          "Price": 4.61
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "Addin Fonua-Blake",
-          "Price": 5.39
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "Thomas Hazelton",
-          "Price": 5.54
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "Blayke Brailey",
-          "Price": 10.57
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "Cameron McInnes",
-          "Price": 12.07
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "cronulla-sutherland sharks",
-          "Player": "Tuku Hau Tapuha",
-          "Price": 13.57
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Alex Johnston",
-          "Price": 1.87
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Campbell Graham",
-          "Price": 2.75
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Tallis Duncan",
-          "Price": 3.05
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Cody Walker",
-          "Price": 3.75
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Matthew Dufty",
-          "Price": 4.48
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Jack Wighton",
-          "Price": 4.48
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "David Fifita",
-          "Price": 4.96
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Euan Aitken",
-          "Price": 7.1
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Ashton Ward",
-          "Price": 7.58
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Keaon Koloamatangi",
-          "Price": 8.13
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Cameron Murray",
-          "Price": 8.14
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Brandon Smith",
-          "Price": 12.46
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "John Radel",
-          "Price": 13.24
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Tevita Tatola",
-          "Price": 13.37
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Jye Gray",
-          "Price": 14.74
-        },
-        {
-          "Game": "south sydney rabbitohs at cronulla-sutherland sharks",
-          "Team": "south sydney rabbitohs",
-          "Player": "Jamie Humphreys",
-          "Price": 16.24
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Josh Addo-Carr",
-          "Price": 1.88
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Brian Kelly",
-          "Price": 2.25
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Isaiah Iongi",
-          "Price": 2.72
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Araz Nanva",
-          "Price": 2.98
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Jordan Samrani",
-          "Price": 3.28
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Ronald Volkman",
-          "Price": 4.06
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Jonah Pezet",
-          "Price": 4.06
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Tallyn Da Silva",
-          "Price": 4.33
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Kitione Kautoga",
-          "Price": 5.55
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Kelma Tuilagi",
-          "Price": 6.84
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Jack De Belin",
-          "Price": 8.83
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Joash Papalii",
-          "Price": 10.8
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Dylan Walker",
-          "Price": 11.75
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Jack Williams",
-          "Price": 11.8
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "parramatta eels",
-          "Player": "Sam Tuivaiti",
-          "Price": 13.74
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Jeral Skelton",
-          "Price": 2.43
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Sunia Turuva",
-          "Price": 2.65
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Jahream Bula",
-          "Price": 2.93
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Adam Doueihi",
-          "Price": 3.33
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Starford To'a",
-          "Price": 3.69
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Heamasi Makasini",
-          "Price": 4.68
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Samuela Fainu",
-          "Price": 5.1
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Sione Fainu",
-          "Price": 5.64
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Jarome Luai",
-          "Price": 5.77
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Alex Seyfarth",
-          "Price": 7.25
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Jared Haywood",
-          "Price": 8.22
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Terrell May",
-          "Price": 10.81
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Apisai Koroisau",
-          "Price": 12.47
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Latu Fainu",
-          "Price": 15.56
-        },
-        {
-          "Game": "parramatta eels at wests tigers",
-          "Team": "wests tigers",
-          "Player": "Fonua Pole",
-          "Price": 17.82
-        },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Phillip Sami",
-          "Price": 2.03
+          "Price": 1.94
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
@@ -526,541 +208,535 @@
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Jojo Fifita",
-          "Price": 3.08
+          "Price": 3
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Jayden Campbell",
-          "Price": 3.32
+          "Price": 3.08
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Keano Kini",
-          "Price": 3.57
-        },
-        {
-          "Game": "north queensland cowboys at gold coast titans",
-          "Team": "gold coast titans",
-          "Player": "Arama Hau",
-          "Price": 3.63
-        },
-        {
-          "Game": "north queensland cowboys at gold coast titans",
-          "Team": "gold coast titans",
-          "Player": "Beau Fermor",
-          "Price": 3.64
+          "Price": 3.45
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "AJ Brimson",
+          "Price": 3.54
+        },
+        {
+          "Game": "north queensland cowboys at gold coast titans",
+          "Team": "gold coast titans",
+          "Player": "Arama Hau",
+          "Price": 3.69
+        },
+        {
+          "Game": "north queensland cowboys at gold coast titans",
+          "Team": "gold coast titans",
+          "Player": "Beau Fermor",
           "Price": 3.69
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Oliver Pascoe",
-          "Price": 4.84
-        },
-        {
-          "Game": "north queensland cowboys at gold coast titans",
-          "Team": "gold coast titans",
-          "Player": "Zane Harrison",
-          "Price": 7.64
-        },
-        {
-          "Game": "north queensland cowboys at gold coast titans",
-          "Team": "gold coast titans",
-          "Player": "Tino Fa'asuamaleaui",
-          "Price": 7.73
-        },
-        {
-          "Game": "north queensland cowboys at gold coast titans",
-          "Team": "gold coast titans",
-          "Player": "Cooper Bai",
-          "Price": 8.78
-        },
-        {
-          "Game": "north queensland cowboys at gold coast titans",
-          "Team": "gold coast titans",
-          "Player": "Chris Randall",
-          "Price": 8.97
-        },
-        {
-          "Game": "north queensland cowboys at gold coast titans",
-          "Team": "gold coast titans",
-          "Player": "Klese Haas",
-          "Price": 18.84
-        },
-        {
-          "Game": "north queensland cowboys at gold coast titans",
-          "Team": "gold coast titans",
-          "Player": "Sam Verrills",
-          "Price": 19.35
+          "Price": 4.14
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "gold coast titans",
           "Player": "Lachlan Ilias",
-          "Price": 24.09
+          "Price": 6.41
+        },
+        {
+          "Game": "north queensland cowboys at gold coast titans",
+          "Team": "gold coast titans",
+          "Player": "Tino Fa'asuamaleaui",
+          "Price": 6.79
+        },
+        {
+          "Game": "north queensland cowboys at gold coast titans",
+          "Team": "gold coast titans",
+          "Player": "Kurtis Morrin",
+          "Price": 8.76
+        },
+        {
+          "Game": "north queensland cowboys at gold coast titans",
+          "Team": "gold coast titans",
+          "Player": "Chris Randall",
+          "Price": 8.78
+        },
+        {
+          "Game": "north queensland cowboys at gold coast titans",
+          "Team": "gold coast titans",
+          "Player": "Cooper Bai",
+          "Price": 8.81
+        },
+        {
+          "Game": "north queensland cowboys at gold coast titans",
+          "Team": "gold coast titans",
+          "Player": "Klese Haas",
+          "Price": 18.09
+        },
+        {
+          "Game": "north queensland cowboys at gold coast titans",
+          "Team": "gold coast titans",
+          "Player": "Sam Verrills",
+          "Price": 18.93
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Braidon Burns",
-          "Price": 2.14
+          "Price": 1.95
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Murray Taulagi",
-          "Price": 2.23
-        },
-        {
-          "Game": "north queensland cowboys at gold coast titans",
-          "Team": "north queensland cowboys",
-          "Player": "Jeremiah Nanai",
-          "Price": 2.46
+          "Price": 2.03
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Scott Drinkwater",
-          "Price": 2.84
+          "Price": 2.56
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Tom Chester",
-          "Price": 3.54
+          "Price": 3.08
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Zac Laybutt",
-          "Price": 3.73
-        },
-        {
-          "Game": "north queensland cowboys at gold coast titans",
-          "Team": "north queensland cowboys",
-          "Player": "Tom Dearden",
-          "Price": 3.8
+          "Price": 3.44
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Heilum Luki",
-          "Price": 4.07
+          "Price": 3.89
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
-          "Player": "Reed Mahoney",
-          "Price": 6.35
+          "Player": "Kai O'Donnell",
+          "Price": 3.89
+        },
+        {
+          "Game": "north queensland cowboys at gold coast titans",
+          "Team": "north queensland cowboys",
+          "Player": "Jake Clifford",
+          "Price": 4
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Jaxon Purdue",
-          "Price": 7.4
-        },
-        {
-          "Game": "north queensland cowboys at gold coast titans",
-          "Team": "north queensland cowboys",
-          "Player": "Reuben Cotter",
-          "Price": 9.56
-        },
-        {
-          "Game": "north queensland cowboys at gold coast titans",
-          "Team": "north queensland cowboys",
-          "Player": "Sam McIntyre",
-          "Price": 14.18
+          "Price": 6.91
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Soni Luke",
-          "Price": 17.28
+          "Price": 8.31
+        },
+        {
+          "Game": "north queensland cowboys at gold coast titans",
+          "Team": "north queensland cowboys",
+          "Player": "Reuben Cotter",
+          "Price": 8.49
+        },
+        {
+          "Game": "north queensland cowboys at gold coast titans",
+          "Team": "north queensland cowboys",
+          "Player": "Sam McIntyre",
+          "Price": 12.7
         },
         {
           "Game": "north queensland cowboys at gold coast titans",
           "Team": "north queensland cowboys",
           "Player": "Griffin Neame",
-          "Price": 18.09
+          "Price": 16.14
+        },
+        {
+          "Game": "north queensland cowboys at gold coast titans",
+          "Team": "north queensland cowboys",
+          "Player": "Liam Sutton",
+          "Price": 19.49
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Jethro Rinakama",
-          "Price": 2.61
+          "Price": 2.74
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Jacob Kiraz",
-          "Price": 3.14
+          "Price": 3.25
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Matt Burton",
-          "Price": 3.75
+          "Price": 3.82
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
-          "Player": "Jacob Preston",
-          "Price": 4.37
+          "Player": "Stephen Crichton",
+          "Price": 4.35
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Connor Tracey",
-          "Price": 4.83
+          "Price": 5.12
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Enari Tuala",
-          "Price": 4.97
-        },
-        {
-          "Game": "canterbury-bankstown bulldogs at sydney roosters",
-          "Team": "canterbury-bankstown bulldogs",
-          "Player": "Lachlan Galvin",
-          "Price": 6.29
-        },
-        {
-          "Game": "canterbury-bankstown bulldogs at sydney roosters",
-          "Team": "canterbury-bankstown bulldogs",
-          "Player": "Jaeman Salmon",
-          "Price": 6.71
-        },
-        {
-          "Game": "canterbury-bankstown bulldogs at sydney roosters",
-          "Team": "canterbury-bankstown bulldogs",
-          "Player": "Josh Curran",
-          "Price": 7.06
-        },
-        {
-          "Game": "canterbury-bankstown bulldogs at sydney roosters",
-          "Team": "canterbury-bankstown bulldogs",
-          "Player": "Sean O'Sullivan",
-          "Price": 10.66
-        },
-        {
-          "Game": "canterbury-bankstown bulldogs at sydney roosters",
-          "Team": "canterbury-bankstown bulldogs",
-          "Player": "Bailey Hayward",
-          "Price": 15.95
-        },
-        {
-          "Game": "canterbury-bankstown bulldogs at sydney roosters",
-          "Team": "canterbury-bankstown bulldogs",
-          "Player": "Gordon Chan Kum Tong",
-          "Price": 24.37
+          "Price": 5.4
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
           "Player": "Viliame Kikau",
-          "Price": 25.63
+          "Price": 5.48
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "canterbury-bankstown bulldogs",
-          "Player": "Harry Hayes",
-          "Price": 26.55
+          "Player": "Jacob Preston",
+          "Price": 5.48
+        },
+        {
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
+          "Team": "canterbury-bankstown bulldogs",
+          "Player": "Lachlan Galvin",
+          "Price": 6.69
+        },
+        {
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
+          "Team": "canterbury-bankstown bulldogs",
+          "Player": "Sitili Tupouniua",
+          "Price": 7.19
+        },
+        {
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
+          "Team": "canterbury-bankstown bulldogs",
+          "Player": "Kurt Mann",
+          "Price": 14.38
+        },
+        {
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
+          "Team": "canterbury-bankstown bulldogs",
+          "Player": "Jaeman Salmon",
+          "Price": 14.55
+        },
+        {
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
+          "Team": "canterbury-bankstown bulldogs",
+          "Player": "Jonathan Sua",
+          "Price": 14.56
+        },
+        {
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
+          "Team": "canterbury-bankstown bulldogs",
+          "Player": "Josh Curran",
+          "Price": 15.22
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Mark Nawaqanitawase",
-          "Price": 1.74
-        },
-        {
-          "Game": "canterbury-bankstown bulldogs at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Daniel Tupou",
-          "Price": 2.02
-        },
-        {
-          "Game": "canterbury-bankstown bulldogs at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Hugo Savala",
-          "Price": 2.93
-        },
-        {
-          "Game": "canterbury-bankstown bulldogs at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Cody Ramsey",
-          "Price": 3.2
+          "Price": 1.71
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Billy Smith",
-          "Price": 3.59
+          "Price": 2.49
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
-          "Player": "Daly Cherry-Evans",
-          "Price": 4.43
+          "Player": "James Tedesco",
+          "Price": 2.51
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
-          "Player": "Nat Butcher",
-          "Price": 4.43
+          "Player": "Hugo Savala",
+          "Price": 2.63
+        },
+        {
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Robert Toia",
+          "Price": 3.14
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Sam Walker",
-          "Price": 4.44
+          "Price": 4.12
+        },
+        {
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Salesi Foketi",
+          "Price": 4.41
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Siua Wong",
-          "Price": 7.05
+          "Price": 4.41
+        },
+        {
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Daly Cherry-Evans",
+          "Price": 4.5
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Reece Robson",
-          "Price": 7.79
+          "Price": 7.93
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Victor Radley",
-          "Price": 7.94
+          "Price": 8.13
+        },
+        {
+          "Game": "canterbury-bankstown bulldogs at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Nat Butcher",
+          "Price": 10.36
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Connor Watson",
-          "Price": 10.05
+          "Price": 10.39
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
           "Player": "Egan Butcher",
-          "Price": 12.11
+          "Price": 12.5
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
-          "Player": "Spencer Leniu",
-          "Price": 15.49
+          "Player": "Lindsay Collins",
+          "Price": 14.1
         },
         {
           "Game": "canterbury-bankstown bulldogs at sydney roosters",
           "Team": "sydney roosters",
-          "Player": "Naufahu Whyte",
-          "Price": 17.25
-        },
-        {
-          "Game": "canterbury-bankstown bulldogs at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Rex Bassingthwaighte",
-          "Price": 25.72
+          "Player": "Cody Ramsey",
+          "Price": 15.4
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Thomas Jenkins",
-          "Price": 2.09
+          "Price": 2.05
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Brian To'o",
-          "Price": 2.49
+          "Price": 2.52
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
-          "Player": "Casey McLean",
-          "Price": 3.12
-        },
-        {
-          "Game": "penrith panthers at warriors",
-          "Team": "penrith panthers",
-          "Player": "Dylan Edwards",
-          "Price": 3.5
-        },
-        {
-          "Game": "penrith panthers at warriors",
-          "Team": "penrith panthers",
-          "Player": "Paul Alamoti",
-          "Price": 5.06
-        },
-        {
-          "Game": "penrith panthers at warriors",
-          "Team": "penrith panthers",
-          "Player": "Nathan Cleary",
-          "Price": 5.23
-        },
-        {
-          "Game": "penrith panthers at warriors",
-          "Team": "penrith panthers",
-          "Player": "Blaize Talagi",
-          "Price": 5.5
-        },
-        {
-          "Game": "penrith panthers at warriors",
-          "Team": "penrith panthers",
-          "Player": "Liam Martin",
-          "Price": 6.04
-        },
-        {
-          "Game": "penrith panthers at warriors",
-          "Team": "penrith panthers",
-          "Player": "Isaiah Papali'i",
-          "Price": 7.24
-        },
-        {
-          "Game": "penrith panthers at warriors",
-          "Team": "penrith panthers",
-          "Player": "Freddy Lussick",
-          "Price": 8.42
-        },
-        {
-          "Game": "penrith panthers at warriors",
-          "Team": "penrith panthers",
-          "Player": "Lindsay Smith",
-          "Price": 9.34
+          "Player": "Jaxen Edgar",
+          "Price": 2.96
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Izack Tago",
-          "Price": 9.48
+          "Price": 3.74
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
-          "Player": "Isaah Yeo",
-          "Price": 11.59
+          "Player": "Isaiah Papali'i",
+          "Price": 5.18
+        },
+        {
+          "Game": "penrith panthers at warriors",
+          "Team": "penrith panthers",
+          "Player": "Liam Martin",
+          "Price": 5.18
+        },
+        {
+          "Game": "penrith panthers at warriors",
+          "Team": "penrith panthers",
+          "Player": "Paul Alamoti",
+          "Price": 5.19
+        },
+        {
+          "Game": "penrith panthers at warriors",
+          "Team": "penrith panthers",
+          "Player": "Nathan Cleary",
+          "Price": 5.31
+        },
+        {
+          "Game": "penrith panthers at warriors",
+          "Team": "penrith panthers",
+          "Player": "Freddy Lussick",
+          "Price": 8.79
+        },
+        {
+          "Game": "penrith panthers at warriors",
+          "Team": "penrith panthers",
+          "Player": "Lindsay Smith",
+          "Price": 9.61
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Liam Henry",
-          "Price": 14.94
+          "Price": 11.51
+        },
+        {
+          "Game": "penrith panthers at warriors",
+          "Team": "penrith panthers",
+          "Player": "Isaah Yeo",
+          "Price": 11.75
+        },
+        {
+          "Game": "penrith panthers at warriors",
+          "Team": "penrith panthers",
+          "Player": "Jack Cogger",
+          "Price": 13.33
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Moses Leota",
-          "Price": 20.21
+          "Price": 20.49
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "penrith panthers",
           "Player": "Scott Sorensen",
-          "Price": 21.31
+          "Price": 21.95
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Alofiana Khan-Pereira",
-          "Price": 1.95
+          "Price": 1.93
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Dallin Watene-Zelezniak",
-          "Price": 2.28
-        },
-        {
-          "Game": "penrith panthers at warriors",
-          "Team": "warriors",
-          "Player": "Ali Leiataua",
-          "Price": 4.31
+          "Price": 2.25
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Leka Halasima",
-          "Price": 5.44
+          "Price": 3.22
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "warriors",
-          "Player": "Taine Tuaupiki",
-          "Price": 5.58
+          "Player": "Charnze Nicoll-Klokstad",
+          "Price": 4.31
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "warriors",
-          "Player": "Adam Pompey",
-          "Price": 5.76
-        },
-        {
-          "Game": "penrith panthers at warriors",
-          "Team": "warriors",
-          "Player": "Jacob Laban",
-          "Price": 5.92
-        },
-        {
-          "Game": "penrith panthers at warriors",
-          "Team": "warriors",
-          "Player": "Chanel Harris-Tavita",
-          "Price": 6.02
-        },
-        {
-          "Game": "penrith panthers at warriors",
-          "Team": "warriors",
-          "Player": "Te Maire Martin",
-          "Price": 6.05
+          "Player": "Ali Leiataua",
+          "Price": 4.41
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Kurt Capewell",
-          "Price": 6.43
+          "Price": 5.02
+        },
+        {
+          "Game": "penrith panthers at warriors",
+          "Team": "warriors",
+          "Player": "Jacob Laban",
+          "Price": 5.02
+        },
+        {
+          "Game": "penrith panthers at warriors",
+          "Team": "warriors",
+          "Player": "Te Maire Martin",
+          "Price": 5.28
+        },
+        {
+          "Game": "penrith panthers at warriors",
+          "Team": "warriors",
+          "Player": "Chanel Harris-Tavita",
+          "Price": 5.46
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Wayde Egan",
-          "Price": 8.79
+          "Price": 8.77
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "James Fisher-Harris",
-          "Price": 12.79
+          "Price": 12.74
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Sam Healey",
-          "Price": 13.57
+          "Price": 14.21
         },
         {
           "Game": "penrith panthers at warriors",
           "Team": "warriors",
           "Player": "Erin Clark",
-          "Price": 15.05
+          "Price": 15.16
         },
         {
-          "Game": "manly-warringah sea eagles at melbourne storm",
-          "Team": "manly-warringah sea eagles",
-          "Player": "Tom Trbojevic",
-          "Price": 2.28
+          "Game": "penrith panthers at warriors",
+          "Team": "warriors",
+          "Player": "Eddie Ieremia-Toeava",
+          "Price": 17.52
+        },
+        {
+          "Game": "penrith panthers at warriors",
+          "Team": "warriors",
+          "Player": "Luke Metcalf",
+          "Price": 18.5
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Jason Saab",
-          "Price": 2.35
+          "Price": 2.34
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
@@ -1071,8 +747,14 @@
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
+          "Player": "Blake Wilson",
+          "Price": 2.69
+        },
+        {
+          "Game": "manly-warringah sea eagles at melbourne storm",
+          "Team": "manly-warringah sea eagles",
           "Player": "Tolutau Koula",
-          "Price": 2.86
+          "Price": 2.82
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
@@ -1083,470 +765,650 @@
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
-          "Player": "Haumole Olakau'atu",
-          "Price": 3.32
-        },
-        {
-          "Game": "manly-warringah sea eagles at melbourne storm",
-          "Team": "manly-warringah sea eagles",
           "Player": "Joey Walsh",
-          "Price": 4.38
+          "Price": 3.84
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
-          "Player": "Ethan Bullemor",
-          "Price": 6.31
+          "Player": "Haumole Olakau'atu",
+          "Price": 4.34
+        },
+        {
+          "Game": "manly-warringah sea eagles at melbourne storm",
+          "Team": "manly-warringah sea eagles",
+          "Player": "Corey Waddell",
+          "Price": 4.34
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Jamal Fogarty",
-          "Price": 8.31
+          "Price": 8.23
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
-          "Player": "Jake Simpkin",
-          "Price": 15.38
-        },
-        {
-          "Game": "manly-warringah sea eagles at melbourne storm",
-          "Team": "manly-warringah sea eagles",
-          "Player": "Simione Laiafi",
-          "Price": 17.89
-        },
-        {
-          "Game": "manly-warringah sea eagles at melbourne storm",
-          "Team": "manly-warringah sea eagles",
-          "Player": "Aaron Schoupp",
-          "Price": 18.7
+          "Player": "Brandon Wakeham",
+          "Price": 8.9
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Jake Trbojevic",
+          "Price": 20.33
+        },
+        {
+          "Game": "manly-warringah sea eagles at melbourne storm",
+          "Team": "manly-warringah sea eagles",
+          "Player": "Onitoni Large",
           "Price": 20.51
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "manly-warringah sea eagles",
           "Player": "Taniela Paseka",
-          "Price": 21.13
-        },
-        {
-          "Game": "manly-warringah sea eagles at melbourne storm",
-          "Team": "manly-warringah sea eagles",
-          "Player": "Nicholas Lenaz",
-          "Price": 24.19
+          "Price": 21.02
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
-          "Player": "Will Warbrick",
-          "Price": 2.24
+          "Player": "Moses Leo",
+          "Price": 2.12
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Sualauvi Faalogo",
-          "Price": 2.47
+          "Price": 2.3
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Siulagi Tuimalatu-Brown",
-          "Price": 3.53
-        },
-        {
-          "Game": "manly-warringah sea eagles at melbourne storm",
-          "Team": "melbourne storm",
-          "Player": "Harry Grant",
-          "Price": 3.77
+          "Price": 3.25
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Tyran Wishart",
-          "Price": 4.08
-        },
-        {
-          "Game": "manly-warringah sea eagles at melbourne storm",
-          "Team": "melbourne storm",
-          "Player": "Nick Meaney",
-          "Price": 4.76
-        },
-        {
-          "Game": "manly-warringah sea eagles at melbourne storm",
-          "Team": "melbourne storm",
-          "Player": "Jack Howarth",
-          "Price": 4.78
-        },
-        {
-          "Game": "manly-warringah sea eagles at melbourne storm",
-          "Team": "melbourne storm",
-          "Player": "Oryn Keeley",
-          "Price": 5.55
-        },
-        {
-          "Game": "manly-warringah sea eagles at melbourne storm",
-          "Team": "melbourne storm",
-          "Player": "Trent Toelau",
-          "Price": 6.26
+          "Price": 4.35
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Cooper Clarke",
-          "Price": 7.37
+          "Price": 4.38
+        },
+        {
+          "Game": "manly-warringah sea eagles at melbourne storm",
+          "Team": "melbourne storm",
+          "Player": "Oryn Keeley",
+          "Price": 4.38
+        },
+        {
+          "Game": "manly-warringah sea eagles at melbourne storm",
+          "Team": "melbourne storm",
+          "Player": "Nick Meaney",
+          "Price": 4.38
+        },
+        {
+          "Game": "manly-warringah sea eagles at melbourne storm",
+          "Team": "melbourne storm",
+          "Player": "Cameron Munster",
+          "Price": 4.47
+        },
+        {
+          "Game": "manly-warringah sea eagles at melbourne storm",
+          "Team": "melbourne storm",
+          "Player": "Jack Howarth",
+          "Price": 4.57
+        },
+        {
+          "Game": "manly-warringah sea eagles at melbourne storm",
+          "Team": "melbourne storm",
+          "Player": "Hayden Watson",
+          "Price": 5.44
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Josh King",
-          "Price": 10.12
+          "Price": 9.61
+        },
+        {
+          "Game": "manly-warringah sea eagles at melbourne storm",
+          "Team": "melbourne storm",
+          "Player": "Angus Hinchey",
+          "Price": 10.13
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Stefano Utoikamanu",
-          "Price": 12.1
+          "Price": 11.53
+        },
+        {
+          "Game": "manly-warringah sea eagles at melbourne storm",
+          "Team": "melbourne storm",
+          "Player": "Joe Chan",
+          "Price": 17.08
+        },
+        {
+          "Game": "manly-warringah sea eagles at melbourne storm",
+          "Team": "melbourne storm",
+          "Player": "Shawn Blore",
+          "Price": 19.11
+        },
+        {
+          "Game": "manly-warringah sea eagles at melbourne storm",
+          "Team": "melbourne storm",
+          "Player": "Trent Toelau",
+          "Price": 19.75
         },
         {
           "Game": "manly-warringah sea eagles at melbourne storm",
           "Team": "melbourne storm",
           "Player": "Trent Loiero",
-          "Price": 20.66
-        },
-        {
-          "Game": "manly-warringah sea eagles at melbourne storm",
-          "Team": "melbourne storm",
-          "Player": "Davvy Moale",
-          "Price": 23.34
-        },
-        {
-          "Game": "manly-warringah sea eagles at melbourne storm",
-          "Team": "melbourne storm",
-          "Player": "Gabriel Satrick",
-          "Price": 23.99
+          "Price": 19.83
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
-          "Player": "Deine Mariner",
-          "Price": 2.13
-        },
-        {
-          "Game": "brisbane broncos at dolphins",
-          "Team": "brisbane broncos",
-          "Player": "Josiah Karapani",
+          "Player": "Grant Anderson",
           "Price": 2.67
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
+          "Player": "Josiah Karapani",
+          "Price": 2.72
+        },
+        {
+          "Game": "brisbane broncos at dolphins",
+          "Team": "brisbane broncos",
           "Player": "Reece Walsh",
-          "Price": 2.95
+          "Price": 2.9
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Ezra Mam",
-          "Price": 3.03
-        },
-        {
-          "Game": "brisbane broncos at dolphins",
-          "Team": "brisbane broncos",
-          "Player": "Gehamat Shibasaki",
-          "Price": 3.07
+          "Price": 2.97
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Kotoni Staggs",
-          "Price": 3.41
+          "Price": 3.39
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
-          "Player": "Adam Reynolds",
-          "Price": 6.12
+          "Player": "Jaiyden Hunt",
+          "Price": 4.66
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Jordan Riki",
-          "Price": 6.64
+          "Price": 4.66
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
-          "Player": "Brendan Piakura",
-          "Price": 7.21
+          "Player": "Deine Mariner",
+          "Price": 5.3
+        },
+        {
+          "Game": "brisbane broncos at dolphins",
+          "Team": "brisbane broncos",
+          "Player": "Billy Walters",
+          "Price": 6.74
+        },
+        {
+          "Game": "brisbane broncos at dolphins",
+          "Team": "brisbane broncos",
+          "Player": "Thomas Duffy",
+          "Price": 6.86
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Ben Talty",
-          "Price": 8.31
-        },
-        {
-          "Game": "brisbane broncos at dolphins",
-          "Team": "brisbane broncos",
-          "Player": "Cory Paix",
-          "Price": 8.75
+          "Price": 8.54
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Xavier Willison",
-          "Price": 9.19
+          "Price": 8.99
+        },
+        {
+          "Game": "brisbane broncos at dolphins",
+          "Team": "brisbane broncos",
+          "Player": "Gehamat Shibasaki",
+          "Price": 10.84
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "brisbane broncos",
           "Player": "Payne Haas",
-          "Price": 14.24
+          "Price": 14.18
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Hamiso Tabuai-Fidow",
-          "Price": 1.86
-        },
-        {
-          "Game": "brisbane broncos at dolphins",
-          "Team": "dolphins",
-          "Player": "Jamayne Isaako",
-          "Price": 2.02
-        },
-        {
-          "Game": "brisbane broncos at dolphins",
-          "Team": "dolphins",
-          "Player": "Tevita Naufahu",
-          "Price": 2.21
-        },
-        {
-          "Game": "brisbane broncos at dolphins",
-          "Team": "dolphins",
-          "Player": "Herbie Farnworth",
-          "Price": 2.3
+          "Price": 1.95
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Selwyn Cobbo",
-          "Price": 3.43
+          "Price": 2
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
-          "Player": "Kodi Nikorima",
-          "Price": 4.76
+          "Player": "Jamayne Isaako",
+          "Price": 2.14
+        },
+        {
+          "Game": "brisbane broncos at dolphins",
+          "Team": "dolphins",
+          "Player": "Herbie Farnworth",
+          "Price": 2.45
+        },
+        {
+          "Game": "brisbane broncos at dolphins",
+          "Team": "dolphins",
+          "Player": "Jack Bostock",
+          "Price": 2.99
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Connelly Lemuelu",
-          "Price": 5.26
-        },
-        {
-          "Game": "brisbane broncos at dolphins",
-          "Team": "dolphins",
-          "Player": "Brad Schneider",
-          "Price": 5.33
-        },
-        {
-          "Game": "brisbane broncos at dolphins",
-          "Team": "dolphins",
-          "Player": "Jeremy Marshall-King",
-          "Price": 6.12
+          "Price": 4.11
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Kulikefu Finefeuiaki",
-          "Price": 6.43
+          "Price": 4.11
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
-          "Player": "Max Plath",
-          "Price": 8.92
+          "Player": "Kodi Nikorima",
+          "Price": 5.13
+        },
+        {
+          "Game": "brisbane broncos at dolphins",
+          "Team": "dolphins",
+          "Player": "Jeremy Marshall-King",
+          "Price": 6.6
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Thomas Flegler",
-          "Price": 9.16
+          "Price": 8.64
+        },
+        {
+          "Game": "brisbane broncos at dolphins",
+          "Team": "dolphins",
+          "Player": "Isaiya Katoa",
+          "Price": 9.88
+        },
+        {
+          "Game": "brisbane broncos at dolphins",
+          "Team": "dolphins",
+          "Player": "Max Plath",
+          "Price": 9.92
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Kurt Donoghoe",
-          "Price": 13.3
+          "Price": 14.52
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Felise Kaufusi",
-          "Price": 13.87
+          "Price": 15.44
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Morgan Knowles",
-          "Price": 14.12
+          "Price": 15.64
         },
         {
           "Game": "brisbane broncos at dolphins",
           "Team": "dolphins",
           "Player": "Tom Gilbert",
-          "Price": 14.43
+          "Price": 16.03
         },
         {
-          "Game": "brisbane broncos at dolphins",
-          "Team": "dolphins",
-          "Player": "Francis Molo",
-          "Price": 15.13
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "parramatta eels",
+          "Player": "Josh Addo-Carr",
+          "Price": 2.29
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "parramatta eels",
+          "Player": "Brian Kelly",
+          "Price": 2.94
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "parramatta eels",
+          "Player": "Isaiah Iongi",
+          "Price": 3.35
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "parramatta eels",
+          "Player": "Will Penisini",
+          "Price": 3.74
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "parramatta eels",
+          "Player": "Jordan Samrani",
+          "Price": 3.98
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "parramatta eels",
+          "Player": "Mitchell Moses",
+          "Price": 4.24
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "parramatta eels",
+          "Player": "Jack Williams",
+          "Price": 4.64
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "parramatta eels",
+          "Player": "Kitione Kautoga",
+          "Price": 4.64
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "parramatta eels",
+          "Player": "Tallyn Da Silva",
+          "Price": 5.02
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "parramatta eels",
+          "Player": "Ronald Volkman",
+          "Price": 5.4
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "parramatta eels",
+          "Player": "Jack De Belin",
+          "Price": 11.58
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "parramatta eels",
+          "Player": "Luca Moretti",
+          "Price": 13.82
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "parramatta eels",
+          "Player": "Junior Paulo",
+          "Price": 13.89
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Alex Johnston",
+          "Price": 1.62
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Campbell Graham",
+          "Price": 2.12
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Tallis Duncan",
+          "Price": 2.56
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Cody Walker",
+          "Price": 3.17
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Jack Wighton",
+          "Price": 3.64
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Matthew Dufty",
+          "Price": 3.92
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "David Fifita",
+          "Price": 4.13
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Adam Elliott",
+          "Price": 4.13
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Ashton Ward",
+          "Price": 6.58
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Cameron Murray",
+          "Price": 6.64
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Keaon Koloamatangi",
+          "Price": 6.76
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Brandon Smith",
+          "Price": 9.13
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Jayden Sullivan",
+          "Price": 9.64
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "John Radel",
+          "Price": 10.71
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Tevita Tatola",
+          "Price": 11.1
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Jye Gray",
+          "Price": 13.1
+        },
+        {
+          "Game": "parramatta eels at south sydney rabbitohs",
+          "Team": "south sydney rabbitohs",
+          "Player": "Jamie Humphreys",
+          "Price": 14.3
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Xavier Savage",
-          "Price": 2.53
-        },
-        {
-          "Game": "newcastle knights at canberra raiders",
-          "Team": "canberra raiders",
-          "Player": "Hudson Young",
-          "Price": 3.05
-        },
-        {
-          "Game": "newcastle knights at canberra raiders",
-          "Team": "canberra raiders",
-          "Player": "Kaeo Weekes",
-          "Price": 3.06
+          "Price": 2.35
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Jed Stuart",
-          "Price": 3.25
+          "Price": 2.8
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
-          "Player": "Noah Martin",
-          "Price": 3.54
+          "Player": "Kaeo Weekes",
+          "Price": 2.81
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Simi Sasagi",
-          "Price": 3.57
+          "Price": 3.4
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Matthew Timoko",
-          "Price": 3.8
-        },
-        {
-          "Game": "newcastle knights at canberra raiders",
-          "Team": "canberra raiders",
-          "Player": "Zac Hosking",
-          "Price": 3.85
+          "Price": 3.4
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Ethan Strange",
-          "Price": 3.93
+          "Price": 3.44
+        },
+        {
+          "Game": "newcastle knights at canberra raiders",
+          "Team": "canberra raiders",
+          "Player": "Zac Hosking",
+          "Price": 4.07
+        },
+        {
+          "Game": "newcastle knights at canberra raiders",
+          "Team": "canberra raiders",
+          "Player": "Ata Mariota",
+          "Price": 4.07
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Owen Pattie",
-          "Price": 5.91
+          "Price": 5.67
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Ethan Sanders",
-          "Price": 8.29
+          "Price": 6.67
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
-          "Player": "Tom Starling",
-          "Price": 15.33
-        },
-        {
-          "Game": "newcastle knights at canberra raiders",
-          "Team": "canberra raiders",
-          "Player": "Joseph Tapine",
-          "Price": 16.04
-        },
-        {
-          "Game": "newcastle knights at canberra raiders",
-          "Team": "canberra raiders",
-          "Player": "Corey Horsburgh",
-          "Price": 16.98
+          "Player": "Joe Roddy",
+          "Price": 7.96
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
           "Player": "Daine Laurie",
-          "Price": 18.63
+          "Price": 8.63
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "canberra raiders",
-          "Player": "Savelio Tamale",
-          "Price": 21.17
+          "Player": "Matty Nicholson",
+          "Price": 9.96
+        },
+        {
+          "Game": "newcastle knights at canberra raiders",
+          "Team": "canberra raiders",
+          "Player": "Corey Horsburgh",
+          "Price": 11.41
+        },
+        {
+          "Game": "newcastle knights at canberra raiders",
+          "Team": "canberra raiders",
+          "Player": "Tom Starling",
+          "Price": 14.1
+        },
+        {
+          "Game": "newcastle knights at canberra raiders",
+          "Team": "canberra raiders",
+          "Player": "Joseph Tapine",
+          "Price": 14.8
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Dominic Young",
-          "Price": 2.14
+          "Price": 2.12
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Greg Marzhew",
-          "Price": 2.5
+          "Price": 2.46
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Fletcher Sharpe",
-          "Price": 3.11
-        },
-        {
-          "Game": "newcastle knights at canberra raiders",
-          "Team": "newcastle knights",
-          "Player": "Dylan Lucas",
-          "Price": 3.63
+          "Price": 2.87
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Bradman Best",
-          "Price": 3.64
+          "Price": 3.6
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Kalyn Ponga",
-          "Price": 4.33
+          "Price": 4.35
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
-          "Player": "Dylan Brown",
-          "Price": 5.36
+          "Player": "Jermaine McEwen",
+          "Price": 4.84
+        },
+        {
+          "Game": "newcastle knights at canberra raiders",
+          "Team": "newcastle knights",
+          "Player": "Francis Manuleleua",
+          "Price": 4.84
         },
         {
           "Game": "newcastle knights at canberra raiders",
@@ -1558,151 +1420,217 @@
           "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Trey Mooney",
-          "Price": 6.48
+          "Price": 6.83
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
-          "Player": "Francis Manuleleua",
-          "Price": 7.68
-        },
-        {
-          "Game": "newcastle knights at canberra raiders",
-          "Team": "newcastle knights",
-          "Player": "Harrison Graham",
-          "Price": 9.73
-        },
-        {
-          "Game": "newcastle knights at canberra raiders",
-          "Team": "newcastle knights",
-          "Player": "Fletcher Hunt",
-          "Price": 10.6
+          "Player": "Sandon Smith",
+          "Price": 7.21
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Phoenix Crossland",
-          "Price": 10.74
+          "Price": 9.86
+        },
+        {
+          "Game": "newcastle knights at canberra raiders",
+          "Team": "newcastle knights",
+          "Player": "Harrison Graham",
+          "Price": 9.9
+        },
+        {
+          "Game": "newcastle knights at canberra raiders",
+          "Team": "newcastle knights",
+          "Player": "Fletcher Hunt",
+          "Price": 10.94
         },
         {
           "Game": "newcastle knights at canberra raiders",
           "Team": "newcastle knights",
           "Player": "Brodie Jones",
-          "Price": 17.1
+          "Price": 17.46
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Ronaldo Mulitalo",
+          "Price": 1.7
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Sione Katoa",
+          "Price": 1.9
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "William Kennedy",
+          "Price": 2.66
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Mawene Hiroti",
+          "Price": 2.72
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Braydon Trindall",
+          "Price": 2.82
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Jesse Ramien",
+          "Price": 3.2
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Briton Nikora",
+          "Price": 3.57
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Teig Wilton",
+          "Price": 3.57
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Nicholas Hynes",
+          "Price": 4.03
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Addin Fonua-Blake",
+          "Price": 4.7
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Thomas Hazelton",
+          "Price": 7.46
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Blayke Brailey",
+          "Price": 8.64
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Jesse Colquhoun",
+          "Price": 9.1
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Cameron McInnes",
+          "Price": 10.64
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Tuku Hau Tapuha",
+          "Price": 12.01
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Braden Hamlin-Uele",
+          "Price": 12.4
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "cronulla-sutherland sharks",
+          "Player": "Niwhai Puru",
+          "Price": 17.67
         },
         {
           "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Tyrell Sloan",
-          "Price": 3.16
+          "Price": 3.29
         },
         {
           "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Setu Tu",
-          "Price": 3.37
-        },
-        {
-          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
-          "Team": "st george-illawarra dragons",
-          "Player": "Mathew Feagai",
-          "Price": 3.47
-        },
-        {
-          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
-          "Team": "st george-illawarra dragons",
-          "Player": "Valentine Holmes",
-          "Price": 3.71
+          "Price": 3.57
         },
         {
           "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Clinton Gutherson",
-          "Price": 3.73
+          "Price": 3.94
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "st george-illawarra dragons",
+          "Player": "Valentine Holmes",
+          "Price": 3.99
         },
         {
           "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Dylan Egan",
-          "Price": 7.45
-        },
-        {
-          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
-          "Team": "st george-illawarra dragons",
-          "Player": "Jacob Liddle",
-          "Price": 7.88
-        },
-        {
-          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
-          "Team": "st george-illawarra dragons",
-          "Player": "Kyle Flanagan",
-          "Price": 8.18
-        },
-        {
-          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
-          "Team": "st george-illawarra dragons",
-          "Player": "Daniel Atkinson",
-          "Price": 8.73
+          "Price": 6.3
         },
         {
           "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Hamish Stewart",
-          "Price": 9.51
+          "Price": 6.3
         },
         {
           "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
-          "Player": "Damien Cook",
-          "Price": 9.8
+          "Player": "Jacob Liddle",
+          "Price": 8.01
         },
         {
           "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
-          "Player": "Luciano Leilua",
-          "Price": 14.26
-        },
-        {
-          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
-          "Team": "st george-illawarra dragons",
-          "Player": "Ryan Couchman",
-          "Price": 30.79
-        },
-        {
-          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
-          "Team": "st george-illawarra dragons",
-          "Player": "Loko Jnr Pasifiki Tonga",
-          "Price": 30.79
+          "Player": "Kyle Flanagan",
+          "Price": 8.45
         },
         {
           "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Mosese Suli",
-          "Price": 38.22
-        },
-        {
-          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
-          "Team": "st george-illawarra dragons",
-          "Player": "Josh Kerr",
-          "Price": 40.85
-        },
-        {
-          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
-          "Team": "st george-illawarra dragons",
-          "Player": "Jacob Halangahu",
-          "Price": 51.11
-        },
-        {
-          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
-          "Team": "st george-illawarra dragons",
-          "Player": "Toby Couchman",
-          "Price": 51.99
+          "Price": 8.65
         },
         {
           "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
           "Team": "st george-illawarra dragons",
           "Player": "Lyhkan King-Togia",
-          "Price": 59.91
+          "Price": 9.71
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "st george-illawarra dragons",
+          "Player": "Damien Cook",
+          "Price": 10.59
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "st george-illawarra dragons",
+          "Player": "Luciano Leilua",
+          "Price": 15.86
+        },
+        {
+          "Game": "cronulla-sutherland sharks at st george-illawarra dragons",
+          "Team": "st george-illawarra dragons",
+          "Player": "Ryan Couchman",
+          "Price": 18.41
         }
       ]
     },
@@ -1711,9 +1639,9 @@
       "model": "NRL futures sim",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-08-03 20:19:42",
-      "size": 14632,
-      "fileUrl": "/files/NRL_futures_sim.xlsx?v=1785752382-14632",
+      "modified": "2026-08-04 21:38:08",
+      "size": 13822,
+      "fileUrl": "/files/NRL_futures_sim.xlsx?v=1785843488-13822",
       "sheets": [
         "futures",
         "remaining_games",
@@ -1746,289 +1674,268 @@
         {
           "team_key": "penrithpanthers",
           "team": "Penrith Panthers",
-          "current_wins": 13,
-          "projected_wins": 18.1,
-          "simulated_avg_wins": 18,
-          "make_top4_pct": 99.6,
+          "current_wins": 15,
+          "projected_wins": 18.4,
+          "simulated_avg_wins": 18.4,
+          "make_top4_pct": 99.9,
           "make_top4_fair_odds": 1,
-          "miss_top4_pct": 0.4,
-          "miss_top4_fair_odds": 229.89,
+          "miss_top4_pct": 0.1,
+          "miss_top4_fair_odds": 833.33,
           "make_top8_pct": 100,
           "make_top8_fair_odds": 1,
           "miss_top8_pct": 0,
           "miss_top8_fair_odds": null,
-          "minor_premiership_pct": 80.5,
-          "minor_premiership_fair_odds": 1.24,
-          "make_grand_final_pct": 51.9,
-          "make_grand_final_fair_odds": 1.93,
-          "premiership_pct": 29.9,
-          "premiership_fair_odds": 3.34
-        },
-        {
-          "team_key": "warriors",
-          "team": "New Zealand Warriors",
-          "current_wins": 12,
-          "projected_wins": 16.4,
-          "simulated_avg_wins": 16.4,
-          "make_top4_pct": 91.6,
-          "make_top4_fair_odds": 1.09,
-          "miss_top4_pct": 8.4,
-          "miss_top4_fair_odds": 11.92,
-          "make_top8_pct": 99.9,
-          "make_top8_fair_odds": 1,
-          "miss_top8_pct": 0.1,
-          "miss_top8_fair_odds": 1052.63,
-          "minor_premiership_pct": 12.1,
-          "minor_premiership_fair_odds": 8.24,
-          "make_grand_final_pct": 42.1,
-          "make_grand_final_fair_odds": 2.37,
-          "premiership_pct": 21.3,
-          "premiership_fair_odds": 4.68
+          "minor_premiership_pct": 81.5,
+          "minor_premiership_fair_odds": 1.23,
+          "make_grand_final_pct": 47.8,
+          "make_grand_final_fair_odds": 2.09,
+          "premiership_pct": 26.4,
+          "premiership_fair_odds": 3.79
         },
         {
           "team_key": "cronullasharks",
           "team": "Cronulla Sharks",
-          "current_wins": 11,
-          "projected_wins": 15.8,
-          "simulated_avg_wins": 15.7,
-          "make_top4_pct": 78.8,
-          "make_top4_fair_odds": 1.27,
-          "miss_top4_pct": 21.2,
-          "miss_top4_fair_odds": 4.71,
-          "make_top8_pct": 99.4,
-          "make_top8_fair_odds": 1.01,
-          "miss_top8_pct": 0.6,
-          "miss_top8_fair_odds": 153.85,
-          "minor_premiership_pct": 2.2,
-          "minor_premiership_fair_odds": 44.84,
-          "make_grand_final_pct": 36.5,
-          "make_grand_final_fair_odds": 2.74,
-          "premiership_pct": 18.9,
-          "premiership_fair_odds": 5.28
+          "current_wins": 13,
+          "projected_wins": 16.9,
+          "simulated_avg_wins": 16.8,
+          "make_top4_pct": 95.6,
+          "make_top4_fair_odds": 1.05,
+          "miss_top4_pct": 4.4,
+          "miss_top4_fair_odds": 22.88,
+          "make_top8_pct": 100,
+          "make_top8_fair_odds": 1,
+          "miss_top8_pct": 0,
+          "miss_top8_fair_odds": null,
+          "minor_premiership_pct": 3.7,
+          "minor_premiership_fair_odds": 26.88,
+          "make_grand_final_pct": 45.7,
+          "make_grand_final_fair_odds": 2.19,
+          "premiership_pct": 24.1,
+          "premiership_fair_odds": 4.15
         },
         {
           "team_key": "sydneyroosters",
           "team": "Sydney Roosters",
-          "current_wins": 12,
-          "projected_wins": 15.9,
-          "simulated_avg_wins": 15.9,
-          "make_top4_pct": 68.7,
-          "make_top4_fair_odds": 1.45,
-          "miss_top4_pct": 31.3,
-          "miss_top4_fair_odds": 3.2,
-          "make_top8_pct": 99.3,
-          "make_top8_fair_odds": 1.01,
-          "miss_top8_pct": 0.7,
-          "miss_top8_fair_odds": 148.15,
-          "minor_premiership_pct": 4.9,
-          "minor_premiership_fair_odds": 20.41,
-          "make_grand_final_pct": 26,
-          "make_grand_final_fair_odds": 3.85,
-          "premiership_pct": 11.4,
-          "premiership_fair_odds": 8.74
+          "current_wins": 14,
+          "projected_wins": 17.2,
+          "simulated_avg_wins": 17.2,
+          "make_top4_pct": 94.2,
+          "make_top4_fair_odds": 1.06,
+          "miss_top4_pct": 5.8,
+          "miss_top4_fair_odds": 17.35,
+          "make_top8_pct": 100,
+          "make_top8_fair_odds": 1,
+          "miss_top8_pct": 0,
+          "miss_top8_fair_odds": null,
+          "minor_premiership_pct": 11.8,
+          "minor_premiership_fair_odds": 8.45,
+          "make_grand_final_pct": 39.3,
+          "make_grand_final_fair_odds": 2.54,
+          "premiership_pct": 19.9,
+          "premiership_fair_odds": 5.03
+        },
+        {
+          "team_key": "warriors",
+          "team": "New Zealand Warriors",
+          "current_wins": 13,
+          "projected_wins": 16.1,
+          "simulated_avg_wins": 16.1,
+          "make_top4_pct": 84.9,
+          "make_top4_fair_odds": 1.18,
+          "miss_top4_pct": 15.1,
+          "miss_top4_fair_odds": 6.62,
+          "make_top8_pct": 100,
+          "make_top8_fair_odds": 1,
+          "miss_top8_pct": 0,
+          "miss_top8_fair_odds": 4000,
+          "minor_premiership_pct": 3,
+          "minor_premiership_fair_odds": 33.5,
+          "make_grand_final_pct": 36.3,
+          "make_grand_final_fair_odds": 2.75,
+          "premiership_pct": 17.8,
+          "premiership_fair_odds": 5.62
         },
         {
           "team_key": "dolphins",
           "team": "Dolphins",
-          "current_wins": 11,
-          "projected_wins": 14.8,
-          "simulated_avg_wins": 14.7,
-          "make_top4_pct": 37,
-          "make_top4_fair_odds": 2.71,
-          "miss_top4_pct": 63,
-          "miss_top4_fair_odds": 1.59,
-          "make_top8_pct": 97.3,
-          "make_top8_fair_odds": 1.03,
-          "miss_top8_pct": 2.7,
-          "miss_top8_fair_odds": 36.9,
-          "minor_premiership_pct": 0.1,
-          "minor_premiership_fair_odds": 689.66,
-          "make_grand_final_pct": 18.3,
-          "make_grand_final_fair_odds": 5.47,
-          "premiership_pct": 8.1,
-          "premiership_fair_odds": 12.32
+          "current_wins": 12,
+          "projected_wins": 15,
+          "simulated_avg_wins": 15,
+          "make_top4_pct": 20.4,
+          "make_top4_fair_odds": 4.89,
+          "miss_top4_pct": 79.6,
+          "miss_top4_fair_odds": 1.26,
+          "make_top8_pct": 99.2,
+          "make_top8_fair_odds": 1.01,
+          "miss_top8_pct": 0.8,
+          "miss_top8_fair_odds": 127.39,
+          "minor_premiership_pct": 0,
+          "minor_premiership_fair_odds": 10000,
+          "make_grand_final_pct": 13.3,
+          "make_grand_final_fair_odds": 7.5,
+          "premiership_pct": 5.4,
+          "premiership_fair_odds": 18.35
         },
         {
           "team_key": "newcastleknights",
           "team": "Newcastle Knights",
-          "current_wins": 11,
+          "current_wins": 12,
           "projected_wins": 14.1,
           "simulated_avg_wins": 14.1,
-          "make_top4_pct": 12.9,
-          "make_top4_fair_odds": 7.73,
-          "miss_top4_pct": 87.1,
-          "miss_top4_fair_odds": 1.15,
-          "make_top8_pct": 88.9,
-          "make_top8_fair_odds": 1.12,
-          "miss_top8_pct": 11.1,
-          "miss_top8_fair_odds": 9.02,
-          "minor_premiership_pct": 0.1,
-          "minor_premiership_fair_odds": 1538.46,
-          "make_grand_final_pct": 8.5,
-          "make_grand_final_fair_odds": 11.79,
-          "premiership_pct": 3.4,
-          "premiership_fair_odds": 29.2
+          "make_top4_pct": 4.4,
+          "make_top4_fair_odds": 22.75,
+          "miss_top4_pct": 95.6,
+          "miss_top4_fair_odds": 1.05,
+          "make_top8_pct": 95.2,
+          "make_top8_fair_odds": 1.05,
+          "miss_top8_pct": 4.7,
+          "miss_top8_fair_odds": 21.05,
+          "minor_premiership_pct": 0,
+          "minor_premiership_fair_odds": null,
+          "make_grand_final_pct": 8.2,
+          "make_grand_final_fair_odds": 12.14,
+          "premiership_pct": 3.1,
+          "premiership_fair_odds": 31.95
         },
         {
           "team_key": "southsydneyrabbitohs",
           "team": "South Sydney Rabbitohs",
-          "current_wins": 9,
-          "projected_wins": 12.8,
-          "simulated_avg_wins": 12.8,
-          "make_top4_pct": 5.4,
-          "make_top4_fair_odds": 18.52,
-          "miss_top4_pct": 94.6,
-          "miss_top4_fair_odds": 1.06,
-          "make_top8_pct": 67.5,
-          "make_top8_fair_odds": 1.48,
-          "miss_top8_pct": 32.5,
-          "miss_top8_fair_odds": 3.08,
+          "current_wins": 10,
+          "projected_wins": 12.6,
+          "simulated_avg_wins": 12.6,
+          "make_top4_pct": 0.4,
+          "make_top4_fair_odds": 263.16,
+          "miss_top4_pct": 99.6,
+          "miss_top4_fair_odds": 1,
+          "make_top8_pct": 64.6,
+          "make_top8_fair_odds": 1.55,
+          "miss_top8_pct": 35.4,
+          "miss_top8_fair_odds": 2.82,
           "minor_premiership_pct": 0,
           "minor_premiership_fair_odds": null,
-          "make_grand_final_pct": 6.3,
-          "make_grand_final_fair_odds": 15.92,
-          "premiership_pct": 2.6,
-          "premiership_fair_odds": 38.1
+          "make_grand_final_pct": 4.2,
+          "make_grand_final_fair_odds": 23.7,
+          "premiership_pct": 1.6,
+          "premiership_fair_odds": 63.49
         },
         {
           "team_key": "manlyseaeagles",
           "team": "Manly Sea Eagles",
           "current_wins": 9,
-          "projected_wins": 12.3,
-          "simulated_avg_wins": 12.2,
-          "make_top4_pct": 2.7,
-          "make_top4_fair_odds": 36.63,
-          "miss_top4_pct": 97.3,
-          "miss_top4_fair_odds": 1.03,
-          "make_top8_pct": 56.8,
-          "make_top8_fair_odds": 1.76,
-          "miss_top8_pct": 43.2,
-          "miss_top8_fair_odds": 2.32,
+          "projected_wins": 11.6,
+          "simulated_avg_wins": 11.6,
+          "make_top4_pct": 0,
+          "make_top4_fair_odds": 2857.14,
+          "miss_top4_pct": 100,
+          "miss_top4_fair_odds": 1,
+          "make_top8_pct": 32.3,
+          "make_top8_fair_odds": 3.09,
+          "miss_top8_pct": 67.7,
+          "miss_top8_fair_odds": 1.48,
           "minor_premiership_pct": 0,
           "minor_premiership_fair_odds": null,
-          "make_grand_final_pct": 5.9,
-          "make_grand_final_fair_odds": 16.85,
-          "premiership_pct": 2.6,
-          "premiership_fair_odds": 38.1
+          "make_grand_final_pct": 2,
+          "make_grand_final_fair_odds": 51.15,
+          "premiership_pct": 0.7,
+          "premiership_fair_odds": 137.93
+        },
+        {
+          "team_key": "canterburybulldogs",
+          "team": "Canterbury Bulldogs",
+          "current_wins": 10,
+          "projected_wins": 12.3,
+          "simulated_avg_wins": 12.3,
+          "make_top4_pct": 0,
+          "make_top4_fair_odds": 4000,
+          "miss_top4_pct": 100,
+          "miss_top4_fair_odds": 1,
+          "make_top8_pct": 39.5,
+          "make_top8_fair_odds": 2.53,
+          "miss_top8_pct": 60.5,
+          "miss_top8_fair_odds": 1.65,
+          "minor_premiership_pct": 0,
+          "minor_premiership_fair_odds": null,
+          "make_grand_final_pct": 1.5,
+          "make_grand_final_fair_odds": 65.15,
+          "premiership_pct": 0.5,
+          "premiership_fair_odds": 212.77
         },
         {
           "team_key": "nqcowboys",
           "team": "NQ Cowboys",
-          "current_wins": 10,
-          "projected_wins": 13.4,
-          "simulated_avg_wins": 13.4,
-          "make_top4_pct": 3.2,
-          "make_top4_fair_odds": 30.77,
-          "miss_top4_pct": 96.8,
-          "miss_top4_fair_odds": 1.03,
-          "make_top8_pct": 72.7,
-          "make_top8_fair_odds": 1.38,
-          "miss_top8_pct": 27.3,
-          "miss_top8_fair_odds": 3.67,
+          "current_wins": 11,
+          "projected_wins": 13.1,
+          "simulated_avg_wins": 13.1,
+          "make_top4_pct": 0.1,
+          "make_top4_fair_odds": 1176.47,
+          "miss_top4_pct": 99.9,
+          "miss_top4_fair_odds": 1,
+          "make_top8_pct": 61.9,
+          "make_top8_fair_odds": 1.61,
+          "miss_top8_pct": 38.1,
+          "miss_top8_fair_odds": 2.63,
           "minor_premiership_pct": 0,
           "minor_premiership_fair_odds": null,
-          "make_grand_final_pct": 3.9,
-          "make_grand_final_fair_odds": 25.81,
-          "premiership_pct": 1.4,
-          "premiership_fair_odds": 72.46
+          "make_grand_final_pct": 1.3,
+          "make_grand_final_fair_odds": 79.05,
+          "premiership_pct": 0.4,
+          "premiership_fair_odds": 256.41
+        },
+        {
+          "team_key": "canberraraiders",
+          "team": "Canberra Raiders",
+          "current_wins": 9,
+          "projected_wins": 10.9,
+          "simulated_avg_wins": 10.9,
+          "make_top4_pct": 0,
+          "make_top4_fair_odds": null,
+          "miss_top4_pct": 100,
+          "miss_top4_fair_odds": 1,
+          "make_top8_pct": 6.7,
+          "make_top8_fair_odds": 14.88,
+          "miss_top8_pct": 93.3,
+          "miss_top8_fair_odds": 1.07,
+          "minor_premiership_pct": 0,
+          "minor_premiership_fair_odds": null,
+          "make_grand_final_pct": 0.3,
+          "make_grand_final_fair_odds": 357.14,
+          "premiership_pct": 0.1,
+          "premiership_fair_odds": 769.23
         },
         {
           "team_key": "melbournestorm",
           "team": "Melbourne Storm",
           "current_wins": 8,
-          "projected_wins": 10.6,
-          "simulated_avg_wins": 10.6,
-          "make_top4_pct": 0,
-          "make_top4_fair_odds": 10000,
-          "miss_top4_pct": 100,
-          "miss_top4_fair_odds": 1,
-          "make_top8_pct": 6.9,
-          "make_top8_fair_odds": 14.58,
-          "miss_top8_pct": 93.1,
-          "miss_top8_fair_odds": 1.07,
-          "minor_premiership_pct": 0,
-          "minor_premiership_fair_odds": null,
-          "make_grand_final_pct": 0.2,
-          "make_grand_final_fair_odds": 416.67,
-          "premiership_pct": 0.1,
-          "premiership_fair_odds": 909.09
-        },
-        {
-          "team_key": "canterburybulldogs",
-          "team": "Canterbury Bulldogs",
-          "current_wins": 8,
-          "projected_wins": 10.8,
-          "simulated_avg_wins": 10.8,
-          "make_top4_pct": 0,
-          "make_top4_fair_odds": 2857.14,
-          "miss_top4_pct": 100,
-          "miss_top4_fair_odds": 1,
-          "make_top8_pct": 6.8,
-          "make_top8_fair_odds": 14.81,
-          "miss_top8_pct": 93.2,
-          "miss_top8_fair_odds": 1.07,
-          "minor_premiership_pct": 0,
-          "minor_premiership_fair_odds": null,
-          "make_grand_final_pct": 0.2,
-          "make_grand_final_fair_odds": 500,
-          "premiership_pct": 0,
-          "premiership_fair_odds": 2500
-        },
-        {
-          "team_key": "canberraraiders",
-          "team": "Canberra Raiders",
-          "current_wins": 8,
-          "projected_wins": 10.7,
-          "simulated_avg_wins": 10.7,
-          "make_top4_pct": 0,
-          "make_top4_fair_odds": 20000,
-          "miss_top4_pct": 100,
-          "miss_top4_fair_odds": 1,
-          "make_top8_pct": 4.2,
-          "make_top8_fair_odds": 23.89,
-          "miss_top8_pct": 95.8,
-          "miss_top8_fair_odds": 1.04,
-          "minor_premiership_pct": 0,
-          "minor_premiership_fair_odds": null,
-          "make_grand_final_pct": 0.1,
-          "make_grand_final_fair_odds": 689.66,
-          "premiership_pct": 0,
-          "premiership_fair_odds": 2857.14
-        },
-        {
-          "team_key": "weststigers",
-          "team": "Wests Tigers",
-          "current_wins": 7,
-          "projected_wins": 9,
-          "simulated_avg_wins": 9,
+          "projected_wins": 9.6,
+          "simulated_avg_wins": 9.6,
           "make_top4_pct": 0,
           "make_top4_fair_odds": null,
           "miss_top4_pct": 100,
           "miss_top4_fair_odds": 1,
-          "make_top8_pct": 0.1,
-          "make_top8_fair_odds": 1176.47,
-          "miss_top8_pct": 99.9,
+          "make_top8_pct": 0.4,
+          "make_top8_fair_odds": 259.74,
+          "miss_top8_pct": 99.6,
           "miss_top8_fair_odds": 1,
           "minor_premiership_pct": 0,
           "minor_premiership_fair_odds": null,
           "make_grand_final_pct": 0,
-          "make_grand_final_fair_odds": 20000,
+          "make_grand_final_fair_odds": 6666.67,
           "premiership_pct": 0,
-          "premiership_fair_odds": null
+          "premiership_fair_odds": 20000
         },
         {
-          "team_key": "brisbanebroncos",
-          "team": "Brisbane Broncos",
-          "current_wins": 6,
-          "projected_wins": 8.6,
-          "simulated_avg_wins": 8.7,
+          "team_key": "parramattaeels",
+          "team": "Parramatta Eels",
+          "current_wins": 7,
+          "projected_wins": 8.9,
+          "simulated_avg_wins": 8.9,
           "make_top4_pct": 0,
           "make_top4_fair_odds": null,
           "miss_top4_pct": 100,
           "miss_top4_fair_odds": 1,
-          "make_top8_pct": 0.2,
-          "make_top8_fair_odds": 625,
-          "miss_top8_pct": 99.8,
+          "make_top8_pct": 0,
+          "make_top8_fair_odds": 3333.33,
+          "miss_top8_pct": 100,
           "miss_top8_fair_odds": 1,
           "minor_premiership_pct": 0,
           "minor_premiership_fair_odds": null,
@@ -2038,18 +1945,18 @@
           "premiership_fair_odds": null
         },
         {
-          "team_key": "parramattaeels",
-          "team": "Parramatta Eels",
-          "current_wins": 6,
-          "projected_wins": 8.4,
-          "simulated_avg_wins": 8.5,
+          "team_key": "weststigers",
+          "team": "Wests Tigers",
+          "current_wins": 7,
+          "projected_wins": 8.1,
+          "simulated_avg_wins": 8.1,
           "make_top4_pct": 0,
           "make_top4_fair_odds": null,
           "miss_top4_pct": 100,
           "miss_top4_fair_odds": 1,
-          "make_top8_pct": 0.1,
-          "make_top8_fair_odds": 1428.57,
-          "miss_top8_pct": 99.9,
+          "make_top8_pct": 0,
+          "make_top8_fair_odds": null,
+          "miss_top8_pct": 100,
           "miss_top8_fair_odds": 1,
           "minor_premiership_pct": 0,
           "minor_premiership_fair_odds": null,
@@ -2061,7 +1968,7 @@
         {
           "team_key": "goldcoasttitans",
           "team": "Gold Coast Titans",
-          "current_wins": 5,
+          "current_wins": 6,
           "projected_wins": 7.8,
           "simulated_avg_wins": 7.8,
           "make_top4_pct": 0,
@@ -2069,7 +1976,28 @@
           "miss_top4_pct": 100,
           "miss_top4_fair_odds": 1,
           "make_top8_pct": 0,
-          "make_top8_fair_odds": 4000,
+          "make_top8_fair_odds": 20000,
+          "miss_top8_pct": 100,
+          "miss_top8_fair_odds": 1,
+          "minor_premiership_pct": 0,
+          "minor_premiership_fair_odds": null,
+          "make_grand_final_pct": 0,
+          "make_grand_final_fair_odds": null,
+          "premiership_pct": 0,
+          "premiership_fair_odds": null
+        },
+        {
+          "team_key": "brisbanebroncos",
+          "team": "Brisbane Broncos",
+          "current_wins": 6,
+          "projected_wins": 7.7,
+          "simulated_avg_wins": 7.7,
+          "make_top4_pct": 0,
+          "make_top4_fair_odds": null,
+          "miss_top4_pct": 100,
+          "miss_top4_fair_odds": 1,
+          "make_top8_pct": 0,
+          "make_top8_fair_odds": 20000,
           "miss_top8_pct": 100,
           "miss_top8_fair_odds": 1,
           "minor_premiership_pct": 0,
@@ -2083,8 +2011,8 @@
           "team_key": "stgeorgeillawarradragons",
           "team": "St. George Illawarra Dragons",
           "current_wins": 2,
-          "projected_wins": 4.6,
-          "simulated_avg_wins": 4.6,
+          "projected_wins": 3.7,
+          "simulated_avg_wins": 3.8,
           "make_top4_pct": 0,
           "make_top4_fair_odds": null,
           "miss_top4_pct": 100,
@@ -2107,9 +2035,9 @@
       "model": "NRL try channel matchups",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-08-03 20:18:41",
-      "size": 31634,
-      "fileUrl": "/files/NRL_try_channel_matchups.xlsx?v=1785752321-31634",
+      "modified": "2026-08-04 21:37:19",
+      "size": 29153,
+      "fileUrl": "/files/NRL_try_channel_matchups.xlsx?v=1785843439-29153",
       "sheets": [
         "Heatmap",
         "Detail",
@@ -2141,104 +2069,8 @@
         "right_wing_def",
         "focus_players"
       ],
-      "rowCount": 20,
+      "rowCount": 16,
       "rows": [
-        {
-          "date_local": "2026-08-02T00:00:00",
-          "time_local": "14:00",
-          "matchup": "cronulla-sutherland sharks v south sydney rabbitohs",
-          "attack_team": "south sydney rabbitohs",
-          "defence_team": "cronulla-sutherland sharks",
-          "side": "away",
-          "left_wing": 0.79,
-          "left_wing_off": 0.77,
-          "left_wing_def": 1.02,
-          "left_centre": 0.41,
-          "left_centre_off": 0.48,
-          "left_centre_def": 0.85,
-          "fullback": 0.75,
-          "fullback_off": 0.91,
-          "fullback_def": 0.83,
-          "right_centre": 1.59,
-          "right_centre_off": 1.28,
-          "right_centre_def": 1.24,
-          "right_wing": 1.78,
-          "right_wing_off": 1.53,
-          "right_wing_def": 1.17,
-          "focus_players": "right_centre 1.59 (off 1.28 x def 1.24): Tallis Duncan; right_wing 1.78 (off 1.53 x def 1.17): Alex Johnston"
-        },
-        {
-          "date_local": "2026-08-02T00:00:00",
-          "time_local": "14:00",
-          "matchup": "cronulla-sutherland sharks v south sydney rabbitohs",
-          "attack_team": "cronulla-sutherland sharks",
-          "defence_team": "south sydney rabbitohs",
-          "side": "home",
-          "left_wing": 0.85,
-          "left_wing_off": 0.97,
-          "left_wing_def": 0.87,
-          "left_centre": 1.2,
-          "left_centre_off": 1.51,
-          "left_centre_def": 0.8,
-          "fullback": 1.06,
-          "fullback_off": 0.74,
-          "fullback_def": 1.43,
-          "right_centre": 0.5,
-          "right_centre_off": 0.66,
-          "right_centre_def": 0.77,
-          "right_wing": 0.84,
-          "right_wing_off": 0.83,
-          "right_wing_def": 1.01,
-          "focus_players": "left_centre 1.20 (off 1.51 x def 0.80): KL Iro"
-        },
-        {
-          "date_local": "2026-08-02T00:00:00",
-          "time_local": "16:05",
-          "matchup": "wests tigers v parramatta eels",
-          "attack_team": "parramatta eels",
-          "defence_team": "wests tigers",
-          "side": "away",
-          "left_wing": 0.69,
-          "left_wing_off": 0.95,
-          "left_wing_def": 0.73,
-          "left_centre": 0.61,
-          "left_centre_off": 0.58,
-          "left_centre_def": 1.04,
-          "fullback": 1.44,
-          "fullback_off": 1.2,
-          "fullback_def": 1.2,
-          "right_centre": 1.05,
-          "right_centre_off": 1.21,
-          "right_centre_def": 0.87,
-          "right_wing": 1.03,
-          "right_wing_off": 0.97,
-          "right_wing_def": 1.06,
-          "focus_players": "fullback 1.44 (off 1.20 x def 1.20): Isaiah Iongi"
-        },
-        {
-          "date_local": "2026-08-02T00:00:00",
-          "time_local": "16:05",
-          "matchup": "wests tigers v parramatta eels",
-          "attack_team": "wests tigers",
-          "defence_team": "parramatta eels",
-          "side": "home",
-          "left_wing": 1.02,
-          "left_wing_off": 1.05,
-          "left_wing_def": 0.97,
-          "left_centre": 1.22,
-          "left_centre_off": 1.15,
-          "left_centre_def": 1.07,
-          "fullback": 0.75,
-          "fullback_off": 0.99,
-          "fullback_def": 0.76,
-          "right_centre": 1.5,
-          "right_centre_off": 1.29,
-          "right_centre_def": 1.17,
-          "right_wing": 0.81,
-          "right_wing_off": 0.76,
-          "right_wing_def": 1.06,
-          "focus_players": "left_centre 1.22 (off 1.15 x def 1.07): Starford To'a; right_centre 1.50 (off 1.29 x def 1.17): Heamasi Makasini"
-        },
         {
           "date_local": "2026-08-06T00:00:00",
           "time_local": "19:50",
@@ -2246,22 +2078,22 @@
           "attack_team": "north queensland cowboys",
           "defence_team": "gold coast titans",
           "side": "away",
-          "left_wing": 1.07,
-          "left_wing_off": 1.09,
-          "left_wing_def": 0.98,
-          "left_centre": 0.69,
-          "left_centre_off": 0.73,
-          "left_centre_def": 0.95,
-          "fullback": 1.11,
-          "fullback_off": 1.04,
-          "fullback_def": 1.07,
-          "right_centre": 1.45,
-          "right_centre_off": 1.39,
-          "right_centre_def": 1.04,
-          "right_wing": 1.09,
-          "right_wing_off": 1.08,
-          "right_wing_def": 1.01,
-          "focus_players": "right_centre 1.45 (off 1.39 x def 1.04): Zac Laybutt"
+          "left_wing": 1.09,
+          "left_wing_off": 1.06,
+          "left_wing_def": 1.02,
+          "left_centre": 0.7,
+          "left_centre_off": 0.77,
+          "left_centre_def": 0.91,
+          "fullback": 1.02,
+          "fullback_off": 1.01,
+          "fullback_def": 1.01,
+          "right_centre": 1.44,
+          "right_centre_off": 1.4,
+          "right_centre_def": 1.02,
+          "right_wing": 1.07,
+          "right_wing_off": 1.11,
+          "right_wing_def": 0.96,
+          "focus_players": "right_centre 1.44 (off 1.40 x def 1.02): Zac Laybutt"
         },
         {
           "date_local": "2026-08-06T00:00:00",
@@ -2270,22 +2102,22 @@
           "attack_team": "gold coast titans",
           "defence_team": "north queensland cowboys",
           "side": "home",
-          "left_wing": 1.39,
-          "left_wing_off": 1.19,
-          "left_wing_def": 1.17,
-          "left_centre": 0.96,
-          "left_centre_off": 0.96,
-          "left_centre_def": 1,
-          "fullback": 0.51,
-          "fullback_off": 0.65,
-          "fullback_def": 0.79,
-          "right_centre": 0.91,
-          "right_centre_off": 0.98,
-          "right_centre_def": 0.92,
-          "right_wing": 0.86,
-          "right_wing_off": 0.96,
-          "right_wing_def": 0.89,
-          "focus_players": "left_wing 1.39 (off 1.19 x def 1.17): Phillip Sami"
+          "left_wing": 1.35,
+          "left_wing_off": 1.17,
+          "left_wing_def": 1.16,
+          "left_centre": 1.02,
+          "left_centre_off": 1.04,
+          "left_centre_def": 0.98,
+          "fullback": 0.52,
+          "fullback_off": 0.62,
+          "fullback_def": 0.85,
+          "right_centre": 0.94,
+          "right_centre_off": 0.97,
+          "right_centre_def": 0.97,
+          "right_wing": 0.82,
+          "right_wing_off": 0.94,
+          "right_wing_def": 0.87,
+          "focus_players": "left_wing 1.35 (off 1.17 x def 1.16): Phillip Sami"
         },
         {
           "date_local": "2026-08-07T00:00:00",
@@ -2294,21 +2126,21 @@
           "attack_team": "canterbury-bankstown bulldogs",
           "defence_team": "sydney roosters",
           "side": "away",
-          "left_wing": 0.78,
-          "left_wing_off": 0.99,
-          "left_wing_def": 0.79,
-          "left_centre": 0.9,
-          "left_centre_off": 0.87,
-          "left_centre_def": 1.03,
-          "fullback": 0.87,
-          "fullback_off": 0.64,
-          "fullback_def": 1.35,
-          "right_centre": 0.79,
-          "right_centre_off": 0.95,
+          "left_wing": 0.69,
+          "left_wing_off": 0.92,
+          "left_wing_def": 0.76,
+          "left_centre": 0.82,
+          "left_centre_off": 0.73,
+          "left_centre_def": 1.11,
+          "fullback": 0.8,
+          "fullback_off": 0.62,
+          "fullback_def": 1.29,
+          "right_centre": 0.83,
+          "right_centre_off": 1,
           "right_centre_def": 0.83,
-          "right_wing": 0.79,
-          "right_wing_off": 0.81,
-          "right_wing_def": 0.97,
+          "right_wing": 0.85,
+          "right_wing_off": 0.83,
+          "right_wing_def": 1.02,
           "focus_players": "No wing/centre/fullback focus >= 1.12"
         },
         {
@@ -2318,22 +2150,22 @@
           "attack_team": "sydney roosters",
           "defence_team": "canterbury-bankstown bulldogs",
           "side": "home",
-          "left_wing": 1.68,
-          "left_wing_off": 1.22,
-          "left_wing_def": 1.38,
-          "left_centre": 0.55,
-          "left_centre_off": 0.93,
+          "left_wing": 1.69,
+          "left_wing_off": 1.19,
+          "left_wing_def": 1.42,
+          "left_centre": 0.53,
+          "left_centre_off": 0.91,
           "left_centre_def": 0.59,
-          "fullback": 0.79,
-          "fullback_off": 1.06,
-          "fullback_def": 0.75,
-          "right_centre": 0.78,
-          "right_centre_off": 0.99,
-          "right_centre_def": 0.79,
-          "right_wing": 1.6,
-          "right_wing_off": 1.2,
-          "right_wing_def": 1.33,
-          "focus_players": "left_wing 1.68 (off 1.22 x def 1.38): Mark Nawaqanitawase; right_wing 1.60 (off 1.20 x def 1.33): Daniel Tupou"
+          "fullback": 0.94,
+          "fullback_off": 1.2,
+          "fullback_def": 0.78,
+          "right_centre": 0.8,
+          "right_centre_off": 1.07,
+          "right_centre_def": 0.74,
+          "right_wing": 1.52,
+          "right_wing_off": 1.16,
+          "right_wing_def": 1.31,
+          "focus_players": "left_wing 1.69 (off 1.19 x def 1.42): Mark Nawaqanitawase; right_wing 1.52 (off 1.16 x def 1.31): Tommy Talau"
         },
         {
           "date_local": "2026-08-07T00:00:00",
@@ -2342,22 +2174,22 @@
           "attack_team": "penrith panthers",
           "defence_team": "warriors",
           "side": "away",
-          "left_wing": 1.12,
-          "left_wing_off": 0.96,
-          "left_wing_def": 1.17,
-          "left_centre": 2.26,
-          "left_centre_off": 1.37,
-          "left_centre_def": 1.65,
-          "fullback": 0.9,
+          "left_wing": 1.04,
+          "left_wing_off": 0.92,
+          "left_wing_def": 1.13,
+          "left_centre": 2.15,
+          "left_centre_off": 1.33,
+          "left_centre_def": 1.62,
+          "fullback": 0.87,
           "fullback_off": 0.85,
-          "fullback_def": 1.06,
-          "right_centre": 0.86,
-          "right_centre_off": 0.81,
-          "right_centre_def": 1.05,
-          "right_wing": 1.08,
-          "right_wing_off": 1.29,
-          "right_wing_def": 0.83,
-          "focus_players": "left_wing 1.12 (off 0.96 x def 1.17): Brian To'o; left_centre 2.26 (off 1.37 x def 1.65): Casey McLean"
+          "fullback_def": 1.02,
+          "right_centre": 0.81,
+          "right_centre_off": 0.77,
+          "right_centre_def": 1.06,
+          "right_wing": 1.17,
+          "right_wing_off": 1.35,
+          "right_wing_def": 0.86,
+          "focus_players": "left_centre 2.15 (off 1.33 x def 1.62): Casey McLean; right_wing 1.17 (off 1.35 x def 0.86): Thomas Jenkins"
         },
         {
           "date_local": "2026-08-07T00:00:00",
@@ -2366,22 +2198,22 @@
           "attack_team": "warriors",
           "defence_team": "penrith panthers",
           "side": "home",
-          "left_wing": 1.25,
-          "left_wing_off": 1.2,
-          "left_wing_def": 1.04,
+          "left_wing": 1.18,
+          "left_wing_off": 1.17,
+          "left_wing_def": 1.01,
           "left_centre": 0.51,
-          "left_centre_off": 0.55,
-          "left_centre_def": 0.92,
-          "fullback": 0.47,
-          "fullback_off": 0.46,
-          "fullback_def": 1.02,
-          "right_centre": 1.12,
-          "right_centre_off": 0.99,
-          "right_centre_def": 1.13,
+          "left_centre_off": 0.53,
+          "left_centre_def": 0.96,
+          "fullback": 0.43,
+          "fullback_off": 0.43,
+          "fullback_def": 0.98,
+          "right_centre": 1.11,
+          "right_centre_off": 0.97,
+          "right_centre_def": 1.14,
           "right_wing": 0.79,
-          "right_wing_off": 0.97,
+          "right_wing_off": 0.98,
           "right_wing_def": 0.81,
-          "focus_players": "left_wing 1.25 (off 1.20 x def 1.04): Alofiana Khan-Pereira; right_centre 1.12 (off 0.99 x def 1.13): Ali Leiataua"
+          "focus_players": "left_wing 1.18 (off 1.17 x def 1.01): Alofiana Khan-Pereira"
         },
         {
           "date_local": "2026-08-08T00:00:00",
@@ -2390,22 +2222,22 @@
           "attack_team": "manly-warringah sea eagles",
           "defence_team": "melbourne storm",
           "side": "away",
-          "left_wing": 1.15,
+          "left_wing": 1.17,
           "left_wing_off": 1.07,
-          "left_wing_def": 1.08,
-          "left_centre": 1.23,
+          "left_wing_def": 1.09,
+          "left_centre": 1.2,
           "left_centre_off": 1.03,
-          "left_centre_def": 1.19,
-          "fullback": 1,
-          "fullback_off": 1.12,
-          "fullback_def": 0.89,
-          "right_centre": 1.42,
-          "right_centre_off": 1.51,
-          "right_centre_def": 0.94,
-          "right_wing": 1.06,
-          "right_wing_off": 0.83,
-          "right_wing_def": 1.28,
-          "focus_players": "left_wing 1.15 (off 1.07 x def 1.08): Lehi Hopoate; left_centre 1.23 (off 1.03 x def 1.19): Reuben Garrick; right_centre 1.42 (off 1.51 x def 0.94): Tolutau Koula"
+          "left_centre_def": 1.17,
+          "fullback": 0.91,
+          "fullback_off": 1.09,
+          "fullback_def": 0.83,
+          "right_centre": 1.47,
+          "right_centre_off": 1.53,
+          "right_centre_def": 0.96,
+          "right_wing": 1.05,
+          "right_wing_off": 0.84,
+          "right_wing_def": 1.25,
+          "focus_players": "left_wing 1.17 (off 1.07 x def 1.09): Tolutau Koula; left_centre 1.20 (off 1.03 x def 1.17): Reuben Garrick; right_centre 1.47 (off 1.53 x def 0.96): Josh Feledy"
         },
         {
           "date_local": "2026-08-08T00:00:00",
@@ -2414,22 +2246,22 @@
           "attack_team": "melbourne storm",
           "defence_team": "manly-warringah sea eagles",
           "side": "home",
-          "left_wing": 0.81,
-          "left_wing_off": 0.85,
-          "left_wing_def": 0.96,
-          "left_centre": 0.61,
-          "left_centre_off": 0.72,
-          "left_centre_def": 0.84,
-          "fullback": 1.23,
+          "left_wing": 1.03,
+          "left_wing_off": 0.97,
+          "left_wing_def": 1.06,
+          "left_centre": 0.68,
+          "left_centre_off": 0.74,
+          "left_centre_def": 0.92,
+          "fullback": 1.24,
           "fullback_off": 1.42,
           "fullback_def": 0.87,
-          "right_centre": 0.33,
-          "right_centre_off": 0.5,
-          "right_centre_def": 0.66,
-          "right_wing": 1.07,
-          "right_wing_off": 1,
-          "right_wing_def": 1.07,
-          "focus_players": "fullback 1.23 (off 1.42 x def 0.87): Sualauvi Faalogo"
+          "right_centre": 0.32,
+          "right_centre_off": 0.49,
+          "right_centre_def": 0.65,
+          "right_wing": 0.88,
+          "right_wing_off": 0.89,
+          "right_wing_def": 0.98,
+          "focus_players": "fullback 1.24 (off 1.42 x def 0.87): Sualauvi Faalogo"
         },
         {
           "date_local": "2026-08-08T00:00:00",
@@ -2438,22 +2270,22 @@
           "attack_team": "brisbane broncos",
           "defence_team": "dolphins",
           "side": "away",
-          "left_wing": 0.95,
-          "left_wing_off": 0.93,
+          "left_wing": 0.93,
+          "left_wing_off": 0.91,
           "left_wing_def": 1.02,
-          "left_centre": 1.36,
-          "left_centre_off": 1.36,
-          "left_centre_def": 1,
-          "fullback": 1.06,
-          "fullback_off": 1.1,
-          "fullback_def": 0.96,
-          "right_centre": 1.35,
-          "right_centre_off": 1.21,
-          "right_centre_def": 1.11,
-          "right_wing": 0.74,
+          "left_centre": 1.32,
+          "left_centre_off": 1.35,
+          "left_centre_def": 0.98,
+          "fullback": 1.09,
+          "fullback_off": 1.12,
+          "fullback_def": 0.97,
+          "right_centre": 1.38,
+          "right_centre_off": 1.23,
+          "right_centre_def": 1.12,
+          "right_wing": 0.77,
           "right_wing_off": 0.86,
-          "right_wing_def": 0.86,
-          "focus_players": "left_centre 1.36 (off 1.36 x def 1.00): Gehamat Shibasaki; right_centre 1.35 (off 1.21 x def 1.11): Kotoni Staggs"
+          "right_wing_def": 0.89,
+          "focus_players": "left_centre 1.32 (off 1.35 x def 0.98): Deine Mariner; right_centre 1.38 (off 1.23 x def 1.12): Kotoni Staggs"
         },
         {
           "date_local": "2026-08-08T00:00:00",
@@ -2462,22 +2294,22 @@
           "attack_team": "dolphins",
           "defence_team": "brisbane broncos",
           "side": "home",
-          "left_wing": 0.57,
-          "left_wing_off": 0.82,
-          "left_wing_def": 0.7,
-          "left_centre": 1.71,
-          "left_centre_off": 1.48,
-          "left_centre_def": 1.16,
-          "fullback": 1.61,
-          "fullback_off": 1.52,
-          "fullback_def": 1.06,
-          "right_centre": 1.09,
-          "right_centre_off": 0.97,
-          "right_centre_def": 1.12,
+          "left_wing": 0.62,
+          "left_wing_off": 0.85,
+          "left_wing_def": 0.72,
+          "left_centre": 1.62,
+          "left_centre_off": 1.45,
+          "left_centre_def": 1.12,
+          "fullback": 1.52,
+          "fullback_off": 1.5,
+          "fullback_def": 1.01,
+          "right_centre": 1.08,
+          "right_centre_off": 0.98,
+          "right_centre_def": 1.11,
           "right_wing": 1,
           "right_wing_off": 0.86,
-          "right_wing_def": 1.16,
-          "focus_players": "left_centre 1.71 (off 1.48 x def 1.16): Herbie Farnworth; fullback 1.61 (off 1.52 x def 1.06): Hamiso Tabuai-Fidow"
+          "right_wing_def": 1.17,
+          "focus_players": "left_centre 1.62 (off 1.45 x def 1.12): Herbie Farnworth; fullback 1.52 (off 1.50 x def 1.01): Hamiso Tabuai-Fidow"
         },
         {
           "date_local": "2026-08-08T00:00:00",
@@ -2486,22 +2318,22 @@
           "attack_team": "parramatta eels",
           "defence_team": "south sydney rabbitohs",
           "side": "away",
-          "left_wing": 0.83,
-          "left_wing_off": 0.95,
-          "left_wing_def": 0.87,
-          "left_centre": 0.46,
-          "left_centre_off": 0.58,
-          "left_centre_def": 0.8,
-          "fullback": 1.71,
+          "left_wing": 0.78,
+          "left_wing_off": 0.91,
+          "left_wing_def": 0.85,
+          "left_centre": 0.54,
+          "left_centre_off": 0.62,
+          "left_centre_def": 0.86,
+          "fullback": 1.66,
           "fullback_off": 1.2,
-          "fullback_def": 1.43,
-          "right_centre": 0.93,
+          "fullback_def": 1.39,
+          "right_centre": 0.91,
           "right_centre_off": 1.21,
-          "right_centre_def": 0.77,
-          "right_wing": 0.97,
-          "right_wing_off": 0.97,
+          "right_centre_def": 0.75,
+          "right_wing": 0.96,
+          "right_wing_off": 0.95,
           "right_wing_def": 1.01,
-          "focus_players": "fullback 1.71 (off 1.20 x def 1.43): Isaiah Iongi"
+          "focus_players": "fullback 1.66 (off 1.20 x def 1.39): Isaiah Iongi"
         },
         {
           "date_local": "2026-08-08T00:00:00",
@@ -2510,22 +2342,22 @@
           "attack_team": "south sydney rabbitohs",
           "defence_team": "parramatta eels",
           "side": "home",
-          "left_wing": 0.74,
-          "left_wing_off": 0.77,
-          "left_wing_def": 0.97,
-          "left_centre": 0.51,
-          "left_centre_off": 0.48,
-          "left_centre_def": 1.07,
-          "fullback": 0.69,
-          "fullback_off": 0.91,
-          "fullback_def": 0.76,
-          "right_centre": 1.5,
-          "right_centre_off": 1.28,
+          "left_wing": 0.77,
+          "left_wing_off": 0.82,
+          "left_wing_def": 0.94,
+          "left_centre": 0.56,
+          "left_centre_off": 0.51,
+          "left_centre_def": 1.09,
+          "fullback": 0.62,
+          "fullback_off": 0.86,
+          "fullback_def": 0.73,
+          "right_centre": 1.53,
+          "right_centre_off": 1.31,
           "right_centre_def": 1.17,
-          "right_wing": 1.63,
-          "right_wing_off": 1.53,
-          "right_wing_def": 1.06,
-          "focus_players": "right_centre 1.50 (off 1.28 x def 1.17): Tallis Duncan; right_wing 1.63 (off 1.53 x def 1.06): Alex Johnston"
+          "right_wing": 1.68,
+          "right_wing_off": 1.55,
+          "right_wing_def": 1.08,
+          "focus_players": "right_centre 1.53 (off 1.31 x def 1.17): Latrell Siegwalt; right_wing 1.68 (off 1.55 x def 1.08): Alex Johnston"
         },
         {
           "date_local": "2026-08-09T00:00:00",
@@ -2534,22 +2366,22 @@
           "attack_team": "newcastle knights",
           "defence_team": "canberra raiders",
           "side": "away",
-          "left_wing": 1.16,
-          "left_wing_off": 1,
-          "left_wing_def": 1.16,
-          "left_centre": 1.46,
-          "left_centre_off": 1.03,
-          "left_centre_def": 1.42,
-          "fullback": 0.7,
-          "fullback_off": 0.99,
-          "fullback_def": 0.71,
-          "right_centre": 0.53,
-          "right_centre_off": 0.54,
-          "right_centre_def": 0.98,
-          "right_wing": 1.05,
-          "right_wing_off": 1.22,
-          "right_wing_def": 0.86,
-          "focus_players": "left_wing 1.16 (off 1.00 x def 1.16): Greg Marzhew; left_centre 1.46 (off 1.03 x def 1.42): Bradman Best"
+          "left_wing": 1.11,
+          "left_wing_off": 1.01,
+          "left_wing_def": 1.1,
+          "left_centre": 1.35,
+          "left_centre_off": 1.04,
+          "left_centre_def": 1.29,
+          "fullback": 0.68,
+          "fullback_off": 0.94,
+          "fullback_def": 0.72,
+          "right_centre": 0.52,
+          "right_centre_off": 0.53,
+          "right_centre_def": 0.99,
+          "right_wing": 1.15,
+          "right_wing_off": 1.25,
+          "right_wing_def": 0.91,
+          "focus_players": "left_centre 1.35 (off 1.04 x def 1.29): Bradman Best; right_wing 1.15 (off 1.25 x def 0.91): Dominic Young"
         },
         {
           "date_local": "2026-08-09T00:00:00",
@@ -2558,22 +2390,22 @@
           "attack_team": "canberra raiders",
           "defence_team": "newcastle knights",
           "side": "home",
-          "left_wing": 0.83,
-          "left_wing_off": 0.85,
-          "left_wing_def": 0.98,
+          "left_wing": 0.79,
+          "left_wing_off": 0.83,
+          "left_wing_def": 0.96,
           "left_centre": 0.62,
-          "left_centre_off": 0.82,
-          "left_centre_def": 0.76,
-          "fullback": 1.08,
-          "fullback_off": 1.02,
-          "fullback_def": 1.05,
-          "right_centre": 1.54,
-          "right_centre_off": 1.22,
-          "right_centre_def": 1.26,
-          "right_wing": 0.45,
-          "right_wing_off": 0.75,
-          "right_wing_def": 0.6,
-          "focus_players": "right_centre 1.54 (off 1.22 x def 1.26): Simi Sasagi"
+          "left_centre_off": 0.88,
+          "left_centre_def": 0.71,
+          "fullback": 1.37,
+          "fullback_off": 1.14,
+          "fullback_def": 1.2,
+          "right_centre": 1.48,
+          "right_centre_off": 1.16,
+          "right_centre_def": 1.28,
+          "right_wing": 0.46,
+          "right_wing_off": 0.76,
+          "right_wing_def": 0.61,
+          "focus_players": "fullback 1.37 (off 1.14 x def 1.20): Kaeo Weekes; right_centre 1.48 (off 1.16 x def 1.28): Simi Sasagi"
         },
         {
           "date_local": "2026-08-09T00:00:00",
@@ -2582,22 +2414,22 @@
           "attack_team": "cronulla-sutherland sharks",
           "defence_team": "st george-illawarra dragons",
           "side": "away",
-          "left_wing": 1.02,
-          "left_wing_off": 0.97,
-          "left_wing_def": 1.05,
-          "left_centre": 1.22,
-          "left_centre_off": 1.51,
-          "left_centre_def": 0.81,
-          "fullback": 0.89,
-          "fullback_off": 0.74,
-          "fullback_def": 1.2,
-          "right_centre": 0.72,
-          "right_centre_off": 0.66,
-          "right_centre_def": 1.09,
-          "right_wing": 0.87,
+          "left_wing": 1.06,
+          "left_wing_off": 0.99,
+          "left_wing_def": 1.07,
+          "left_centre": 1.35,
+          "left_centre_off": 1.57,
+          "left_centre_def": 0.86,
+          "fullback": 0.86,
+          "fullback_off": 0.73,
+          "fullback_def": 1.17,
+          "right_centre": 0.69,
+          "right_centre_off": 0.64,
+          "right_centre_def": 1.07,
+          "right_wing": 0.84,
           "right_wing_off": 0.83,
-          "right_wing_def": 1.04,
-          "focus_players": "left_centre 1.22 (off 1.51 x def 0.81): KL Iro"
+          "right_wing_def": 1.01,
+          "focus_players": "left_centre 1.35 (off 1.57 x def 0.86): KL Iro"
         },
         {
           "date_local": "2026-08-09T00:00:00",
@@ -2606,22 +2438,22 @@
           "attack_team": "st george-illawarra dragons",
           "defence_team": "cronulla-sutherland sharks",
           "side": "home",
-          "left_wing": 1.23,
-          "left_wing_off": 1.2,
-          "left_wing_def": 1.02,
-          "left_centre": 1.09,
-          "left_centre_off": 1.29,
-          "left_centre_def": 0.85,
-          "fullback": 0.92,
+          "left_wing": 1.27,
+          "left_wing_off": 1.21,
+          "left_wing_def": 1.05,
+          "left_centre": 1.03,
+          "left_centre_off": 1.24,
+          "left_centre_def": 0.83,
+          "fullback": 0.89,
           "fullback_off": 1.12,
-          "fullback_def": 0.83,
-          "right_centre": 0.75,
-          "right_centre_off": 0.61,
-          "right_centre_def": 1.24,
-          "right_wing": 1.25,
-          "right_wing_off": 1.07,
-          "right_wing_def": 1.17,
-          "focus_players": "left_wing 1.23 (off 1.20 x def 1.02): Tyrell Sloan; right_wing 1.25 (off 1.07 x def 1.17): Setu Tu"
+          "fullback_def": 0.79,
+          "right_centre": 0.77,
+          "right_centre_off": 0.6,
+          "right_centre_def": 1.29,
+          "right_wing": 1.29,
+          "right_wing_off": 1.08,
+          "right_wing_def": 1.19,
+          "focus_players": "left_wing 1.27 (off 1.21 x def 1.05): Tyrell Sloan; right_wing 1.29 (off 1.08 x def 1.19): Setu Tu"
         }
       ]
     },
@@ -2630,9 +2462,9 @@
       "model": "NRL upcoming projections",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-08-03 20:18:42",
-      "size": 14007,
-      "fileUrl": "/files/NRL_upcoming_projections.xlsx?v=1785752322-14007",
+      "modified": "2026-08-04 21:37:20",
+      "size": 12818,
+      "fileUrl": "/files/NRL_upcoming_projections.xlsx?v=1785843440-12818",
       "sheets": [
         "LeanMain"
       ],
@@ -2653,145 +2485,17 @@
         "Venue",
         "Forecast Rain mm"
       ],
-      "rowCount": 40,
+      "rowCount": 32,
       "rows": [
         {
-          "Date": "2026-08-02T00:00:00",
-          "Time": "14:00",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
-          "Selected / Hybrid Home Line": -5.3,
-          "TEAM Home Line": -5.3,
-          "PLAYER Home Line": -1,
-          "Projected Total": 46,
-          "Market Period": "FT",
-          "Projection Type": "No Rain",
-          "Market Line": -12.5,
-          "Market Total": 52,
-          "Venue": "Sharks Stadium, Sydney",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-02T00:00:00",
-          "Time": "14:00",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
-          "Selected / Hybrid Home Line": -5.3,
-          "TEAM Home Line": -5.3,
-          "PLAYER Home Line": -1,
-          "Projected Total": 46,
-          "Market Period": "FT",
-          "Projection Type": "Weather Adjusted",
-          "Market Line": -12.5,
-          "Market Total": 52,
-          "Venue": "Sharks Stadium, Sydney",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-02T00:00:00",
-          "Time": "14:00",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
-          "Selected / Hybrid Home Line": -2.7,
-          "TEAM Home Line": -2.7,
-          "PLAYER Home Line": -0.5,
-          "Projected Total": 23,
-          "Market Period": "1H",
-          "Projection Type": "No Rain",
-          "Market Line": -12.5,
-          "Market Total": 52,
-          "Venue": "Sharks Stadium, Sydney",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-02T00:00:00",
-          "Time": "14:00",
-          "Home Team": "cronulla-sutherland sharks",
-          "Away Team": "south sydney rabbitohs",
-          "Selected / Hybrid Home Line": -2.7,
-          "TEAM Home Line": -2.7,
-          "PLAYER Home Line": -0.5,
-          "Projected Total": 23,
-          "Market Period": "1H",
-          "Projection Type": "Weather Adjusted",
-          "Market Line": -12.5,
-          "Market Total": 52,
-          "Venue": "Sharks Stadium, Sydney",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-02T00:00:00",
-          "Time": "16:05",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
-          "Selected / Hybrid Home Line": 3.9,
-          "TEAM Home Line": 3.9,
-          "PLAYER Home Line": 5.6,
-          "Projected Total": 44.4,
-          "Market Period": "FT",
-          "Projection Type": "No Rain",
-          "Market Line": 7,
-          "Market Total": 49,
-          "Venue": "Leichhardt Oval, Sydney",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-02T00:00:00",
-          "Time": "16:05",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
-          "Selected / Hybrid Home Line": 3.9,
-          "TEAM Home Line": 3.9,
-          "PLAYER Home Line": 5.6,
-          "Projected Total": 44.4,
-          "Market Period": "FT",
-          "Projection Type": "Weather Adjusted",
-          "Market Line": 7,
-          "Market Total": 49,
-          "Venue": "Leichhardt Oval, Sydney",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-02T00:00:00",
-          "Time": "16:05",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
-          "Selected / Hybrid Home Line": 1.9,
-          "TEAM Home Line": 1.9,
-          "PLAYER Home Line": 2.8,
-          "Projected Total": 22.2,
-          "Market Period": "1H",
-          "Projection Type": "No Rain",
-          "Market Line": 7,
-          "Market Total": 49,
-          "Venue": "Leichhardt Oval, Sydney",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-02T00:00:00",
-          "Time": "16:05",
-          "Home Team": "wests tigers",
-          "Away Team": "parramatta eels",
-          "Selected / Hybrid Home Line": 1.9,
-          "TEAM Home Line": 1.9,
-          "PLAYER Home Line": 2.8,
-          "Projected Total": 22.2,
-          "Market Period": "1H",
-          "Projection Type": "Weather Adjusted",
-          "Market Line": 7,
-          "Market Total": 49,
-          "Venue": "Leichhardt Oval, Sydney",
-          "Forecast Rain mm": 0
-        },
-        {
           "Date": "2026-08-06T00:00:00",
           "Time": "19:50",
           "Home Team": "gold coast titans",
           "Away Team": "north queensland cowboys",
-          "Selected / Hybrid Home Line": 0,
-          "TEAM Home Line": 0,
-          "PLAYER Home Line": -3.7,
-          "Projected Total": 45.7,
+          "Selected / Hybrid Home Line": -1.3,
+          "TEAM Home Line": -1.3,
+          "PLAYER Home Line": -1,
+          "Projected Total": 49.1,
           "Market Period": "FT",
           "Projection Type": "No Rain",
           "Market Line": 2.5,
@@ -2804,10 +2508,10 @@
           "Time": "19:50",
           "Home Team": "gold coast titans",
           "Away Team": "north queensland cowboys",
-          "Selected / Hybrid Home Line": 0,
-          "TEAM Home Line": 0,
-          "PLAYER Home Line": -3.7,
-          "Projected Total": 45.7,
+          "Selected / Hybrid Home Line": -1.3,
+          "TEAM Home Line": -1.3,
+          "PLAYER Home Line": -1,
+          "Projected Total": 49.1,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted",
           "Market Line": 2.5,
@@ -2820,10 +2524,10 @@
           "Time": "19:50",
           "Home Team": "gold coast titans",
           "Away Team": "north queensland cowboys",
-          "Selected / Hybrid Home Line": 0,
-          "TEAM Home Line": 0,
-          "PLAYER Home Line": -1.8,
-          "Projected Total": 22.9,
+          "Selected / Hybrid Home Line": -0.6,
+          "TEAM Home Line": -0.6,
+          "PLAYER Home Line": -0.5,
+          "Projected Total": 24.6,
           "Market Period": "1H",
           "Projection Type": "No Rain",
           "Market Line": 2.5,
@@ -2836,10 +2540,10 @@
           "Time": "19:50",
           "Home Team": "gold coast titans",
           "Away Team": "north queensland cowboys",
-          "Selected / Hybrid Home Line": 0,
-          "TEAM Home Line": 0,
-          "PLAYER Home Line": -1.8,
-          "Projected Total": 22.9,
+          "Selected / Hybrid Home Line": -0.6,
+          "TEAM Home Line": -0.6,
+          "PLAYER Home Line": -0.5,
+          "Projected Total": 24.6,
           "Market Period": "1H",
           "Projection Type": "Weather Adjusted",
           "Market Line": 2.5,
@@ -2852,10 +2556,10 @@
           "Time": "20:00",
           "Home Team": "sydney roosters",
           "Away Team": "canterbury-bankstown bulldogs",
-          "Selected / Hybrid Home Line": -8.1,
-          "TEAM Home Line": -8.1,
-          "PLAYER Home Line": -1.1,
-          "Projected Total": 39.1,
+          "Selected / Hybrid Home Line": -9.4,
+          "TEAM Home Line": -9.4,
+          "PLAYER Home Line": -10.5,
+          "Projected Total": 43.1,
           "Market Period": "FT",
           "Projection Type": "No Rain",
           "Market Line": -8.5,
@@ -2868,10 +2572,10 @@
           "Time": "20:00",
           "Home Team": "sydney roosters",
           "Away Team": "canterbury-bankstown bulldogs",
-          "Selected / Hybrid Home Line": -8.1,
-          "TEAM Home Line": -8.1,
-          "PLAYER Home Line": -1.1,
-          "Projected Total": 39.1,
+          "Selected / Hybrid Home Line": -9.4,
+          "TEAM Home Line": -9.4,
+          "PLAYER Home Line": -10.5,
+          "Projected Total": 43.1,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted",
           "Market Line": -8.5,
@@ -2884,10 +2588,10 @@
           "Time": "20:00",
           "Home Team": "sydney roosters",
           "Away Team": "canterbury-bankstown bulldogs",
-          "Selected / Hybrid Home Line": -4,
-          "TEAM Home Line": -4,
-          "PLAYER Home Line": -0.6,
-          "Projected Total": 19.6,
+          "Selected / Hybrid Home Line": -4.7,
+          "TEAM Home Line": -4.7,
+          "PLAYER Home Line": -5.3,
+          "Projected Total": 21.6,
           "Market Period": "1H",
           "Projection Type": "No Rain",
           "Market Line": -8.5,
@@ -2900,10 +2604,10 @@
           "Time": "20:00",
           "Home Team": "sydney roosters",
           "Away Team": "canterbury-bankstown bulldogs",
-          "Selected / Hybrid Home Line": -4,
-          "TEAM Home Line": -4,
-          "PLAYER Home Line": -0.6,
-          "Projected Total": 19.6,
+          "Selected / Hybrid Home Line": -4.7,
+          "TEAM Home Line": -4.7,
+          "PLAYER Home Line": -5.3,
+          "Projected Total": 21.6,
           "Market Period": "1H",
           "Projection Type": "Weather Adjusted",
           "Market Line": -8.5,
@@ -2916,10 +2620,10 @@
           "Time": "20:00",
           "Home Team": "warriors",
           "Away Team": "penrith panthers",
-          "Selected / Hybrid Home Line": 1.1,
-          "TEAM Home Line": 1.1,
-          "PLAYER Home Line": 2.6,
-          "Projected Total": 38.3,
+          "Selected / Hybrid Home Line": -0.8,
+          "TEAM Home Line": -0.8,
+          "PLAYER Home Line": 0.3,
+          "Projected Total": 40.3,
           "Market Period": "FT",
           "Projection Type": "No Rain",
           "Market Line": 5,
@@ -2932,10 +2636,10 @@
           "Time": "20:00",
           "Home Team": "warriors",
           "Away Team": "penrith panthers",
-          "Selected / Hybrid Home Line": 1.1,
-          "TEAM Home Line": 1.1,
-          "PLAYER Home Line": 2.6,
-          "Projected Total": 38.3,
+          "Selected / Hybrid Home Line": -0.8,
+          "TEAM Home Line": -0.8,
+          "PLAYER Home Line": 0.3,
+          "Projected Total": 40.3,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted",
           "Market Line": 5,
@@ -2948,10 +2652,10 @@
           "Time": "20:00",
           "Home Team": "warriors",
           "Away Team": "penrith panthers",
-          "Selected / Hybrid Home Line": 0.5,
-          "TEAM Home Line": 0.5,
-          "PLAYER Home Line": 1.3,
-          "Projected Total": 19.2,
+          "Selected / Hybrid Home Line": -0.4,
+          "TEAM Home Line": -0.4,
+          "PLAYER Home Line": 0.2,
+          "Projected Total": 20.1,
           "Market Period": "1H",
           "Projection Type": "No Rain",
           "Market Line": 5,
@@ -2964,10 +2668,10 @@
           "Time": "20:00",
           "Home Team": "warriors",
           "Away Team": "penrith panthers",
-          "Selected / Hybrid Home Line": 0.5,
-          "TEAM Home Line": 0.5,
-          "PLAYER Home Line": 1.3,
-          "Projected Total": 19.2,
+          "Selected / Hybrid Home Line": -0.4,
+          "TEAM Home Line": -0.4,
+          "PLAYER Home Line": 0.2,
+          "Projected Total": 20.1,
           "Market Period": "1H",
           "Projection Type": "Weather Adjusted",
           "Market Line": 5,
@@ -2980,10 +2684,10 @@
           "Time": "15:00",
           "Home Team": "melbourne storm",
           "Away Team": "manly-warringah sea eagles",
-          "Selected / Hybrid Home Line": 2.1,
-          "TEAM Home Line": 2.1,
-          "PLAYER Home Line": 1,
-          "Projected Total": 40.9,
+          "Selected / Hybrid Home Line": -0.4,
+          "TEAM Home Line": -0.4,
+          "PLAYER Home Line": -1.5,
+          "Projected Total": 44.5,
           "Market Period": "FT",
           "Projection Type": "No Rain",
           "Market Line": 0.5,
@@ -2996,219 +2700,187 @@
           "Time": "15:00",
           "Home Team": "melbourne storm",
           "Away Team": "manly-warringah sea eagles",
-          "Selected / Hybrid Home Line": 2.1,
-          "TEAM Home Line": 2.1,
-          "PLAYER Home Line": 1,
-          "Projected Total": 40.5,
-          "Market Period": "FT",
-          "Projection Type": "Weather Adjusted",
-          "Market Line": 0.5,
-          "Market Total": 48.5,
-          "Venue": "HBF Park, Perth",
-          "Forecast Rain mm": 0.5
-        },
-        {
-          "Date": "2026-08-08T00:00:00",
-          "Time": "15:00",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
-          "Selected / Hybrid Home Line": 1,
-          "TEAM Home Line": 1,
-          "PLAYER Home Line": 0.5,
-          "Projected Total": 20.4,
-          "Market Period": "1H",
-          "Projection Type": "No Rain",
-          "Market Line": 0.5,
-          "Market Total": 48.5,
-          "Venue": "HBF Park, Perth",
-          "Forecast Rain mm": 0.5
-        },
-        {
-          "Date": "2026-08-08T00:00:00",
-          "Time": "15:00",
-          "Home Team": "melbourne storm",
-          "Away Team": "manly-warringah sea eagles",
-          "Selected / Hybrid Home Line": 1,
-          "TEAM Home Line": 1,
-          "PLAYER Home Line": 0.5,
-          "Projected Total": 20.3,
-          "Market Period": "1H",
-          "Projection Type": "Weather Adjusted",
-          "Market Line": 0.5,
-          "Market Total": 48.5,
-          "Venue": "HBF Park, Perth",
-          "Forecast Rain mm": 0.5
-        },
-        {
-          "Date": "2026-08-08T00:00:00",
-          "Time": "17:30",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
-          "Selected / Hybrid Home Line": -5,
-          "TEAM Home Line": -5,
-          "PLAYER Home Line": -5,
-          "Projected Total": 46.3,
-          "Market Period": "FT",
-          "Projection Type": "No Rain",
-          "Market Line": -4.5,
-          "Market Total": 48.5,
-          "Venue": "Suncorp Stadium, Brisbane",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-08T00:00:00",
-          "Time": "17:30",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
-          "Selected / Hybrid Home Line": -5,
-          "TEAM Home Line": -5,
-          "PLAYER Home Line": -5,
-          "Projected Total": 46.3,
-          "Market Period": "FT",
-          "Projection Type": "Weather Adjusted",
-          "Market Line": -4.5,
-          "Market Total": 48.5,
-          "Venue": "Suncorp Stadium, Brisbane",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-08T00:00:00",
-          "Time": "17:30",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
-          "Selected / Hybrid Home Line": -2.5,
-          "TEAM Home Line": -2.5,
-          "PLAYER Home Line": -2.5,
-          "Projected Total": 23.1,
-          "Market Period": "1H",
-          "Projection Type": "No Rain",
-          "Market Line": -4.5,
-          "Market Total": 48.5,
-          "Venue": "Suncorp Stadium, Brisbane",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-08T00:00:00",
-          "Time": "17:30",
-          "Home Team": "dolphins",
-          "Away Team": "brisbane broncos",
-          "Selected / Hybrid Home Line": -2.5,
-          "TEAM Home Line": -2.5,
-          "PLAYER Home Line": -2.5,
-          "Projected Total": 23.1,
-          "Market Period": "1H",
-          "Projection Type": "Weather Adjusted",
-          "Market Line": -4.5,
-          "Market Total": 48.5,
-          "Venue": "Suncorp Stadium, Brisbane",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-08T00:00:00",
-          "Time": "19:35",
-          "Home Team": "south sydney rabbitohs",
-          "Away Team": "parramatta eels",
-          "Selected / Hybrid Home Line": -8,
-          "TEAM Home Line": -8,
-          "PLAYER Home Line": -1,
-          "Projected Total": 46.3,
-          "Market Period": "FT",
-          "Projection Type": "No Rain",
-          "Market Line": -6,
-          "Market Total": 45.5,
-          "Venue": "Allianz Stadium, Sydney",
-          "Forecast Rain mm": 0.2
-        },
-        {
-          "Date": "2026-08-08T00:00:00",
-          "Time": "19:35",
-          "Home Team": "south sydney rabbitohs",
-          "Away Team": "parramatta eels",
-          "Selected / Hybrid Home Line": -8,
-          "TEAM Home Line": -8,
-          "PLAYER Home Line": -1,
-          "Projected Total": 46.1,
-          "Market Period": "FT",
-          "Projection Type": "Weather Adjusted",
-          "Market Line": -6,
-          "Market Total": 45.5,
-          "Venue": "Allianz Stadium, Sydney",
-          "Forecast Rain mm": 0.2
-        },
-        {
-          "Date": "2026-08-08T00:00:00",
-          "Time": "19:35",
-          "Home Team": "south sydney rabbitohs",
-          "Away Team": "parramatta eels",
-          "Selected / Hybrid Home Line": -4,
-          "TEAM Home Line": -4,
-          "PLAYER Home Line": -0.5,
-          "Projected Total": 23.1,
-          "Market Period": "1H",
-          "Projection Type": "No Rain",
-          "Market Line": -6,
-          "Market Total": 45.5,
-          "Venue": "Allianz Stadium, Sydney",
-          "Forecast Rain mm": 0.2
-        },
-        {
-          "Date": "2026-08-08T00:00:00",
-          "Time": "19:35",
-          "Home Team": "south sydney rabbitohs",
-          "Away Team": "parramatta eels",
-          "Selected / Hybrid Home Line": -4,
-          "TEAM Home Line": -4,
-          "PLAYER Home Line": -0.5,
-          "Projected Total": 23.1,
-          "Market Period": "1H",
-          "Projection Type": "Weather Adjusted",
-          "Market Line": -6,
-          "Market Total": 45.5,
-          "Venue": "Allianz Stadium, Sydney",
-          "Forecast Rain mm": 0.2
-        },
-        {
-          "Date": "2026-08-09T00:00:00",
-          "Time": "14:00",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
-          "Selected / Hybrid Home Line": -1.8,
-          "TEAM Home Line": -1.8,
-          "PLAYER Home Line": -2.1,
+          "Selected / Hybrid Home Line": -0.4,
+          "TEAM Home Line": -0.4,
+          "PLAYER Home Line": -1.5,
           "Projected Total": 44,
           "Market Period": "FT",
-          "Projection Type": "No Rain",
-          "Market Line": -4.5,
-          "Market Total": 51.5,
-          "Venue": "GIO Stadium, Canberra",
-          "Forecast Rain mm": 17.8
-        },
-        {
-          "Date": "2026-08-09T00:00:00",
-          "Time": "14:00",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
-          "Selected / Hybrid Home Line": -1.8,
-          "TEAM Home Line": -1.8,
-          "PLAYER Home Line": -2.1,
-          "Projected Total": 41.6,
-          "Market Period": "FT",
           "Projection Type": "Weather Adjusted",
-          "Market Line": -4.5,
-          "Market Total": 51.5,
-          "Venue": "GIO Stadium, Canberra",
-          "Forecast Rain mm": 17.8
+          "Market Line": 0.5,
+          "Market Total": 48.5,
+          "Venue": "HBF Park, Perth",
+          "Forecast Rain mm": 0.5
         },
         {
-          "Date": "2026-08-09T00:00:00",
-          "Time": "14:00",
-          "Home Team": "canberra raiders",
-          "Away Team": "newcastle knights",
-          "Selected / Hybrid Home Line": -0.9,
-          "TEAM Home Line": -0.9,
-          "PLAYER Home Line": -1,
+          "Date": "2026-08-08T00:00:00",
+          "Time": "15:00",
+          "Home Team": "melbourne storm",
+          "Away Team": "manly-warringah sea eagles",
+          "Selected / Hybrid Home Line": -0.2,
+          "TEAM Home Line": -0.2,
+          "PLAYER Home Line": -0.7,
+          "Projected Total": 22.2,
+          "Market Period": "1H",
+          "Projection Type": "No Rain",
+          "Market Line": 0.5,
+          "Market Total": 48.5,
+          "Venue": "HBF Park, Perth",
+          "Forecast Rain mm": 0.5
+        },
+        {
+          "Date": "2026-08-08T00:00:00",
+          "Time": "15:00",
+          "Home Team": "melbourne storm",
+          "Away Team": "manly-warringah sea eagles",
+          "Selected / Hybrid Home Line": -0.2,
+          "TEAM Home Line": -0.2,
+          "PLAYER Home Line": -0.7,
           "Projected Total": 22,
           "Market Period": "1H",
+          "Projection Type": "Weather Adjusted",
+          "Market Line": 0.5,
+          "Market Total": 48.5,
+          "Venue": "HBF Park, Perth",
+          "Forecast Rain mm": 0.5
+        },
+        {
+          "Date": "2026-08-08T00:00:00",
+          "Time": "17:30",
+          "Home Team": "dolphins",
+          "Away Team": "brisbane broncos",
+          "Selected / Hybrid Home Line": -5.4,
+          "TEAM Home Line": -5.4,
+          "PLAYER Home Line": -6,
+          "Projected Total": 47.3,
+          "Market Period": "FT",
+          "Projection Type": "No Rain",
+          "Market Line": -4.5,
+          "Market Total": 48.5,
+          "Venue": "Suncorp Stadium, Brisbane",
+          "Forecast Rain mm": 0
+        },
+        {
+          "Date": "2026-08-08T00:00:00",
+          "Time": "17:30",
+          "Home Team": "dolphins",
+          "Away Team": "brisbane broncos",
+          "Selected / Hybrid Home Line": -5.4,
+          "TEAM Home Line": -5.4,
+          "PLAYER Home Line": -6,
+          "Projected Total": 47.3,
+          "Market Period": "FT",
+          "Projection Type": "Weather Adjusted",
+          "Market Line": -4.5,
+          "Market Total": 48.5,
+          "Venue": "Suncorp Stadium, Brisbane",
+          "Forecast Rain mm": 0
+        },
+        {
+          "Date": "2026-08-08T00:00:00",
+          "Time": "17:30",
+          "Home Team": "dolphins",
+          "Away Team": "brisbane broncos",
+          "Selected / Hybrid Home Line": -2.7,
+          "TEAM Home Line": -2.7,
+          "PLAYER Home Line": -3,
+          "Projected Total": 23.6,
+          "Market Period": "1H",
+          "Projection Type": "No Rain",
+          "Market Line": -4.5,
+          "Market Total": 48.5,
+          "Venue": "Suncorp Stadium, Brisbane",
+          "Forecast Rain mm": 0
+        },
+        {
+          "Date": "2026-08-08T00:00:00",
+          "Time": "17:30",
+          "Home Team": "dolphins",
+          "Away Team": "brisbane broncos",
+          "Selected / Hybrid Home Line": -2.7,
+          "TEAM Home Line": -2.7,
+          "PLAYER Home Line": -3,
+          "Projected Total": 23.6,
+          "Market Period": "1H",
+          "Projection Type": "Weather Adjusted",
+          "Market Line": -4.5,
+          "Market Total": 48.5,
+          "Venue": "Suncorp Stadium, Brisbane",
+          "Forecast Rain mm": 0
+        },
+        {
+          "Date": "2026-08-08T00:00:00",
+          "Time": "19:35",
+          "Home Team": "south sydney rabbitohs",
+          "Away Team": "parramatta eels",
+          "Selected / Hybrid Home Line": -6.4,
+          "TEAM Home Line": -6.4,
+          "PLAYER Home Line": -7.1,
+          "Projected Total": 47.9,
+          "Market Period": "FT",
+          "Projection Type": "No Rain",
+          "Market Line": -6,
+          "Market Total": 45.5,
+          "Venue": "Allianz Stadium, Sydney",
+          "Forecast Rain mm": 0.2
+        },
+        {
+          "Date": "2026-08-08T00:00:00",
+          "Time": "19:35",
+          "Home Team": "south sydney rabbitohs",
+          "Away Team": "parramatta eels",
+          "Selected / Hybrid Home Line": -6.4,
+          "TEAM Home Line": -6.4,
+          "PLAYER Home Line": -7.1,
+          "Projected Total": 47.8,
+          "Market Period": "FT",
+          "Projection Type": "Weather Adjusted",
+          "Market Line": -6,
+          "Market Total": 45.5,
+          "Venue": "Allianz Stadium, Sydney",
+          "Forecast Rain mm": 0.2
+        },
+        {
+          "Date": "2026-08-08T00:00:00",
+          "Time": "19:35",
+          "Home Team": "south sydney rabbitohs",
+          "Away Team": "parramatta eels",
+          "Selected / Hybrid Home Line": -3.2,
+          "TEAM Home Line": -3.2,
+          "PLAYER Home Line": -3.5,
+          "Projected Total": 24,
+          "Market Period": "1H",
+          "Projection Type": "No Rain",
+          "Market Line": -6,
+          "Market Total": 45.5,
+          "Venue": "Allianz Stadium, Sydney",
+          "Forecast Rain mm": 0.2
+        },
+        {
+          "Date": "2026-08-08T00:00:00",
+          "Time": "19:35",
+          "Home Team": "south sydney rabbitohs",
+          "Away Team": "parramatta eels",
+          "Selected / Hybrid Home Line": -3.2,
+          "TEAM Home Line": -3.2,
+          "PLAYER Home Line": -3.5,
+          "Projected Total": 23.9,
+          "Market Period": "1H",
+          "Projection Type": "Weather Adjusted",
+          "Market Line": -6,
+          "Market Total": 45.5,
+          "Venue": "Allianz Stadium, Sydney",
+          "Forecast Rain mm": 0.2
+        },
+        {
+          "Date": "2026-08-09T00:00:00",
+          "Time": "14:00",
+          "Home Team": "canberra raiders",
+          "Away Team": "newcastle knights",
+          "Selected / Hybrid Home Line": -2.8,
+          "TEAM Home Line": -2.8,
+          "PLAYER Home Line": -4.2,
+          "Projected Total": 47.1,
+          "Market Period": "FT",
           "Projection Type": "No Rain",
           "Market Line": -4.5,
           "Market Total": 51.5,
@@ -3220,10 +2892,42 @@
           "Time": "14:00",
           "Home Team": "canberra raiders",
           "Away Team": "newcastle knights",
-          "Selected / Hybrid Home Line": -0.9,
-          "TEAM Home Line": -0.9,
-          "PLAYER Home Line": -1,
-          "Projected Total": 20.8,
+          "Selected / Hybrid Home Line": -2.8,
+          "TEAM Home Line": -2.8,
+          "PLAYER Home Line": -4.2,
+          "Projected Total": 44.1,
+          "Market Period": "FT",
+          "Projection Type": "Weather Adjusted",
+          "Market Line": -4.5,
+          "Market Total": 51.5,
+          "Venue": "GIO Stadium, Canberra",
+          "Forecast Rain mm": 17.8
+        },
+        {
+          "Date": "2026-08-09T00:00:00",
+          "Time": "14:00",
+          "Home Team": "canberra raiders",
+          "Away Team": "newcastle knights",
+          "Selected / Hybrid Home Line": -1.4,
+          "TEAM Home Line": -1.4,
+          "PLAYER Home Line": -2.1,
+          "Projected Total": 23.6,
+          "Market Period": "1H",
+          "Projection Type": "No Rain",
+          "Market Line": -4.5,
+          "Market Total": 51.5,
+          "Venue": "GIO Stadium, Canberra",
+          "Forecast Rain mm": 17.8
+        },
+        {
+          "Date": "2026-08-09T00:00:00",
+          "Time": "14:00",
+          "Home Team": "canberra raiders",
+          "Away Team": "newcastle knights",
+          "Selected / Hybrid Home Line": -1.4,
+          "TEAM Home Line": -1.4,
+          "PLAYER Home Line": -2.1,
+          "Projected Total": 22,
           "Market Period": "1H",
           "Projection Type": "Weather Adjusted",
           "Market Line": -4.5,
@@ -3236,10 +2940,10 @@
           "Time": "16:05",
           "Home Team": "st george-illawarra dragons",
           "Away Team": "cronulla-sutherland sharks",
-          "Selected / Hybrid Home Line": 12.1,
-          "TEAM Home Line": 12.1,
-          "PLAYER Home Line": 1,
-          "Projected Total": 42.6,
+          "Selected / Hybrid Home Line": 15.8,
+          "TEAM Home Line": 15.8,
+          "PLAYER Home Line": 13.6,
+          "Projected Total": 45.6,
           "Market Period": "FT",
           "Projection Type": "No Rain",
           "Market Line": 14.5,
@@ -3252,10 +2956,10 @@
           "Time": "16:05",
           "Home Team": "st george-illawarra dragons",
           "Away Team": "cronulla-sutherland sharks",
-          "Selected / Hybrid Home Line": 12.1,
-          "TEAM Home Line": 12.1,
-          "PLAYER Home Line": 1,
-          "Projected Total": 41.7,
+          "Selected / Hybrid Home Line": 15.8,
+          "TEAM Home Line": 15.8,
+          "PLAYER Home Line": 13.6,
+          "Projected Total": 44.4,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted",
           "Market Line": 14.5,
@@ -3268,10 +2972,10 @@
           "Time": "16:05",
           "Home Team": "st george-illawarra dragons",
           "Away Team": "cronulla-sutherland sharks",
-          "Selected / Hybrid Home Line": 6,
-          "TEAM Home Line": 6,
-          "PLAYER Home Line": 0.5,
-          "Projected Total": 21.3,
+          "Selected / Hybrid Home Line": 7.9,
+          "TEAM Home Line": 7.9,
+          "PLAYER Home Line": 6.8,
+          "Projected Total": 22.8,
           "Market Period": "1H",
           "Projection Type": "No Rain",
           "Market Line": 14.5,
@@ -3284,10 +2988,10 @@
           "Time": "16:05",
           "Home Team": "st george-illawarra dragons",
           "Away Team": "cronulla-sutherland sharks",
-          "Selected / Hybrid Home Line": 6,
-          "TEAM Home Line": 6,
-          "PLAYER Home Line": 0.5,
-          "Projected Total": 20.9,
+          "Selected / Hybrid Home Line": 7.9,
+          "TEAM Home Line": 7.9,
+          "PLAYER Home Line": 6.8,
+          "Projected Total": 22.2,
           "Market Period": "1H",
           "Projection Type": "Weather Adjusted",
           "Market Line": 14.5,
@@ -3302,9 +3006,9 @@
       "model": "NRL round summary",
       "sport": "NRL",
       "extension": "html",
-      "modified": "2026-08-03 20:19:24",
-      "size": 1636888,
-      "fileUrl": "/files/NRL_weekly_betting_report.html?v=1785752364-1636888",
+      "modified": "2026-08-04 21:37:56",
+      "size": 1504066,
+      "fileUrl": "/files/NRL_weekly_betting_report.html?v=1785843476-1504066",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
@@ -3316,9 +3020,9 @@
       "model": "NRLW futures sim",
       "sport": "NRLW",
       "extension": "xlsx",
-      "modified": "2026-08-03 20:11:03",
-      "size": 13216,
-      "fileUrl": "/files/NRLW_futures_sim.xlsx?v=1785751863-13216",
+      "modified": "2026-08-04 21:41:10",
+      "size": 13195,
+      "fileUrl": "/files/NRLW_futures_sim.xlsx?v=1785843670-13195",
       "sheets": [
         "futures",
         "remaining_games",
@@ -3350,113 +3054,91 @@
       "rowCount": 12,
       "rows": [
         {
-          "team_key": "brisbanebroncos",
-          "team": "Brisbane Broncos",
-          "current_wins": 5,
-          "projected_wins": 8.4,
-          "simulated_avg_wins": 8.4,
-          "make_top4_pct": 92.6,
-          "make_top4_fair_odds": 1.08,
-          "miss_top4_pct": 7.4,
-          "miss_top4_fair_odds": 13.43,
-          "make_top8_pct": 100,
-          "make_top8_fair_odds": 1,
-          "miss_top8_pct": 0,
-          "miss_top8_fair_odds": 6666.67,
-          "minor_premiership_pct": 51.5,
-          "minor_premiership_fair_odds": 1.94,
-          "make_grand_final_pct": 42,
-          "make_grand_final_fair_odds": 2.38,
-          "premiership_pct": 20.4,
-          "premiership_fair_odds": 4.89,
-          "venue": null
-        },
-        {
           "team_key": "canberraraiders",
           "team": "Canberra Raiders",
           "current_wins": 2,
-          "projected_wins": 6.1,
-          "simulated_avg_wins": 6.1,
-          "make_top4_pct": 43.5,
-          "make_top4_fair_odds": 2.3,
-          "miss_top4_pct": 56.5,
-          "miss_top4_fair_odds": 1.77,
-          "make_top8_pct": 95.4,
-          "make_top8_fair_odds": 1.05,
-          "miss_top8_pct": 4.6,
-          "miss_top8_fair_odds": 21.86,
-          "minor_premiership_pct": 2.7,
-          "minor_premiership_fair_odds": 36.56,
-          "make_grand_final_pct": 32.7,
-          "make_grand_final_fair_odds": 3.06,
-          "premiership_pct": 19.8,
-          "premiership_fair_odds": 5.06,
+          "projected_wins": 6.3,
+          "simulated_avg_wins": 6.2,
+          "make_top4_pct": 50.8,
+          "make_top4_fair_odds": 1.97,
+          "miss_top4_pct": 49.2,
+          "miss_top4_fair_odds": 2.03,
+          "make_top8_pct": 96.7,
+          "make_top8_fair_odds": 1.03,
+          "miss_top8_pct": 3.3,
+          "miss_top8_fair_odds": 30.3,
+          "minor_premiership_pct": 4.4,
+          "minor_premiership_fair_odds": 22.52,
+          "make_grand_final_pct": 39.2,
+          "make_grand_final_fair_odds": 2.55,
+          "premiership_pct": 24.6,
+          "premiership_fair_odds": 4.07,
+          "venue": null
+        },
+        {
+          "team_key": "brisbanebroncos",
+          "team": "Brisbane Broncos",
+          "current_wins": 5,
+          "projected_wins": 8.2,
+          "simulated_avg_wins": 8.2,
+          "make_top4_pct": 90.2,
+          "make_top4_fair_odds": 1.11,
+          "miss_top4_pct": 9.8,
+          "miss_top4_fair_odds": 10.24,
+          "make_top8_pct": 100,
+          "make_top8_fair_odds": 1,
+          "miss_top8_pct": 0,
+          "miss_top8_fair_odds": 2857.14,
+          "minor_premiership_pct": 47.6,
+          "minor_premiership_fair_odds": 2.1,
+          "make_grand_final_pct": 37.8,
+          "make_grand_final_fair_odds": 2.64,
+          "premiership_pct": 17.7,
+          "premiership_fair_odds": 5.65,
           "venue": null
         },
         {
           "team_key": "goldcoasttitans",
           "team": "Gold Coast Titans",
           "current_wins": 4,
-          "projected_wins": 7.2,
+          "projected_wins": 7.1,
           "simulated_avg_wins": 7.1,
-          "make_top4_pct": 68.3,
-          "make_top4_fair_odds": 1.46,
-          "miss_top4_pct": 31.7,
-          "miss_top4_fair_odds": 3.16,
-          "make_top8_pct": 99.2,
+          "make_top4_pct": 67.7,
+          "make_top4_fair_odds": 1.48,
+          "miss_top4_pct": 32.3,
+          "miss_top4_fair_odds": 3.1,
+          "make_top8_pct": 99.1,
           "make_top8_fair_odds": 1.01,
-          "miss_top8_pct": 0.8,
-          "miss_top8_fair_odds": 129.87,
-          "minor_premiership_pct": 13.1,
-          "minor_premiership_fair_odds": 7.62,
-          "make_grand_final_pct": 31.8,
-          "make_grand_final_fair_odds": 3.14,
-          "premiership_pct": 16.1,
-          "premiership_fair_odds": 6.22,
+          "miss_top8_pct": 0.9,
+          "miss_top8_fair_odds": 112.99,
+          "minor_premiership_pct": 14.8,
+          "minor_premiership_fair_odds": 6.78,
+          "make_grand_final_pct": 31.3,
+          "make_grand_final_fair_odds": 3.2,
+          "premiership_pct": 15.6,
+          "premiership_fair_odds": 6.4,
           "venue": null
         },
         {
           "team_key": "warriors",
           "team": "Warriors",
           "current_wins": 3,
-          "projected_wins": 6.7,
+          "projected_wins": 6.6,
           "simulated_avg_wins": 6.6,
-          "make_top4_pct": 54.4,
-          "make_top4_fair_odds": 1.84,
-          "miss_top4_pct": 45.6,
-          "miss_top4_fair_odds": 2.19,
-          "make_top8_pct": 97.8,
-          "make_top8_fair_odds": 1.02,
-          "miss_top8_pct": 2.2,
-          "miss_top8_fair_odds": 44.94,
-          "minor_premiership_pct": 7,
-          "minor_premiership_fair_odds": 14.3,
-          "make_grand_final_pct": 29.8,
-          "make_grand_final_fair_odds": 3.36,
-          "premiership_pct": 15.5,
-          "premiership_fair_odds": 6.45,
-          "venue": null
-        },
-        {
-          "team_key": "sydneyroosters",
-          "team": "Sydney Roosters",
-          "current_wins": 5,
-          "projected_wins": 7.7,
-          "simulated_avg_wins": 7.7,
-          "make_top4_pct": 81.9,
-          "make_top4_fair_odds": 1.22,
-          "miss_top4_pct": 18.1,
-          "miss_top4_fair_odds": 5.51,
-          "make_top8_pct": 99.9,
-          "make_top8_fair_odds": 1,
-          "miss_top8_pct": 0.1,
-          "miss_top8_fair_odds": 833.33,
-          "minor_premiership_pct": 21.5,
-          "minor_premiership_fair_odds": 4.64,
-          "make_grand_final_pct": 29.3,
-          "make_grand_final_fair_odds": 3.41,
-          "premiership_pct": 12.5,
-          "premiership_fair_odds": 7.98,
+          "make_top4_pct": 52.1,
+          "make_top4_fair_odds": 1.92,
+          "miss_top4_pct": 47.9,
+          "miss_top4_fair_odds": 2.09,
+          "make_top8_pct": 97.2,
+          "make_top8_fair_odds": 1.03,
+          "miss_top8_pct": 2.8,
+          "miss_top8_fair_odds": 36.17,
+          "minor_premiership_pct": 7.6,
+          "minor_premiership_fair_odds": 13.1,
+          "make_grand_final_pct": 28.8,
+          "make_grand_final_fair_odds": 3.48,
+          "premiership_pct": 14.7,
+          "premiership_fair_odds": 6.82,
           "venue": null
         },
         {
@@ -3464,43 +3146,65 @@
           "team": "Newcastle Knights",
           "current_wins": 3,
           "projected_wins": 6.3,
-          "simulated_avg_wins": 6.2,
-          "make_top4_pct": 44.6,
-          "make_top4_fair_odds": 2.24,
-          "miss_top4_pct": 55.4,
-          "miss_top4_fair_odds": 1.81,
+          "simulated_avg_wins": 6.3,
+          "make_top4_pct": 47.1,
+          "make_top4_fair_odds": 2.13,
+          "miss_top4_pct": 52.9,
+          "miss_top4_fair_odds": 1.89,
           "make_top8_pct": 95.9,
           "make_top8_fair_odds": 1.04,
           "miss_top8_pct": 4.1,
-          "miss_top8_fair_odds": 24.27,
-          "minor_premiership_pct": 3.9,
-          "minor_premiership_fair_odds": 25.91,
-          "make_grand_final_pct": 23.6,
-          "make_grand_final_fair_odds": 4.25,
-          "premiership_pct": 11.4,
-          "premiership_fair_odds": 8.76,
+          "miss_top8_fair_odds": 24.39,
+          "minor_premiership_pct": 5.3,
+          "minor_premiership_fair_odds": 18.69,
+          "make_grand_final_pct": 25.6,
+          "make_grand_final_fair_odds": 3.91,
+          "premiership_pct": 12.5,
+          "premiership_fair_odds": 7.99,
+          "venue": null
+        },
+        {
+          "team_key": "sydneyroosters",
+          "team": "Sydney Roosters",
+          "current_wins": 5,
+          "projected_wins": 7.5,
+          "simulated_avg_wins": 7.5,
+          "make_top4_pct": 77.5,
+          "make_top4_fair_odds": 1.29,
+          "miss_top4_pct": 22.5,
+          "miss_top4_fair_odds": 4.45,
+          "make_top8_pct": 99.8,
+          "make_top8_fair_odds": 1,
+          "miss_top8_pct": 0.2,
+          "miss_top8_fair_odds": 512.82,
+          "minor_premiership_pct": 19.9,
+          "minor_premiership_fair_odds": 5.02,
+          "make_grand_final_pct": 25.5,
+          "make_grand_final_fair_odds": 3.92,
+          "premiership_pct": 10.2,
+          "premiership_fair_odds": 9.82,
           "venue": null
         },
         {
           "team_key": "weststigers",
           "team": "Wests Tigers",
           "current_wins": 3,
-          "projected_wins": 5.3,
+          "projected_wins": 5.2,
           "simulated_avg_wins": 5.3,
-          "make_top4_pct": 10.4,
-          "make_top4_fair_odds": 9.59,
-          "miss_top4_pct": 89.6,
-          "miss_top4_fair_odds": 1.12,
-          "make_top8_pct": 72.1,
-          "make_top8_fair_odds": 1.39,
-          "miss_top8_pct": 27.9,
-          "miss_top8_fair_odds": 3.58,
+          "make_top4_pct": 9.8,
+          "make_top4_fair_odds": 10.2,
+          "miss_top4_pct": 90.2,
+          "miss_top4_fair_odds": 1.11,
+          "make_top8_pct": 69.3,
+          "make_top8_fair_odds": 1.44,
+          "miss_top8_pct": 30.7,
+          "miss_top8_fair_odds": 3.26,
           "minor_premiership_pct": 0.3,
-          "minor_premiership_fair_odds": 370.37,
-          "make_grand_final_pct": 5,
-          "make_grand_final_fair_odds": 20.2,
+          "minor_premiership_fair_odds": 333.33,
+          "make_grand_final_pct": 5.1,
+          "make_grand_final_fair_odds": 19.51,
           "premiership_pct": 2,
-          "premiership_fair_odds": 50.38,
+          "premiership_fair_odds": 50.13,
           "venue": null
         },
         {
@@ -3509,20 +3213,42 @@
           "current_wins": 1,
           "projected_wins": 4.3,
           "simulated_avg_wins": 4.3,
-          "make_top4_pct": 2.9,
-          "make_top4_fair_odds": 34.42,
-          "miss_top4_pct": 97.1,
+          "make_top4_pct": 3.3,
+          "make_top4_fair_odds": 30.44,
+          "miss_top4_pct": 96.7,
           "miss_top4_fair_odds": 1.03,
-          "make_top8_pct": 55.7,
-          "make_top8_fair_odds": 1.79,
-          "miss_top8_pct": 44.3,
-          "miss_top8_fair_odds": 2.26,
+          "make_top8_pct": 55.5,
+          "make_top8_fair_odds": 1.8,
+          "miss_top8_pct": 44.5,
+          "miss_top8_fair_odds": 2.25,
           "minor_premiership_pct": 0,
           "minor_premiership_fair_odds": 10000,
-          "make_grand_final_pct": 3.6,
-          "make_grand_final_fair_odds": 28.01,
-          "premiership_pct": 1.5,
-          "premiership_fair_odds": 65.79,
+          "make_grand_final_pct": 4,
+          "make_grand_final_fair_odds": 24.88,
+          "premiership_pct": 1.7,
+          "premiership_fair_odds": 57.47,
+          "venue": null
+        },
+        {
+          "team_key": "parramattaeels",
+          "team": "Parramatta Eels",
+          "current_wins": 0,
+          "projected_wins": 3.6,
+          "simulated_avg_wins": 3.6,
+          "make_top4_pct": 0.2,
+          "make_top4_fair_odds": 476.19,
+          "miss_top4_pct": 99.8,
+          "miss_top4_fair_odds": 1,
+          "make_top8_pct": 26.7,
+          "make_top8_fair_odds": 3.74,
+          "miss_top8_pct": 73.3,
+          "miss_top8_fair_odds": 1.36,
+          "minor_premiership_pct": 0,
+          "minor_premiership_fair_odds": null,
+          "make_grand_final_pct": 1,
+          "make_grand_final_fair_odds": 102.04,
+          "premiership_pct": 0.4,
+          "premiership_fair_odds": 243.9,
           "venue": null
         },
         {
@@ -3532,63 +3258,41 @@
           "projected_wins": 4,
           "simulated_avg_wins": 4,
           "make_top4_pct": 0.7,
-          "make_top4_fair_odds": 138.89,
+          "make_top4_fair_odds": 137.93,
           "miss_top4_pct": 99.3,
           "miss_top4_fair_odds": 1.01,
-          "make_top8_pct": 31.4,
-          "make_top8_fair_odds": 3.19,
-          "miss_top8_pct": 68.6,
-          "miss_top8_fair_odds": 1.46,
+          "make_top8_pct": 30.1,
+          "make_top8_fair_odds": 3.32,
+          "miss_top8_pct": 69.9,
+          "miss_top8_fair_odds": 1.43,
           "minor_premiership_pct": 0,
           "minor_premiership_fair_odds": null,
-          "make_grand_final_pct": 0.9,
-          "make_grand_final_fair_odds": 106.95,
+          "make_grand_final_pct": 1,
+          "make_grand_final_fair_odds": 102.56,
           "premiership_pct": 0.3,
-          "premiership_fair_odds": 350.88,
-          "venue": null
-        },
-        {
-          "team_key": "parramattaeels",
-          "team": "Parramatta Eels",
-          "current_wins": 0,
-          "projected_wins": 3.4,
-          "simulated_avg_wins": 3.4,
-          "make_top4_pct": 0.1,
-          "make_top4_fair_odds": 1000,
-          "miss_top4_pct": 99.9,
-          "miss_top4_fair_odds": 1,
-          "make_top8_pct": 22.1,
-          "make_top8_fair_odds": 4.52,
-          "miss_top8_pct": 77.9,
-          "miss_top8_fair_odds": 1.28,
-          "minor_premiership_pct": 0,
-          "minor_premiership_fair_odds": null,
-          "make_grand_final_pct": 0.6,
-          "make_grand_final_fair_odds": 161.29,
-          "premiership_pct": 0.2,
-          "premiership_fair_odds": 425.53,
+          "premiership_fair_odds": 322.58,
           "venue": null
         },
         {
           "team_key": "stgeorgeillawarradragons",
           "team": "St George-Illawarra Dragons",
           "current_wins": 1,
-          "projected_wins": 3.4,
+          "projected_wins": 3.5,
           "simulated_avg_wins": 3.5,
           "make_top4_pct": 0.4,
-          "make_top4_fair_odds": 277.78,
+          "make_top4_fair_odds": 270.27,
           "miss_top4_pct": 99.6,
           "miss_top4_fair_odds": 1,
-          "make_top8_pct": 16.9,
-          "make_top8_fair_odds": 5.93,
-          "miss_top8_pct": 83.1,
-          "miss_top8_fair_odds": 1.2,
+          "make_top8_pct": 17,
+          "make_top8_fair_odds": 5.87,
+          "miss_top8_pct": 83,
+          "miss_top8_fair_odds": 1.21,
           "minor_premiership_pct": 0,
           "minor_premiership_fair_odds": null,
-          "make_grand_final_pct": 0.4,
-          "make_grand_final_fair_odds": 224.72,
-          "premiership_pct": 0.1,
-          "premiership_fair_odds": 714.29,
+          "make_grand_final_pct": 0.5,
+          "make_grand_final_fair_odds": 202.02,
+          "premiership_pct": 0.2,
+          "premiership_fair_odds": 625,
           "venue": null
         },
         {
@@ -3598,17 +3302,17 @@
           "projected_wins": 3.3,
           "simulated_avg_wins": 3.4,
           "make_top4_pct": 0.2,
-          "make_top4_fair_odds": 454.55,
+          "make_top4_fair_odds": 487.8,
           "miss_top4_pct": 99.8,
           "miss_top4_fair_odds": 1,
-          "make_top8_pct": 13.7,
-          "make_top8_fair_odds": 7.32,
-          "miss_top8_pct": 86.3,
-          "miss_top8_fair_odds": 1.16,
+          "make_top8_pct": 12.6,
+          "make_top8_fair_odds": 7.96,
+          "miss_top8_pct": 87.4,
+          "miss_top8_fair_odds": 1.14,
           "minor_premiership_pct": 0,
           "minor_premiership_fair_odds": null,
           "make_grand_final_pct": 0.3,
-          "make_grand_final_fair_odds": 333.33,
+          "make_grand_final_fair_odds": 363.64,
           "premiership_pct": 0.1,
           "premiership_fair_odds": 952.38,
           "venue": null
@@ -3620,9 +3324,9 @@
       "model": "NRLW upcoming projections",
       "sport": "NRLW",
       "extension": "xlsx",
-      "modified": "2026-08-03 20:10:53",
-      "size": 8939,
-      "fileUrl": "/files/NRLW_upcoming_projections.xlsx?v=1785751853-8939",
+      "modified": "2026-08-04 21:41:01",
+      "size": 8978,
+      "fileUrl": "/files/NRLW_upcoming_projections.xlsx?v=1785843661-8978",
       "sheets": [
         "Projections"
       ],
@@ -3632,9 +3336,9 @@
         "Time",
         "Home Team",
         "Away Team",
-        "Selected / Hybrid Home Line",
+        "Selected / JOINT Home Line",
         "TEAM Home Line",
-        "PLAYER Home Line",
+        "JOINT Home Line",
         "Projected Total",
         "Market Period",
         "Projection Type",
@@ -3649,9 +3353,9 @@
           "Time": "12:45",
           "Home Team": "canterbury bankstown bulldogs",
           "Away Team": "north queensland cowboys",
-          "Selected / Hybrid Home Line": -0.9674,
+          "Selected / JOINT Home Line": -1.1878,
           "TEAM Home Line": -0.9674,
-          "PLAYER Home Line": 0.8851,
+          "JOINT Home Line": -1.1878,
           "Projected Total": 41.1348,
           "Market Period": "FT",
           "Projection Type": "No Rain (Primary)",
@@ -3664,9 +3368,9 @@
           "Time": "12:45",
           "Home Team": "canterbury bankstown bulldogs",
           "Away Team": "north queensland cowboys",
-          "Selected / Hybrid Home Line": -0.9674,
+          "Selected / JOINT Home Line": -1.1878,
           "TEAM Home Line": -0.9674,
-          "PLAYER Home Line": 0.8851,
+          "JOINT Home Line": -1.1878,
           "Projected Total": 41.1348,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted (Reference)",
@@ -3679,9 +3383,9 @@
           "Time": "17:15",
           "Home Team": "cronulla-sutherland sharks",
           "Away Team": "gold coast titans",
-          "Selected / Hybrid Home Line": 2.9559,
+          "Selected / JOINT Home Line": 2.9207,
           "TEAM Home Line": 2.9559,
-          "PLAYER Home Line": 6.8391,
+          "JOINT Home Line": 2.9207,
           "Projected Total": 39.0546,
           "Market Period": "FT",
           "Projection Type": "No Rain (Primary)",
@@ -3694,9 +3398,9 @@
           "Time": "17:15",
           "Home Team": "cronulla-sutherland sharks",
           "Away Team": "gold coast titans",
-          "Selected / Hybrid Home Line": 2.9559,
+          "Selected / JOINT Home Line": 2.9207,
           "TEAM Home Line": 2.9559,
-          "PLAYER Home Line": 6.8391,
+          "JOINT Home Line": 2.9207,
           "Projected Total": 39.0546,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted (Reference)",
@@ -3709,9 +3413,9 @@
           "Time": "13:15",
           "Home Team": "warriors",
           "Away Team": "newcastle knights",
-          "Selected / Hybrid Home Line": 4.3052,
+          "Selected / JOINT Home Line": 1.5032,
           "TEAM Home Line": 4.3052,
-          "PLAYER Home Line": 0.7544,
+          "JOINT Home Line": 1.5032,
           "Projected Total": 39.4395,
           "Market Period": "FT",
           "Projection Type": "No Rain (Primary)",
@@ -3724,9 +3428,9 @@
           "Time": "13:15",
           "Home Team": "warriors",
           "Away Team": "newcastle knights",
-          "Selected / Hybrid Home Line": 4.3052,
+          "Selected / JOINT Home Line": 1.5032,
           "TEAM Home Line": 4.3052,
-          "PLAYER Home Line": 0.7544,
+          "JOINT Home Line": 1.5032,
           "Projected Total": 39.4395,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted (Reference)",
@@ -3739,9 +3443,9 @@
           "Time": "11:50",
           "Home Team": "canberra raiders",
           "Away Team": "brisbane broncos",
-          "Selected / Hybrid Home Line": 16.5034,
+          "Selected / JOINT Home Line": 20.6558,
           "TEAM Home Line": 16.5034,
-          "PLAYER Home Line": 10.2754,
+          "JOINT Home Line": 20.6558,
           "Projected Total": 44.3104,
           "Market Period": "FT",
           "Projection Type": "No Rain (Primary)",
@@ -3754,9 +3458,9 @@
           "Time": "11:50",
           "Home Team": "canberra raiders",
           "Away Team": "brisbane broncos",
-          "Selected / Hybrid Home Line": 16.5034,
+          "Selected / JOINT Home Line": 20.6558,
           "TEAM Home Line": 16.5034,
-          "PLAYER Home Line": 10.2754,
+          "JOINT Home Line": 20.6558,
           "Projected Total": 44.3104,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted (Reference)",
@@ -3769,9 +3473,9 @@
           "Time": "13:45",
           "Home Team": "st george illawarra dragons",
           "Away Team": "wests tigers",
-          "Selected / Hybrid Home Line": 1.9188,
+          "Selected / JOINT Home Line": 1.5055,
           "TEAM Home Line": 1.9188,
-          "PLAYER Home Line": 6.3754,
+          "JOINT Home Line": 1.5055,
           "Projected Total": 41.9387,
           "Market Period": "FT",
           "Projection Type": "No Rain (Primary)",
@@ -3784,9 +3488,9 @@
           "Time": "13:45",
           "Home Team": "st george illawarra dragons",
           "Away Team": "wests tigers",
-          "Selected / Hybrid Home Line": 1.9188,
+          "Selected / JOINT Home Line": 1.5055,
           "TEAM Home Line": 1.9188,
-          "PLAYER Home Line": 6.3754,
+          "JOINT Home Line": 1.5055,
           "Projected Total": 41.9387,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted (Reference)",
@@ -3799,9 +3503,9 @@
           "Time": "18:15",
           "Home Team": "sydney roosters",
           "Away Team": "parramatta eels",
-          "Selected / Hybrid Home Line": -17.4667,
+          "Selected / JOINT Home Line": -22.4169,
           "TEAM Home Line": -17.4667,
-          "PLAYER Home Line": -12.4708,
+          "JOINT Home Line": -22.4169,
           "Projected Total": 43.0793,
           "Market Period": "FT",
           "Projection Type": "No Rain (Primary)",
@@ -3814,9 +3518,9 @@
           "Time": "18:15",
           "Home Team": "sydney roosters",
           "Away Team": "parramatta eels",
-          "Selected / Hybrid Home Line": -17.4667,
+          "Selected / JOINT Home Line": -22.4169,
           "TEAM Home Line": -17.4667,
-          "PLAYER Home Line": -12.4708,
+          "JOINT Home Line": -22.4169,
           "Projected Total": 43.0793,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted (Reference)",
@@ -3831,9 +3535,9 @@
       "model": "NRLW round summary",
       "sport": "NRLW",
       "extension": "html",
-      "modified": "2026-08-03 20:11:04",
-      "size": 15034,
-      "fileUrl": "/files/NRLW_weekly_betting_report.html?v=1785751864-15034",
+      "modified": "2026-08-04 21:41:11",
+      "size": 16309,
+      "fileUrl": "/files/NRLW_weekly_betting_report.html?v=1785843671-16309",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
