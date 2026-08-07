@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05 22:15:58",
+  "generatedAt": "2026-08-08 07:36:19",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -2970,68 +2970,8 @@
         "Venue",
         "Forecast Rain mm"
       ],
-      "rowCount": 18,
+      "rowCount": 14,
       "rows": [
-        {
-          "Date": "2026-08-06",
-          "Time": "19:30",
-          "Home Team": "western bulldogs",
-          "Away Team": "north melbourne",
-          "Selected / JOINT Home Line": -20.7,
-          "TEAM Home Line": -28.4,
-          "PLAYER Home Line": -2.7,
-          "Projected Total": 172.7,
-          "Projection Type": "Weather Adjusted",
-          "Market Line": null,
-          "Market Total": null,
-          "Venue": "Marvel Stadium",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-06",
-          "Time": "19:30",
-          "Home Team": "western bulldogs",
-          "Away Team": "north melbourne",
-          "Selected / JOINT Home Line": -20.7,
-          "TEAM Home Line": -28.4,
-          "PLAYER Home Line": -2.7,
-          "Projected Total": 172.7,
-          "Projection Type": "No Rain",
-          "Market Line": null,
-          "Market Total": null,
-          "Venue": "Marvel Stadium",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-07",
-          "Time": "19:40",
-          "Home Team": "brisbane lions",
-          "Away Team": "hawthorn",
-          "Selected / JOINT Home Line": -5.9,
-          "TEAM Home Line": -4.6,
-          "PLAYER Home Line": -7.9,
-          "Projected Total": 187.1,
-          "Projection Type": "Weather Adjusted",
-          "Market Line": -10.5,
-          "Market Total": null,
-          "Venue": "Gabba",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-08-07",
-          "Time": "19:40",
-          "Home Team": "brisbane lions",
-          "Away Team": "hawthorn",
-          "Selected / JOINT Home Line": -5.9,
-          "TEAM Home Line": -4.6,
-          "PLAYER Home Line": -7.9,
-          "Projected Total": 187.1,
-          "Projection Type": "No Rain",
-          "Market Line": -10.5,
-          "Market Total": null,
-          "Venue": "Gabba",
-          "Forecast Rain mm": 0
-        },
         {
           "Date": "2026-08-08",
           "Time": "16:35",
