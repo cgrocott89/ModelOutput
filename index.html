@@ -29,7 +29,7 @@
     const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
     const fmt=(v,c='')=>{if(v===null||v===undefined||v==='')return'—';if(/date/i.test(c)){const d=new Date(v);if(!Number.isNaN(d))return d.toLocaleDateString('en-AU',{day:'2-digit',month:'short'});}const n=Number(v);return Number.isFinite(n)&&String(v).length>5?n.toFixed(1).replace(/\.0$/,''):esc(v)};
     const find=(cols,names)=>cols.find(c=>names.includes(norm(c)))||'';
-    const game=row=>{const cols=Object.keys(row),g=find(cols,['game']);if(g&&row[g])return title(row[g]);const h=find(cols,['home team','home team name','home team']),a=find(cols,['away team','away team name','away team']);return h&&a?`${title(row[a])} at ${title(row[h])}`:title(row[find(cols,['team'])]||'Output');};
+    const game=row=>{const cols=Object.keys(row),h=find(cols,['home team','home team name','home team']),a=find(cols,['away team','away team name','away team']);if(h&&a&&row[h]&&row[a])return `${title(row[h])} vs ${title(row[a])}`;const g=find(cols,['game']);return g&&row[g]?title(row[g]):title(row[find(cols,['team'])]||'Output');};
     const button=(label,active)=>`<button class="tab ${active?'active':''}" type="button" data-id="${esc(label)}">${esc(label)}</button>`;
     const periodLabel=value=>{const v=norm(value);if(v.includes('full')||v==='ft')return'FT';return String(value);};
     function render(){
