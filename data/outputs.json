@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10 21:02:09",
+  "generatedAt": "2026-08-10 21:25:34",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -7,9 +7,9 @@
       "model": "AFL goalscorers",
       "sport": "AFL",
       "extension": "xlsx",
-      "modified": "2026-08-10 21:01:43",
+      "modified": "2026-08-10 21:25:10",
       "size": 26743,
-      "fileUrl": "/files/AFL_goalscorers.xlsx?v=1786359703-26743",
+      "fileUrl": "/files/AFL_goalscorers.xlsx?v=1786361110-26743",
       "sheets": [
         "AFL Goalscorers"
       ],
@@ -2948,9 +2948,9 @@
       "model": "AFL upcoming projections",
       "sport": "AFL",
       "extension": "xlsx",
-      "modified": "2026-08-10 21:01:44",
+      "modified": "2026-08-10 21:25:10",
       "size": 15022,
-      "fileUrl": "/files/AFL_upcoming_projections.xlsx?v=1786359704-15022",
+      "fileUrl": "/files/AFL_upcoming_projections.xlsx?v=1786361110-15022",
       "sheets": [
         "AFL JOINT Projections"
       ],
@@ -3249,9 +3249,9 @@
       "model": "AFL round summary",
       "sport": "AFL",
       "extension": "html",
-      "modified": "2026-08-10 21:01:59",
+      "modified": "2026-08-10 21:25:28",
       "size": 1553691,
-      "fileUrl": "/files/AFL_weekly_betting_report.html?v=1786359719-1553691",
+      "fileUrl": "/files/AFL_weekly_betting_report.html?v=1786361128-1553691",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
@@ -3263,9 +3263,9 @@
       "model": "NRL anytime tryscorers",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-08-10 20:51:33",
-      "size": 17797,
-      "fileUrl": "/files/NRL_anytime_tryscorers.xlsx?v=1786359093-17797",
+      "modified": "2026-08-10 21:08:50",
+      "size": 17796,
+      "fileUrl": "/files/NRL_anytime_tryscorers.xlsx?v=1786360130-17796",
       "sheets": [
         "Anytime"
       ],
@@ -4773,9 +4773,9 @@
       "model": "NRL futures sim",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-08-10 20:52:34",
-      "size": 13823,
-      "fileUrl": "/files/NRL_futures_sim.xlsx?v=1786359154-13823",
+      "modified": "2026-08-10 21:09:51",
+      "size": 13822,
+      "fileUrl": "/files/NRL_futures_sim.xlsx?v=1786360191-13822",
       "sheets": [
         "futures",
         "remaining_games",
@@ -5169,9 +5169,9 @@
       "model": "NRL try channel matchups",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-08-10 20:51:33",
+      "modified": "2026-08-10 21:08:50",
       "size": 31544,
-      "fileUrl": "/files/NRL_try_channel_matchups.xlsx?v=1786359093-31544",
+      "fileUrl": "/files/NRL_try_channel_matchups.xlsx?v=1786360130-31544",
       "sheets": [
         "Heatmap",
         "Detail",
@@ -5692,9 +5692,9 @@
       "model": "NRL upcoming projections",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-08-10 20:51:34",
-      "size": 14106,
-      "fileUrl": "/files/NRL_upcoming_projections.xlsx?v=1786359094-14106",
+      "modified": "2026-08-10 21:08:51",
+      "size": 14105,
+      "fileUrl": "/files/NRL_upcoming_projections.xlsx?v=1786360131-14105",
       "sheets": [
         "LeanMain"
       ],
@@ -6364,9 +6364,9 @@
       "model": "NRL round summary",
       "sport": "NRL",
       "extension": "html",
-      "modified": "2026-08-10 20:52:21",
+      "modified": "2026-08-10 21:09:34",
       "size": 1632632,
-      "fileUrl": "/files/NRL_weekly_betting_report.html?v=1786359141-1632632",
+      "fileUrl": "/files/NRL_weekly_betting_report.html?v=1786360174-1632632",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
@@ -6378,9 +6378,9 @@
       "model": "NRLW futures sim",
       "sport": "NRLW",
       "extension": "xlsx",
-      "modified": "2026-08-10 20:56:03",
-      "size": 12906,
-      "fileUrl": "/files/NRLW_futures_sim.xlsx?v=1786359363-12906",
+      "modified": "2026-08-10 21:13:00",
+      "size": 12905,
+      "fileUrl": "/files/NRLW_futures_sim.xlsx?v=1786360380-12905",
       "sheets": [
         "futures",
         "remaining_games",
@@ -6682,9 +6682,9 @@
       "model": "NRLW upcoming projections",
       "sport": "NRLW",
       "extension": "xlsx",
-      "modified": "2026-08-10 20:55:43",
+      "modified": "2026-08-10 21:12:49",
       "size": 8934,
-      "fileUrl": "/files/NRLW_upcoming_projections.xlsx?v=1786359343-8934",
+      "fileUrl": "/files/NRLW_upcoming_projections.xlsx?v=1786360369-8934",
       "sheets": [
         "Projections"
       ],
@@ -6893,9 +6893,9 @@
       "model": "NRLW round summary",
       "sport": "NRLW",
       "extension": "html",
-      "modified": "2026-08-10 20:56:05",
+      "modified": "2026-08-10 21:13:01",
       "size": 15194,
-      "fileUrl": "/files/NRLW_weekly_betting_report.html?v=1786359365-15194",
+      "fileUrl": "/files/NRLW_weekly_betting_report.html?v=1786360381-15194",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
