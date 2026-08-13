@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13 16:13:48",
+  "generatedAt": "2026-08-13 16:21:26",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -7,9 +7,9 @@
       "model": "AFL futures sim",
       "sport": "AFL",
       "extension": "xlsx",
-      "modified": "2026-08-13 15:57:01",
+      "modified": "2026-08-13 16:21:04",
       "size": 12638,
-      "fileUrl": "/files/AFL_futures_sim.xlsx?v=1786600621-12638",
+      "fileUrl": "/files/AFL_futures_sim.xlsx?v=1786602064-12638",
       "sheets": [
         "futures",
         "remaining_games",
@@ -177,9 +177,9 @@
       "model": "AFL goalscorers",
       "sport": "AFL",
       "extension": "xlsx",
-      "modified": "2026-08-13 15:56:55",
+      "modified": "2026-08-13 16:20:59",
       "size": 26760,
-      "fileUrl": "/files/AFL_goalscorers.xlsx?v=1786600615-26760",
+      "fileUrl": "/files/AFL_goalscorers.xlsx?v=1786602059-26760",
       "sheets": [
         "AFL Goalscorers"
       ],
@@ -3118,9 +3118,9 @@
       "model": "AFL upcoming projections",
       "sport": "AFL",
       "extension": "xlsx",
-      "modified": "2026-08-13 16:11:17",
+      "modified": "2026-08-13 16:20:59",
       "size": 20595,
-      "fileUrl": "/files/AFL_upcoming_projections.xlsx?v=1786601477-20595",
+      "fileUrl": "/files/AFL_upcoming_projections.xlsx?v=1786602059-20595",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -3455,9 +3455,9 @@
       "model": "AFL round summary",
       "sport": "AFL",
       "extension": "html",
-      "modified": "2026-08-13 15:57:17",
-      "size": 1553691,
-      "fileUrl": "/files/AFL_weekly_betting_report.html?v=1786600637-1553691",
+      "modified": "2026-08-13 16:21:18",
+      "size": 1553883,
+      "fileUrl": "/files/AFL_weekly_betting_report.html?v=1786602078-1553883",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
@@ -3469,9 +3469,9 @@
       "model": "AFLW upcoming projections",
       "sport": "AFLW",
       "extension": "xlsx",
-      "modified": "2026-08-13 15:52:22",
-      "size": 9654,
-      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1786600342-9654",
+      "modified": "2026-08-13 16:21:22",
+      "size": 9653,
+      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1786602082-9653",
       "sheets": [
         "Projections"
       ],
