@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13 16:01:37",
+  "generatedAt": "2026-08-13 16:11:46",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -3118,9 +3118,9 @@
       "model": "AFL upcoming projections",
       "sport": "AFL",
       "extension": "xlsx",
-      "modified": "2026-08-13 15:56:55",
-      "size": 19816,
-      "fileUrl": "/files/AFL_upcoming_projections.xlsx?v=1786600615-19816",
+      "modified": "2026-08-13 16:11:17",
+      "size": 20595,
+      "fileUrl": "/files/AFL_upcoming_projections.xlsx?v=1786601477-20595",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -3154,8 +3154,8 @@
           "PLAYER Home Line": 23.5,
           "Projected Total": 177.4,
           "Projection Type": "Weather Adjusted",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": 60.5,
+          "Market Total": 184.5,
           "Venue": "MCG",
           "Forecast Rain mm": 1.3
         },
@@ -3171,8 +3171,8 @@
           "PLAYER Home Line": 23.5,
           "Projected Total": 181,
           "Projection Type": "No Rain",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": 60.5,
+          "Market Total": 184.5,
           "Venue": "MCG",
           "Forecast Rain mm": 1.3
         },
@@ -3188,8 +3188,8 @@
           "PLAYER Home Line": -23.8,
           "Projected Total": 187.8,
           "Projection Type": "Weather Adjusted",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": -32.5,
+          "Market Total": 188.5,
           "Venue": "Gabba",
           "Forecast Rain mm": 0
         },
@@ -3205,8 +3205,8 @@
           "PLAYER Home Line": -23.8,
           "Projected Total": 187.8,
           "Projection Type": "No Rain",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": -32.5,
+          "Market Total": 188.5,
           "Venue": "Gabba",
           "Forecast Rain mm": 0
         },
@@ -3222,8 +3222,8 @@
           "PLAYER Home Line": 10.5,
           "Projected Total": 181.8,
           "Projection Type": "Weather Adjusted",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": 22.5,
+          "Market Total": 183.5,
           "Venue": "Marvel Stadium",
           "Forecast Rain mm": 1.3
         },
@@ -3239,8 +3239,8 @@
           "PLAYER Home Line": 10.5,
           "Projected Total": 181.8,
           "Projection Type": "No Rain",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": 22.5,
+          "Market Total": 183.5,
           "Venue": "Marvel Stadium",
           "Forecast Rain mm": 1.3
         },
@@ -3256,8 +3256,8 @@
           "PLAYER Home Line": 19.5,
           "Projected Total": 169.6,
           "Projection Type": "Weather Adjusted",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": 16.5,
+          "Market Total": 175.5,
           "Venue": "Marvel Stadium",
           "Forecast Rain mm": 1.3
         },
@@ -3273,8 +3273,8 @@
           "PLAYER Home Line": 19.5,
           "Projected Total": 169.6,
           "Projection Type": "No Rain",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": 16.5,
+          "Market Total": 175.5,
           "Venue": "Marvel Stadium",
           "Forecast Rain mm": 1.3
         },
@@ -3290,8 +3290,8 @@
           "PLAYER Home Line": -30.4,
           "Projected Total": 175.1,
           "Projection Type": "Weather Adjusted",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": -32.5,
+          "Market Total": 168.5,
           "Venue": "ENGIE Stadium",
           "Forecast Rain mm": 0
         },
@@ -3307,8 +3307,8 @@
           "PLAYER Home Line": -30.4,
           "Projected Total": 175.1,
           "Projection Type": "No Rain",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": -32.5,
+          "Market Total": 168.5,
           "Venue": "ENGIE Stadium",
           "Forecast Rain mm": 0
         },
@@ -3324,8 +3324,8 @@
           "PLAYER Home Line": 10.7,
           "Projected Total": 175.5,
           "Projection Type": "Weather Adjusted",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": 28.5,
+          "Market Total": 182.5,
           "Venue": "Adelaide Oval",
           "Forecast Rain mm": 0.6
         },
@@ -3341,8 +3341,8 @@
           "PLAYER Home Line": 10.7,
           "Projected Total": 177.5,
           "Projection Type": "No Rain",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": 28.5,
+          "Market Total": 182.5,
           "Venue": "Adelaide Oval",
           "Forecast Rain mm": 0.6
         },
@@ -3392,8 +3392,8 @@
           "PLAYER Home Line": 16.3,
           "Projected Total": 163.5,
           "Projection Type": "Weather Adjusted",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": 22.5,
+          "Market Total": 167.5,
           "Venue": "MCG",
           "Forecast Rain mm": 1.3
         },
@@ -3409,8 +3409,8 @@
           "PLAYER Home Line": 16.3,
           "Projected Total": 167,
           "Projection Type": "No Rain",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": 22.5,
+          "Market Total": 167.5,
           "Venue": "MCG",
           "Forecast Rain mm": 1.3
         },
@@ -3426,8 +3426,8 @@
           "PLAYER Home Line": -4.8,
           "Projected Total": 168.7,
           "Projection Type": "Weather Adjusted",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": -19.5,
+          "Market Total": 174.5,
           "Venue": "MCG",
           "Forecast Rain mm": 1.3
         },
@@ -3443,8 +3443,8 @@
           "PLAYER Home Line": -4.8,
           "Projected Total": 172.3,
           "Projection Type": "No Rain",
-          "Market Line": null,
-          "Market Total": null,
+          "Market Line": -19.5,
+          "Market Total": 174.5,
           "Venue": "MCG",
           "Forecast Rain mm": 1.3
         }
