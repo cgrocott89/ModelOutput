@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22 09:26:56",
+  "generatedAt": "2026-08-22 09:35:04",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -6708,9 +6708,9 @@
       "model": "Straight greyhound rated prices",
       "sport": "Greyhounds",
       "extension": "xlsx",
-      "modified": "2026-08-22 09:23:48",
+      "modified": "2026-08-22 09:34:57",
       "size": 49100,
-      "fileUrl": "/files/Straight_Greyhound_upcoming_rated_prices.xlsx?v=1787354628-49100",
+      "fileUrl": "/files/Straight_Greyhound_upcoming_rated_prices.xlsx?v=1787355297-49100",
       "sheets": [
         "Rated prices",
         "Component audit"
