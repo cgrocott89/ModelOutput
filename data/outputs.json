@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01 21:22:49",
+  "generatedAt": "2026-09-02 00:07:37",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -2752,9 +2752,9 @@
       "model": "NRLW futures sim",
       "sport": "NRLW",
       "extension": "xlsx",
-      "modified": "2026-09-01 19:16:07",
-      "size": 11923,
-      "fileUrl": "/files/NRLW_futures_sim.xlsx?v=1788254167-11923",
+      "modified": "2026-09-01 23:45:44",
+      "size": 11926,
+      "fileUrl": "/files/NRLW_futures_sim.xlsx?v=1788270344-11926",
       "sheets": [
         "futures",
         "remaining_games",
@@ -3056,9 +3056,9 @@
       "model": "NRLW upcoming projections",
       "sport": "NRLW",
       "extension": "xlsx",
-      "modified": "2026-09-01 19:15:49",
-      "size": 8977,
-      "fileUrl": "/files/NRLW_upcoming_projections.xlsx?v=1788254149-8977",
+      "modified": "2026-09-01 23:45:27",
+      "size": 8978,
+      "fileUrl": "/files/NRLW_upcoming_projections.xlsx?v=1788270327-8978",
       "sheets": [
         "Projections"
       ],
@@ -3267,9 +3267,9 @@
       "model": "NRLW round summary",
       "sport": "NRLW",
       "extension": "html",
-      "modified": "2026-09-01 19:16:12",
+      "modified": "2026-09-01 23:45:49",
       "size": 16076,
-      "fileUrl": "/files/NRLW_weekly_betting_report.html?v=1788254172-16076",
+      "fileUrl": "/files/NRLW_weekly_betting_report.html?v=1788270349-16076",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
