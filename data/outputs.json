@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01 20:44:52",
+  "generatedAt": "2026-09-01 21:22:49",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -143,9 +143,9 @@
       "model": "NRL anytime tryscorers",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-09-01 19:09:11",
+      "modified": "2026-09-01 20:59:03",
       "size": 17365,
-      "fileUrl": "/files/NRL_anytime_tryscorers.xlsx?v=1788253751-17365",
+      "fileUrl": "/files/NRL_anytime_tryscorers.xlsx?v=1788260343-17365",
       "sheets": [
         "Anytime"
       ],
@@ -1605,9 +1605,9 @@
       "model": "NRL futures sim",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-09-01 19:11:06",
-      "size": 11980,
-      "fileUrl": "/files/NRL_futures_sim.xlsx?v=1788253866-11980",
+      "modified": "2026-09-01 21:00:56",
+      "size": 11982,
+      "fileUrl": "/files/NRL_futures_sim.xlsx?v=1788260456-11982",
       "sheets": [
         "futures",
         "remaining_games",
@@ -1767,9 +1767,9 @@
       "model": "NRL try channel matchups",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-09-01 19:09:10",
-      "size": 29161,
-      "fileUrl": "/files/NRL_try_channel_matchups.xlsx?v=1788253750-29161",
+      "modified": "2026-09-01 20:59:03",
+      "size": 29162,
+      "fileUrl": "/files/NRL_try_channel_matchups.xlsx?v=1788260343-29162",
       "sheets": [
         "Heatmap",
         "Detail",
@@ -2194,9 +2194,9 @@
       "model": "NRL upcoming projections",
       "sport": "NRL",
       "extension": "xlsx",
-      "modified": "2026-09-01 19:09:18",
+      "modified": "2026-09-01 20:59:10",
       "size": 12800,
-      "fileUrl": "/files/NRL_upcoming_projections.xlsx?v=1788253758-12800",
+      "fileUrl": "/files/NRL_upcoming_projections.xlsx?v=1788260350-12800",
       "sheets": [
         "LeanMain"
       ],
@@ -2678,7 +2678,7 @@
           "Projected Total": 43.8,
           "Market Period": "FT",
           "Projection Type": "No Rain",
-          "Market Line": -19.5,
+          "Market Line": -19,
           "Market Total": 48,
           "Venue": "BlueBet Stadium, Penrith",
           "Forecast Rain mm": 0
@@ -2694,7 +2694,7 @@
           "Projected Total": 43.8,
           "Market Period": "FT",
           "Projection Type": "Weather Adjusted",
-          "Market Line": -19.5,
+          "Market Line": -19,
           "Market Total": 48,
           "Venue": "BlueBet Stadium, Penrith",
           "Forecast Rain mm": 0
@@ -2710,7 +2710,7 @@
           "Projected Total": 21.9,
           "Market Period": "1H",
           "Projection Type": "No Rain",
-          "Market Line": -19.5,
+          "Market Line": -19,
           "Market Total": 48,
           "Venue": "BlueBet Stadium, Penrith",
           "Forecast Rain mm": 0
@@ -2726,7 +2726,7 @@
           "Projected Total": 21.9,
           "Market Period": "1H",
           "Projection Type": "Weather Adjusted",
-          "Market Line": -19.5,
+          "Market Line": -19,
           "Market Total": 48,
           "Venue": "BlueBet Stadium, Penrith",
           "Forecast Rain mm": 0
@@ -2738,9 +2738,9 @@
       "model": "NRL round summary",
       "sport": "NRL",
       "extension": "html",
-      "modified": "2026-09-01 19:10:45",
+      "modified": "2026-09-01 21:00:34",
       "size": 1504995,
-      "fileUrl": "/files/NRL_weekly_betting_report.html?v=1788253845-1504995",
+      "fileUrl": "/files/NRL_weekly_betting_report.html?v=1788260434-1504995",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
