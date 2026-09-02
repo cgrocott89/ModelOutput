@@ -1,4 +1,4 @@
-﻿# ModelOutput
+# ModelOutput
 
 Static betting model output viewer.
 
