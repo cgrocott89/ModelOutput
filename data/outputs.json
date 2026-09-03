@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03 11:31:24",
+  "generatedAt": "2026-09-03 11:35:38",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -3281,14 +3281,11 @@
       "model": "Straight greyhound rated prices",
       "sport": "Greyhounds",
       "extension": "xlsx",
-      "modified": "2026-09-03 07:42:16",
-      "size": 56601,
-      "fileUrl": "/files/Straight_Greyhound_upcoming_rated_prices.xlsx?v=1788385336-56601",
-      "sheets": [
-        "Rated prices",
-        "Component audit"
-      ],
-      "defaultSheet": "Rated prices",
+      "modified": "2026-09-03 11:00:44",
+      "size": 121035,
+      "fileUrl": "/files/Straight_Greyhound_upcoming_rated_prices.xlsx?v=1788397244-121035",
+      "sheets": [],
+      "defaultSheet": "",
       "columns": [
         "Date",
         "Venue",
@@ -3329,7 +3326,7 @@
       "rowCount": 175,
       "rows": [
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-03T11:50:00",
@@ -3342,7 +3339,7 @@
           "Greyhound": "CABERNET CARTEL",
           "Trainer": "Garry Gilbert",
           "Model Price": 4.06,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.18,
           "Fair Top 2 Odds": 2.2,
           "Fair Top 3 Odds": 1.6,
           "Raw Advantage (L)": 0.5,
@@ -3366,7 +3363,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-03T11:50:00",
@@ -3379,7 +3376,7 @@
           "Greyhound": "TAILORED",
           "Trainer": "Jodi Davis",
           "Model Price": 5.51,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.05,
           "Fair Top 2 Odds": 2.82,
           "Fair Top 3 Odds": 1.92,
           "Raw Advantage (L)": -0.5,
@@ -3403,7 +3400,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-03T11:50:00",
@@ -3416,7 +3413,7 @@
           "Greyhound": "TIGER GURU",
           "Trainer": "Dean Clarson",
           "Model Price": 6.06,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.36,
           "Fair Top 2 Odds": 3.05,
           "Fair Top 3 Odds": 2.06,
           "Raw Advantage (L)": -0.6,
@@ -3440,7 +3437,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-03T11:50:00",
@@ -3453,7 +3450,7 @@
           "Greyhound": "SHIAN SANDI",
           "Trainer": "Kerry Hoggan",
           "Model Price": 6.79,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 7.93,
           "Fair Top 2 Odds": 3.39,
           "Fair Top 3 Odds": 2.24,
           "Raw Advantage (L)": -0.9,
@@ -3477,7 +3474,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-03T11:50:00",
@@ -3490,7 +3487,7 @@
           "Greyhound": "WHIZZ BANG",
           "Trainer": "Christopher Riordon",
           "Model Price": 7.81,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 8.62,
           "Fair Top 2 Odds": 3.68,
           "Fair Top 3 Odds": 2.38,
           "Raw Advantage (L)": -1.3,
@@ -3514,7 +3511,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-03T11:50:00",
@@ -3527,7 +3524,7 @@
           "Greyhound": "FEDERAL SABLE",
           "Trainer": "Ashley Bock",
           "Model Price": 16.69,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 46.69,
           "Fair Top 2 Odds": 7.54,
           "Fair Top 3 Odds": 4.52,
           "Raw Advantage (L)": -2.2,
@@ -3551,7 +3548,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-03T11:50:00",
@@ -3564,7 +3561,7 @@
           "Greyhound": "TIGER PROWL",
           "Trainer": "Kerry Hoggan",
           "Model Price": 17.4,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 12.89,
           "Fair Top 2 Odds": 7.72,
           "Fair Top 3 Odds": 4.59,
           "Raw Advantage (L)": -2.2,
@@ -3588,7 +3585,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-03T11:50:00",
@@ -3601,7 +3598,7 @@
           "Greyhound": "BROCADE CROWN",
           "Trainer": "Christopher Riordon",
           "Model Price": 68,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 65.07,
           "Fair Top 2 Odds": 28.47,
           "Fair Top 3 Odds": 15.7,
           "Raw Advantage (L)": -4.4,
@@ -3625,7 +3622,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-03T12:08:00",
@@ -3638,7 +3635,7 @@
           "Greyhound": "STEEL CARESS",
           "Trainer": "Josh Priest",
           "Model Price": 3.77,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 2.37,
           "Fair Top 2 Odds": 2.07,
           "Fair Top 3 Odds": 1.51,
           "Raw Advantage (L)": 0.2,
@@ -3662,7 +3659,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-03T12:08:00",
@@ -3675,7 +3672,7 @@
           "Greyhound": "FOUR LEAF CLOVER",
           "Trainer": "Barbara Van Tienhoven",
           "Model Price": 4.08,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.45,
           "Fair Top 2 Odds": 2.1,
           "Fair Top 3 Odds": 1.49,
           "Raw Advantage (L)": -0.2,
@@ -3699,7 +3696,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-03T12:08:00",
@@ -3712,7 +3709,7 @@
           "Greyhound": "COUCH COMMENTARY",
           "Trainer": "Matthew Heilbronn",
           "Model Price": 4.9,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.02,
           "Fair Top 2 Odds": 2.45,
           "Fair Top 3 Odds": 1.65,
           "Raw Advantage (L)": -0.3,
@@ -3736,7 +3733,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-03T12:08:00",
@@ -3749,7 +3746,7 @@
           "Greyhound": "MOLLETES",
           "Trainer": "Matthew Heilbronn",
           "Model Price": 7.86,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 14.51,
           "Fair Top 2 Odds": 3.63,
           "Fair Top 3 Odds": 2.25,
           "Raw Advantage (L)": -1,
@@ -3773,7 +3770,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-03T12:08:00",
@@ -3786,7 +3783,7 @@
           "Greyhound": "VERY SHREWD",
           "Trainer": "Colin Smith",
           "Model Price": 10.51,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 13.99,
           "Fair Top 2 Odds": 4.73,
           "Fair Top 3 Odds": 2.86,
           "Raw Advantage (L)": -1.6,
@@ -3810,7 +3807,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-03T12:08:00",
@@ -3823,7 +3820,7 @@
           "Greyhound": "BOMBASTIC LOLA",
           "Trainer": "Marie Westwood",
           "Model Price": 39.11,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 48.12,
           "Fair Top 2 Odds": 16.88,
           "Fair Top 3 Odds": 9.33,
           "Raw Advantage (L)": -3.3,
@@ -3847,7 +3844,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-03T12:08:00",
@@ -3860,7 +3857,7 @@
           "Greyhound": "SMASHING DOUBLE",
           "Trainer": "Christopher Kadniak",
           "Model Price": 42.41,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 68.77,
           "Fair Top 2 Odds": 18.23,
           "Fair Top 3 Odds": 10.21,
           "Raw Advantage (L)": -3.3,
@@ -3884,7 +3881,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-03T12:08:00",
@@ -3897,7 +3894,7 @@
           "Greyhound": "CONFIDENTIAL GAL",
           "Trainer": "Tony Short",
           "Model Price": 69.66,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 79.94,
           "Fair Top 2 Odds": 30.35,
           "Fair Top 3 Odds": 16.54,
           "Raw Advantage (L)": -4.1,
@@ -3921,7 +3918,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-03T12:26:00",
@@ -3934,7 +3931,7 @@
           "Greyhound": "BIT UNSURE",
           "Trainer": "Mal Grant",
           "Model Price": 1.61,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 1.56,
           "Fair Top 2 Odds": 1.12,
           "Fair Top 3 Odds": 1.03,
           "Raw Advantage (L)": 1.4,
@@ -3958,7 +3955,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-03T12:26:00",
@@ -3971,7 +3968,7 @@
           "Greyhound": "SHIAN GABRIELA",
           "Trainer": "Kerry Hoggan",
           "Model Price": 4.36,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.87,
           "Fair Top 2 Odds": 1.56,
           "Fair Top 3 Odds": 1.13,
           "Raw Advantage (L)": -1.4,
@@ -3995,7 +3992,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-03T12:26:00",
@@ -4008,7 +4005,7 @@
           "Greyhound": "MESSY TESSY",
           "Trainer": "Felicia Guymer",
           "Model Price": 10.54,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 9.67,
           "Fair Top 2 Odds": 3.56,
           "Fair Top 3 Odds": 1.54,
           "Raw Advantage (L)": -2.6,
@@ -4032,7 +4029,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-03T12:26:00",
@@ -4045,7 +4042,7 @@
           "Greyhound": "IT'S AWAY",
           "Trainer": "Marie Westwood",
           "Model Price": 42.68,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 61.82,
           "Fair Top 2 Odds": 12.29,
           "Fair Top 3 Odds": 4.67,
           "Raw Advantage (L)": -4.8,
@@ -4069,7 +4066,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-03T12:26:00",
@@ -4082,7 +4079,7 @@
           "Greyhound": "WINNING EDITION",
           "Trainer": "Terry Priest",
           "Model Price": 73.07,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 47.49,
           "Fair Top 2 Odds": 21.02,
           "Fair Top 3 Odds": 7.66,
           "Raw Advantage (L)": -5.5,
@@ -4106,7 +4103,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-03T12:26:00",
@@ -4119,7 +4116,7 @@
           "Greyhound": "HARD STYLE MISS",
           "Trainer": "Jeffrey Henzell",
           "Model Price": 87.91,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 123.38,
           "Fair Top 2 Odds": 27.09,
           "Fair Top 3 Odds": 10.32,
           "Raw Advantage (L)": -6.1,
@@ -4143,7 +4140,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-03T12:26:00",
@@ -4156,7 +4153,7 @@
           "Greyhound": "SMASH THE JOKER",
           "Trainer": "Christopher Kadniak",
           "Model Price": 255.1,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 246.8,
           "Fair Top 2 Odds": 78.86,
           "Fair Top 3 Odds": 28.59,
           "Raw Advantage (L)": -7.2,
@@ -4180,7 +4177,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-03T12:26:00",
@@ -4193,7 +4190,7 @@
           "Greyhound": "NICE FIGURE",
           "Trainer": "Matthew Heilbronn",
           "Model Price": 499.65,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 574.59,
           "Fair Top 2 Odds": 155.09,
           "Fair Top 3 Odds": 56.48,
           "Raw Advantage (L)": -8.3,
@@ -4217,7 +4214,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-03T12:41:00",
@@ -4230,7 +4227,7 @@
           "Greyhound": "TOMMY KNUCKLES",
           "Trainer": "Gerard Bowe",
           "Model Price": 3.97,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 3.43,
           "Fair Top 2 Odds": 2.11,
           "Fair Top 3 Odds": 1.52,
           "Raw Advantage (L)": 0.3,
@@ -4254,7 +4251,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-03T12:41:00",
@@ -4267,7 +4264,7 @@
           "Greyhound": "NO SOURCE FOUND",
           "Trainer": "Leith Mchugh",
           "Model Price": 4.79,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 3.77,
           "Fair Top 2 Odds": 2.44,
           "Fair Top 3 Odds": 1.68,
           "Raw Advantage (L)": -0.3,
@@ -4291,7 +4288,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-03T12:41:00",
@@ -4304,7 +4301,7 @@
           "Greyhound": "ETHAN'S BROTHER",
           "Trainer": "Darren Johnstone",
           "Model Price": 5.29,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.93,
           "Fair Top 2 Odds": 2.66,
           "Fair Top 3 Odds": 1.8,
           "Raw Advantage (L)": -0.4,
@@ -4328,7 +4325,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-03T12:41:00",
@@ -4341,7 +4338,7 @@
           "Greyhound": "ASTON POSEIDON",
           "Trainer": "Mal Grant",
           "Model Price": 6.74,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 9.54,
           "Fair Top 2 Odds": 3.31,
           "Fair Top 3 Odds": 2.16,
           "Raw Advantage (L)": -0.7,
@@ -4365,7 +4362,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-03T12:41:00",
@@ -4378,7 +4375,7 @@
           "Greyhound": "RAMBLING ACES",
           "Trainer": "Christopher Supple",
           "Model Price": 11.15,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 13.09,
           "Fair Top 2 Odds": 5.22,
           "Fair Top 3 Odds": 3.23,
           "Raw Advantage (L)": -1.6,
@@ -4402,7 +4399,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-03T12:41:00",
@@ -4415,7 +4412,7 @@
           "Greyhound": "DAINTREE TOMMY",
           "Trainer": "Christopher Broadrick",
           "Model Price": 17.82,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 22.98,
           "Fair Top 2 Odds": 8.13,
           "Fair Top 3 Odds": 4.83,
           "Raw Advantage (L)": -2.2,
@@ -4439,7 +4436,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-03T12:41:00",
@@ -4452,7 +4449,7 @@
           "Greyhound": "UNDENIABLE GRIT",
           "Trainer": "Jayson Valentine",
           "Model Price": 20.39,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 23.21,
           "Fair Top 2 Odds": 9.21,
           "Fair Top 3 Odds": 5.42,
           "Raw Advantage (L)": -2.4,
@@ -4476,7 +4473,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-03T12:41:00",
@@ -4489,7 +4486,7 @@
           "Greyhound": "SHE'S AMERICAN",
           "Trainer": "Ashley Bock",
           "Model Price": 145.89,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 146.92,
           "Fair Top 2 Odds": 66.73,
           "Fair Top 3 Odds": 38.11,
           "Raw Advantage (L)": -5.3,
@@ -4513,7 +4510,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-03T13:03:00",
@@ -4526,7 +4523,7 @@
           "Greyhound": "ISLA COAST",
           "Trainer": "Jayson Valentine",
           "Model Price": 4.59,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.95,
           "Fair Top 2 Odds": 2.45,
           "Fair Top 3 Odds": 1.75,
           "Raw Advantage (L)": 0.3,
@@ -4550,7 +4547,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-03T13:03:00",
@@ -4563,7 +4560,7 @@
           "Greyhound": "HE'S DELIRIOUS",
           "Trainer": "Allan Oshyer",
           "Model Price": 5.16,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.84,
           "Fair Top 2 Odds": 2.65,
           "Fair Top 3 Odds": 1.83,
           "Raw Advantage (L)": -0.3,
@@ -4587,7 +4584,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-03T13:03:00",
@@ -4600,7 +4597,7 @@
           "Greyhound": "TIGGY BOODIE",
           "Trainer": "Peter Wilson",
           "Model Price": 5.85,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.5,
           "Fair Top 2 Odds": 2.85,
           "Fair Top 3 Odds": 1.92,
           "Raw Advantage (L)": -0.5,
@@ -4624,7 +4621,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-03T13:03:00",
@@ -4637,7 +4634,7 @@
           "Greyhound": "SELECT AIRLEY",
           "Trainer": "Jamie Hosking",
           "Model Price": 7.45,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 7.55,
           "Fair Top 2 Odds": 3.73,
           "Fair Top 3 Odds": 2.46,
           "Raw Advantage (L)": -0.8,
@@ -4661,7 +4658,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-03T13:03:00",
@@ -4674,7 +4671,7 @@
           "Greyhound": "TUTA SUN",
           "Trainer": "Lina Langmaid",
           "Model Price": 8.51,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 9.7,
           "Fair Top 2 Odds": 4.11,
           "Fair Top 3 Odds": 2.65,
           "Raw Advantage (L)": -1.1,
@@ -4698,7 +4695,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-03T13:03:00",
@@ -4711,7 +4708,7 @@
           "Greyhound": "COWBOY'S RODEO",
           "Trainer": "Andy Mulrine",
           "Model Price": 13.68,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 19.94,
           "Fair Top 2 Odds": 6.57,
           "Fair Top 3 Odds": 4.13,
           "Raw Advantage (L)": -1.6,
@@ -4735,7 +4732,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-03T13:03:00",
@@ -4748,7 +4745,7 @@
           "Greyhound": "LUCY BURROW",
           "Trainer": "Malcolm Willoughby",
           "Model Price": 18.7,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 22.64,
           "Fair Top 2 Odds": 8.96,
           "Fair Top 3 Odds": 5.54,
           "Raw Advantage (L)": -2.2,
@@ -4772,7 +4769,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-03T13:03:00",
@@ -4785,7 +4782,7 @@
           "Greyhound": "PANNONIA",
           "Trainer": "Terry Priest",
           "Model Price": 25.44,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 25.39,
           "Fair Top 2 Odds": 11.14,
           "Fair Top 3 Odds": 6.46,
           "Raw Advantage (L)": -2.6,
@@ -4809,7 +4806,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-03T13:18:00",
@@ -4822,7 +4819,7 @@
           "Greyhound": "CAKE IS GREAT",
           "Trainer": "Stephen Neary",
           "Model Price": 2.83,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 3.31,
           "Fair Top 2 Odds": 1.65,
           "Fair Top 3 Odds": 1.29,
           "Raw Advantage (L)": 0.9,
@@ -4846,7 +4843,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-03T13:18:00",
@@ -4859,7 +4856,7 @@
           "Greyhound": "KALINA PEARL",
           "Trainer": "Marie Westwood",
           "Model Price": 5.68,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.43,
           "Fair Top 2 Odds": 2.69,
           "Fair Top 3 Odds": 1.78,
           "Raw Advantage (L)": -0.9,
@@ -4883,7 +4880,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-03T13:18:00",
@@ -4896,7 +4893,7 @@
           "Greyhound": "GOLDSTAR MURPHY",
           "Trainer": "Riley Evans",
           "Model Price": 7.18,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.98,
           "Fair Top 2 Odds": 3.44,
           "Fair Top 3 Odds": 2.21,
           "Raw Advantage (L)": -1.7,
@@ -4920,7 +4917,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-03T13:18:00",
@@ -4933,7 +4930,7 @@
           "Greyhound": "SAPPHIRE KING",
           "Trainer": "Paul Graham",
           "Model Price": 7.44,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 7.18,
           "Fair Top 2 Odds": 3.44,
           "Fair Top 3 Odds": 2.16,
           "Raw Advantage (L)": -1.3,
@@ -4957,7 +4954,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-03T13:18:00",
@@ -4970,7 +4967,7 @@
           "Greyhound": "NINA SIYAN",
           "Trainer": "Jodi Davis",
           "Model Price": 12.81,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 12.32,
           "Fair Top 2 Odds": 5.78,
           "Fair Top 3 Odds": 3.45,
           "Raw Advantage (L)": -2.4,
@@ -4994,7 +4991,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-03T13:18:00",
@@ -5007,7 +5004,7 @@
           "Greyhound": "PIPER BEACH",
           "Trainer": "Keith Boan",
           "Model Price": 15.07,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 15.39,
           "Fair Top 2 Odds": 6.65,
           "Fair Top 3 Odds": 3.92,
           "Raw Advantage (L)": -2.4,
@@ -5031,7 +5028,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-03T13:18:00",
@@ -5044,7 +5041,7 @@
           "Greyhound": "SPRING NICK",
           "Trainer": "Anne Clelland",
           "Model Price": 33.45,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 50.46,
           "Fair Top 2 Odds": 14.52,
           "Fair Top 3 Odds": 8.26,
           "Raw Advantage (L)": -3.7,
@@ -5068,7 +5065,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-03T13:18:00",
@@ -5081,7 +5078,7 @@
           "Greyhound": "DIAMOND FRANKIE",
           "Trainer": "Peter Heterick",
           "Model Price": 42.94,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 42.23,
           "Fair Top 2 Odds": 20.58,
           "Fair Top 3 Odds": 12.39,
           "Raw Advantage (L)": -4.2,
@@ -5105,7 +5102,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-03T13:42:00",
@@ -5118,7 +5115,7 @@
           "Greyhound": "GHOST OF WADDELL",
           "Trainer": "Jamie Hosking",
           "Model Price": 3.7,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 3.1,
           "Fair Top 2 Odds": 2.02,
           "Fair Top 3 Odds": 1.49,
           "Raw Advantage (L)": 0.6,
@@ -5142,7 +5139,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-03T13:42:00",
@@ -5155,7 +5152,7 @@
           "Greyhound": "FEDERAL EMERAN",
           "Trainer": "Ashley Bock",
           "Model Price": 5.82,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 7.94,
           "Fair Top 2 Odds": 2.9,
           "Fair Top 3 Odds": 1.94,
           "Raw Advantage (L)": -0.6,
@@ -5179,7 +5176,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-03T13:42:00",
@@ -5192,7 +5189,7 @@
           "Greyhound": "ACES UP HERE",
           "Trainer": "Christopher Supple",
           "Model Price": 6.28,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.86,
           "Fair Top 2 Odds": 3.05,
           "Fair Top 3 Odds": 2.01,
           "Raw Advantage (L)": -0.7,
@@ -5216,7 +5213,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-03T13:42:00",
@@ -5229,7 +5226,7 @@
           "Greyhound": "BLOCKER TIGER",
           "Trainer": "Stephen Neary",
           "Model Price": 6.3,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.46,
           "Fair Top 2 Odds": 3.12,
           "Fair Top 3 Odds": 2.07,
           "Raw Advantage (L)": -0.7,
@@ -5253,7 +5250,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-03T13:42:00",
@@ -5266,7 +5263,7 @@
           "Greyhound": "ALTONA BEACH",
           "Trainer": "Keith Boan",
           "Model Price": 10.34,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 9.18,
           "Fair Top 2 Odds": 4.85,
           "Fair Top 3 Odds": 3.03,
           "Raw Advantage (L)": -1.4,
@@ -5290,7 +5287,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-03T13:42:00",
@@ -5303,7 +5300,7 @@
           "Greyhound": "TUTA PEBBLES",
           "Trainer": "Cecil Druery",
           "Model Price": 13.17,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 12.74,
           "Fair Top 2 Odds": 6.46,
           "Fair Top 3 Odds": 4.1,
           "Raw Advantage (L)": -2,
@@ -5327,7 +5324,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-03T13:42:00",
@@ -5340,7 +5337,7 @@
           "Greyhound": "NOAKI WARRIOR",
           "Trainer": "Keith Boan",
           "Model Price": 20.42,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 36.77,
           "Fair Top 2 Odds": 9.21,
           "Fair Top 3 Odds": 5.45,
           "Raw Advantage (L)": -2.6,
@@ -5364,7 +5361,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-03T13:42:00",
@@ -5377,7 +5374,7 @@
           "Greyhound": "ZABDON NO DOUBT",
           "Trainer": "Barry Kitchener",
           "Model Price": 54.12,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 87.74,
           "Fair Top 2 Odds": 23.91,
           "Fair Top 3 Odds": 13.65,
           "Raw Advantage (L)": -4.1,
@@ -5401,7 +5398,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-03T14:02:00",
@@ -5414,7 +5411,7 @@
           "Greyhound": "GYPSY GIRL PEARL",
           "Trainer": "John Mccarthy",
           "Model Price": 3.72,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.82,
           "Fair Top 2 Odds": 1.97,
           "Fair Top 3 Odds": 1.41,
           "Raw Advantage (L)": 0,
@@ -5438,7 +5435,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-03T14:02:00",
@@ -5451,10 +5448,10 @@
           "Greyhound": "AFFILIATED",
           "Trainer": "Jamie Hosking",
           "Model Price": 4.29,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 3.18,
           "Fair Top 2 Odds": 2.19,
           "Fair Top 3 Odds": 1.52,
-          "Raw Advantage (L)": 0,
+          "Raw Advantage (L)": -0,
           "LS Rating": 104.7,
           "Median Rating L3": 104.6,
           "Median Rating L7": 104.3,
@@ -5475,7 +5472,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-03T14:02:00",
@@ -5488,7 +5485,7 @@
           "Greyhound": "BIONIC LANA",
           "Trainer": "Cyndie Elson",
           "Model Price": 6.11,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.63,
           "Fair Top 2 Odds": 2.99,
           "Fair Top 3 Odds": 1.94,
           "Raw Advantage (L)": -0.9,
@@ -5512,7 +5509,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-03T14:02:00",
@@ -5525,7 +5522,7 @@
           "Greyhound": "ELLIE UNLEASHED",
           "Trainer": "Gerard Bowe",
           "Model Price": 6.24,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.82,
           "Fair Top 2 Odds": 3,
           "Fair Top 3 Odds": 1.92,
           "Raw Advantage (L)": -0.7,
@@ -5549,7 +5546,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-03T14:02:00",
@@ -5562,7 +5559,7 @@
           "Greyhound": "FRONT MAN",
           "Trainer": "Paul Hennelly",
           "Model Price": 6.41,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.51,
           "Fair Top 2 Odds": 3.06,
           "Fair Top 3 Odds": 1.93,
           "Raw Advantage (L)": -0.7,
@@ -5586,7 +5583,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-03T14:02:00",
@@ -5599,7 +5596,7 @@
           "Greyhound": "BAREFOOT GYPSY",
           "Trainer": "Ashley Bock",
           "Model Price": 99.11,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 139.87,
           "Fair Top 2 Odds": 43.4,
           "Fair Top 3 Odds": 23.3,
           "Raw Advantage (L)": -4.7,
@@ -5623,7 +5620,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-03T14:02:00",
@@ -5636,7 +5633,7 @@
           "Greyhound": "ZABDON SKIPPY",
           "Trainer": "Barry Kitchener",
           "Model Price": 121.31,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 283.3,
           "Fair Top 2 Odds": 52.93,
           "Fair Top 3 Odds": 28.46,
           "Raw Advantage (L)": -4.9,
@@ -5660,7 +5657,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-03T14:17:00",
@@ -5673,7 +5670,7 @@
           "Greyhound": "BARDWELL",
           "Trainer": "Michael Edwards",
           "Model Price": 2.49,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 3.51,
           "Fair Top 2 Odds": 1.46,
           "Fair Top 3 Odds": 1.16,
           "Raw Advantage (L)": 0.7,
@@ -5697,7 +5694,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-03T14:17:00",
@@ -5710,7 +5707,7 @@
           "Greyhound": "LAKEVIEW LIBBY",
           "Trainer": "Darren Johnstone",
           "Model Price": 4.08,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 3.52,
           "Fair Top 2 Odds": 1.99,
           "Fair Top 3 Odds": 1.38,
           "Raw Advantage (L)": -0.7,
@@ -5734,7 +5731,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-03T14:17:00",
@@ -5747,7 +5744,7 @@
           "Greyhound": "WISE RICO",
           "Trainer": "Lyndall Brand",
           "Model Price": 5.63,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.92,
           "Fair Top 2 Odds": 2.56,
           "Fair Top 3 Odds": 1.6,
           "Raw Advantage (L)": -1.2,
@@ -5771,7 +5768,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-03T14:17:00",
@@ -5784,7 +5781,7 @@
           "Greyhound": "DYNAMIC BANJO",
           "Trainer": "Jodi Davis",
           "Model Price": 14.56,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 9.95,
           "Fair Top 2 Odds": 6.12,
           "Fair Top 3 Odds": 3.28,
           "Raw Advantage (L)": -2.3,
@@ -5808,7 +5805,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-03T14:17:00",
@@ -5821,7 +5818,7 @@
           "Greyhound": "IN YOUR HEAD",
           "Trainer": "Dean Clarson",
           "Model Price": 16.42,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 13.44,
           "Fair Top 2 Odds": 7.12,
           "Fair Top 3 Odds": 3.92,
           "Raw Advantage (L)": -2.4,
@@ -5845,7 +5842,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-03T14:17:00",
@@ -5858,7 +5855,7 @@
           "Greyhound": "HAYMET HARRY",
           "Trainer": "Marie Westwood",
           "Model Price": 42.59,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 29.12,
           "Fair Top 2 Odds": 17.35,
           "Fair Top 3 Odds": 8.85,
           "Raw Advantage (L)": -3.7,
@@ -5882,7 +5879,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-03T14:17:00",
@@ -5895,7 +5892,7 @@
           "Greyhound": "ZABDON BLONDIE",
           "Trainer": "Anne Clelland",
           "Model Price": 43.3,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 54.86,
           "Fair Top 2 Odds": 17.1,
           "Fair Top 3 Odds": 8.55,
           "Raw Advantage (L)": -4.1,
@@ -5919,7 +5916,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-03T14:34:00",
@@ -5932,7 +5929,7 @@
           "Greyhound": "SLIDE CITY",
           "Trainer": "Darren Russell",
           "Model Price": 1.53,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 1.68,
           "Fair Top 2 Odds": 1.13,
           "Fair Top 3 Odds": 1.05,
           "Raw Advantage (L)": 2.7,
@@ -5956,7 +5953,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-03T14:34:00",
@@ -5969,7 +5966,7 @@
           "Greyhound": "HAYDEN'S GIFT",
           "Trainer": "Gregory Stella",
           "Model Price": 10.03,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 7.16,
           "Fair Top 2 Odds": 3.09,
           "Fair Top 3 Odds": 1.8,
           "Raw Advantage (L)": -2.7,
@@ -5993,7 +5990,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-03T14:34:00",
@@ -6006,7 +6003,7 @@
           "Greyhound": "EGYPTIAN QUEEN",
           "Trainer": "Brett Hastie",
           "Model Price": 11.09,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 9.73,
           "Fair Top 2 Odds": 3.44,
           "Fair Top 3 Odds": 1.97,
           "Raw Advantage (L)": -2.7,
@@ -6030,7 +6027,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-03T14:34:00",
@@ -6043,7 +6040,7 @@
           "Greyhound": "KAIRANGA STORM",
           "Trainer": "Ella Cole",
           "Model Price": 18.65,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 16.04,
           "Fair Top 2 Odds": 5.8,
           "Fair Top 3 Odds": 3.06,
           "Raw Advantage (L)": -3.8,
@@ -6067,7 +6064,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-03T14:34:00",
@@ -6080,7 +6077,7 @@
           "Greyhound": "BORNEO TRAVELER",
           "Trainer": "Barbara Van Tienhoven",
           "Model Price": 20.73,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 19.03,
           "Fair Top 2 Odds": 6.53,
           "Fair Top 3 Odds": 3.45,
           "Raw Advantage (L)": -4.1,
@@ -6104,7 +6101,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-03T14:34:00",
@@ -6117,7 +6114,7 @@
           "Greyhound": "ROSE OF ALABAMA",
           "Trainer": "Peter Young",
           "Model Price": 29.15,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 32.23,
           "Fair Top 2 Odds": 8.62,
           "Fair Top 3 Odds": 4.26,
           "Raw Advantage (L)": -4.3,
@@ -6141,7 +6138,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-03T14:34:00",
@@ -6154,7 +6151,7 @@
           "Greyhound": "SILVERDALE",
           "Trainer": "Ashley Bock",
           "Model Price": 76.93,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 77.05,
           "Fair Top 2 Odds": 22.71,
           "Fair Top 3 Odds": 10.68,
           "Raw Advantage (L)": -5.4,
@@ -6178,7 +6175,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-03T14:34:00",
@@ -6191,7 +6188,7 @@
           "Greyhound": "HE IS DEMETRIOUS",
           "Trainer": "Ashley Bock",
           "Model Price": 189.5,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 374.63,
           "Fair Top 2 Odds": 58.82,
           "Fair Top 3 Odds": 27.78,
           "Raw Advantage (L)": -7.2,
@@ -6215,7 +6212,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-03T14:52:00",
@@ -6228,7 +6225,7 @@
           "Greyhound": "BLUE SERENADE",
           "Trainer": "Marie Westwood",
           "Model Price": 3.53,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4,
           "Fair Top 2 Odds": 1.89,
           "Fair Top 3 Odds": 1.38,
           "Raw Advantage (L)": 0.3,
@@ -6252,7 +6249,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-03T14:52:00",
@@ -6265,7 +6262,7 @@
           "Greyhound": "WHISKEY MY WAY",
           "Trainer": "Casey Dargusch",
           "Model Price": 3.83,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 2.8,
           "Fair Top 2 Odds": 2.01,
           "Fair Top 3 Odds": 1.44,
           "Raw Advantage (L)": -0.3,
@@ -6289,7 +6286,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-03T14:52:00",
@@ -6302,7 +6299,7 @@
           "Greyhound": "PROFESSOR STARR",
           "Trainer": "Ian Hoggan",
           "Model Price": 5.35,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.77,
           "Fair Top 2 Odds": 2.61,
           "Fair Top 3 Odds": 1.72,
           "Raw Advantage (L)": -0.7,
@@ -6326,7 +6323,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-03T14:52:00",
@@ -6339,7 +6336,7 @@
           "Greyhound": "BIG REVEAL",
           "Trainer": "Peter Young",
           "Model Price": 8.13,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 10.13,
           "Fair Top 2 Odds": 3.75,
           "Fair Top 3 Odds": 2.28,
           "Raw Advantage (L)": -1.1,
@@ -6363,7 +6360,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-03T14:52:00",
@@ -6376,7 +6373,7 @@
           "Greyhound": "TUTA MOMENT",
           "Trainer": "Lina Langmaid",
           "Model Price": 15.4,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 42.18,
           "Fair Top 2 Odds": 7.02,
           "Fair Top 3 Odds": 4.14,
           "Raw Advantage (L)": -2.3,
@@ -6400,7 +6397,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-03T14:52:00",
@@ -6413,7 +6410,7 @@
           "Greyhound": "SCOTCH YOU",
           "Trainer": "Rodney Power",
           "Model Price": 18.5,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 22.69,
           "Fair Top 2 Odds": 8.17,
           "Fair Top 3 Odds": 4.68,
           "Raw Advantage (L)": -2.3,
@@ -6437,7 +6434,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-03T14:52:00",
@@ -6450,7 +6447,7 @@
           "Greyhound": "EVEN MORE",
           "Trainer": "Matthew Heilbronn",
           "Model Price": 51.07,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 81.28,
           "Fair Top 2 Odds": 22.24,
           "Fair Top 3 Odds": 12.26,
           "Raw Advantage (L)": -3.7,
@@ -6474,7 +6471,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-03T14:52:00",
@@ -6487,7 +6484,7 @@
           "Greyhound": "MY CUJO",
           "Trainer": "Karen Tribe",
           "Model Price": 142.42,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 276.28,
           "Fair Top 2 Odds": 67,
           "Fair Top 3 Odds": 39.47,
           "Raw Advantage (L)": -5.6,
@@ -6511,7 +6508,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-03T15:09:00",
@@ -6524,7 +6521,7 @@
           "Greyhound": "WINTER WHISKY",
           "Trainer": "Allan Oshyer",
           "Model Price": 1.59,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 1.83,
           "Fair Top 2 Odds": 1.15,
           "Fair Top 3 Odds": 1.05,
           "Raw Advantage (L)": 2.4,
@@ -6548,7 +6545,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-03T15:09:00",
@@ -6561,7 +6558,7 @@
           "Greyhound": "SOLAR POWER",
           "Trainer": "Jamie Hosking",
           "Model Price": 9.06,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 7.58,
           "Fair Top 2 Odds": 3.02,
           "Fair Top 3 Odds": 1.81,
           "Raw Advantage (L)": -2.4,
@@ -6585,7 +6582,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-03T15:09:00",
@@ -6598,7 +6595,7 @@
           "Greyhound": "GOLDSTAR JOBLIN",
           "Trainer": "Riley Evans",
           "Model Price": 12.66,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 8.85,
           "Fair Top 2 Odds": 4.34,
           "Fair Top 3 Odds": 2.42,
           "Raw Advantage (L)": -3,
@@ -6622,7 +6619,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-03T15:09:00",
@@ -6635,7 +6632,7 @@
           "Greyhound": "WON'T BE LONG",
           "Trainer": "Peter Wilson",
           "Model Price": 14.09,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 8.6,
           "Fair Top 2 Odds": 4.42,
           "Fair Top 3 Odds": 2.41,
           "Raw Advantage (L)": -3.2,
@@ -6659,7 +6656,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-03T15:09:00",
@@ -6672,7 +6669,7 @@
           "Greyhound": "MARSUPILAMI",
           "Trainer": "Anthony Bloomer",
           "Model Price": 16.84,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 17.32,
           "Fair Top 2 Odds": 5.46,
           "Fair Top 3 Odds": 2.91,
           "Raw Advantage (L)": -3.4,
@@ -6696,7 +6693,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-03T15:09:00",
@@ -6709,7 +6706,7 @@
           "Greyhound": "LAKODA SKYLAH",
           "Trainer": "Cecil Druery",
           "Model Price": 37.26,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 66.59,
           "Fair Top 2 Odds": 11.89,
           "Fair Top 3 Odds": 5.98,
           "Raw Advantage (L)": -4.5,
@@ -6733,7 +6730,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-03T15:09:00",
@@ -6746,7 +6743,7 @@
           "Greyhound": "BIG NATE",
           "Trainer": "Gloria Falla",
           "Model Price": 48.8,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 62.37,
           "Fair Top 2 Odds": 15.73,
           "Fair Top 3 Odds": 7.74,
           "Raw Advantage (L)": -4.9,
@@ -6770,7 +6767,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-03T00:00:00",
+          "Date": "2026-09-03",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-03T15:09:00",
@@ -6783,7 +6780,7 @@
           "Greyhound": "FUTURE ETHICS",
           "Trainer": "Ashley Bock",
           "Model Price": 204.21,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 425.5,
           "Fair Top 2 Odds": 68.51,
           "Fair Top 3 Odds": 33.58,
           "Raw Advantage (L)": -7.3,
@@ -6807,7 +6804,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -6820,7 +6817,7 @@
           "Greyhound": "ZANE'S TRAIN BLKS",
           "Trainer": "Leslie Hughes (Giffard)",
           "Model Price": 3.19,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 3.9,
           "Fair Top 2 Odds": 1.78,
           "Fair Top 3 Odds": 1.33,
           "Raw Advantage (L)": 0.4,
@@ -6844,7 +6841,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -6857,7 +6854,7 @@
           "Greyhound": "WILDFIRE ROSE",
           "Trainer": "Dylan Sharp (Lara)",
           "Model Price": 4.11,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.05,
           "Fair Top 2 Odds": 2.11,
           "Fair Top 3 Odds": 1.46,
           "Raw Advantage (L)": -0.4,
@@ -6881,7 +6878,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -6894,7 +6891,7 @@
           "Greyhound": "LACRIMAL",
           "Trainer": "Kathryne Tabb (Lara)",
           "Model Price": 4.8,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 3,
           "Fair Top 2 Odds": 2.28,
           "Fair Top 3 Odds": 1.48,
           "Raw Advantage (L)": -0.6,
@@ -6918,7 +6915,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -6931,7 +6928,7 @@
           "Greyhound": "TAKE A RHINO",
           "Trainer": "Shane Jack (Dalmore)",
           "Model Price": 7.51,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 8.81,
           "Fair Top 2 Odds": 3.5,
           "Fair Top 3 Odds": 2.17,
           "Raw Advantage (L)": -1.7,
@@ -6955,7 +6952,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -6968,7 +6965,7 @@
           "Greyhound": "SURE PRIZE",
           "Trainer": "Brad Sands (Pakenham)",
           "Model Price": 18.3,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 36.07,
           "Fair Top 2 Odds": 7.85,
           "Fair Top 3 Odds": 4.45,
           "Raw Advantage (L)": -3.1,
@@ -6992,7 +6989,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -7005,7 +7002,7 @@
           "Greyhound": "SACRUM",
           "Trainer": "Mathew Tabb (Lara)",
           "Model Price": 21.12,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 14.11,
           "Fair Top 2 Odds": 8.89,
           "Fair Top 3 Odds": 4.93,
           "Raw Advantage (L)": -3.1,
@@ -7029,7 +7026,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -7042,7 +7039,7 @@
           "Greyhound": "LUMBAR",
           "Trainer": "Stephen Tabb (Lara)",
           "Model Price": 4.3,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 3.63,
           "Fair Top 2 Odds": 2.22,
           "Fair Top 3 Odds": 1.56,
           "Raw Advantage (L)": 0.2,
@@ -7066,7 +7063,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -7079,7 +7076,7 @@
           "Greyhound": "DOLLAR SCIENCE",
           "Trainer": "Jason Sharp (Lara)",
           "Model Price": 4.7,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.03,
           "Fair Top 2 Odds": 2.5,
           "Fair Top 3 Odds": 1.76,
           "Raw Advantage (L)": -0.2,
@@ -7103,7 +7100,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -7116,7 +7113,7 @@
           "Greyhound": "CAN'T TURN LEFT",
           "Trainer": "Laurence Scala (Eynesbury)",
           "Model Price": 4.97,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.13,
           "Fair Top 2 Odds": 2.55,
           "Fair Top 3 Odds": 1.75,
           "Raw Advantage (L)": -0.3,
@@ -7140,7 +7137,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -7153,7 +7150,7 @@
           "Greyhound": "PREPARATION",
           "Trainer": "Gary Mcmillan (Nambrok)",
           "Model Price": 6.62,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.69,
           "Fair Top 2 Odds": 3.27,
           "Fair Top 3 Odds": 2.16,
           "Raw Advantage (L)": -0.9,
@@ -7177,7 +7174,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -7190,7 +7187,7 @@
           "Greyhound": "TAKE A PANTHER",
           "Trainer": "Shane Jack (Dalmore)",
           "Model Price": 13.06,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 10.51,
           "Fair Top 2 Odds": 5.87,
           "Fair Top 3 Odds": 3.5,
           "Raw Advantage (L)": -1.6,
@@ -7214,7 +7211,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -7227,7 +7224,7 @@
           "Greyhound": "TAKE A VIOLET",
           "Trainer": "Shane Jack (Dalmore)",
           "Model Price": 13.76,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 26.64,
           "Fair Top 2 Odds": 6.18,
           "Fair Top 3 Odds": 3.72,
           "Raw Advantage (L)": -1.9,
@@ -7251,7 +7248,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -7264,7 +7261,7 @@
           "Greyhound": "NANDO BLAST",
           "Trainer": "Corey Jennings (Koo Wee Rup)",
           "Model Price": 18.74,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 20.52,
           "Fair Top 2 Odds": 8.39,
           "Fair Top 3 Odds": 4.92,
           "Raw Advantage (L)": -2.3,
@@ -7288,7 +7285,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:03PM",
@@ -7301,7 +7298,7 @@
           "Greyhound": "SPRING QUEUE",
           "Trainer": "Paul Cusack (Mount Cottrell)",
           "Model Price": 2.91,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 2.89,
           "Fair Top 2 Odds": 1.71,
           "Fair Top 3 Odds": 1.34,
           "Raw Advantage (L)": 1.3,
@@ -7325,7 +7322,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:03PM",
@@ -7338,7 +7335,7 @@
           "Greyhound": "BE COURAGEOUS",
           "Trainer": "Gary Mcmillan (Nambrok)",
           "Model Price": 5.94,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 7,
           "Fair Top 2 Odds": 2.87,
           "Fair Top 3 Odds": 1.92,
           "Raw Advantage (L)": -1.3,
@@ -7362,7 +7359,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:03PM",
@@ -7375,7 +7372,7 @@
           "Greyhound": "GUACAMOLE IRISH",
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 7.61,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 8.27,
           "Fair Top 2 Odds": 3.51,
           "Fair Top 3 Odds": 2.23,
           "Raw Advantage (L)": -1.5,
@@ -7399,7 +7396,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:03PM",
@@ -7412,7 +7409,7 @@
           "Greyhound": "LEAP OF FAITH",
           "Trainer": "Michael Chilcott (Heathcote)",
           "Model Price": 9.57,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.93,
           "Fair Top 2 Odds": 4.42,
           "Fair Top 3 Odds": 2.76,
           "Raw Advantage (L)": -1.7,
@@ -7436,7 +7433,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:03PM",
@@ -7449,7 +7446,7 @@
           "Greyhound": "HERD 'EM UP",
           "Trainer": "Kenneth Doidge (Murchison)",
           "Model Price": 10.75,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 10.82,
           "Fair Top 2 Odds": 4.93,
           "Fair Top 3 Odds": 3.03,
           "Raw Advantage (L)": -1.8,
@@ -7473,7 +7470,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:03PM",
@@ -7486,7 +7483,7 @@
           "Greyhound": "HAWK MAGIC",
           "Trainer": "Martyn Empson (Pakenham)",
           "Model Price": 12.58,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 13.72,
           "Fair Top 2 Odds": 5.65,
           "Fair Top 3 Odds": 3.42,
           "Raw Advantage (L)": -2.2,
@@ -7510,7 +7507,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:03PM",
@@ -7523,7 +7520,7 @@
           "Greyhound": "BE A BEAUTY",
           "Trainer": "Elaine Wood (Nambrok)",
           "Model Price": 15.9,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 19.12,
           "Fair Top 2 Odds": 7.09,
           "Fair Top 3 Odds": 4.22,
           "Raw Advantage (L)": -2.5,
@@ -7547,7 +7544,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:03PM",
@@ -7560,7 +7557,7 @@
           "Greyhound": "ICE SCULPTRESS",
           "Trainer": "Briana Robertson-leech (Smeaton)",
           "Model Price": 59.79,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 35.56,
           "Fair Top 2 Odds": 27.26,
           "Fair Top 3 Odds": 15.93,
           "Raw Advantage (L)": -4.2,
@@ -7584,7 +7581,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:22PM",
@@ -7597,7 +7594,7 @@
           "Greyhound": "HAPPY BUDDHA BLKS",
           "Trainer": "Julie Chilcott (Heathcote)",
           "Model Price": 5.35,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.27,
           "Fair Top 2 Odds": 2.85,
           "Fair Top 3 Odds": 2,
           "Raw Advantage (L)": 0.1,
@@ -7621,7 +7618,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:22PM",
@@ -7634,7 +7631,7 @@
           "Greyhound": "PINK MOSCATO",
           "Trainer": "Peter Barry (Yallourn North)",
           "Model Price": 5.72,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.8,
           "Fair Top 2 Odds": 2.9,
           "Fair Top 3 Odds": 1.98,
           "Raw Advantage (L)": -0.1,
@@ -7658,7 +7655,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:22PM",
@@ -7671,7 +7668,7 @@
           "Greyhound": "LAVERS GINNY",
           "Trainer": "Graeme Campbell (Drouin South)",
           "Model Price": 5.93,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.87,
           "Fair Top 2 Odds": 2.98,
           "Fair Top 3 Odds": 2.02,
           "Raw Advantage (L)": -0.2,
@@ -7695,7 +7692,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:22PM",
@@ -7708,7 +7705,7 @@
           "Greyhound": "BRUREE LUCK",
           "Trainer": "Edmund Dollery (Croydon)",
           "Model Price": 6.03,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.71,
           "Fair Top 2 Odds": 3.04,
           "Fair Top 3 Odds": 2.06,
           "Raw Advantage (L)": -0.3,
@@ -7732,7 +7729,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:22PM",
@@ -7745,7 +7742,7 @@
           "Greyhound": "TAKE A JAGUAR",
           "Trainer": "Shane Jack (Dalmore)",
           "Model Price": 10,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 10.25,
           "Fair Top 2 Odds": 4.77,
           "Fair Top 3 Odds": 3.03,
           "Raw Advantage (L)": -0.9,
@@ -7769,7 +7766,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:22PM",
@@ -7782,7 +7779,7 @@
           "Greyhound": "HEAD HUNTER",
           "Trainer": "Bernie Ender (St Albans)",
           "Model Price": 10.32,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 9.17,
           "Fair Top 2 Odds": 4.88,
           "Fair Top 3 Odds": 3.08,
           "Raw Advantage (L)": -1.1,
@@ -7806,7 +7803,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:22PM",
@@ -7819,7 +7816,7 @@
           "Greyhound": "BONE SHAKER",
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 11.29,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 16.7,
           "Fair Top 2 Odds": 5.35,
           "Fair Top 3 Odds": 3.37,
           "Raw Advantage (L)": -1.2,
@@ -7843,7 +7840,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:22PM",
@@ -7856,7 +7853,7 @@
           "Greyhound": "OCTOBER RAIN",
           "Trainer": "Constance Mcmillan (Drouin)",
           "Model Price": 55.16,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 62.62,
           "Fair Top 2 Odds": 26.46,
           "Fair Top 3 Odds": 16.1,
           "Raw Advantage (L)": -3.7,
@@ -7880,7 +7877,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:39PM",
@@ -7893,7 +7890,7 @@
           "Greyhound": "CHOJI AKIMICHI",
           "Trainer": "Patrick Newell (Wallan)",
           "Model Price": 6.61,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 8.06,
           "Fair Top 2 Odds": 3.26,
           "Fair Top 3 Odds": 2.18,
           "Raw Advantage (L)": -0.1,
@@ -7917,7 +7914,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:39PM",
@@ -7930,7 +7927,7 @@
           "Greyhound": "MAC AND CHEESE",
           "Trainer": "Jason Sharp (Lara)",
           "Model Price": 6.64,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.51,
           "Fair Top 2 Odds": 3.44,
           "Fair Top 3 Odds": 2.36,
           "Raw Advantage (L)": 0.1,
@@ -7954,7 +7951,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:39PM",
@@ -7967,7 +7964,7 @@
           "Greyhound": "PAW WALDO",
           "Trainer": "Alan Campbell (Drouin)",
           "Model Price": 7.7,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.91,
           "Fair Top 2 Odds": 3.75,
           "Fair Top 3 Odds": 2.48,
           "Raw Advantage (L)": -0.4,
@@ -7991,7 +7988,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:39PM",
@@ -8004,7 +8001,7 @@
           "Greyhound": "OUT OF ELITE",
           "Trainer": "Dylan Sharp (Lara)",
           "Model Price": 7.93,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 7.8,
           "Fair Top 2 Odds": 4.1,
           "Fair Top 3 Odds": 2.77,
           "Raw Advantage (L)": -0.4,
@@ -8028,7 +8025,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:39PM",
@@ -8041,7 +8038,7 @@
           "Greyhound": "SAILPLANE",
           "Trainer": "Paul Ellul (Noble Park North)",
           "Model Price": 8.26,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 9.46,
           "Fair Top 2 Odds": 4.02,
           "Fair Top 3 Odds": 2.65,
           "Raw Advantage (L)": -0.6,
@@ -8065,7 +8062,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:39PM",
@@ -8078,7 +8075,7 @@
           "Greyhound": "FOLLOW THAT TUNE",
           "Trainer": "Dylan Sharp (Lara)",
           "Model Price": 8.49,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 8.41,
           "Fair Top 2 Odds": 4.36,
           "Fair Top 3 Odds": 2.93,
           "Raw Advantage (L)": -0.5,
@@ -8102,7 +8099,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:39PM",
@@ -8115,7 +8112,7 @@
           "Greyhound": "SHIMA LITE",
           "Trainer": "Reginald Marriner (Lalor)",
           "Model Price": 9.73,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 9.69,
           "Fair Top 2 Odds": 4.73,
           "Fair Top 3 Odds": 3.07,
           "Raw Advantage (L)": -0.8,
@@ -8139,7 +8136,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:39PM",
@@ -8152,7 +8149,7 @@
           "Greyhound": "VERA JAKIT",
           "Trainer": "Andrew Wood (Nambrok)",
           "Model Price": 9.94,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 10.29,
           "Fair Top 2 Odds": 4.93,
           "Fair Top 3 Odds": 3.24,
           "Raw Advantage (L)": -0.7,
@@ -8176,7 +8173,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "12:54PM",
@@ -8189,7 +8186,7 @@
           "Greyhound": "YEAH YOU",
           "Trainer": "Steve Kaltsis (Shady Creek)",
           "Model Price": 3.17,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 2.65,
           "Fair Top 2 Odds": 1.74,
           "Fair Top 3 Odds": 1.32,
           "Raw Advantage (L)": 0.1,
@@ -8213,7 +8210,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "12:54PM",
@@ -8226,7 +8223,7 @@
           "Greyhound": "LUCA SKYWALKER",
           "Trainer": "Leslie Hughes (Giffard)",
           "Model Price": 3.62,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.16,
           "Fair Top 2 Odds": 1.92,
           "Fair Top 3 Odds": 1.41,
           "Raw Advantage (L)": -0.1,
@@ -8250,7 +8247,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "12:54PM",
@@ -8263,7 +8260,7 @@
           "Greyhound": "TRAJECTORY",
           "Trainer": "Geoff Smith (Mill Park)",
           "Model Price": 7.42,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.84,
           "Fair Top 2 Odds": 3.46,
           "Fair Top 3 Odds": 2.15,
           "Raw Advantage (L)": -1,
@@ -8287,7 +8284,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "12:54PM",
@@ -8300,7 +8297,7 @@
           "Greyhound": "WILD REBEL",
           "Trainer": "Troy Dorrington (Sunshine West)",
           "Model Price": 12.89,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 14.57,
           "Fair Top 2 Odds": 5.84,
           "Fair Top 3 Odds": 3.48,
           "Raw Advantage (L)": -1.9,
@@ -8324,7 +8321,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "12:54PM",
@@ -8337,7 +8334,7 @@
           "Greyhound": "ZINZAN PAPER",
           "Trainer": "Derek Faulknall (Elphinstone)",
           "Model Price": 14.88,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 11.42,
           "Fair Top 2 Odds": 6.69,
           "Fair Top 3 Odds": 3.9,
           "Raw Advantage (L)": -2,
@@ -8361,7 +8358,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "12:54PM",
@@ -8374,7 +8371,7 @@
           "Greyhound": "IRINKA ASHLEY",
           "Trainer": "Marlene Schmidt (Devon Meadows)",
           "Model Price": 18.55,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 16.27,
           "Fair Top 2 Odds": 7.99,
           "Fair Top 3 Odds": 4.5,
           "Raw Advantage (L)": -2.3,
@@ -8398,7 +8395,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "12:54PM",
@@ -8411,7 +8408,7 @@
           "Greyhound": "SPECIAL PLAYERS",
           "Trainer": "Ronald Dunne (St Albans)",
           "Model Price": 19.14,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 19.84,
           "Fair Top 2 Odds": 8.44,
           "Fair Top 3 Odds": 4.84,
           "Raw Advantage (L)": -2.5,
@@ -8435,7 +8432,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "12:54PM",
@@ -8448,7 +8445,7 @@
           "Greyhound": "RUPTURED",
           "Trainer": "Corey Jennings (Koo Wee Rup)",
           "Model Price": 44.09,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 49.05,
           "Fair Top 2 Odds": 19.65,
           "Fair Top 3 Odds": 11.09,
           "Raw Advantage (L)": -3.7,
@@ -8472,7 +8469,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:14PM",
@@ -8485,7 +8482,7 @@
           "Greyhound": "BE A SECRET",
           "Trainer": "Elaine Wood (Nambrok)",
           "Model Price": 3.44,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.97,
           "Fair Top 2 Odds": 1.85,
           "Fair Top 3 Odds": 1.36,
           "Raw Advantage (L)": 0.2,
@@ -8509,7 +8506,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:14PM",
@@ -8522,7 +8519,7 @@
           "Greyhound": "HIGHGATE FRANKY BLKS",
           "Trainer": "Billy Galea (Rockbank)",
           "Model Price": 4.75,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 3.58,
           "Fair Top 2 Odds": 2.43,
           "Fair Top 3 Odds": 1.65,
           "Raw Advantage (L)": -0.2,
@@ -8546,7 +8543,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:14PM",
@@ -8559,7 +8556,7 @@
           "Greyhound": "DARNUM BEAR",
           "Trainer": "Peter Handley (Darnum)",
           "Model Price": 5.18,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.92,
           "Fair Top 2 Odds": 2.6,
           "Fair Top 3 Odds": 1.74,
           "Raw Advantage (L)": -0.3,
@@ -8583,7 +8580,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:14PM",
@@ -8596,7 +8593,7 @@
           "Greyhound": "SAFELY",
           "Trainer": "Elaine Wood (Nambrok)",
           "Model Price": 5.4,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.99,
           "Fair Top 2 Odds": 2.57,
           "Fair Top 3 Odds": 1.68,
           "Raw Advantage (L)": -0.3,
@@ -8620,7 +8617,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:14PM",
@@ -8633,7 +8630,7 @@
           "Greyhound": "MYSTIC PHARAOH",
           "Trainer": "Billy Galea (Rockbank)",
           "Model Price": 15.11,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 10.4,
           "Fair Top 2 Odds": 6.88,
           "Fair Top 3 Odds": 4.04,
           "Raw Advantage (L)": -2,
@@ -8657,7 +8654,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:14PM",
@@ -8670,7 +8667,7 @@
           "Greyhound": "RINGSTED",
           "Trainer": "Russell Edwards (Devon Meadows)",
           "Model Price": 33.6,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 40.57,
           "Fair Top 2 Odds": 14.19,
           "Fair Top 3 Odds": 7.57,
           "Raw Advantage (L)": -3.1,
@@ -8694,7 +8691,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:14PM",
@@ -8707,7 +8704,7 @@
           "Greyhound": "RADIATE",
           "Trainer": "Cooper Hayes (Mill Park)",
           "Model Price": 40.78,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 15.95,
           "Fair Top 2 Odds": 17.18,
           "Fair Top 3 Odds": 9.2,
           "Raw Advantage (L)": -3.5,
@@ -8731,7 +8728,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:42PM",
@@ -8744,7 +8741,7 @@
           "Greyhound": "FLYING NARDO",
           "Trainer": "Mark Tung (Smiths Gully)",
           "Model Price": 2.05,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 2.22,
           "Fair Top 2 Odds": 1.35,
           "Fair Top 3 Odds": 1.15,
           "Raw Advantage (L)": 2,
@@ -8768,7 +8765,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:42PM",
@@ -8781,7 +8778,7 @@
           "Greyhound": "MISS CHARMED",
           "Trainer": "Paul Martin (Chirnside Park)",
           "Model Price": 7.22,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.18,
           "Fair Top 2 Odds": 2.98,
           "Fair Top 3 Odds": 1.89,
           "Raw Advantage (L)": -2,
@@ -8805,7 +8802,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:42PM",
@@ -8818,7 +8815,7 @@
           "Greyhound": "BARKING BLUE",
           "Trainer": "Frank Toth (Pakenham)",
           "Model Price": 9.92,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 9.63,
           "Fair Top 2 Odds": 4.1,
           "Fair Top 3 Odds": 2.46,
           "Raw Advantage (L)": -2.6,
@@ -8842,7 +8839,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:42PM",
@@ -8855,7 +8852,7 @@
           "Greyhound": "ZINZAN PLODDER",
           "Trainer": "Derek Faulknall (Elphinstone)",
           "Model Price": 13.34,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 14.18,
           "Fair Top 2 Odds": 5.33,
           "Fair Top 3 Odds": 3.07,
           "Raw Advantage (L)": -2.9,
@@ -8879,7 +8876,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:42PM",
@@ -8892,7 +8889,7 @@
           "Greyhound": "BUFFALO COWBOY",
           "Trainer": "Paul Cusack (Mount Cottrell)",
           "Model Price": 14.44,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 11.6,
           "Fair Top 2 Odds": 5.77,
           "Fair Top 3 Odds": 3.3,
           "Raw Advantage (L)": -2.9,
@@ -8916,7 +8913,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:42PM",
@@ -8929,7 +8926,7 @@
           "Greyhound": "SOMERTON WILLOW",
           "Trainer": "Leslie Hughes (Giffard)",
           "Model Price": 16.93,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 14.66,
           "Fair Top 2 Odds": 6.87,
           "Fair Top 3 Odds": 3.92,
           "Raw Advantage (L)": -3.2,
@@ -8953,7 +8950,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:42PM",
@@ -8966,7 +8963,7 @@
           "Greyhound": "DEVON DAISIES",
           "Trainer": "Tracey Empson (Pakenham)",
           "Model Price": 20.45,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 31.1,
           "Fair Top 2 Odds": 8.13,
           "Fair Top 3 Odds": 4.54,
           "Raw Advantage (L)": -3.5,
@@ -8990,7 +8987,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:42PM",
@@ -9003,7 +9000,7 @@
           "Greyhound": "DOONGALLA BOY",
           "Trainer": "Dennis Langley (Pakenham)",
           "Model Price": 50.95,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 37.71,
           "Fair Top 2 Odds": 20,
           "Fair Top 3 Odds": 10.77,
           "Raw Advantage (L)": -4.6,
@@ -9027,7 +9024,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "1:57PM",
@@ -9040,7 +9037,7 @@
           "Greyhound": "ALWAYS SPEEDY",
           "Trainer": "Jeff Gorgioski (Stanhope)",
           "Model Price": 3.14,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 2.47,
           "Fair Top 2 Odds": 1.75,
           "Fair Top 3 Odds": 1.31,
           "Raw Advantage (L)": 0.8,
@@ -9064,7 +9061,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "1:57PM",
@@ -9077,7 +9074,7 @@
           "Greyhound": "ESPECIAL KIANI",
           "Trainer": "Peter Knott (Carnegie)",
           "Model Price": 5.1,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.56,
           "Fair Top 2 Odds": 2.51,
           "Fair Top 3 Odds": 1.68,
           "Raw Advantage (L)": -0.8,
@@ -9101,7 +9098,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "1:57PM",
@@ -9114,7 +9111,7 @@
           "Greyhound": "BOYS NIGHT",
           "Trainer": "Colin Baker (Lara)",
           "Model Price": 6.18,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 7.62,
           "Fair Top 2 Odds": 2.95,
           "Fair Top 3 Odds": 1.92,
           "Raw Advantage (L)": -1.3,
@@ -9138,7 +9135,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "1:57PM",
@@ -9151,7 +9148,7 @@
           "Greyhound": "FRIDA SCIENCE",
           "Trainer": "Jason Sharp (Lara)",
           "Model Price": 7.24,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 7.38,
           "Fair Top 2 Odds": 3.55,
           "Fair Top 3 Odds": 2.28,
           "Raw Advantage (L)": -1.2,
@@ -9175,7 +9172,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "1:57PM",
@@ -9188,7 +9185,7 @@
           "Greyhound": "JAZZ BAND",
           "Trainer": "Graeme Campbell (Drouin South)",
           "Model Price": 8.52,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 7.75,
           "Fair Top 2 Odds": 3.94,
           "Fair Top 3 Odds": 2.41,
           "Raw Advantage (L)": -1.4,
@@ -9212,7 +9209,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "1:57PM",
@@ -9225,7 +9222,7 @@
           "Greyhound": "EXTREME DASH",
           "Trainer": "Scott Millard (Kyneton)",
           "Model Price": 14.71,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 21.27,
           "Fair Top 2 Odds": 6.49,
           "Fair Top 3 Odds": 3.73,
           "Raw Advantage (L)": -2.2,
@@ -9249,7 +9246,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:22PM",
@@ -9262,7 +9259,7 @@
           "Greyhound": "ZINZAN SAMMY",
           "Trainer": "Derek Faulknall (Elphinstone)",
           "Model Price": 3.57,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.45,
           "Fair Top 2 Odds": 1.97,
           "Fair Top 3 Odds": 1.45,
           "Raw Advantage (L)": 0.6,
@@ -9286,7 +9283,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:22PM",
@@ -9299,7 +9296,7 @@
           "Greyhound": "ASCEND HIBISCUS",
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 5.22,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 3.62,
           "Fair Top 2 Odds": 2.56,
           "Fair Top 3 Odds": 1.73,
           "Raw Advantage (L)": -0.6,
@@ -9323,7 +9320,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:22PM",
@@ -9336,7 +9333,7 @@
           "Greyhound": "BE A SHADOW",
           "Trainer": "Elaine Wood (Nambrok)",
           "Model Price": 5.58,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 7.16,
           "Fair Top 2 Odds": 2.8,
           "Fair Top 3 Odds": 1.88,
           "Raw Advantage (L)": -0.9,
@@ -9360,7 +9357,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:22PM",
@@ -9373,7 +9370,7 @@
           "Greyhound": "GO FISH",
           "Trainer": "Julie Chilcott (Heathcote)",
           "Model Price": 7.68,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 7.15,
           "Fair Top 2 Odds": 3.58,
           "Fair Top 3 Odds": 2.24,
           "Raw Advantage (L)": -1.1,
@@ -9397,7 +9394,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:22PM",
@@ -9410,7 +9407,7 @@
           "Greyhound": "TOUCH OF SIN",
           "Trainer": "Jason Sharp (Lara)",
           "Model Price": 10.61,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 10.56,
           "Fair Top 2 Odds": 5.15,
           "Fair Top 3 Odds": 3.23,
           "Raw Advantage (L)": -1.6,
@@ -9434,7 +9431,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:22PM",
@@ -9447,7 +9444,7 @@
           "Greyhound": "BULLSEYE BOB",
           "Trainer": "Scott Millard (Kyneton)",
           "Model Price": 12.25,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 15.62,
           "Fair Top 2 Odds": 5.9,
           "Fair Top 3 Odds": 3.72,
           "Raw Advantage (L)": -2.2,
@@ -9471,7 +9468,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:22PM",
@@ -9484,7 +9481,7 @@
           "Greyhound": "SAILAWAY GIN",
           "Trainer": "Steve Kaltsis (Shady Creek)",
           "Model Price": 23.23,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 16.38,
           "Fair Top 2 Odds": 9.96,
           "Fair Top 3 Odds": 5.69,
           "Raw Advantage (L)": -2.8,
@@ -9508,7 +9505,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:44PM",
@@ -9521,7 +9518,7 @@
           "Greyhound": "POWER AFFECT",
           "Trainer": "Belle Tabb (Lara)",
           "Model Price": 3.98,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 5.03,
           "Fair Top 2 Odds": 2.15,
           "Fair Top 3 Odds": 1.56,
           "Raw Advantage (L)": 0.5,
@@ -9545,7 +9542,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:44PM",
@@ -9558,7 +9555,7 @@
           "Greyhound": "HERBIE",
           "Trainer": "Marlene Schmidt (Devon Meadows)",
           "Model Price": 4.96,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 4.92,
           "Fair Top 2 Odds": 2.55,
           "Fair Top 3 Odds": 1.78,
           "Raw Advantage (L)": -0.5,
@@ -9582,7 +9579,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:44PM",
@@ -9595,7 +9592,7 @@
           "Greyhound": "CHEETAH MOON",
           "Trainer": "Colin Baker (Lara)",
           "Model Price": 5.84,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.33,
           "Fair Top 2 Odds": 2.94,
           "Fair Top 3 Odds": 1.99,
           "Raw Advantage (L)": -0.7,
@@ -9619,7 +9616,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:44PM",
@@ -9632,7 +9629,7 @@
           "Greyhound": "FERREL'S LAW",
           "Trainer": "Elaine Wood (Nambrok)",
           "Model Price": 8.94,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 6.14,
           "Fair Top 2 Odds": 4.26,
           "Fair Top 3 Odds": 2.71,
           "Raw Advantage (L)": -1.1,
@@ -9656,7 +9653,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:44PM",
@@ -9669,7 +9666,7 @@
           "Greyhound": "MR OTTO",
           "Trainer": "Carl Haas (Tynong)",
           "Model Price": 10.57,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 11.24,
           "Fair Top 2 Odds": 5.03,
           "Fair Top 3 Odds": 3.17,
           "Raw Advantage (L)": -1.4,
@@ -9693,7 +9690,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:44PM",
@@ -9706,7 +9703,7 @@
           "Greyhound": "SODA TURKEY",
           "Trainer": "Gary Mcmillan (Nambrok)",
           "Model Price": 16.66,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 16.22,
           "Fair Top 2 Odds": 7.57,
           "Fair Top 3 Odds": 4.6,
           "Raw Advantage (L)": -2.2,
@@ -9730,7 +9727,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:44PM",
@@ -9743,7 +9740,7 @@
           "Greyhound": "THERMAL IGNITION",
           "Trainer": "Kenneth Doidge (Murchison)",
           "Model Price": 16.8,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 19.28,
           "Fair Top 2 Odds": 7.71,
           "Fair Top 3 Odds": 4.67,
           "Raw Advantage (L)": -2.3,
@@ -9767,7 +9764,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-04T00:00:00",
+          "Date": "2026-09-04",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:44PM",
@@ -9780,7 +9777,7 @@
           "Greyhound": "ONE KNEE NONI",
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 20.19,
-          "SP-Informed Price": null,
+          "SP-Informed Price": 13.39,
           "Fair Top 2 Odds": 9.26,
           "Fair Top 3 Odds": 5.56,
           "Raw Advantage (L)": -2.4,
@@ -19913,6 +19910,20 @@
           "league": "afl"
         }
       ]
+    },
+    {
+      "file": "AFL_weekly_betting_report.html",
+      "model": "AFL round summary",
+      "sport": "AFL",
+      "extension": "html",
+      "modified": "2026-06-29 20:41:13",
+      "size": 1445157,
+      "fileUrl": "/files/AFL_weekly_betting_report.html?v=1782729673-1445157",
+      "sheets": [],
+      "defaultSheet": "",
+      "columns": [],
+      "rowCount": 0,
+      "rows": []
     }
   ]
 }
