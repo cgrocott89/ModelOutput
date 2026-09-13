@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13 13:42:31",
+  "generatedAt": "2026-09-13 18:20:08",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -968,9 +968,9 @@
       "model": "NBL bet recommendations",
       "sport": "NBL",
       "extension": "csv",
-      "modified": "2026-09-13 13:27:29",
+      "modified": "2026-09-13 18:17:57",
       "size": 136,
-      "fileUrl": "/files/NBL_bet_recommendations.csv?v=1789270049-136",
+      "fileUrl": "/files/NBL_bet_recommendations.csv?v=1789287477-136",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -986,7 +986,7 @@
           "League": "NBL",
           "Status": "NO_QUALIFYING_RECOMMENDATIONS",
           "As_Of": "2026-09-13",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC",
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC",
           "Model_Version": "basketball_2026"
         }
       ]
@@ -996,9 +996,9 @@
       "model": "NBL player projections",
       "sport": "NBL",
       "extension": "csv",
-      "modified": "2026-09-13 13:27:29",
+      "modified": "2026-09-13 18:17:57",
       "size": 120101,
-      "fileUrl": "/files/NBL_player_projections.csv?v=1789270049-120101",
+      "fileUrl": "/files/NBL_player_projections.csv?v=1789287477-120101",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -1049,7 +1049,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1073,7 +1073,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1097,7 +1097,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1121,7 +1121,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1145,7 +1145,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1169,7 +1169,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1193,7 +1193,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1217,7 +1217,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1241,7 +1241,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1265,7 +1265,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1289,7 +1289,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1313,7 +1313,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1337,7 +1337,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1361,7 +1361,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1385,7 +1385,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1409,7 +1409,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1433,7 +1433,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1457,7 +1457,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1481,7 +1481,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1505,7 +1505,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1529,7 +1529,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1553,7 +1553,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1577,7 +1577,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1601,7 +1601,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1625,7 +1625,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1649,7 +1649,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1673,7 +1673,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1697,7 +1697,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1721,7 +1721,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1745,7 +1745,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1769,7 +1769,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1793,7 +1793,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1817,7 +1817,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1841,7 +1841,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1865,7 +1865,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1889,7 +1889,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1913,7 +1913,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1937,7 +1937,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1961,7 +1961,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -1985,7 +1985,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2009,7 +2009,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2033,7 +2033,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2057,7 +2057,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2081,7 +2081,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2105,7 +2105,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2129,7 +2129,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2153,7 +2153,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2177,7 +2177,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2201,7 +2201,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2225,7 +2225,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2249,7 +2249,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2273,7 +2273,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2297,7 +2297,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2321,7 +2321,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2345,7 +2345,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2369,7 +2369,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2393,7 +2393,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2417,7 +2417,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2441,7 +2441,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2465,7 +2465,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2489,7 +2489,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2513,7 +2513,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2537,7 +2537,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2561,7 +2561,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2585,7 +2585,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2609,7 +2609,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2633,7 +2633,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2657,7 +2657,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2681,7 +2681,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2705,7 +2705,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2729,7 +2729,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2753,7 +2753,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2777,7 +2777,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2801,7 +2801,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2825,7 +2825,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2849,7 +2849,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2873,7 +2873,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2897,7 +2897,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2921,7 +2921,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2945,7 +2945,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2969,7 +2969,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -2993,7 +2993,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3017,7 +3017,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3041,7 +3041,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3065,7 +3065,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3089,7 +3089,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3113,7 +3113,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3137,7 +3137,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3161,7 +3161,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3185,7 +3185,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3209,7 +3209,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3233,7 +3233,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3257,7 +3257,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3281,7 +3281,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3305,7 +3305,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3329,7 +3329,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3353,7 +3353,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3377,7 +3377,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3401,7 +3401,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3425,7 +3425,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3449,7 +3449,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3473,7 +3473,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3497,7 +3497,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3521,7 +3521,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3545,7 +3545,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3569,7 +3569,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3593,7 +3593,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3617,7 +3617,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3641,7 +3641,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3665,7 +3665,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3689,7 +3689,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3713,7 +3713,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3737,7 +3737,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3761,7 +3761,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3785,7 +3785,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3809,7 +3809,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3833,7 +3833,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3857,7 +3857,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3881,7 +3881,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3905,7 +3905,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3929,7 +3929,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3953,7 +3953,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -3977,7 +3977,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4001,7 +4001,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4025,7 +4025,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4049,7 +4049,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4073,7 +4073,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4097,7 +4097,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4121,7 +4121,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4145,7 +4145,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4169,7 +4169,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4193,7 +4193,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4217,7 +4217,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4241,7 +4241,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4265,7 +4265,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4289,7 +4289,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4313,7 +4313,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4337,7 +4337,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4361,7 +4361,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4385,7 +4385,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4409,7 +4409,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4433,7 +4433,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4457,7 +4457,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4481,7 +4481,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4505,7 +4505,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4529,7 +4529,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4553,7 +4553,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4577,7 +4577,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4601,7 +4601,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4625,7 +4625,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4649,7 +4649,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4673,7 +4673,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4697,7 +4697,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4721,7 +4721,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4745,7 +4745,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4769,7 +4769,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4793,7 +4793,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4817,7 +4817,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4841,7 +4841,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4865,7 +4865,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4889,7 +4889,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4913,7 +4913,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4937,7 +4937,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4961,7 +4961,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -4985,7 +4985,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5009,7 +5009,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5033,7 +5033,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5057,7 +5057,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5081,7 +5081,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5105,7 +5105,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5129,7 +5129,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5153,7 +5153,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5177,7 +5177,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5201,7 +5201,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5225,7 +5225,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5249,7 +5249,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5273,7 +5273,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5297,7 +5297,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5321,7 +5321,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5345,7 +5345,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5369,7 +5369,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5393,7 +5393,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5417,7 +5417,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5441,7 +5441,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5465,7 +5465,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5489,7 +5489,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5513,7 +5513,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5537,7 +5537,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5561,7 +5561,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5585,7 +5585,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5609,7 +5609,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5633,7 +5633,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5657,7 +5657,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5681,7 +5681,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5705,7 +5705,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5729,7 +5729,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5753,7 +5753,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5777,7 +5777,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5801,7 +5801,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5825,7 +5825,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5849,7 +5849,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5873,7 +5873,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5897,7 +5897,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5921,7 +5921,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5945,7 +5945,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5969,7 +5969,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -5993,7 +5993,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6017,7 +6017,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6041,7 +6041,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6065,7 +6065,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6089,7 +6089,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6113,7 +6113,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6137,7 +6137,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6161,7 +6161,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6185,7 +6185,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6209,7 +6209,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6233,7 +6233,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6257,7 +6257,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6281,7 +6281,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6305,7 +6305,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6329,7 +6329,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6353,7 +6353,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6377,7 +6377,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6401,7 +6401,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6425,7 +6425,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6449,7 +6449,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6473,7 +6473,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6497,7 +6497,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6521,7 +6521,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6545,7 +6545,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6569,7 +6569,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6593,7 +6593,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6617,7 +6617,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6641,7 +6641,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6665,7 +6665,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6689,7 +6689,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6713,7 +6713,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6737,7 +6737,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6761,7 +6761,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6785,7 +6785,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6809,7 +6809,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6833,7 +6833,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6857,7 +6857,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6881,7 +6881,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6905,7 +6905,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6929,7 +6929,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6953,7 +6953,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -6977,7 +6977,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7001,7 +7001,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7025,7 +7025,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7049,7 +7049,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7073,7 +7073,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7097,7 +7097,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7121,7 +7121,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7145,7 +7145,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7169,7 +7169,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7193,7 +7193,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7217,7 +7217,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7241,7 +7241,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7265,7 +7265,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7289,7 +7289,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7313,7 +7313,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7337,7 +7337,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7361,7 +7361,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7385,7 +7385,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7409,7 +7409,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7433,7 +7433,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7457,7 +7457,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7481,7 +7481,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7505,7 +7505,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7529,7 +7529,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7553,7 +7553,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7577,7 +7577,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7601,7 +7601,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7625,7 +7625,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7649,7 +7649,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7673,7 +7673,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7697,7 +7697,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7721,7 +7721,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7745,7 +7745,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7769,7 +7769,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7793,7 +7793,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7817,7 +7817,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7841,7 +7841,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7865,7 +7865,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7889,7 +7889,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7913,7 +7913,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7937,7 +7937,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7961,7 +7961,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -7985,7 +7985,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8009,7 +8009,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8033,7 +8033,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8057,7 +8057,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8081,7 +8081,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8105,7 +8105,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8129,7 +8129,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8153,7 +8153,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8177,7 +8177,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8201,7 +8201,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8225,7 +8225,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8249,7 +8249,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8273,7 +8273,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8297,7 +8297,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8321,7 +8321,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8345,7 +8345,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8369,7 +8369,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8393,7 +8393,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8417,7 +8417,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8441,7 +8441,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8465,7 +8465,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8489,7 +8489,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8513,7 +8513,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8537,7 +8537,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8561,7 +8561,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8585,7 +8585,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8609,7 +8609,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8633,7 +8633,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8657,7 +8657,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8681,7 +8681,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8705,7 +8705,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8729,7 +8729,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8753,7 +8753,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8777,7 +8777,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8801,7 +8801,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8825,7 +8825,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8849,7 +8849,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8873,7 +8873,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8897,7 +8897,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8921,7 +8921,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8945,7 +8945,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8969,7 +8969,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -8993,7 +8993,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -9017,7 +9017,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -9041,7 +9041,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -9065,7 +9065,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -9089,7 +9089,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -9113,7 +9113,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -9137,7 +9137,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -9161,7 +9161,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -9185,7 +9185,7 @@
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "player_rate_shrunk_v1",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         }
       ]
     },
@@ -9194,9 +9194,9 @@
       "model": "NBL upcoming projections",
       "sport": "NBL",
       "extension": "csv",
-      "modified": "2026-09-13 13:27:29",
-      "size": 1946,
-      "fileUrl": "/files/NBL_upcoming_projections.csv?v=1789270049-1946",
+      "modified": "2026-09-13 18:17:57",
+      "size": 2076,
+      "fileUrl": "/files/NBL_upcoming_projections.csv?v=1789287477-2076",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -9212,6 +9212,8 @@
         "Scenario_Out_Total",
         "Q1_Home_Line",
         "Q1_Total",
+        "Q2_Home_Line",
+        "Q2_Total",
         "H1_Home_Line",
         "H1_Total",
         "Q1_Margin_SD",
@@ -9241,23 +9243,25 @@
           "Full_Total": 181.1165,
           "Scenario_Out_Home_Line": 4.6344,
           "Scenario_Out_Total": 181.1165,
-          "Q1_Home_Line": 1.1823,
-          "Q1_Total": 46.2035,
-          "H1_Home_Line": 2.3568,
-          "H1_Total": 95.1053,
-          "Q1_Margin_SD": 8.3154,
-          "Q1_Total_SD": 8.5252,
-          "H1_Margin_SD": 11.5752,
-          "H1_Total_SD": 12.377,
+          "Q1_Home_Line": 1.1902,
+          "Q1_Total": 46.5154,
+          "Q2_Home_Line": 1.1791,
+          "Q2_Total": 48.2892,
+          "H1_Home_Line": 2.3693,
+          "H1_Total": 94.8046,
+          "Q1_Margin_SD": 8.0267,
+          "Q1_Total_SD": 8.8871,
+          "H1_Margin_SD": 11.5805,
+          "H1_Total_SD": 12.1836,
           "Q1_Period_Model": "margin:league;total:league",
           "H1_Period_Model": "margin:league;total:team",
-          "Period_Training_Games": 208,
+          "Period_Training_Games": 200,
           "Period_Training_Through": "2025-03-23",
           "Player_Training_Through": "2026-04-05",
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "incumbent_spm_gated",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -9270,23 +9274,25 @@
           "Full_Total": 190.4921,
           "Scenario_Out_Home_Line": -1.1965,
           "Scenario_Out_Total": 190.4921,
-          "Q1_Home_Line": -0.2932,
-          "Q1_Total": 48.5952,
-          "H1_Home_Line": -0.5846,
-          "H1_Total": 99.4768,
-          "Q1_Margin_SD": 8.3154,
-          "Q1_Total_SD": 8.5252,
-          "H1_Margin_SD": 11.5752,
-          "H1_Total_SD": 12.377,
+          "Q1_Home_Line": -0.2952,
+          "Q1_Total": 48.9232,
+          "Q2_Home_Line": -0.2924,
+          "Q2_Total": 50.5842,
+          "H1_Home_Line": -0.5877,
+          "H1_Total": 99.5074,
+          "Q1_Margin_SD": 8.0267,
+          "Q1_Total_SD": 8.8871,
+          "H1_Margin_SD": 11.5805,
+          "H1_Total_SD": 12.1836,
           "Q1_Period_Model": "margin:league;total:league",
           "H1_Period_Model": "margin:league;total:team",
-          "Period_Training_Games": 208,
+          "Period_Training_Games": 200,
           "Period_Training_Through": "2025-03-23",
           "Player_Training_Through": "2026-04-05",
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "incumbent_spm_gated",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         },
         {
           "League": "NBL",
@@ -9299,23 +9305,25 @@
           "Full_Total": 187.2129,
           "Scenario_Out_Home_Line": -19.2306,
           "Scenario_Out_Total": 187.2129,
-          "Q1_Home_Line": -5.2639,
-          "Q1_Total": 47.7587,
-          "H1_Home_Line": -10.4934,
-          "H1_Total": 96.019,
-          "Q1_Margin_SD": 8.3154,
-          "Q1_Total_SD": 8.5252,
-          "H1_Margin_SD": 11.5752,
-          "H1_Total_SD": 12.377,
+          "Q1_Home_Line": -5.2994,
+          "Q1_Total": 48.0811,
+          "Q2_Home_Line": -5.2496,
+          "Q2_Total": 47.8574,
+          "H1_Home_Line": -10.549,
+          "H1_Total": 95.9385,
+          "Q1_Margin_SD": 8.0267,
+          "Q1_Total_SD": 8.8871,
+          "H1_Margin_SD": 11.5805,
+          "H1_Total_SD": 12.1836,
           "Q1_Period_Model": "margin:league;total:league",
           "H1_Period_Model": "margin:league;total:team",
-          "Period_Training_Games": 208,
+          "Period_Training_Games": 200,
           "Period_Training_Through": "2025-03-23",
           "Player_Training_Through": "2026-04-05",
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Model_Version": "incumbent_spm_gated",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC"
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC"
         }
       ]
     },
@@ -34257,9 +34265,9 @@
       "model": "WNBL bet recommendations",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-09-13 13:27:29",
+      "modified": "2026-09-13 18:17:57",
       "size": 134,
-      "fileUrl": "/files/WNBL_bet_recommendations.csv?v=1789270049-134",
+      "fileUrl": "/files/WNBL_bet_recommendations.csv?v=1789287477-134",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -34275,7 +34283,7 @@
           "League": "WNBL",
           "Status": "NO_REGULAR_SEASON_FIXTURES",
           "As_Of": "2026-09-13",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC",
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC",
           "Model_Version": "basketball_2026"
         }
       ]
@@ -34285,9 +34293,9 @@
       "model": "WNBL player projections",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-09-13 13:27:29",
+      "modified": "2026-09-13 18:17:57",
       "size": 134,
-      "fileUrl": "/files/WNBL_player_projections.csv?v=1789270049-134",
+      "fileUrl": "/files/WNBL_player_projections.csv?v=1789287477-134",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -34303,7 +34311,7 @@
           "League": "WNBL",
           "Status": "NO_REGULAR_SEASON_FIXTURES",
           "As_Of": "2026-09-13",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC",
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC",
           "Model_Version": "basketball_2026"
         }
       ]
@@ -34313,9 +34321,9 @@
       "model": "WNBL upcoming projections",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-09-13 13:27:29",
+      "modified": "2026-09-13 18:17:57",
       "size": 134,
-      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1789270049-134",
+      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1789287477-134",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -34331,7 +34339,7 @@
           "League": "WNBL",
           "Status": "NO_REGULAR_SEASON_FIXTURES",
           "As_Of": "2026-09-13",
-          "Generated_At_UTC": "2026-09-13 03:25:43 UTC",
+          "Generated_At_UTC": "2026-09-13 08:16:02 UTC",
           "Model_Version": "basketball_2026"
         }
       ]
