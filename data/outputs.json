@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26 08:29:42",
+  "generatedAt": "2026-09-26 09:53:32",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -21697,11 +21697,14 @@
       "model": "Straight greyhound rated prices",
       "sport": "Greyhounds",
       "extension": "xlsx",
-      "modified": "2026-09-26 08:07:57",
-      "size": 259447,
-      "fileUrl": "/files/Straight_Greyhound_upcoming_rated_prices.xlsx?v=1790374077-259447",
-      "sheets": [],
-      "defaultSheet": "",
+      "modified": "2026-09-26 08:08:43",
+      "size": 116478,
+      "fileUrl": "/files/Straight_Greyhound_upcoming_rated_prices.xlsx?v=1790374123-116478",
+      "sheets": [
+        "Rated prices",
+        "Component audit"
+      ],
+      "defaultSheet": "Rated prices",
       "columns": [
         "Date",
         "Venue",
@@ -21744,7 +21747,7 @@
       "rowCount": 342,
       "rows": [
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 1,
           "Time": "2026-09-27T12:10:00",
@@ -21758,7 +21761,7 @@
           "Trainer": "Dana Ivers",
           "Model Price": 3.04,
           "Exposed Form Price": 3.27,
-          "SP-Informed Price": 2.6,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.74,
           "Fair Top 3 Odds": 1.34,
           "Raw Advantage (L)": 0.8,
@@ -21783,7 +21786,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 1,
           "Time": "2026-09-27T12:10:00",
@@ -21797,7 +21800,7 @@
           "Trainer": "Wayne Spann",
           "Model Price": 5.28,
           "Exposed Form Price": null,
-          "SP-Informed Price": 6.23,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.67,
           "Fair Top 3 Odds": 1.82,
           "Raw Advantage (L)": -0.8,
@@ -21822,7 +21825,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 1,
           "Time": "2026-09-27T12:10:00",
@@ -21836,7 +21839,7 @@
           "Trainer": "Linda Ashford",
           "Model Price": 6.45,
           "Exposed Form Price": 5.3,
-          "SP-Informed Price": 6.48,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.05,
           "Fair Top 3 Odds": 1.97,
           "Raw Advantage (L)": -1.2,
@@ -21861,7 +21864,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 1,
           "Time": "2026-09-27T12:10:00",
@@ -21875,7 +21878,7 @@
           "Trainer": "Craig Chandler",
           "Model Price": 8.51,
           "Exposed Form Price": 8.82,
-          "SP-Informed Price": 12.57,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.93,
           "Fair Top 3 Odds": 2.44,
           "Raw Advantage (L)": -1.6,
@@ -21900,7 +21903,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 1,
           "Time": "2026-09-27T12:10:00",
@@ -21914,7 +21917,7 @@
           "Trainer": "John Kuhn",
           "Model Price": 12.65,
           "Exposed Form Price": 10.25,
-          "SP-Informed Price": 10.73,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.71,
           "Fair Top 3 Odds": 3.47,
           "Raw Advantage (L)": -2.3,
@@ -21939,7 +21942,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 1,
           "Time": "2026-09-27T12:10:00",
@@ -21953,7 +21956,7 @@
           "Trainer": "Jamie Hosking",
           "Model Price": 19.49,
           "Exposed Form Price": 18.79,
-          "SP-Informed Price": 30.12,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 8.66,
           "Fair Top 3 Odds": 5.11,
           "Raw Advantage (L)": -3,
@@ -21978,7 +21981,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 1,
           "Time": "2026-09-27T12:10:00",
@@ -21992,7 +21995,7 @@
           "Trainer": "Andy Graham",
           "Model Price": 21.92,
           "Exposed Form Price": 21.54,
-          "SP-Informed Price": 15.1,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 9.92,
           "Fair Top 3 Odds": 5.91,
           "Raw Advantage (L)": -3.2,
@@ -22017,7 +22020,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 1,
           "Time": "2026-09-27T12:10:00",
@@ -22031,7 +22034,7 @@
           "Trainer": "Jess Wendt",
           "Model Price": 30.25,
           "Exposed Form Price": 28.96,
-          "SP-Informed Price": 35.26,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 13.24,
           "Fair Top 3 Odds": 7.61,
           "Raw Advantage (L)": -3.7,
@@ -22056,7 +22059,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 2,
           "Time": "2026-09-27T12:27:00",
@@ -22070,7 +22073,7 @@
           "Trainer": "Jamie Hosking",
           "Model Price": 1.95,
           "Exposed Form Price": 2.01,
-          "SP-Informed Price": 2.53,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.25,
           "Fair Top 3 Odds": 1.08,
           "Raw Advantage (L)": 1,
@@ -22095,7 +22098,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 2,
           "Time": "2026-09-27T12:27:00",
@@ -22109,7 +22112,7 @@
           "Trainer": "Sergio Livotto",
           "Model Price": 3.84,
           "Exposed Form Price": 3.74,
-          "SP-Informed Price": 3.37,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.67,
           "Fair Top 3 Odds": 1.2,
           "Raw Advantage (L)": -1,
@@ -22134,7 +22137,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 2,
           "Time": "2026-09-27T12:27:00",
@@ -22148,7 +22151,7 @@
           "Trainer": "Chris Brydon",
           "Model Price": 8.83,
           "Exposed Form Price": 9.52,
-          "SP-Informed Price": 8.19,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.44,
           "Fair Top 3 Odds": 1.74,
           "Raw Advantage (L)": -2.1,
@@ -22173,7 +22176,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 2,
           "Time": "2026-09-27T12:27:00",
@@ -22187,7 +22190,7 @@
           "Trainer": "John Jeffrey",
           "Model Price": 18.72,
           "Exposed Form Price": 17.89,
-          "SP-Informed Price": 14.45,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 6.96,
           "Fair Top 3 Odds": 3.3,
           "Raw Advantage (L)": -3.3,
@@ -22212,7 +22215,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 2,
           "Time": "2026-09-27T12:27:00",
@@ -22226,7 +22229,7 @@
           "Trainer": "Carlin Wendt",
           "Model Price": 34.73,
           "Exposed Form Price": 29.68,
-          "SP-Informed Price": 16.79,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 12.65,
           "Fair Top 3 Odds": 5.75,
           "Raw Advantage (L)": -4.2,
@@ -22251,7 +22254,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 2,
           "Time": "2026-09-27T12:27:00",
@@ -22265,7 +22268,7 @@
           "Trainer": "Corey Mutton",
           "Model Price": 48.99,
           "Exposed Form Price": 41.14,
-          "SP-Informed Price": 24.74,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 17.97,
           "Fair Top 3 Odds": 7.99,
           "Raw Advantage (L)": -4.7,
@@ -22290,7 +22293,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 2,
           "Time": "2026-09-27T12:27:00",
@@ -22304,7 +22307,7 @@
           "Trainer": "Carlin Wendt",
           "Model Price": 159.34,
           "Exposed Form Price": 115.88,
-          "SP-Informed Price": 174.89,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 59.27,
           "Fair Top 3 Odds": 26.48,
           "Raw Advantage (L)": -6.6,
@@ -22329,7 +22332,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 2,
           "Time": "2026-09-27T12:27:00",
@@ -22343,7 +22346,7 @@
           "Trainer": "Corey Mutton",
           "Model Price": 209.63,
           "Exposed Form Price": 154.57,
-          "SP-Informed Price": 88.26,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 76.71,
           "Fair Top 3 Odds": 34.95,
           "Raw Advantage (L)": -7.1,
@@ -22368,7 +22371,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 3,
           "Time": "2026-09-27T12:47:00",
@@ -22382,7 +22385,7 @@
           "Trainer": "Merv Page",
           "Model Price": 4.62,
           "Exposed Form Price": null,
-          "SP-Informed Price": 4.63,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.48,
           "Fair Top 3 Odds": 1.77,
           "Raw Advantage (L)": 0.5,
@@ -22407,7 +22410,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 3,
           "Time": "2026-09-27T12:47:00",
@@ -22421,7 +22424,7 @@
           "Trainer": "Mark Moroney",
           "Model Price": 5.65,
           "Exposed Form Price": 4.46,
-          "SP-Informed Price": 4.02,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.83,
           "Fair Top 3 Odds": 1.92,
           "Raw Advantage (L)": -0.5,
@@ -22446,7 +22449,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 3,
           "Time": "2026-09-27T12:47:00",
@@ -22460,7 +22463,7 @@
           "Trainer": "Craig Chandler",
           "Model Price": 6.1,
           "Exposed Form Price": 5.31,
-          "SP-Informed Price": 8.84,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.04,
           "Fair Top 3 Odds": 2.04,
           "Raw Advantage (L)": -0.6,
@@ -22485,7 +22488,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 3,
           "Time": "2026-09-27T12:47:00",
@@ -22499,7 +22502,7 @@
           "Trainer": "Sergio Livotto",
           "Model Price": 7.56,
           "Exposed Form Price": 7.18,
-          "SP-Informed Price": 6.54,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.62,
           "Fair Top 3 Odds": 2.34,
           "Raw Advantage (L)": -0.8,
@@ -22524,7 +22527,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 3,
           "Time": "2026-09-27T12:47:00",
@@ -22538,7 +22541,7 @@
           "Trainer": "Peter Carleton",
           "Model Price": 7.6,
           "Exposed Form Price": 8.99,
-          "SP-Informed Price": 8.03,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.57,
           "Fair Top 3 Odds": 2.28,
           "Raw Advantage (L)": -0.7,
@@ -22563,7 +22566,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 3,
           "Time": "2026-09-27T12:47:00",
@@ -22577,7 +22580,7 @@
           "Trainer": "Dana Ivers",
           "Model Price": 8.13,
           "Exposed Form Price": 8.92,
-          "SP-Informed Price": 13.45,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.11,
           "Fair Top 3 Odds": 2.7,
           "Raw Advantage (L)": -1,
@@ -22602,7 +22605,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 3,
           "Time": "2026-09-27T12:47:00",
@@ -22616,7 +22619,7 @@
           "Trainer": "John Kuhn",
           "Model Price": 18,
           "Exposed Form Price": 14.8,
-          "SP-Informed Price": 14.14,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 8.64,
           "Fair Top 3 Odds": 5.36,
           "Raw Advantage (L)": -2.5,
@@ -22641,7 +22644,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 4,
           "Time": "2026-09-27T13:07:00",
@@ -22655,7 +22658,7 @@
           "Trainer": "Vicki Shepherd",
           "Model Price": 2.31,
           "Exposed Form Price": 2.43,
-          "SP-Informed Price": 2.1,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.44,
           "Fair Top 3 Odds": 1.19,
           "Raw Advantage (L)": 1.6,
@@ -22680,7 +22683,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 4,
           "Time": "2026-09-27T13:07:00",
@@ -22694,7 +22697,7 @@
           "Trainer": "Mark Moroney",
           "Model Price": 6.72,
           "Exposed Form Price": 6.24,
-          "SP-Informed Price": 4.12,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.97,
           "Fair Top 3 Odds": 1.88,
           "Raw Advantage (L)": -1.6,
@@ -22719,7 +22722,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 4,
           "Time": "2026-09-27T13:07:00",
@@ -22733,7 +22736,7 @@
           "Trainer": "Peter Carleton",
           "Model Price": 8.2,
           "Exposed Form Price": 8.03,
-          "SP-Informed Price": 19.43,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.5,
           "Fair Top 3 Odds": 2.12,
           "Raw Advantage (L)": -1.9,
@@ -22758,7 +22761,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 4,
           "Time": "2026-09-27T13:07:00",
@@ -22772,7 +22775,7 @@
           "Trainer": "Nicole Connell",
           "Model Price": 9.96,
           "Exposed Form Price": 6.62,
-          "SP-Informed Price": 14.3,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.31,
           "Fair Top 3 Odds": 2.59,
           "Raw Advantage (L)": -2.5,
@@ -22797,7 +22800,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 4,
           "Time": "2026-09-27T13:07:00",
@@ -22811,7 +22814,7 @@
           "Trainer": "Christine Bourke",
           "Model Price": 10.2,
           "Exposed Form Price": 13.22,
-          "SP-Informed Price": 15.58,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.39,
           "Fair Top 3 Odds": 2.6,
           "Raw Advantage (L)": -2.1,
@@ -22836,7 +22839,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 4,
           "Time": "2026-09-27T13:07:00",
@@ -22850,7 +22853,7 @@
           "Trainer": "Peter O'Reilly",
           "Model Price": 12.63,
           "Exposed Form Price": null,
-          "SP-Informed Price": 14.17,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.64,
           "Fair Top 3 Odds": 3.37,
           "Raw Advantage (L)": -2.6,
@@ -22875,7 +22878,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 4,
           "Time": "2026-09-27T13:07:00",
@@ -22889,7 +22892,7 @@
           "Trainer": "Brendon Stevens",
           "Model Price": 51.98,
           "Exposed Form Price": 79.43,
-          "SP-Informed Price": 41.45,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 21.18,
           "Fair Top 3 Odds": 11.38,
           "Raw Advantage (L)": -4.5,
@@ -22914,7 +22917,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 5,
           "Time": "2026-09-27T13:22:00",
@@ -22928,7 +22931,7 @@
           "Trainer": "Angela Brown",
           "Model Price": 3.85,
           "Exposed Form Price": 4.49,
-          "SP-Informed Price": 3.3,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.03,
           "Fair Top 3 Odds": 1.46,
           "Raw Advantage (L)": 0.1,
@@ -22953,7 +22956,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 5,
           "Time": "2026-09-27T13:22:00",
@@ -22967,7 +22970,7 @@
           "Trainer": "Peter Heterick",
           "Model Price": 4.02,
           "Exposed Form Price": 4.07,
-          "SP-Informed Price": 6.47,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.07,
           "Fair Top 3 Odds": 1.47,
           "Raw Advantage (L)": -0.1,
@@ -22992,7 +22995,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 5,
           "Time": "2026-09-27T13:22:00",
@@ -23006,7 +23009,7 @@
           "Trainer": "Jedda Cutlack",
           "Model Price": 5.72,
           "Exposed Form Price": 4.02,
-          "SP-Informed Price": 4.06,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.78,
           "Fair Top 3 Odds": 1.83,
           "Raw Advantage (L)": -0.8,
@@ -23031,7 +23034,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 5,
           "Time": "2026-09-27T13:22:00",
@@ -23045,7 +23048,7 @@
           "Trainer": "John Thompson",
           "Model Price": 7.26,
           "Exposed Form Price": 8.15,
-          "SP-Informed Price": 7.13,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.58,
           "Fair Top 3 Odds": 2.29,
           "Raw Advantage (L)": -1.1,
@@ -23070,7 +23073,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 5,
           "Time": "2026-09-27T13:22:00",
@@ -23084,7 +23087,7 @@
           "Trainer": "Nicole Connell",
           "Model Price": 11.37,
           "Exposed Form Price": 12.93,
-          "SP-Informed Price": 11.73,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.22,
           "Fair Top 3 Odds": 3.13,
           "Raw Advantage (L)": -1.7,
@@ -23109,7 +23112,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 5,
           "Time": "2026-09-27T13:22:00",
@@ -23123,7 +23126,7 @@
           "Trainer": "Peter O'Reilly",
           "Model Price": 31.98,
           "Exposed Form Price": null,
-          "SP-Informed Price": 38.12,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 15.21,
           "Fair Top 3 Odds": 9.1,
           "Raw Advantage (L)": -3.6,
@@ -23148,7 +23151,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 5,
           "Time": "2026-09-27T13:22:00",
@@ -23162,7 +23165,7 @@
           "Trainer": "Dana Ivers",
           "Model Price": 33.71,
           "Exposed Form Price": 38.33,
-          "SP-Informed Price": 49.4,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 14.68,
           "Fair Top 3 Odds": 8.25,
           "Raw Advantage (L)": -3.4,
@@ -23187,7 +23190,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 5,
           "Time": "2026-09-27T13:22:00",
@@ -23201,7 +23204,7 @@
           "Trainer": "Michelle Sultana",
           "Model Price": 34.01,
           "Exposed Form Price": null,
-          "SP-Informed Price": 41.68,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 16.35,
           "Fair Top 3 Odds": 9.76,
           "Raw Advantage (L)": -3.7,
@@ -23226,7 +23229,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 6,
           "Time": "2026-09-27T13:42:00",
@@ -23240,7 +23243,7 @@
           "Trainer": "Michelle Sultana",
           "Model Price": 2.09,
           "Exposed Form Price": 2.81,
-          "SP-Informed Price": 1.5,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.34,
           "Fair Top 3 Odds": 1.15,
           "Raw Advantage (L)": 1.2,
@@ -23265,7 +23268,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 6,
           "Time": "2026-09-27T13:42:00",
@@ -23279,7 +23282,7 @@
           "Trainer": "Jamie Hosking",
           "Model Price": 3.88,
           "Exposed Form Price": 2.96,
-          "SP-Informed Price": 7.21,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.76,
           "Fair Top 3 Odds": 1.27,
           "Raw Advantage (L)": -1.2,
@@ -23304,7 +23307,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 6,
           "Time": "2026-09-27T13:42:00",
@@ -23318,7 +23321,7 @@
           "Trainer": "Claude Dacey",
           "Model Price": 11.74,
           "Exposed Form Price": 10.57,
-          "SP-Informed Price": 30.39,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.52,
           "Fair Top 3 Odds": 2.36,
           "Raw Advantage (L)": -2.6,
@@ -23343,7 +23346,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 6,
           "Time": "2026-09-27T13:42:00",
@@ -23357,7 +23360,7 @@
           "Trainer": "Pamela Field",
           "Model Price": 13.13,
           "Exposed Form Price": 10.16,
-          "SP-Informed Price": 13.5,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.06,
           "Fair Top 3 Odds": 2.65,
           "Raw Advantage (L)": -2.9,
@@ -23382,7 +23385,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 6,
           "Time": "2026-09-27T13:42:00",
@@ -23396,7 +23399,7 @@
           "Trainer": "John Quarman",
           "Model Price": 20.76,
           "Exposed Form Price": 17.86,
-          "SP-Informed Price": 26.63,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.84,
           "Fair Top 3 Odds": 3.92,
           "Raw Advantage (L)": -3.5,
@@ -23421,7 +23424,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 6,
           "Time": "2026-09-27T13:42:00",
@@ -23435,7 +23438,7 @@
           "Trainer": "Merv Page",
           "Model Price": 35.52,
           "Exposed Form Price": 42.98,
-          "SP-Informed Price": 42.83,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 13.26,
           "Fair Top 3 Odds": 6.34,
           "Raw Advantage (L)": -4,
@@ -23460,7 +23463,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 6,
           "Time": "2026-09-27T13:42:00",
@@ -23474,7 +23477,7 @@
           "Trainer": "John Kuhn",
           "Model Price": 51.58,
           "Exposed Form Price": 37.36,
-          "SP-Informed Price": 49.41,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 19.67,
           "Fair Top 3 Odds": 9.65,
           "Raw Advantage (L)": -5,
@@ -23499,7 +23502,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 6,
           "Time": "2026-09-27T13:42:00",
@@ -23513,7 +23516,7 @@
           "Trainer": "Carlin Wendt",
           "Model Price": 169.18,
           "Exposed Form Price": 147.29,
-          "SP-Informed Price": 178.9,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 78.16,
           "Fair Top 3 Odds": 41.54,
           "Raw Advantage (L)": -7,
@@ -23538,7 +23541,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 7,
           "Time": "2026-09-27T13:58:00",
@@ -23552,7 +23555,7 @@
           "Trainer": "Jedda Cutlack",
           "Model Price": 2.5,
           "Exposed Form Price": 3.04,
-          "SP-Informed Price": 2.55,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.5,
           "Fair Top 3 Odds": 1.2,
           "Raw Advantage (L)": 1.1,
@@ -23577,7 +23580,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 7,
           "Time": "2026-09-27T13:58:00",
@@ -23591,7 +23594,7 @@
           "Trainer": "Jedda Cutlack",
           "Model Price": 5.04,
           "Exposed Form Price": 4.55,
-          "SP-Informed Price": 4.25,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.41,
           "Fair Top 3 Odds": 1.61,
           "Raw Advantage (L)": -1.1,
@@ -23616,7 +23619,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 7,
           "Time": "2026-09-27T13:58:00",
@@ -23630,7 +23633,7 @@
           "Trainer": "Warren Nicholls",
           "Model Price": 5.95,
           "Exposed Form Price": 5.18,
-          "SP-Informed Price": 7,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.73,
           "Fair Top 3 Odds": 1.75,
           "Raw Advantage (L)": -1.4,
@@ -23655,7 +23658,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 7,
           "Time": "2026-09-27T13:58:00",
@@ -23669,7 +23672,7 @@
           "Trainer": "Jedda Cutlack",
           "Model Price": 11.43,
           "Exposed Form Price": 10.9,
-          "SP-Informed Price": 9.55,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.86,
           "Fair Top 3 Odds": 2.81,
           "Raw Advantage (L)": -2.2,
@@ -23694,7 +23697,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 7,
           "Time": "2026-09-27T13:58:00",
@@ -23708,7 +23711,7 @@
           "Trainer": "Tony Brett",
           "Model Price": 13.56,
           "Exposed Form Price": 11.89,
-          "SP-Informed Price": 12.56,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.86,
           "Fair Top 3 Odds": 3.37,
           "Raw Advantage (L)": -2.6,
@@ -23733,7 +23736,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 7,
           "Time": "2026-09-27T13:58:00",
@@ -23747,7 +23750,7 @@
           "Trainer": "Andy Graham",
           "Model Price": 30.86,
           "Exposed Form Price": 30.61,
-          "SP-Informed Price": 45.44,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 13.1,
           "Fair Top 3 Odds": 7.19,
           "Raw Advantage (L)": -3.5,
@@ -23772,7 +23775,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 7,
           "Time": "2026-09-27T13:58:00",
@@ -23786,7 +23789,7 @@
           "Trainer": "John Quarman",
           "Model Price": 41.38,
           "Exposed Form Price": 30.88,
-          "SP-Informed Price": 71.12,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 17.1,
           "Fair Top 3 Odds": 9.11,
           "Raw Advantage (L)": -4.1,
@@ -23811,7 +23814,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 7,
           "Time": "2026-09-27T13:58:00",
@@ -23825,7 +23828,7 @@
           "Trainer": "Peter Carleton",
           "Model Price": 60.75,
           "Exposed Form Price": 58.04,
-          "SP-Informed Price": 107.14,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 24.64,
           "Fair Top 3 Odds": 13.12,
           "Raw Advantage (L)": -4.4,
@@ -23850,7 +23853,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 8,
           "Time": "2026-09-27T14:17:00",
@@ -23864,7 +23867,7 @@
           "Trainer": "Nicole Connell",
           "Model Price": 4.02,
           "Exposed Form Price": 3.92,
-          "SP-Informed Price": 3.29,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.13,
           "Fair Top 3 Odds": 1.53,
           "Raw Advantage (L)": 0.1,
@@ -23889,7 +23892,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 8,
           "Time": "2026-09-27T14:17:00",
@@ -23903,7 +23906,7 @@
           "Trainer": "Christine Bourke",
           "Model Price": 4.63,
           "Exposed Form Price": 5.25,
-          "SP-Informed Price": 5.88,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.39,
           "Fair Top 3 Odds": 1.65,
           "Raw Advantage (L)": -0.1,
@@ -23928,7 +23931,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 8,
           "Time": "2026-09-27T14:17:00",
@@ -23942,7 +23945,7 @@
           "Trainer": "Ben Mcgrath",
           "Model Price": 5.73,
           "Exposed Form Price": 6.63,
-          "SP-Informed Price": 10.61,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.88,
           "Fair Top 3 Odds": 1.92,
           "Raw Advantage (L)": -0.4,
@@ -23967,7 +23970,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 8,
           "Time": "2026-09-27T14:17:00",
@@ -23981,7 +23984,7 @@
           "Trainer": "Chris Brydon",
           "Model Price": 7.16,
           "Exposed Form Price": 5.93,
-          "SP-Informed Price": 5.71,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.46,
           "Fair Top 3 Odds": 2.24,
           "Raw Advantage (L)": -0.9,
@@ -24006,7 +24009,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 8,
           "Time": "2026-09-27T14:17:00",
@@ -24020,7 +24023,7 @@
           "Trainer": "Cynthia Suttle",
           "Model Price": 8.57,
           "Exposed Form Price": 7.83,
-          "SP-Informed Price": 5.93,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.06,
           "Fair Top 3 Odds": 2.55,
           "Raw Advantage (L)": -1.1,
@@ -24045,7 +24048,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 8,
           "Time": "2026-09-27T14:17:00",
@@ -24059,7 +24062,7 @@
           "Trainer": "Neil Catchpole",
           "Model Price": 11.68,
           "Exposed Form Price": 11.4,
-          "SP-Informed Price": 12.85,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.39,
           "Fair Top 3 Odds": 3.28,
           "Raw Advantage (L)": -1.5,
@@ -24084,7 +24087,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 8,
           "Time": "2026-09-27T14:17:00",
@@ -24098,7 +24101,7 @@
           "Trainer": "John Jeffrey",
           "Model Price": 83.01,
           "Exposed Form Price": 86.89,
-          "SP-Informed Price": 143.22,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 37.26,
           "Fair Top 3 Odds": 21.32,
           "Raw Advantage (L)": -4.2,
@@ -24123,7 +24126,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 8,
           "Time": "2026-09-27T14:17:00",
@@ -24137,7 +24140,7 @@
           "Trainer": "Peter Carleton",
           "Model Price": 148.9,
           "Exposed Form Price": 126.11,
-          "SP-Informed Price": 345.59,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 64.49,
           "Fair Top 3 Odds": 35.99,
           "Raw Advantage (L)": -5.2,
@@ -24162,7 +24165,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 9,
           "Time": "2026-09-27T14:33:00",
@@ -24176,7 +24179,7 @@
           "Trainer": "Dana Ivers",
           "Model Price": 3.73,
           "Exposed Form Price": 4.55,
-          "SP-Informed Price": 4.47,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2,
           "Fair Top 3 Odds": 1.47,
           "Raw Advantage (L)": 0.4,
@@ -24201,7 +24204,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 9,
           "Time": "2026-09-27T14:33:00",
@@ -24215,7 +24218,7 @@
           "Trainer": "Darren Russell",
           "Model Price": 4.4,
           "Exposed Form Price": 4.53,
-          "SP-Informed Price": 3.71,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.34,
           "Fair Top 3 Odds": 1.65,
           "Raw Advantage (L)": -0.4,
@@ -24240,7 +24243,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 9,
           "Time": "2026-09-27T14:33:00",
@@ -24254,7 +24257,7 @@
           "Trainer": "Nicole Connell",
           "Model Price": 4.53,
           "Exposed Form Price": 4.24,
-          "SP-Informed Price": 4.04,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.29,
           "Fair Top 3 Odds": 1.59,
           "Raw Advantage (L)": -0.4,
@@ -24279,7 +24282,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 9,
           "Time": "2026-09-27T14:33:00",
@@ -24293,7 +24296,7 @@
           "Trainer": "Claude Dacey",
           "Model Price": 14.98,
           "Exposed Form Price": 13.2,
-          "SP-Informed Price": 15.23,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 6.59,
           "Fair Top 3 Odds": 3.88,
           "Raw Advantage (L)": -2.1,
@@ -24318,7 +24321,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 9,
           "Time": "2026-09-27T14:33:00",
@@ -24332,7 +24335,7 @@
           "Trainer": "Jamie Hosking",
           "Model Price": 15.51,
           "Exposed Form Price": 14.59,
-          "SP-Informed Price": 14.23,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.02,
           "Fair Top 3 Odds": 4.18,
           "Raw Advantage (L)": -2.2,
@@ -24357,7 +24360,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 9,
           "Time": "2026-09-27T14:33:00",
@@ -24371,7 +24374,7 @@
           "Trainer": "Peter Heterick",
           "Model Price": 17.11,
           "Exposed Form Price": 15,
-          "SP-Informed Price": 21.21,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.6,
           "Fair Top 3 Odds": 4.43,
           "Raw Advantage (L)": -2.3,
@@ -24396,7 +24399,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 9,
           "Time": "2026-09-27T14:33:00",
@@ -24410,7 +24413,7 @@
           "Trainer": "Peter O'Reilly",
           "Model Price": 20.1,
           "Exposed Form Price": 14.7,
-          "SP-Informed Price": 46.51,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 9.1,
           "Fair Top 3 Odds": 5.39,
           "Raw Advantage (L)": -2.9,
@@ -24435,7 +24438,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 9,
           "Time": "2026-09-27T14:33:00",
@@ -24449,7 +24452,7 @@
           "Trainer": "Carlin Wendt",
           "Model Price": 22.4,
           "Exposed Form Price": 22.4,
-          "SP-Informed Price": 18.54,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 9.9,
           "Fair Top 3 Odds": 5.74,
           "Raw Advantage (L)": -2.6,
@@ -24474,7 +24477,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 10,
           "Time": "2026-09-27T14:52:00",
@@ -24488,7 +24491,7 @@
           "Trainer": "Tom Tzouvelis",
           "Model Price": 2.17,
           "Exposed Form Price": 1.81,
-          "SP-Informed Price": 2.67,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.36,
           "Fair Top 3 Odds": 1.14,
           "Raw Advantage (L)": 1.3,
@@ -24513,7 +24516,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 10,
           "Time": "2026-09-27T14:52:00",
@@ -24527,7 +24530,7 @@
           "Trainer": "Jedda Cutlack",
           "Model Price": 5.63,
           "Exposed Form Price": 6.38,
-          "SP-Informed Price": 6.37,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.5,
           "Fair Top 3 Odds": 1.64,
           "Raw Advantage (L)": -1.3,
@@ -24552,7 +24555,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 10,
           "Time": "2026-09-27T14:52:00",
@@ -24566,7 +24569,7 @@
           "Trainer": "Jedda Cutlack",
           "Model Price": 9.91,
           "Exposed Form Price": 12.62,
-          "SP-Informed Price": 6.18,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.12,
           "Fair Top 3 Odds": 2.4,
           "Raw Advantage (L)": -2,
@@ -24591,7 +24594,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 10,
           "Time": "2026-09-27T14:52:00",
@@ -24605,7 +24608,7 @@
           "Trainer": "Andy Graham",
           "Model Price": 10.1,
           "Exposed Form Price": 11.91,
-          "SP-Informed Price": 6.59,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.32,
           "Fair Top 3 Odds": 2.55,
           "Raw Advantage (L)": -2.1,
@@ -24630,7 +24633,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 10,
           "Time": "2026-09-27T14:52:00",
@@ -24644,7 +24647,7 @@
           "Trainer": "John Kuhn",
           "Model Price": 14.67,
           "Exposed Form Price": null,
-          "SP-Informed Price": 14.14,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 6.48,
           "Fair Top 3 Odds": 3.79,
           "Raw Advantage (L)": -2.8,
@@ -24669,7 +24672,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 10,
           "Time": "2026-09-27T14:52:00",
@@ -24683,7 +24686,7 @@
           "Trainer": "Karl Buhner",
           "Model Price": 17.2,
           "Exposed Form Price": 23.08,
-          "SP-Informed Price": 16.53,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 6.88,
           "Fair Top 3 Odds": 3.78,
           "Raw Advantage (L)": -2.8,
@@ -24708,7 +24711,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Capalaba",
           "Race": 10,
           "Time": "2026-09-27T14:52:00",
@@ -24722,7 +24725,7 @@
           "Trainer": "Peter Carleton",
           "Model Price": 27.84,
           "Exposed Form Price": 28.21,
-          "SP-Informed Price": 43.26,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 10.73,
           "Fair Top 3 Odds": 5.73,
           "Raw Advantage (L)": -3.8,
@@ -24747,7 +24750,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -24761,7 +24764,7 @@
           "Trainer": "Billy Galea (Rockbank)",
           "Model Price": 3.64,
           "Exposed Form Price": 3.31,
-          "SP-Informed Price": 3.79,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.97,
           "Fair Top 3 Odds": 1.44,
           "Raw Advantage (L)": 0.6,
@@ -24786,7 +24789,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -24800,7 +24803,7 @@
           "Trainer": "Billy Galea (Rockbank)",
           "Model Price": 5.5,
           "Exposed Form Price": 5.19,
-          "SP-Informed Price": 6.36,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.71,
           "Fair Top 3 Odds": 1.83,
           "Raw Advantage (L)": -0.6,
@@ -24825,7 +24828,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -24839,7 +24842,7 @@
           "Trainer": "Emma Scott (Tatura)",
           "Model Price": 6.5,
           "Exposed Form Price": 6.33,
-          "SP-Informed Price": 7.52,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.14,
           "Fair Top 3 Odds": 2.05,
           "Raw Advantage (L)": -0.8,
@@ -24864,7 +24867,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -24878,7 +24881,7 @@
           "Trainer": "Jarrod Rocke (Kyabram South)",
           "Model Price": 7.46,
           "Exposed Form Price": null,
-          "SP-Informed Price": 6.03,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.71,
           "Fair Top 3 Odds": 2.43,
           "Raw Advantage (L)": -1,
@@ -24903,7 +24906,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -24917,7 +24920,7 @@
           "Trainer": "Cameron Knott (Mount Camel)",
           "Model Price": 9.43,
           "Exposed Form Price": null,
-          "SP-Informed Price": 7.85,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.61,
           "Fair Top 3 Odds": 2.94,
           "Raw Advantage (L)": -1.4,
@@ -24942,7 +24945,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -24956,7 +24959,7 @@
           "Trainer": "Cameron Knott (Mount Camel)",
           "Model Price": 10.52,
           "Exposed Form Price": null,
-          "SP-Informed Price": 9.08,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.13,
           "Fair Top 3 Odds": 3.27,
           "Raw Advantage (L)": -1.6,
@@ -24981,7 +24984,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -24995,7 +24998,7 @@
           "Trainer": "Paula Boots (Kyabram South)",
           "Model Price": 31.62,
           "Exposed Form Price": 31.2,
-          "SP-Informed Price": 39.74,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 14.1,
           "Fair Top 3 Odds": 8.16,
           "Raw Advantage (L)": -3.4,
@@ -25020,7 +25023,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "11:27AM",
@@ -25034,7 +25037,7 @@
           "Trainer": "Gerard O'keeffe (Neerim Junction)",
           "Model Price": 43.43,
           "Exposed Form Price": 41.17,
-          "SP-Informed Price": 57.59,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 19.11,
           "Fair Top 3 Odds": 10.96,
           "Raw Advantage (L)": -4,
@@ -25059,7 +25062,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -25073,7 +25076,7 @@
           "Trainer": "Bradley Greenough (Pearcedale)",
           "Model Price": 2.37,
           "Exposed Form Price": 2.76,
-          "SP-Informed Price": 3.21,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.44,
           "Fair Top 3 Odds": 1.18,
           "Raw Advantage (L)": 1.3,
@@ -25098,7 +25101,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -25112,7 +25115,7 @@
           "Trainer": "Bruce Stirling (Heathcote)",
           "Model Price": 5.12,
           "Exposed Form Price": 4.46,
-          "SP-Informed Price": 6.91,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.32,
           "Fair Top 3 Odds": 1.5,
           "Raw Advantage (L)": -1.3,
@@ -25137,7 +25140,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -25151,7 +25154,7 @@
           "Trainer": "James Shaw (Northwood)",
           "Model Price": 5.26,
           "Exposed Form Price": 4.95,
-          "SP-Informed Price": 3.56,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.38,
           "Fair Top 3 Odds": 1.53,
           "Raw Advantage (L)": -1.3,
@@ -25176,7 +25179,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -25190,7 +25193,7 @@
           "Trainer": "David Bourke (The Basin)",
           "Model Price": 15.99,
           "Exposed Form Price": 14.16,
-          "SP-Informed Price": 11.61,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 6.67,
           "Fair Top 3 Odds": 3.67,
           "Raw Advantage (L)": -3.1,
@@ -25215,7 +25218,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -25229,7 +25232,7 @@
           "Trainer": "John Spizzirri (Donvale)",
           "Model Price": 18.13,
           "Exposed Form Price": 16.78,
-          "SP-Informed Price": 15.1,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.54,
           "Fair Top 3 Odds": 4.13,
           "Raw Advantage (L)": -3.3,
@@ -25254,7 +25257,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -25268,7 +25271,7 @@
           "Trainer": "Derek Faulknall (Elphinstone)",
           "Model Price": 27.85,
           "Exposed Form Price": null,
-          "SP-Informed Price": 24.23,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 12.55,
           "Fair Top 3 Odds": 7.04,
           "Raw Advantage (L)": -4.2,
@@ -25293,7 +25296,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -25307,7 +25310,7 @@
           "Trainer": "Suzanne Reaper (Tynong)",
           "Model Price": 31.33,
           "Exposed Form Price": 30.01,
-          "SP-Informed Price": 16.02,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 13.1,
           "Fair Top 3 Odds": 7.06,
           "Raw Advantage (L)": -4.1,
@@ -25332,7 +25335,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "11:45AM",
@@ -25346,7 +25349,7 @@
           "Trainer": "Donald Rhodes (Heyfield)",
           "Model Price": 132.16,
           "Exposed Form Price": 133.52,
-          "SP-Informed Price": 143.76,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 57.23,
           "Fair Top 3 Odds": 30.52,
           "Raw Advantage (L)": -6.7,
@@ -25371,7 +25374,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:02PM",
@@ -25385,7 +25388,7 @@
           "Trainer": "Justin Booker (Kilmany)",
           "Model Price": 2.38,
           "Exposed Form Price": 2.78,
-          "SP-Informed Price": 2.99,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.44,
           "Fair Top 3 Odds": 1.18,
           "Raw Advantage (L)": 1.1,
@@ -25410,7 +25413,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:02PM",
@@ -25424,7 +25427,7 @@
           "Trainer": "Donald Rhodes (Heyfield)",
           "Model Price": 4.66,
           "Exposed Form Price": 4.27,
-          "SP-Informed Price": 3.67,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.2,
           "Fair Top 3 Odds": 1.49,
           "Raw Advantage (L)": -1.1,
@@ -25449,7 +25452,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:02PM",
@@ -25463,7 +25466,7 @@
           "Trainer": "Michael Bewley (Pentland Hills)",
           "Model Price": 7.37,
           "Exposed Form Price": 8.35,
-          "SP-Informed Price": 5.58,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.23,
           "Fair Top 3 Odds": 1.95,
           "Raw Advantage (L)": -1.5,
@@ -25488,7 +25491,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:02PM",
@@ -25502,7 +25505,7 @@
           "Trainer": "Marion Clay (Lang Lang)",
           "Model Price": 12.75,
           "Exposed Form Price": 10.3,
-          "SP-Informed Price": 16.22,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.33,
           "Fair Top 3 Odds": 3.01,
           "Raw Advantage (L)": -2.5,
@@ -25527,7 +25530,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:02PM",
@@ -25541,7 +25544,7 @@
           "Trainer": "Patrick Newell (Wallan)",
           "Model Price": 17.79,
           "Exposed Form Price": 14.55,
-          "SP-Informed Price": 18.18,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.4,
           "Fair Top 3 Odds": 4.08,
           "Raw Advantage (L)": -2.9,
@@ -25566,7 +25569,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:02PM",
@@ -25580,7 +25583,7 @@
           "Trainer": "Jennifer Thorpe (Arthurs Creek)",
           "Model Price": 19.64,
           "Exposed Form Price": 16.52,
-          "SP-Informed Price": 26.98,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 8.37,
           "Fair Top 3 Odds": 4.7,
           "Raw Advantage (L)": -3.1,
@@ -25605,7 +25608,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:02PM",
@@ -25619,7 +25622,7 @@
           "Trainer": "Chris Armstrong (Hoppers Crossing)",
           "Model Price": 24.38,
           "Exposed Form Price": 19.09,
-          "SP-Informed Price": 16.9,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 10.72,
           "Fair Top 3 Odds": 6.06,
           "Raw Advantage (L)": -3.5,
@@ -25644,7 +25647,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "12:02PM",
@@ -25658,7 +25661,7 @@
           "Trainer": "Julie Faulknall (Elphinstone)",
           "Model Price": 309.3,
           "Exposed Form Price": 148.6,
-          "SP-Informed Price": 1206.79,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 128.07,
           "Fair Top 3 Odds": 67.41,
           "Raw Advantage (L)": -7.3,
@@ -25683,7 +25686,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:23PM",
@@ -25697,7 +25700,7 @@
           "Trainer": "Steve Kaltsis (Shady Creek)",
           "Model Price": 1.34,
           "Exposed Form Price": 1.5,
-          "SP-Informed Price": 1.28,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.07,
           "Fair Top 3 Odds": 1.02,
           "Raw Advantage (L)": 3,
@@ -25722,7 +25725,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:23PM",
@@ -25736,7 +25739,7 @@
           "Trainer": "Montesa Sison (Shady Creek)",
           "Model Price": 9.43,
           "Exposed Form Price": 6.97,
-          "SP-Informed Price": 14.36,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.32,
           "Fair Top 3 Odds": 1.46,
           "Raw Advantage (L)": -3,
@@ -25761,7 +25764,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:23PM",
@@ -25775,7 +25778,7 @@
           "Trainer": "Daniel Turnley (Diamond Creek)",
           "Model Price": 20.18,
           "Exposed Form Price": 17.03,
-          "SP-Informed Price": 19.45,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.63,
           "Fair Top 3 Odds": 2.3,
           "Raw Advantage (L)": -3.8,
@@ -25800,7 +25803,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:23PM",
@@ -25814,7 +25817,7 @@
           "Trainer": "Kevin Turner (Lara)",
           "Model Price": 30.55,
           "Exposed Form Price": 21.26,
-          "SP-Informed Price": 28.94,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.42,
           "Fair Top 3 Odds": 3.58,
           "Raw Advantage (L)": -4.6,
@@ -25839,7 +25842,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:23PM",
@@ -25853,7 +25856,7 @@
           "Trainer": "Brian Hodgson (Smythesdale)",
           "Model Price": 45.51,
           "Exposed Form Price": 33.82,
-          "SP-Informed Price": 66.41,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 10.84,
           "Fair Top 3 Odds": 4.95,
           "Raw Advantage (L)": -5.1,
@@ -25878,7 +25881,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:23PM",
@@ -25892,7 +25895,7 @@
           "Trainer": "Paul Ellul (Noble Park North)",
           "Model Price": 59.8,
           "Exposed Form Price": 53.39,
-          "SP-Informed Price": 90.3,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 13.56,
           "Fair Top 3 Odds": 6.18,
           "Raw Advantage (L)": -5.3,
@@ -25917,7 +25920,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:23PM",
@@ -25931,7 +25934,7 @@
           "Trainer": "Billy Galea (Rockbank)",
           "Model Price": 67.81,
           "Exposed Form Price": 56.15,
-          "SP-Informed Price": 48.65,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 16.24,
           "Fair Top 3 Odds": 7.47,
           "Raw Advantage (L)": -5.5,
@@ -25956,7 +25959,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "12:23PM",
@@ -25970,7 +25973,7 @@
           "Trainer": "Julie Chilcott (Heathcote)",
           "Model Price": 68.3,
           "Exposed Form Price": 53.39,
-          "SP-Informed Price": 51.48,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 16.78,
           "Fair Top 3 Odds": 7.82,
           "Raw Advantage (L)": -5.6,
@@ -25995,7 +25998,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:42PM",
@@ -26009,7 +26012,7 @@
           "Trainer": "Emma Scott (Tatura)",
           "Model Price": 1.69,
           "Exposed Form Price": 1.67,
-          "SP-Informed Price": 2.4,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.19,
           "Fair Top 3 Odds": 1.07,
           "Raw Advantage (L)": 2.4,
@@ -26034,7 +26037,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:42PM",
@@ -26048,7 +26051,7 @@
           "Trainer": "Andrew Paraskevas (Pearcedale)",
           "Model Price": 7.94,
           "Exposed Form Price": 7.82,
-          "SP-Informed Price": 4.02,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.81,
           "Fair Top 3 Odds": 1.69,
           "Raw Advantage (L)": -2.4,
@@ -26073,7 +26076,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:42PM",
@@ -26087,7 +26090,7 @@
           "Trainer": "Nick Lecchino (Lethbridge)",
           "Model Price": 8.95,
           "Exposed Form Price": 9.34,
-          "SP-Informed Price": 11.15,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.08,
           "Fair Top 3 Odds": 1.79,
           "Raw Advantage (L)": -2.5,
@@ -26112,7 +26115,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:42PM",
@@ -26126,7 +26129,7 @@
           "Trainer": "Shayne Jarvis (Tyers)",
           "Model Price": 14.57,
           "Exposed Form Price": 13.15,
-          "SP-Informed Price": 9.85,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.18,
           "Fair Top 3 Odds": 2.8,
           "Raw Advantage (L)": -3.5,
@@ -26151,7 +26154,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:42PM",
@@ -26165,7 +26168,7 @@
           "Trainer": "Rodney Clark (Echuca Village)",
           "Model Price": 17.89,
           "Exposed Form Price": null,
-          "SP-Informed Price": 12.06,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 6.36,
           "Fair Top 3 Odds": 3.36,
           "Raw Advantage (L)": -3.7,
@@ -26190,7 +26193,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:42PM",
@@ -26204,7 +26207,7 @@
           "Trainer": "Brian Hodgson (Smythesdale)",
           "Model Price": 37.6,
           "Exposed Form Price": 47.92,
-          "SP-Informed Price": 30.1,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 13.91,
           "Fair Top 3 Odds": 7.14,
           "Raw Advantage (L)": -4.9,
@@ -26229,7 +26232,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "12:42PM",
@@ -26243,7 +26246,7 @@
           "Trainer": "Steve Kaltsis (Shady Creek)",
           "Model Price": 50.92,
           "Exposed Form Price": 45.19,
-          "SP-Informed Price": 35.66,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 16.9,
           "Fair Top 3 Odds": 8.15,
           "Raw Advantage (L)": -5.5,
@@ -26268,7 +26271,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "1:04PM",
@@ -26282,7 +26285,7 @@
           "Trainer": "Geoffrey Mitchell (Spotswood)",
           "Model Price": 3.09,
           "Exposed Form Price": 2.99,
-          "SP-Informed Price": 3.57,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.73,
           "Fair Top 3 Odds": 1.32,
           "Raw Advantage (L)": 0.5,
@@ -26307,7 +26310,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "1:04PM",
@@ -26321,7 +26324,7 @@
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 4.24,
           "Exposed Form Price": 3.81,
-          "SP-Informed Price": 3.9,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.16,
           "Fair Top 3 Odds": 1.52,
           "Raw Advantage (L)": -0.5,
@@ -26346,7 +26349,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "1:04PM",
@@ -26360,7 +26363,7 @@
           "Trainer": "Les Weeks (Tyabb)",
           "Model Price": 7.74,
           "Exposed Form Price": 9.08,
-          "SP-Informed Price": 11.4,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.57,
           "Fair Top 3 Odds": 2.21,
           "Raw Advantage (L)": -1.1,
@@ -26385,7 +26388,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "1:04PM",
@@ -26399,7 +26402,7 @@
           "Trainer": "David Bourke (The Basin)",
           "Model Price": 8.68,
           "Exposed Form Price": 10.89,
-          "SP-Informed Price": 6.01,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.98,
           "Fair Top 3 Odds": 2.44,
           "Raw Advantage (L)": -1.2,
@@ -26424,7 +26427,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "1:04PM",
@@ -26438,7 +26441,7 @@
           "Trainer": "Matthew Lanigan (Rowsley)",
           "Model Price": 12.21,
           "Exposed Form Price": 11.24,
-          "SP-Informed Price": 12.41,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.79,
           "Fair Top 3 Odds": 3.53,
           "Raw Advantage (L)": -1.9,
@@ -26463,7 +26466,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "1:04PM",
@@ -26477,7 +26480,7 @@
           "Trainer": "Jordan Cooper (Lethbridge)",
           "Model Price": 14.45,
           "Exposed Form Price": 15.61,
-          "SP-Informed Price": 12.62,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 6.6,
           "Fair Top 3 Odds": 3.94,
           "Raw Advantage (L)": -2,
@@ -26502,7 +26505,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "1:04PM",
@@ -26516,7 +26519,7 @@
           "Trainer": "David Schwarz (Dallas)",
           "Model Price": 22.42,
           "Exposed Form Price": 20.8,
-          "SP-Informed Price": 20.22,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 9.72,
           "Fair Top 3 Odds": 5.4,
           "Raw Advantage (L)": -2.6,
@@ -26541,7 +26544,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:19PM",
@@ -26555,7 +26558,7 @@
           "Trainer": "Gavin Gledhill (Coomboona)",
           "Model Price": 2.25,
           "Exposed Form Price": 2.49,
-          "SP-Informed Price": 2.72,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.4,
           "Fair Top 3 Odds": 1.17,
           "Raw Advantage (L)": 1.3,
@@ -26580,7 +26583,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:19PM",
@@ -26594,7 +26597,7 @@
           "Trainer": "Maria Barber (Hoddles Creek)",
           "Model Price": 5.02,
           "Exposed Form Price": 4.2,
-          "SP-Informed Price": 4.5,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.23,
           "Fair Top 3 Odds": 1.47,
           "Raw Advantage (L)": -1.3,
@@ -26619,7 +26622,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:19PM",
@@ -26633,7 +26636,7 @@
           "Trainer": "Donald Rhodes (Heyfield)",
           "Model Price": 6.83,
           "Exposed Form Price": 6.46,
-          "SP-Informed Price": 4.61,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.91,
           "Fair Top 3 Odds": 1.76,
           "Raw Advantage (L)": -1.7,
@@ -26658,7 +26661,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:19PM",
@@ -26672,7 +26675,7 @@
           "Trainer": "Daniel Gibbons (Avalon)",
           "Model Price": 18.12,
           "Exposed Form Price": null,
-          "SP-Informed Price": 16.89,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.94,
           "Fair Top 3 Odds": 4.45,
           "Raw Advantage (L)": -3.4,
@@ -26697,7 +26700,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:19PM",
@@ -26711,7 +26714,7 @@
           "Trainer": "Bruce Wellington (Melton)",
           "Model Price": 18.19,
           "Exposed Form Price": 16.81,
-          "SP-Informed Price": 21.84,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.12,
           "Fair Top 3 Odds": 3.83,
           "Raw Advantage (L)": -3.2,
@@ -26736,7 +26739,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:19PM",
@@ -26750,7 +26753,7 @@
           "Trainer": "Rodney Clark (Echuca Village)",
           "Model Price": 23.66,
           "Exposed Form Price": null,
-          "SP-Informed Price": 24.29,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 10.45,
           "Fair Top 3 Odds": 5.88,
           "Raw Advantage (L)": -3.9,
@@ -26775,7 +26778,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:19PM",
@@ -26789,7 +26792,7 @@
           "Trainer": "Bradley Greenough (Pearcedale)",
           "Model Price": 24.19,
           "Exposed Form Price": null,
-          "SP-Informed Price": 24.78,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 10.64,
           "Fair Top 3 Odds": 5.98,
           "Raw Advantage (L)": -3.9,
@@ -26814,7 +26817,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "1:19PM",
@@ -26828,7 +26831,7 @@
           "Trainer": "Kylie Norton (Craigieburn)",
           "Model Price": 63.75,
           "Exposed Form Price": 61.62,
-          "SP-Informed Price": 142.56,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 26.62,
           "Fair Top 3 Odds": 13.88,
           "Raw Advantage (L)": -5.5,
@@ -26853,7 +26856,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:39PM",
@@ -26867,7 +26870,7 @@
           "Trainer": "Maureen Turner (Lara)",
           "Model Price": 1.93,
           "Exposed Form Price": 2.35,
-          "SP-Informed Price": 1.93,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.27,
           "Fair Top 3 Odds": 1.1,
           "Raw Advantage (L)": 1.4,
@@ -26892,7 +26895,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:39PM",
@@ -26906,7 +26909,7 @@
           "Trainer": "Hannah Male (Cranbourne East)",
           "Model Price": 4.21,
           "Exposed Form Price": 2.97,
-          "SP-Informed Price": 4.81,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.74,
           "Fair Top 3 Odds": 1.24,
           "Raw Advantage (L)": -1.4,
@@ -26931,7 +26934,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:39PM",
@@ -26945,7 +26948,7 @@
           "Trainer": "Rebecca Gibbons (Avalon)",
           "Model Price": 11.15,
           "Exposed Form Price": 13.05,
-          "SP-Informed Price": 9.02,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.28,
           "Fair Top 3 Odds": 2.17,
           "Raw Advantage (L)": -2.7,
@@ -26970,7 +26973,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:39PM",
@@ -26984,7 +26987,7 @@
           "Trainer": "Paul Jones (Hoddles Creek)",
           "Model Price": 13.25,
           "Exposed Form Price": 11.82,
-          "SP-Informed Price": 11.51,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.96,
           "Fair Top 3 Odds": 2.46,
           "Raw Advantage (L)": -3.1,
@@ -27009,7 +27012,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:39PM",
@@ -27023,7 +27026,7 @@
           "Trainer": "James Shaw (Northwood)",
           "Model Price": 33.06,
           "Exposed Form Price": null,
-          "SP-Informed Price": 31.53,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 13.13,
           "Fair Top 3 Odds": 6.51,
           "Raw Advantage (L)": -4.7,
@@ -27048,7 +27051,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:39PM",
@@ -27062,7 +27065,7 @@
           "Trainer": "Daniel Gibbons (Avalon)",
           "Model Price": 33.36,
           "Exposed Form Price": null,
-          "SP-Informed Price": 35.48,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 13.7,
           "Fair Top 3 Odds": 6.9,
           "Raw Advantage (L)": -4.9,
@@ -27087,7 +27090,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "1:39PM",
@@ -27101,7 +27104,7 @@
           "Trainer": "Alan Campbell (Drouin)",
           "Model Price": 52.29,
           "Exposed Form Price": 49.19,
-          "SP-Informed Price": 61.4,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 18.47,
           "Fair Top 3 Odds": 8.36,
           "Raw Advantage (L)": -5.4,
@@ -27126,7 +27129,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "1:55PM",
@@ -27140,7 +27143,7 @@
           "Trainer": "Geoffrey Scott-smith (Longwood East)",
           "Model Price": 3.61,
           "Exposed Form Price": 3.52,
-          "SP-Informed Price": 3.15,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.97,
           "Fair Top 3 Odds": 1.45,
           "Raw Advantage (L)": 0.7,
@@ -27165,7 +27168,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "1:55PM",
@@ -27179,7 +27182,7 @@
           "Trainer": "Kylie Norton (Craigieburn)",
           "Model Price": 5.69,
           "Exposed Form Price": 5.79,
-          "SP-Informed Price": 6.11,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.84,
           "Fair Top 3 Odds": 1.91,
           "Raw Advantage (L)": -0.7,
@@ -27204,7 +27207,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "1:55PM",
@@ -27218,7 +27221,7 @@
           "Trainer": "Kelvin Browney (Tynong North)",
           "Model Price": 6.93,
           "Exposed Form Price": 10.28,
-          "SP-Informed Price": 5.37,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.4,
           "Fair Top 3 Odds": 2.22,
           "Raw Advantage (L)": -0.9,
@@ -27243,7 +27246,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "1:55PM",
@@ -27257,7 +27260,7 @@
           "Trainer": "Paul Galea (Melton West)",
           "Model Price": 7.84,
           "Exposed Form Price": 7.97,
-          "SP-Informed Price": 11.12,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.83,
           "Fair Top 3 Odds": 2.49,
           "Raw Advantage (L)": -1.2,
@@ -27282,7 +27285,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "1:55PM",
@@ -27296,7 +27299,7 @@
           "Trainer": "Maria Barber (Hoddles Creek)",
           "Model Price": 10.69,
           "Exposed Form Price": 8.6,
-          "SP-Informed Price": 11.92,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.07,
           "Fair Top 3 Odds": 3.2,
           "Raw Advantage (L)": -1.8,
@@ -27321,7 +27324,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "1:55PM",
@@ -27335,7 +27338,7 @@
           "Trainer": "Ronald Dunne (St Albans)",
           "Model Price": 10.93,
           "Exposed Form Price": 8.19,
-          "SP-Informed Price": 14.73,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.96,
           "Fair Top 3 Odds": 3.03,
           "Raw Advantage (L)": -1.8,
@@ -27360,7 +27363,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "1:55PM",
@@ -27374,7 +27377,7 @@
           "Trainer": "Emma Scott (Tatura)",
           "Model Price": 11.08,
           "Exposed Form Price": null,
-          "SP-Informed Price": 11,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.41,
           "Fair Top 3 Odds": 3.43,
           "Raw Advantage (L)": -1.8,
@@ -27399,7 +27402,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:14PM",
@@ -27413,7 +27416,7 @@
           "Trainer": "Brian Hodgson (Smythesdale)",
           "Model Price": 3.32,
           "Exposed Form Price": 3.61,
-          "SP-Informed Price": 3.09,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.84,
           "Fair Top 3 Odds": 1.38,
           "Raw Advantage (L)": 0.5,
@@ -27438,7 +27441,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:14PM",
@@ -27452,7 +27455,7 @@
           "Trainer": "Donald Rhodes (Heyfield)",
           "Model Price": 4.46,
           "Exposed Form Price": 4.33,
-          "SP-Informed Price": 3.93,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.26,
           "Fair Top 3 Odds": 1.56,
           "Raw Advantage (L)": -0.5,
@@ -27477,7 +27480,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:14PM",
@@ -27491,7 +27494,7 @@
           "Trainer": "Mark Filomeno (Craigieburn)",
           "Model Price": 5.1,
           "Exposed Form Price": 4.58,
-          "SP-Informed Price": 6.27,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.5,
           "Fair Top 3 Odds": 1.67,
           "Raw Advantage (L)": -0.7,
@@ -27516,7 +27519,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:14PM",
@@ -27530,7 +27533,7 @@
           "Trainer": "Derek Faulknall (Elphinstone)",
           "Model Price": 10.51,
           "Exposed Form Price": 9.48,
-          "SP-Informed Price": 8.46,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.96,
           "Fair Top 3 Odds": 3.05,
           "Raw Advantage (L)": -1.9,
@@ -27555,7 +27558,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:14PM",
@@ -27569,7 +27572,7 @@
           "Trainer": "Michael Ryan (Boronia)",
           "Model Price": 12.91,
           "Exposed Form Price": 15.66,
-          "SP-Informed Price": 17.26,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.68,
           "Fair Top 3 Odds": 3.32,
           "Raw Advantage (L)": -1.9,
@@ -27594,7 +27597,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:14PM",
@@ -27608,7 +27611,7 @@
           "Trainer": "David Condon (Devon Meadows)",
           "Model Price": 26.77,
           "Exposed Form Price": 29.46,
-          "SP-Informed Price": 34.1,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 11.64,
           "Fair Top 3 Odds": 6.56,
           "Raw Advantage (L)": -3.1,
@@ -27633,7 +27636,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:14PM",
@@ -27647,7 +27650,7 @@
           "Trainer": "Rebecca Gibbons (Avalon)",
           "Model Price": 27.88,
           "Exposed Form Price": null,
-          "SP-Informed Price": 27.2,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 13.28,
           "Fair Top 3 Odds": 8.03,
           "Raw Advantage (L)": -3.5,
@@ -27672,7 +27675,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "2:14PM",
@@ -27686,7 +27689,7 @@
           "Trainer": "Roslyn Russell (Tatura)",
           "Model Price": 30.63,
           "Exposed Form Price": 26.49,
-          "SP-Informed Price": 48.79,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 13.44,
           "Fair Top 3 Odds": 7.65,
           "Raw Advantage (L)": -3.6,
@@ -27711,7 +27714,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:30PM",
@@ -27725,7 +27728,7 @@
           "Trainer": "Roslyn Russell (Tatura)",
           "Model Price": 4,
           "Exposed Form Price": 3.77,
-          "SP-Informed Price": 7.42,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.18,
           "Fair Top 3 Odds": 1.59,
           "Raw Advantage (L)": 0.8,
@@ -27750,7 +27753,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:30PM",
@@ -27764,7 +27767,7 @@
           "Trainer": "Jennifer Thorpe (Arthurs Creek)",
           "Model Price": 6.76,
           "Exposed Form Price": 6.06,
-          "SP-Informed Price": 4.65,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.34,
           "Fair Top 3 Odds": 2.22,
           "Raw Advantage (L)": -0.8,
@@ -27789,7 +27792,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:30PM",
@@ -27803,7 +27806,7 @@
           "Trainer": "David Condon (Devon Meadows)",
           "Model Price": 7.34,
           "Exposed Form Price": 7.65,
-          "SP-Informed Price": 8.06,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.59,
           "Fair Top 3 Odds": 2.36,
           "Raw Advantage (L)": -0.8,
@@ -27828,7 +27831,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:30PM",
@@ -27842,7 +27845,7 @@
           "Trainer": "Emma Scott (Tatura)",
           "Model Price": 7.89,
           "Exposed Form Price": 7.87,
-          "SP-Informed Price": 8.84,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.94,
           "Fair Top 3 Odds": 2.6,
           "Raw Advantage (L)": -1,
@@ -27867,7 +27870,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:30PM",
@@ -27881,7 +27884,7 @@
           "Trainer": "Trevor Whitford (Willow Grove)",
           "Model Price": 9.14,
           "Exposed Form Price": 11.07,
-          "SP-Informed Price": 11.43,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.36,
           "Fair Top 3 Odds": 2.79,
           "Raw Advantage (L)": -1.1,
@@ -27906,7 +27909,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:30PM",
@@ -27920,7 +27923,7 @@
           "Trainer": "Gerard O'keeffe (Neerim Junction)",
           "Model Price": 9.5,
           "Exposed Form Price": 9.53,
-          "SP-Informed Price": 4.73,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.52,
           "Fair Top 3 Odds": 2.88,
           "Raw Advantage (L)": -1.2,
@@ -27945,7 +27948,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:30PM",
@@ -27959,7 +27962,7 @@
           "Trainer": "Emma Scott (Tatura)",
           "Model Price": 15.94,
           "Exposed Form Price": null,
-          "SP-Informed Price": 13.16,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.81,
           "Fair Top 3 Odds": 4.99,
           "Raw Advantage (L)": -2.1,
@@ -27984,7 +27987,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "2:30PM",
@@ -27998,7 +28001,7 @@
           "Trainer": "Jodie Leek (Warrandyte)",
           "Model Price": 16.22,
           "Exposed Form Price": 15.18,
-          "SP-Informed Price": 26.45,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.72,
           "Fair Top 3 Odds": 4.83,
           "Raw Advantage (L)": -2.2,
@@ -28023,7 +28026,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "2:49PM",
@@ -28037,7 +28040,7 @@
           "Trainer": "Matthew Lanigan (Rowsley)",
           "Model Price": 3.48,
           "Exposed Form Price": 4.34,
-          "SP-Informed Price": 2.17,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.98,
           "Fair Top 3 Odds": 1.49,
           "Raw Advantage (L)": 1,
@@ -28062,7 +28065,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "2:49PM",
@@ -28076,7 +28079,7 @@
           "Trainer": "Brian Hodgson (Smythesdale)",
           "Model Price": 6.49,
           "Exposed Form Price": 6.09,
-          "SP-Informed Price": 9.63,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.1,
           "Fair Top 3 Odds": 2.03,
           "Raw Advantage (L)": -1,
@@ -28101,7 +28104,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "2:49PM",
@@ -28115,7 +28118,7 @@
           "Trainer": "Daniel Gibbons (Avalon)",
           "Model Price": 6.56,
           "Exposed Form Price": 6.27,
-          "SP-Informed Price": 13,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.19,
           "Fair Top 3 Odds": 2.1,
           "Raw Advantage (L)": -1,
@@ -28140,7 +28143,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "2:49PM",
@@ -28154,7 +28157,7 @@
           "Trainer": "James Shaw (Northwood)",
           "Model Price": 6.6,
           "Exposed Form Price": 6.63,
-          "SP-Informed Price": 8.38,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.23,
           "Fair Top 3 Odds": 2.14,
           "Raw Advantage (L)": -1,
@@ -28179,7 +28182,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "2:49PM",
@@ -28193,7 +28196,7 @@
           "Trainer": "Stephen Tabb (Lara)",
           "Model Price": 10.37,
           "Exposed Form Price": 9.93,
-          "SP-Informed Price": 10.1,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.8,
           "Fair Top 3 Odds": 2.97,
           "Raw Advantage (L)": -1.6,
@@ -28218,7 +28221,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "2:49PM",
@@ -28232,7 +28235,7 @@
           "Trainer": "Nick Lecchino (Lethbridge)",
           "Model Price": 15.83,
           "Exposed Form Price": 10.77,
-          "SP-Informed Price": 17.31,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.57,
           "Fair Top 3 Odds": 4.78,
           "Raw Advantage (L)": -2.6,
@@ -28257,7 +28260,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "2:49PM",
@@ -28271,7 +28274,7 @@
           "Trainer": "Emma Scott (Tatura)",
           "Model Price": 16.82,
           "Exposed Form Price": 19.28,
-          "SP-Informed Price": 20.07,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.61,
           "Fair Top 3 Odds": 4.58,
           "Raw Advantage (L)": -2.2,
@@ -28296,7 +28299,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-27",
+          "Date": "2026-09-27T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "2:49PM",
@@ -28310,7 +28313,7 @@
           "Trainer": "Rodney Clark (Echuca Village)",
           "Model Price": 27.95,
           "Exposed Form Price": 20.18,
-          "SP-Informed Price": 31.1,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 12.93,
           "Fair Top 3 Odds": 7.79,
           "Raw Advantage (L)": -3.3,
@@ -28335,7 +28338,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "10:27AM",
@@ -28349,7 +28352,7 @@
           "Trainer": "Leslie Hughes (Giffard)",
           "Model Price": 3.97,
           "Exposed Form Price": null,
-          "SP-Informed Price": 3.8,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.13,
           "Fair Top 3 Odds": 1.52,
           "Raw Advantage (L)": 0.3,
@@ -28374,7 +28377,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "10:27AM",
@@ -28388,7 +28391,7 @@
           "Trainer": "Chloe Bowman (Kilmany)",
           "Model Price": 4.68,
           "Exposed Form Price": null,
-          "SP-Informed Price": 4.46,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.41,
           "Fair Top 3 Odds": 1.66,
           "Raw Advantage (L)": -0.3,
@@ -28413,7 +28416,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "10:27AM",
@@ -28427,7 +28430,7 @@
           "Trainer": "Judy Brereton (Tanjil South)",
           "Model Price": 5.33,
           "Exposed Form Price": null,
-          "SP-Informed Price": 5.13,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.68,
           "Fair Top 3 Odds": 1.8,
           "Raw Advantage (L)": -0.5,
@@ -28452,7 +28455,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "10:27AM",
@@ -28466,7 +28469,7 @@
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 7.42,
           "Exposed Form Price": 5.55,
-          "SP-Informed Price": 5.89,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.55,
           "Fair Top 3 Odds": 2.27,
           "Raw Advantage (L)": -1.2,
@@ -28491,7 +28494,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "10:27AM",
@@ -28505,7 +28508,7 @@
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 8.74,
           "Exposed Form Price": 7.08,
-          "SP-Informed Price": 14.91,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.02,
           "Fair Top 3 Odds": 2.5,
           "Raw Advantage (L)": -1.4,
@@ -28530,7 +28533,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 1,
           "Time": "10:27AM",
@@ -28544,7 +28547,7 @@
           "Trainer": "Brad Sands (Pakenham)",
           "Model Price": 10.26,
           "Exposed Form Price": 6.78,
-          "SP-Informed Price": 12.36,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.73,
           "Fair Top 3 Odds": 2.9,
           "Raw Advantage (L)": -1.8,
@@ -28569,7 +28572,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "10:44AM",
@@ -28583,7 +28586,7 @@
           "Trainer": "Justin Bowman (Kilmany)",
           "Model Price": 1.92,
           "Exposed Form Price": 2.05,
-          "SP-Informed Price": 2.78,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.24,
           "Fair Top 3 Odds": 1.08,
           "Raw Advantage (L)": 1,
@@ -28608,7 +28611,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "10:44AM",
@@ -28622,7 +28625,7 @@
           "Trainer": "Nick Lecchino (Lethbridge)",
           "Model Price": 4,
           "Exposed Form Price": 3.95,
-          "SP-Informed Price": 3.01,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.73,
           "Fair Top 3 Odds": 1.23,
           "Raw Advantage (L)": -1,
@@ -28647,7 +28650,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "10:44AM",
@@ -28661,7 +28664,7 @@
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 10.54,
           "Exposed Form Price": 11.65,
-          "SP-Informed Price": 5.33,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.93,
           "Fair Top 3 Odds": 1.95,
           "Raw Advantage (L)": -2.2,
@@ -28686,7 +28689,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "10:44AM",
@@ -28700,7 +28703,7 @@
           "Trainer": "Christian Wilk (Tanjil South)",
           "Model Price": 10.58,
           "Exposed Form Price": 7.9,
-          "SP-Informed Price": 13.6,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.09,
           "Fair Top 3 Odds": 2.11,
           "Raw Advantage (L)": -2.6,
@@ -28725,7 +28728,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "10:44AM",
@@ -28739,7 +28742,7 @@
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 42.21,
           "Exposed Form Price": 36.33,
-          "SP-Informed Price": 31.56,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 14.39,
           "Fair Top 3 Odds": 6.26,
           "Raw Advantage (L)": -4.3,
@@ -28764,7 +28767,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 2,
           "Time": "10:44AM",
@@ -28778,7 +28781,7 @@
           "Trainer": "Cooper Hayes (Mill Park)",
           "Model Price": 59.74,
           "Exposed Form Price": 51.26,
-          "SP-Informed Price": 66.62,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 20.87,
           "Fair Top 3 Odds": 9.14,
           "Raw Advantage (L)": -4.7,
@@ -28803,7 +28806,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "11:02AM",
@@ -28817,7 +28820,7 @@
           "Trainer": "Marlene Schmidt (Devon Meadows)",
           "Model Price": 3.32,
           "Exposed Form Price": 3.06,
-          "SP-Informed Price": 3.84,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.81,
           "Fair Top 3 Odds": 1.34,
           "Raw Advantage (L)": 0.4,
@@ -28842,7 +28845,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "11:02AM",
@@ -28856,7 +28859,7 @@
           "Trainer": "Gavin Gledhill (Coomboona)",
           "Model Price": 4.61,
           "Exposed Form Price": 5.12,
-          "SP-Informed Price": 6.92,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.4,
           "Fair Top 3 Odds": 1.65,
           "Raw Advantage (L)": -0.4,
@@ -28881,7 +28884,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "11:02AM",
@@ -28895,7 +28898,7 @@
           "Trainer": "Ellisa Franklin (Cape Woolamai)",
           "Model Price": 5.45,
           "Exposed Form Price": 7.69,
-          "SP-Informed Price": 3.92,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.67,
           "Fair Top 3 Odds": 1.75,
           "Raw Advantage (L)": -0.4,
@@ -28920,7 +28923,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "11:02AM",
@@ -28934,7 +28937,7 @@
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 6.99,
           "Exposed Form Price": 5.73,
-          "SP-Informed Price": 6.25,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.22,
           "Fair Top 3 Odds": 2.02,
           "Raw Advantage (L)": -1.1,
@@ -28959,7 +28962,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "11:02AM",
@@ -28973,7 +28976,7 @@
           "Trainer": "Bernie Ender (St Albans)",
           "Model Price": 7.94,
           "Exposed Form Price": 6.67,
-          "SP-Informed Price": 7.04,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.55,
           "Fair Top 3 Odds": 2.17,
           "Raw Advantage (L)": -1.2,
@@ -28998,7 +29001,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 3,
           "Time": "11:02AM",
@@ -29012,7 +29015,7 @@
           "Trainer": "Victor Gay (Hastings)",
           "Model Price": 34.18,
           "Exposed Form Price": 42.65,
-          "SP-Informed Price": 26.23,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 15.13,
           "Fair Top 3 Odds": 8.47,
           "Raw Advantage (L)": -2.9,
@@ -29037,7 +29040,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "11:20AM",
@@ -29051,7 +29054,7 @@
           "Trainer": "Leslie Hughes (Giffard)",
           "Model Price": 3.14,
           "Exposed Form Price": 2.98,
-          "SP-Informed Price": 3.41,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.76,
           "Fair Top 3 Odds": 1.34,
           "Raw Advantage (L)": 0.4,
@@ -29076,7 +29079,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "11:20AM",
@@ -29090,7 +29093,7 @@
           "Trainer": "Kate Gorman (Tanjil South)",
           "Model Price": 4.71,
           "Exposed Form Price": 6.08,
-          "SP-Informed Price": 5.64,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.39,
           "Fair Top 3 Odds": 1.65,
           "Raw Advantage (L)": -0.4,
@@ -29115,7 +29118,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "11:20AM",
@@ -29129,7 +29132,7 @@
           "Trainer": "Jason Stemmer (Bangholme)",
           "Model Price": 5.97,
           "Exposed Form Price": 5.64,
-          "SP-Informed Price": 6.17,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.92,
           "Fair Top 3 Odds": 1.92,
           "Raw Advantage (L)": -0.9,
@@ -29154,7 +29157,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "11:20AM",
@@ -29168,7 +29171,7 @@
           "Trainer": "Julie Faulknall (Elphinstone)",
           "Model Price": 7.9,
           "Exposed Form Price": 7.7,
-          "SP-Informed Price": 6.78,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.66,
           "Fair Top 3 Odds": 2.3,
           "Raw Advantage (L)": -1.2,
@@ -29193,7 +29196,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "11:20AM",
@@ -29207,7 +29210,7 @@
           "Trainer": "Steven Collyer (Coburg North)",
           "Model Price": 19.93,
           "Exposed Form Price": 19.39,
-          "SP-Informed Price": 13.7,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 8.76,
           "Fair Top 3 Odds": 5.03,
           "Raw Advantage (L)": -2.5,
@@ -29232,7 +29235,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "11:20AM",
@@ -29246,7 +29249,7 @@
           "Trainer": "Garry Johnson (Chum Creek)",
           "Model Price": 20.79,
           "Exposed Form Price": 17.7,
-          "SP-Informed Price": 22.07,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 8.99,
           "Fair Top 3 Odds": 5.17,
           "Raw Advantage (L)": -2.6,
@@ -29271,7 +29274,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "11:20AM",
@@ -29285,7 +29288,7 @@
           "Trainer": "Ronald Dunne (St Albans)",
           "Model Price": 25.15,
           "Exposed Form Price": 24.3,
-          "SP-Informed Price": 16.83,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 11.05,
           "Fair Top 3 Odds": 6.43,
           "Raw Advantage (L)": -2.8,
@@ -29310,7 +29313,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 4,
           "Time": "11:20AM",
@@ -29324,7 +29327,7 @@
           "Trainer": "Cody Hose (Lara)",
           "Model Price": 26.94,
           "Exposed Form Price": 23.03,
-          "SP-Informed Price": 23.56,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 12.18,
           "Fair Top 3 Odds": 7.07,
           "Raw Advantage (L)": -3,
@@ -29349,7 +29352,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "11:37AM",
@@ -29363,7 +29366,7 @@
           "Trainer": "Derek Faulknall (Elphinstone)",
           "Model Price": 1.83,
           "Exposed Form Price": 2.15,
-          "SP-Informed Price": 2.39,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.25,
           "Fair Top 3 Odds": 1.1,
           "Raw Advantage (L)": 1.9,
@@ -29388,7 +29391,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "11:37AM",
@@ -29402,7 +29405,7 @@
           "Trainer": "Leslie Hughes (Giffard)",
           "Model Price": 6.17,
           "Exposed Form Price": 5.22,
-          "SP-Informed Price": 7.1,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.41,
           "Fair Top 3 Odds": 1.54,
           "Raw Advantage (L)": -1.9,
@@ -29427,7 +29430,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "11:37AM",
@@ -29441,7 +29444,7 @@
           "Trainer": "Debra Winter (Drouin)",
           "Model Price": 7.86,
           "Exposed Form Price": 6.52,
-          "SP-Informed Price": 5.82,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.06,
           "Fair Top 3 Odds": 1.82,
           "Raw Advantage (L)": -2.2,
@@ -29466,7 +29469,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "11:37AM",
@@ -29480,7 +29483,7 @@
           "Trainer": "Christian Wilk (Tanjil South)",
           "Model Price": 16.66,
           "Exposed Form Price": 18.81,
-          "SP-Informed Price": 10.31,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 6.35,
           "Fair Top 3 Odds": 3.42,
           "Raw Advantage (L)": -3.1,
@@ -29505,7 +29508,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "11:37AM",
@@ -29519,7 +29522,7 @@
           "Trainer": "Cooper Hayes (Mill Park)",
           "Model Price": 22.2,
           "Exposed Form Price": 17.88,
-          "SP-Informed Price": 11.13,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.68,
           "Fair Top 3 Odds": 3.9,
           "Raw Advantage (L)": -3.6,
@@ -29544,7 +29547,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "11:37AM",
@@ -29558,7 +29561,7 @@
           "Trainer": "Marlene Schmidt (Devon Meadows)",
           "Model Price": 32.45,
           "Exposed Form Price": 24.66,
-          "SP-Informed Price": 25.6,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 11.37,
           "Fair Top 3 Odds": 5.72,
           "Raw Advantage (L)": -4.2,
@@ -29583,7 +29586,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 5,
           "Time": "11:37AM",
@@ -29597,7 +29600,7 @@
           "Trainer": "Jason Stemmer (Bangholme)",
           "Model Price": 33.61,
           "Exposed Form Price": 24.35,
-          "SP-Informed Price": 23.34,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 11.93,
           "Fair Top 3 Odds": 6.04,
           "Raw Advantage (L)": -4.3,
@@ -29622,7 +29625,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "11:55AM",
@@ -29636,7 +29639,7 @@
           "Trainer": "Steven Collyer (Coburg North)",
           "Model Price": 1.97,
           "Exposed Form Price": 2.26,
-          "SP-Informed Price": 2.84,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.3,
           "Fair Top 3 Odds": 1.12,
           "Raw Advantage (L)": 1.5,
@@ -29661,7 +29664,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "11:55AM",
@@ -29675,7 +29678,7 @@
           "Trainer": "Brad Sands (Pakenham)",
           "Model Price": 5.74,
           "Exposed Form Price": 6.19,
-          "SP-Informed Price": 4.93,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.41,
           "Fair Top 3 Odds": 1.58,
           "Raw Advantage (L)": -1.5,
@@ -29700,7 +29703,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "11:55AM",
@@ -29714,7 +29717,7 @@
           "Trainer": "Tony Tufo (Labertouche)",
           "Model Price": 8.58,
           "Exposed Form Price": 6.57,
-          "SP-Informed Price": 5.89,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.47,
           "Fair Top 3 Odds": 2.04,
           "Raw Advantage (L)": -2.3,
@@ -29739,7 +29742,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "11:55AM",
@@ -29753,7 +29756,7 @@
           "Trainer": "Frank Toth (Pakenham)",
           "Model Price": 13.74,
           "Exposed Form Price": 11.55,
-          "SP-Informed Price": 9.82,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.32,
           "Fair Top 3 Odds": 2.92,
           "Raw Advantage (L)": -2.8,
@@ -29778,7 +29781,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "11:55AM",
@@ -29792,7 +29795,7 @@
           "Trainer": "Garry Johnson (Chum Creek)",
           "Model Price": 15.49,
           "Exposed Form Price": 13.99,
-          "SP-Informed Price": 12.59,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.98,
           "Fair Top 3 Odds": 3.23,
           "Raw Advantage (L)": -2.9,
@@ -29817,7 +29820,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "11:55AM",
@@ -29831,7 +29834,7 @@
           "Trainer": "Jodi Thorpe (Arthurs Creek)",
           "Model Price": 28.49,
           "Exposed Form Price": 21.47,
-          "SP-Informed Price": 18.95,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 10.89,
           "Fair Top 3 Odds": 5.65,
           "Raw Advantage (L)": -3.9,
@@ -29856,7 +29859,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 6,
           "Time": "11:55AM",
@@ -29870,7 +29873,7 @@
           "Trainer": "Derek Faulknall (Elphinstone)",
           "Model Price": 32.79,
           "Exposed Form Price": 25.31,
-          "SP-Informed Price": 24.02,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 12.56,
           "Fair Top 3 Odds": 6.61,
           "Raw Advantage (L)": -4.1,
@@ -29895,7 +29898,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "12:12PM",
@@ -29909,7 +29912,7 @@
           "Trainer": "Justin Bowman (Kilmany)",
           "Model Price": 3.47,
           "Exposed Form Price": 4.64,
-          "SP-Informed Price": 3.04,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.91,
           "Fair Top 3 Odds": 1.41,
           "Raw Advantage (L)": 0.5,
@@ -29934,7 +29937,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "12:12PM",
@@ -29948,7 +29951,7 @@
           "Trainer": "Richard Anchen (Nagambie)",
           "Model Price": 4.59,
           "Exposed Form Price": 5.02,
-          "SP-Informed Price": 4,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.33,
           "Fair Top 3 Odds": 1.6,
           "Raw Advantage (L)": -0.5,
@@ -29973,7 +29976,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "12:12PM",
@@ -29987,7 +29990,7 @@
           "Trainer": "Elaine Wood (Nambrok)",
           "Model Price": 5.49,
           "Exposed Form Price": 3.49,
-          "SP-Informed Price": 15.27,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.67,
           "Fair Top 3 Odds": 1.77,
           "Raw Advantage (L)": -1.1,
@@ -30012,7 +30015,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "12:12PM",
@@ -30026,7 +30029,7 @@
           "Trainer": "Pasquale Derubeis (Cape Woolamai)",
           "Model Price": 5.9,
           "Exposed Form Price": null,
-          "SP-Informed Price": 5.83,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.89,
           "Fair Top 3 Odds": 1.87,
           "Raw Advantage (L)": -0.8,
@@ -30051,7 +30054,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "12:12PM",
@@ -30065,7 +30068,7 @@
           "Trainer": "Gary Mcmillan (Nambrok)",
           "Model Price": 10.12,
           "Exposed Form Price": 7.56,
-          "SP-Informed Price": 6.33,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.44,
           "Fair Top 3 Odds": 2.64,
           "Raw Advantage (L)": -1.9,
@@ -30090,7 +30093,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "12:12PM",
@@ -30104,7 +30107,7 @@
           "Trainer": "Geoff Smith (Mill Park)",
           "Model Price": 24.56,
           "Exposed Form Price": 24.09,
-          "SP-Informed Price": 39.95,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 10.6,
           "Fair Top 3 Odds": 5.9,
           "Raw Advantage (L)": -3.2,
@@ -30129,7 +30132,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 7,
           "Time": "12:12PM",
@@ -30143,7 +30146,7 @@
           "Trainer": "William Majoor (Tanjil South)",
           "Model Price": 336.43,
           "Exposed Form Price": 321.57,
-          "SP-Informed Price": 1088.14,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 135.86,
           "Fair Top 3 Odds": 70.11,
           "Raw Advantage (L)": -7.4,
@@ -30168,7 +30171,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "12:28PM",
@@ -30182,7 +30185,7 @@
           "Trainer": "Elaine Wood (Nambrok)",
           "Model Price": 2.1,
           "Exposed Form Price": 2.19,
-          "SP-Informed Price": 1.91,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.33,
           "Fair Top 3 Odds": 1.1,
           "Raw Advantage (L)": 1.3,
@@ -30207,7 +30210,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "12:28PM",
@@ -30221,7 +30224,7 @@
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 5.55,
           "Exposed Form Price": 6,
-          "SP-Informed Price": 5.3,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.34,
           "Fair Top 3 Odds": 1.45,
           "Raw Advantage (L)": -1.3,
@@ -30246,7 +30249,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "12:28PM",
@@ -30260,7 +30263,7 @@
           "Trainer": "Bernie Ender (St Albans)",
           "Model Price": 5.91,
           "Exposed Form Price": 5.23,
-          "SP-Informed Price": 8.73,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.53,
           "Fair Top 3 Odds": 1.54,
           "Raw Advantage (L)": -1.5,
@@ -30285,7 +30288,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "12:28PM",
@@ -30299,7 +30302,7 @@
           "Trainer": "Gary Mcmillan (Nambrok)",
           "Model Price": 7.32,
           "Exposed Form Price": 6.94,
-          "SP-Informed Price": 7.45,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.05,
           "Fair Top 3 Odds": 1.76,
           "Raw Advantage (L)": -1.7,
@@ -30324,7 +30327,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "12:28PM",
@@ -30338,7 +30341,7 @@
           "Trainer": "Garry Johnson (Chum Creek)",
           "Model Price": 47.62,
           "Exposed Form Price": 35.5,
-          "SP-Informed Price": 57.18,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 19.07,
           "Fair Top 3 Odds": 9.6,
           "Raw Advantage (L)": -4.5,
@@ -30363,7 +30366,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 8,
           "Time": "12:28PM",
@@ -30377,7 +30380,7 @@
           "Trainer": "Pasquale Derubeis (Cape Woolamai)",
           "Model Price": 60.56,
           "Exposed Form Price": 70.88,
-          "SP-Informed Price": 44.38,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 23.62,
           "Fair Top 3 Odds": 11.6,
           "Raw Advantage (L)": -4.4,
@@ -30402,7 +30405,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "12:47PM",
@@ -30416,7 +30419,7 @@
           "Trainer": "Kathryne Tabb (Lara)",
           "Model Price": 1.7,
           "Exposed Form Price": 1.63,
-          "SP-Informed Price": 2.11,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.13,
           "Fair Top 3 Odds": 1.03,
           "Raw Advantage (L)": 1.2,
@@ -30441,7 +30444,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "12:47PM",
@@ -30455,7 +30458,7 @@
           "Trainer": "Justin Bowman (Kilmany)",
           "Model Price": 3.81,
           "Exposed Form Price": null,
-          "SP-Informed Price": 2.98,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.51,
           "Fair Top 3 Odds": 1.14,
           "Raw Advantage (L)": -1.2,
@@ -30480,7 +30483,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "12:47PM",
@@ -30494,7 +30497,7 @@
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 12.67,
           "Exposed Form Price": 13.02,
-          "SP-Informed Price": 9.83,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.19,
           "Fair Top 3 Odds": 1.66,
           "Raw Advantage (L)": -3.1,
@@ -30519,7 +30522,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "12:47PM",
@@ -30533,7 +30536,7 @@
           "Trainer": "Chloe Bowman (Kilmany)",
           "Model Price": 16.7,
           "Exposed Form Price": 16.56,
-          "SP-Informed Price": 12.36,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.51,
           "Fair Top 3 Odds": 2.18,
           "Raw Advantage (L)": -3.6,
@@ -30558,7 +30561,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "12:47PM",
@@ -30572,7 +30575,7 @@
           "Trainer": "Geoff Smith (Mill Park)",
           "Model Price": 139.42,
           "Exposed Form Price": 145.99,
-          "SP-Informed Price": 143.3,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 41.03,
           "Fair Top 3 Odds": 14.36,
           "Raw Advantage (L)": -7.1,
@@ -30597,7 +30600,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 9,
           "Time": "12:47PM",
@@ -30611,7 +30614,7 @@
           "Trainer": "Ian Blencowe (Leongatha)",
           "Model Price": 339.4,
           "Exposed Form Price": 303.97,
-          "SP-Informed Price": 1212.25,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 108.78,
           "Fair Top 3 Odds": 43.09,
           "Raw Advantage (L)": -9.8,
@@ -30636,7 +30639,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "1:04PM",
@@ -30650,7 +30653,7 @@
           "Trainer": "Cody Hose (Lara)",
           "Model Price": 3.71,
           "Exposed Form Price": 2.94,
-          "SP-Informed Price": 3.06,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.94,
           "Fair Top 3 Odds": 1.39,
           "Raw Advantage (L)": 0,
@@ -30675,7 +30678,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "1:04PM",
@@ -30689,10 +30692,10 @@
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 4.21,
           "Exposed Form Price": 5.03,
-          "SP-Informed Price": 6.21,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.17,
           "Fair Top 3 Odds": 1.5,
-          "Raw Advantage (L)": -0,
+          "Raw Advantage (L)": 0,
           "LS Rating": 99.1,
           "Median Rating L3": 99.1,
           "Median Rating L7": 99.1,
@@ -30714,7 +30717,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "1:04PM",
@@ -30728,7 +30731,7 @@
           "Trainer": "Nick Lecchino (Lethbridge)",
           "Model Price": 5.14,
           "Exposed Form Price": null,
-          "SP-Informed Price": 4.5,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.61,
           "Fair Top 3 Odds": 1.74,
           "Raw Advantage (L)": -0.3,
@@ -30753,7 +30756,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "1:04PM",
@@ -30767,7 +30770,7 @@
           "Trainer": "Mathew Tabb (Lara)",
           "Model Price": 5.29,
           "Exposed Form Price": 4.61,
-          "SP-Informed Price": 8.04,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.56,
           "Fair Top 3 Odds": 1.68,
           "Raw Advantage (L)": -0.5,
@@ -30792,7 +30795,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "1:04PM",
@@ -30806,7 +30809,7 @@
           "Trainer": "Steve Kaltsis (Shady Creek)",
           "Model Price": 13.02,
           "Exposed Form Price": 12.54,
-          "SP-Informed Price": 7.79,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.79,
           "Fair Top 3 Odds": 3.36,
           "Raw Advantage (L)": -1.8,
@@ -30831,7 +30834,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 10,
           "Time": "1:04PM",
@@ -30845,7 +30848,7 @@
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 30.84,
           "Exposed Form Price": 38.24,
-          "SP-Informed Price": 26.9,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 12.98,
           "Fair Top 3 Odds": 6.98,
           "Raw Advantage (L)": -2.9,
@@ -30870,7 +30873,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "1:27PM",
@@ -30884,7 +30887,7 @@
           "Trainer": "Pasquale Derubeis (Cape Woolamai)",
           "Model Price": 1.6,
           "Exposed Form Price": 1.52,
-          "SP-Informed Price": 3.65,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.14,
           "Fair Top 3 Odds": 1.04,
           "Raw Advantage (L)": 1.9,
@@ -30909,7 +30912,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "1:27PM",
@@ -30923,7 +30926,7 @@
           "Trainer": "Jordan Formosa (Heathcote)",
           "Model Price": 7.97,
           "Exposed Form Price": 7.62,
-          "SP-Informed Price": 5.84,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.82,
           "Fair Top 3 Odds": 1.68,
           "Raw Advantage (L)": -2.2,
@@ -30948,7 +30951,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "1:27PM",
@@ -30962,7 +30965,7 @@
           "Trainer": "Gary Peach (Cape Clear)",
           "Model Price": 8.41,
           "Exposed Form Price": 13.49,
-          "SP-Informed Price": 3.47,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.84,
           "Fair Top 3 Odds": 1.66,
           "Raw Advantage (L)": -1.9,
@@ -30987,7 +30990,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "1:27PM",
@@ -31001,7 +31004,7 @@
           "Trainer": "Stephen Toner (Bunyip)",
           "Model Price": 16.64,
           "Exposed Form Price": 16.39,
-          "SP-Informed Price": 11.83,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.2,
           "Fair Top 3 Odds": 2.65,
           "Raw Advantage (L)": -3.1,
@@ -31026,7 +31029,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "1:27PM",
@@ -31040,7 +31043,7 @@
           "Trainer": "Gavin Gledhill (Coomboona)",
           "Model Price": 26.3,
           "Exposed Form Price": 27.04,
-          "SP-Informed Price": 7.64,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 8.29,
           "Fair Top 3 Odds": 4.09,
           "Raw Advantage (L)": -3.7,
@@ -31065,7 +31068,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 11,
           "Time": "1:27PM",
@@ -31079,7 +31082,7 @@
           "Trainer": "Cody Hose (Lara)",
           "Model Price": 31.68,
           "Exposed Form Price": 27.32,
-          "SP-Informed Price": 19.37,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 9.61,
           "Fair Top 3 Odds": 4.59,
           "Raw Advantage (L)": -4.1,
@@ -31104,7 +31107,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "1:47PM",
@@ -31118,7 +31121,7 @@
           "Trainer": "Elaine Wood (Nambrok)",
           "Model Price": 2.02,
           "Exposed Form Price": 1.86,
-          "SP-Informed Price": 2.26,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.26,
           "Fair Top 3 Odds": 1.08,
           "Raw Advantage (L)": 0.7,
@@ -31143,7 +31146,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "1:47PM",
@@ -31157,7 +31160,7 @@
           "Trainer": "Johnny Portelli (Melton South)",
           "Model Price": 3.5,
           "Exposed Form Price": 3.51,
-          "SP-Informed Price": 3.33,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.62,
           "Fair Top 3 Odds": 1.2,
           "Raw Advantage (L)": -0.7,
@@ -31182,7 +31185,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "1:47PM",
@@ -31196,7 +31199,7 @@
           "Trainer": "Peter Kelly (Longwarry North)",
           "Model Price": 11.25,
           "Exposed Form Price": 14.62,
-          "SP-Informed Price": 9.36,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.32,
           "Fair Top 3 Odds": 2.14,
           "Raw Advantage (L)": -2.1,
@@ -31221,7 +31224,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "1:47PM",
@@ -31235,7 +31238,7 @@
           "Trainer": "Martin Galea (Sunshine North)",
           "Model Price": 17.8,
           "Exposed Form Price": 26.76,
-          "SP-Informed Price": 19.87,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 6.71,
           "Fair Top 3 Odds": 3.17,
           "Raw Advantage (L)": -2.6,
@@ -31260,7 +31263,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "1:47PM",
@@ -31274,7 +31277,7 @@
           "Trainer": "Jason Stemmer (Bangholme)",
           "Model Price": 19.13,
           "Exposed Form Price": 21.28,
-          "SP-Informed Price": 12.42,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 6.94,
           "Fair Top 3 Odds": 3.2,
           "Raw Advantage (L)": -2.9,
@@ -31299,7 +31302,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "Healesville",
           "Race": 12,
           "Time": "1:47PM",
@@ -31313,7 +31316,7 @@
           "Trainer": "Garry Johnson (Chum Creek)",
           "Model Price": 44.62,
           "Exposed Form Price": 42.21,
-          "SP-Informed Price": 50.5,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 15.76,
           "Fair Top 3 Odds": 6.91,
           "Raw Advantage (L)": -4.1,
@@ -31338,7 +31341,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-28T18:22:00",
@@ -31352,7 +31355,7 @@
           "Trainer": "Mick Campbell",
           "Model Price": 2.82,
           "Exposed Form Price": 2.7,
-          "SP-Informed Price": 2.78,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.65,
           "Fair Top 3 Odds": 1.29,
           "Raw Advantage (L)": 0.7,
@@ -31377,7 +31380,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-28T18:22:00",
@@ -31391,7 +31394,7 @@
           "Trainer": "Dean Clarson",
           "Model Price": 5.53,
           "Exposed Form Price": 8.32,
-          "SP-Informed Price": 6.74,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.7,
           "Fair Top 3 Odds": 1.82,
           "Raw Advantage (L)": -0.7,
@@ -31416,7 +31419,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-28T18:22:00",
@@ -31430,7 +31433,7 @@
           "Trainer": "Jason Bloomfield",
           "Model Price": 8.02,
           "Exposed Form Price": 4.58,
-          "SP-Informed Price": 3.86,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.79,
           "Fair Top 3 Odds": 2.5,
           "Raw Advantage (L)": -2,
@@ -31455,7 +31458,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-28T18:22:00",
@@ -31469,7 +31472,7 @@
           "Trainer": "Ashley Bock",
           "Model Price": 10.75,
           "Exposed Form Price": 10.31,
-          "SP-Informed Price": 17.3,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.81,
           "Fair Top 3 Odds": 2.91,
           "Raw Advantage (L)": -1.8,
@@ -31494,7 +31497,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-28T18:22:00",
@@ -31508,7 +31511,7 @@
           "Trainer": "Malcolm Cuneo",
           "Model Price": 12.65,
           "Exposed Form Price": 22.26,
-          "SP-Informed Price": 49.77,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.73,
           "Fair Top 3 Odds": 3.44,
           "Raw Advantage (L)": -1.8,
@@ -31533,7 +31536,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-28T18:22:00",
@@ -31547,7 +31550,7 @@
           "Trainer": "Peter Heterick",
           "Model Price": 14.66,
           "Exposed Form Price": 19.67,
-          "SP-Informed Price": 10.31,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 6.59,
           "Fair Top 3 Odds": 3.92,
           "Raw Advantage (L)": -2.1,
@@ -31572,7 +31575,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-28T18:22:00",
@@ -31586,7 +31589,7 @@
           "Trainer": "Christopher Riordon",
           "Model Price": 18.25,
           "Exposed Form Price": 18,
-          "SP-Informed Price": 32.61,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 8.06,
           "Fair Top 3 Odds": 4.73,
           "Raw Advantage (L)": -2.6,
@@ -31611,7 +31614,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 1,
           "Time": "2026-09-28T18:22:00",
@@ -31625,7 +31628,7 @@
           "Trainer": "Cameron Scott",
           "Model Price": 22.39,
           "Exposed Form Price": 23.1,
-          "SP-Informed Price": 36.79,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 9.87,
           "Fair Top 3 Odds": 5.74,
           "Raw Advantage (L)": -2.8,
@@ -31650,7 +31653,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-28T18:38:00",
@@ -31664,7 +31667,7 @@
           "Trainer": "Paul Cauchi",
           "Model Price": 3.25,
           "Exposed Form Price": 2.68,
-          "SP-Informed Price": 3.66,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.84,
           "Fair Top 3 Odds": 1.39,
           "Raw Advantage (L)": 0.2,
@@ -31689,7 +31692,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-28T18:38:00",
@@ -31703,7 +31706,7 @@
           "Trainer": "Alan Cameron",
           "Model Price": 5.34,
           "Exposed Form Price": null,
-          "SP-Informed Price": 3.08,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.69,
           "Fair Top 3 Odds": 1.83,
           "Raw Advantage (L)": -0.2,
@@ -31728,7 +31731,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-28T18:38:00",
@@ -31742,7 +31745,7 @@
           "Trainer": "Riley Evans",
           "Model Price": 5.52,
           "Exposed Form Price": 3.3,
-          "SP-Informed Price": 9.46,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.75,
           "Fair Top 3 Odds": 1.93,
           "Raw Advantage (L)": -1.1,
@@ -31767,7 +31770,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-28T18:38:00",
@@ -31781,7 +31784,7 @@
           "Trainer": "Merv Page",
           "Model Price": 9.2,
           "Exposed Form Price": null,
-          "SP-Informed Price": 8.5,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.28,
           "Fair Top 3 Odds": 2.64,
           "Raw Advantage (L)": -1.1,
@@ -31806,7 +31809,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-28T18:38:00",
@@ -31820,7 +31823,7 @@
           "Trainer": "Kerry Perrett",
           "Model Price": 10.81,
           "Exposed Form Price": 15.47,
-          "SP-Informed Price": 10.44,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.8,
           "Fair Top 3 Odds": 2.84,
           "Raw Advantage (L)": -1.2,
@@ -31845,7 +31848,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-28T18:38:00",
@@ -31859,7 +31862,7 @@
           "Trainer": "Jason Bloomfield",
           "Model Price": 17.96,
           "Exposed Form Price": 31.03,
-          "SP-Informed Price": 25.76,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.92,
           "Fair Top 3 Odds": 4.56,
           "Raw Advantage (L)": -1.8,
@@ -31884,7 +31887,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-28T18:38:00",
@@ -31898,7 +31901,7 @@
           "Trainer": "Lindsay Joyce",
           "Model Price": 19.05,
           "Exposed Form Price": 30.54,
-          "SP-Informed Price": 34.76,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 8.4,
           "Fair Top 3 Odds": 4.81,
           "Raw Advantage (L)": -1.9,
@@ -31923,7 +31926,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 2,
           "Time": "2026-09-28T18:38:00",
@@ -31937,7 +31940,7 @@
           "Trainer": "Lina Langmaid",
           "Model Price": 69.62,
           "Exposed Form Price": 111,
-          "SP-Informed Price": 64.37,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 30.16,
           "Fair Top 3 Odds": 16.81,
           "Raw Advantage (L)": -3.7,
@@ -31962,7 +31965,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-28T18:58:00",
@@ -31976,7 +31979,7 @@
           "Trainer": "John Jeffrey",
           "Model Price": 4.52,
           "Exposed Form Price": 3.76,
-          "SP-Informed Price": 4.45,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.37,
           "Fair Top 3 Odds": 1.67,
           "Raw Advantage (L)": -0.4,
@@ -32001,7 +32004,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-28T18:58:00",
@@ -32015,7 +32018,7 @@
           "Trainer": "Merv Page",
           "Model Price": 4.82,
           "Exposed Form Price": null,
-          "SP-Informed Price": 2.51,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.52,
           "Fair Top 3 Odds": 1.76,
           "Raw Advantage (L)": 0.4,
@@ -32040,7 +32043,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-28T18:58:00",
@@ -32054,7 +32057,7 @@
           "Trainer": "Jasen Woods",
           "Model Price": 5.88,
           "Exposed Form Price": 5.09,
-          "SP-Informed Price": 6.66,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.95,
           "Fair Top 3 Odds": 1.97,
           "Raw Advantage (L)": -0.7,
@@ -32079,7 +32082,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-28T18:58:00",
@@ -32093,7 +32096,7 @@
           "Trainer": "Lina Langmaid",
           "Model Price": 6.22,
           "Exposed Form Price": 7.05,
-          "SP-Informed Price": 14.76,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.98,
           "Fair Top 3 Odds": 1.94,
           "Raw Advantage (L)": -0.6,
@@ -32118,7 +32121,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-28T18:58:00",
@@ -32132,7 +32135,7 @@
           "Trainer": "Peter Cauchi",
           "Model Price": 7.02,
           "Exposed Form Price": 5.3,
-          "SP-Informed Price": 22.02,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.45,
           "Fair Top 3 Odds": 2.27,
           "Raw Advantage (L)": -1.1,
@@ -32157,7 +32160,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-28T18:58:00",
@@ -32171,7 +32174,7 @@
           "Trainer": "Paul Stadnikoff",
           "Model Price": 17.92,
           "Exposed Form Price": 14.36,
-          "SP-Informed Price": 16.31,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 8.17,
           "Fair Top 3 Odds": 4.88,
           "Raw Advantage (L)": -2.3,
@@ -32196,7 +32199,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-28T18:58:00",
@@ -32210,7 +32213,7 @@
           "Trainer": "Riley Evans",
           "Model Price": 31.41,
           "Exposed Form Price": 40.44,
-          "SP-Informed Price": 24.75,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 13.8,
           "Fair Top 3 Odds": 7.85,
           "Raw Advantage (L)": -2.6,
@@ -32235,7 +32238,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 3,
           "Time": "2026-09-28T18:58:00",
@@ -32249,7 +32252,7 @@
           "Trainer": "Tammy Hancock",
           "Model Price": 100.54,
           "Exposed Form Price": 182.83,
-          "SP-Informed Price": 80.75,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 45.29,
           "Fair Top 3 Odds": 26.42,
           "Raw Advantage (L)": -4.1,
@@ -32274,7 +32277,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-28T19:21:00",
@@ -32288,7 +32291,7 @@
           "Trainer": "Jasen Woods",
           "Model Price": 3.61,
           "Exposed Form Price": 3.64,
-          "SP-Informed Price": 2.97,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.96,
           "Fair Top 3 Odds": 1.44,
           "Raw Advantage (L)": -0.1,
@@ -32313,7 +32316,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-28T19:21:00",
@@ -32327,7 +32330,7 @@
           "Trainer": "Jamie Hosking",
           "Model Price": 4.1,
           "Exposed Form Price": null,
-          "SP-Informed Price": 2.48,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.19,
           "Fair Top 3 Odds": 1.58,
           "Raw Advantage (L)": 0.1,
@@ -32352,7 +32355,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-28T19:21:00",
@@ -32366,7 +32369,7 @@
           "Trainer": "Kevin Macintosh",
           "Model Price": 7.95,
           "Exposed Form Price": 8.95,
-          "SP-Informed Price": 22.63,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.63,
           "Fair Top 3 Odds": 2.25,
           "Raw Advantage (L)": -1.1,
@@ -32391,7 +32394,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-28T19:21:00",
@@ -32405,7 +32408,7 @@
           "Trainer": "Wade Liddell",
           "Model Price": 9.28,
           "Exposed Form Price": 7.51,
-          "SP-Informed Price": 9.65,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.41,
           "Fair Top 3 Odds": 2.75,
           "Raw Advantage (L)": -1.6,
@@ -32430,7 +32433,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-28T19:21:00",
@@ -32444,7 +32447,7 @@
           "Trainer": "Anne Clelland",
           "Model Price": 9.86,
           "Exposed Form Price": 6.25,
-          "SP-Informed Price": 37.86,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.53,
           "Fair Top 3 Odds": 2.83,
           "Raw Advantage (L)": -2,
@@ -32469,7 +32472,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-28T19:21:00",
@@ -32483,7 +32486,7 @@
           "Trainer": "Merv Page",
           "Model Price": 11.46,
           "Exposed Form Price": 6.75,
-          "SP-Informed Price": 18.3,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.55,
           "Fair Top 3 Odds": 3.5,
           "Raw Advantage (L)": -2.3,
@@ -32508,7 +32511,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-28T19:21:00",
@@ -32522,7 +32525,7 @@
           "Trainer": "Jason Bloomfield",
           "Model Price": 22.33,
           "Exposed Form Price": 26.92,
-          "SP-Informed Price": 41.08,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 9.75,
           "Fair Top 3 Odds": 5.54,
           "Raw Advantage (L)": -2.4,
@@ -32547,7 +32550,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 4,
           "Time": "2026-09-28T19:21:00",
@@ -32561,7 +32564,7 @@
           "Trainer": "Malcolm Cuneo",
           "Model Price": 81.61,
           "Exposed Form Price": 181.5,
-          "SP-Informed Price": 139.38,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 36.21,
           "Fair Top 3 Odds": 20.35,
           "Raw Advantage (L)": -3.9,
@@ -32586,7 +32589,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-28T19:47:00",
@@ -32600,7 +32603,7 @@
           "Trainer": "Paul Cauchi",
           "Model Price": 2.3,
           "Exposed Form Price": 2.43,
-          "SP-Informed Price": 1.76,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.43,
           "Fair Top 3 Odds": 1.18,
           "Raw Advantage (L)": 1.6,
@@ -32625,7 +32628,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-28T19:47:00",
@@ -32639,7 +32642,7 @@
           "Trainer": "Jeanette Cauchi",
           "Model Price": 6.37,
           "Exposed Form Price": 5.38,
-          "SP-Informed Price": 10.53,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.89,
           "Fair Top 3 Odds": 1.87,
           "Raw Advantage (L)": -1.6,
@@ -32664,7 +32667,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-28T19:47:00",
@@ -32678,7 +32681,7 @@
           "Trainer": "Dean Clarson",
           "Model Price": 7.44,
           "Exposed Form Price": 6.02,
-          "SP-Informed Price": 14.98,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.32,
           "Fair Top 3 Odds": 2.1,
           "Raw Advantage (L)": -1.8,
@@ -32703,7 +32706,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-28T19:47:00",
@@ -32717,7 +32720,7 @@
           "Trainer": "Chloe Muller",
           "Model Price": 8.5,
           "Exposed Form Price": 7.04,
-          "SP-Informed Price": 11.37,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.74,
           "Fair Top 3 Odds": 2.3,
           "Raw Advantage (L)": -2,
@@ -32742,7 +32745,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-28T19:47:00",
@@ -32756,7 +32759,7 @@
           "Trainer": "Lina Langmaid",
           "Model Price": 12.96,
           "Exposed Form Price": 18.97,
-          "SP-Informed Price": 15.37,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.27,
           "Fair Top 3 Odds": 2.95,
           "Raw Advantage (L)": -2.2,
@@ -32781,7 +32784,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-28T19:47:00",
@@ -32795,7 +32798,7 @@
           "Trainer": "Christopher Riordon",
           "Model Price": 26.07,
           "Exposed Form Price": 40.9,
-          "SP-Informed Price": 21.12,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 10.35,
           "Fair Top 3 Odds": 5.54,
           "Raw Advantage (L)": -3.1,
@@ -32820,7 +32823,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-28T19:47:00",
@@ -32834,7 +32837,7 @@
           "Trainer": "Brett Hazelgrove",
           "Model Price": 35.28,
           "Exposed Form Price": 84.39,
-          "SP-Informed Price": 18.18,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 14.14,
           "Fair Top 3 Odds": 7.59,
           "Raw Advantage (L)": -3.3,
@@ -32859,7 +32862,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 5,
           "Time": "2026-09-28T19:47:00",
@@ -32873,7 +32876,7 @@
           "Trainer": "Peter Sullivan",
           "Model Price": 86.2,
           "Exposed Form Price": 196.48,
-          "SP-Informed Price": 70.67,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 35.43,
           "Fair Top 3 Odds": 18.99,
           "Raw Advantage (L)": -4.6,
@@ -32898,7 +32901,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-28T20:09:00",
@@ -32912,7 +32915,7 @@
           "Trainer": "Jonathan Childs",
           "Model Price": 3.63,
           "Exposed Form Price": null,
-          "SP-Informed Price": 2.71,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.98,
           "Fair Top 3 Odds": 1.46,
           "Raw Advantage (L)": 0.6,
@@ -32937,7 +32940,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-28T20:09:00",
@@ -32951,7 +32954,7 @@
           "Trainer": "Peter Sullivan",
           "Model Price": 4.98,
           "Exposed Form Price": 6.38,
-          "SP-Informed Price": 3.92,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.36,
           "Fair Top 3 Odds": 1.57,
           "Raw Advantage (L)": -0.6,
@@ -32976,7 +32979,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-28T20:09:00",
@@ -32990,7 +32993,7 @@
           "Trainer": "Paul Cauchi",
           "Model Price": 5.21,
           "Exposed Form Price": 3.47,
-          "SP-Informed Price": 6.83,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.64,
           "Fair Top 3 Odds": 1.8,
           "Raw Advantage (L)": -1.3,
@@ -33015,7 +33018,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-28T20:09:00",
@@ -33029,7 +33032,7 @@
           "Trainer": "Geoff Draheim",
           "Model Price": 5.7,
           "Exposed Form Price": 2.93,
-          "SP-Informed Price": 18.08,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.05,
           "Fair Top 3 Odds": 2.14,
           "Raw Advantage (L)": -1.9,
@@ -33054,7 +33057,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-28T20:09:00",
@@ -33068,7 +33071,7 @@
           "Trainer": "Reg Hazelgrove",
           "Model Price": 15.71,
           "Exposed Form Price": 24.15,
-          "SP-Informed Price": 10.72,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 6.66,
           "Fair Top 3 Odds": 3.7,
           "Raw Advantage (L)": -2.1,
@@ -33093,7 +33096,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-28T20:09:00",
@@ -33107,7 +33110,7 @@
           "Trainer": "Renald Attard",
           "Model Price": 18.94,
           "Exposed Form Price": 33.06,
-          "SP-Informed Price": 28.28,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 8.1,
           "Fair Top 3 Odds": 4.52,
           "Raw Advantage (L)": -2.3,
@@ -33132,7 +33135,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-28T20:09:00",
@@ -33146,7 +33149,7 @@
           "Trainer": "Keith Boan",
           "Model Price": 32.32,
           "Exposed Form Price": 82.99,
-          "SP-Informed Price": 23.21,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 13.98,
           "Fair Top 3 Odds": 7.79,
           "Raw Advantage (L)": -2.9,
@@ -33171,7 +33174,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 6,
           "Time": "2026-09-28T20:09:00",
@@ -33185,7 +33188,7 @@
           "Trainer": "Malcolm Cuneo",
           "Model Price": 118.02,
           "Exposed Form Price": 182.16,
-          "SP-Informed Price": 384.62,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 49.84,
           "Fair Top 3 Odds": 27.12,
           "Raw Advantage (L)": -4.7,
@@ -33210,7 +33213,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-28T20:31:00",
@@ -33224,7 +33227,7 @@
           "Trainer": "Jamie Hosking",
           "Model Price": 2.48,
           "Exposed Form Price": 2.14,
-          "SP-Informed Price": 4.08,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.46,
           "Fair Top 3 Odds": 1.17,
           "Raw Advantage (L)": 0.6,
@@ -33249,7 +33252,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-28T20:31:00",
@@ -33263,7 +33266,7 @@
           "Trainer": "Paul Cauchi",
           "Model Price": 4,
           "Exposed Form Price": 3.9,
-          "SP-Informed Price": 4.08,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2,
           "Fair Top 3 Odds": 1.41,
           "Raw Advantage (L)": -0.6,
@@ -33288,7 +33291,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-28T20:31:00",
@@ -33302,7 +33305,7 @@
           "Trainer": "Mal Grant",
           "Model Price": 7.28,
           "Exposed Form Price": 5.06,
-          "SP-Informed Price": 7,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.14,
           "Fair Top 3 Odds": 1.95,
           "Raw Advantage (L)": -1.7,
@@ -33327,7 +33330,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-28T20:31:00",
@@ -33341,7 +33344,7 @@
           "Trainer": "Kevin Macintosh",
           "Model Price": 11.1,
           "Exposed Form Price": 27.38,
-          "SP-Informed Price": 6.88,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.73,
           "Fair Top 3 Odds": 2.63,
           "Raw Advantage (L)": -1.6,
@@ -33366,7 +33369,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-28T20:31:00",
@@ -33380,7 +33383,7 @@
           "Trainer": "Peter Sullivan",
           "Model Price": 20.23,
           "Exposed Form Price": 52.5,
-          "SP-Informed Price": 10.05,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 8.47,
           "Fair Top 3 Odds": 4.5,
           "Raw Advantage (L)": -2.4,
@@ -33405,7 +33408,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-28T20:31:00",
@@ -33419,7 +33422,7 @@
           "Trainer": "Reg Hazelgrove",
           "Model Price": 27.98,
           "Exposed Form Price": 109.78,
-          "SP-Informed Price": 15.89,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 11.81,
           "Fair Top 3 Odds": 6.29,
           "Raw Advantage (L)": -2.7,
@@ -33444,7 +33447,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-28T20:31:00",
@@ -33458,7 +33461,7 @@
           "Trainer": "Keith Boan",
           "Model Price": 38.33,
           "Exposed Form Price": 103.85,
-          "SP-Informed Price": 19.41,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 15.93,
           "Fair Top 3 Odds": 8.28,
           "Raw Advantage (L)": -3.2,
@@ -33483,7 +33486,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 7,
           "Time": "2026-09-28T20:31:00",
@@ -33497,7 +33500,7 @@
           "Trainer": "Malcolm Cuneo",
           "Model Price": 133.34,
           "Exposed Form Price": 205.36,
-          "SP-Informed Price": 132.75,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 54.19,
           "Fair Top 3 Odds": 26.94,
           "Raw Advantage (L)": -5,
@@ -33522,7 +33525,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-28T20:49:00",
@@ -33536,7 +33539,7 @@
           "Trainer": "Jonathan Childs",
           "Model Price": 3.11,
           "Exposed Form Price": 2.62,
-          "SP-Informed Price": 3.32,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.73,
           "Fair Top 3 Odds": 1.32,
           "Raw Advantage (L)": 0.1,
@@ -33561,7 +33564,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-28T20:49:00",
@@ -33575,7 +33578,7 @@
           "Trainer": "Andy Mulrine",
           "Model Price": 3.27,
           "Exposed Form Price": 2.74,
-          "SP-Informed Price": 3.38,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.79,
           "Fair Top 3 Odds": 1.34,
           "Raw Advantage (L)": -0.1,
@@ -33600,7 +33603,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-28T20:49:00",
@@ -33614,7 +33617,7 @@
           "Trainer": "Ashley Bock",
           "Model Price": 7,
           "Exposed Form Price": 9.15,
-          "SP-Informed Price": 8.88,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.1,
           "Fair Top 3 Odds": 1.9,
           "Raw Advantage (L)": -0.8,
@@ -33639,7 +33642,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-28T20:49:00",
@@ -33653,7 +33656,7 @@
           "Trainer": "Chloe Muller",
           "Model Price": 10.28,
           "Exposed Form Price": 16.74,
-          "SP-Informed Price": 13.82,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.45,
           "Fair Top 3 Odds": 2.58,
           "Raw Advantage (L)": -1.2,
@@ -33678,7 +33681,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-28T20:49:00",
@@ -33692,7 +33695,7 @@
           "Trainer": "Brett Hazelgrove",
           "Model Price": 17.02,
           "Exposed Form Price": 28.31,
-          "SP-Informed Price": 7.36,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 7.13,
           "Fair Top 3 Odds": 3.92,
           "Raw Advantage (L)": -1.9,
@@ -33717,7 +33720,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-28T20:49:00",
@@ -33731,7 +33734,7 @@
           "Trainer": "Peter Sullivan",
           "Model Price": 25.11,
           "Exposed Form Price": 43.73,
-          "SP-Informed Price": 19.45,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 10.64,
           "Fair Top 3 Odds": 5.83,
           "Raw Advantage (L)": -2.4,
@@ -33756,7 +33759,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-28T20:49:00",
@@ -33770,7 +33773,7 @@
           "Trainer": "Tammy Hancock",
           "Model Price": 39.6,
           "Exposed Form Price": 90.67,
-          "SP-Informed Price": 39.18,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 16.89,
           "Fair Top 3 Odds": 9.27,
           "Raw Advantage (L)": -2.9,
@@ -33795,7 +33798,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 8,
           "Time": "2026-09-28T20:49:00",
@@ -33809,7 +33812,7 @@
           "Trainer": "Christopher Kadniak",
           "Model Price": 114.18,
           "Exposed Form Price": 63.5,
-          "SP-Informed Price": 202.05,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 43.14,
           "Fair Top 3 Odds": 20.6,
           "Raw Advantage (L)": -5.8,
@@ -33834,7 +33837,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-28T21:11:00",
@@ -33848,7 +33851,7 @@
           "Trainer": "Barry Kitchener",
           "Model Price": 1.94,
           "Exposed Form Price": 1.6,
-          "SP-Informed Price": 4.47,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.28,
           "Fair Top 3 Odds": 1.09,
           "Raw Advantage (L)": 0.9,
@@ -33873,7 +33876,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-28T21:11:00",
@@ -33887,7 +33890,7 @@
           "Trainer": "Terry Priest",
           "Model Price": 5.51,
           "Exposed Form Price": 11.58,
-          "SP-Informed Price": 2.2,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.3,
           "Fair Top 3 Odds": 1.48,
           "Raw Advantage (L)": -0.9,
@@ -33912,7 +33915,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-28T21:11:00",
@@ -33926,7 +33929,7 @@
           "Trainer": "Malcolm Cuneo",
           "Model Price": 8.67,
           "Exposed Form Price": 19.92,
-          "SP-Informed Price": 7.22,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.43,
           "Fair Top 3 Odds": 1.91,
           "Raw Advantage (L)": -1.5,
@@ -33951,7 +33954,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-28T21:11:00",
@@ -33965,7 +33968,7 @@
           "Trainer": "George Kadniak",
           "Model Price": 9.74,
           "Exposed Form Price": 8,
-          "SP-Informed Price": 10.73,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.89,
           "Fair Top 3 Odds": 2.28,
           "Raw Advantage (L)": -2.3,
@@ -33990,7 +33993,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-28T21:11:00",
@@ -34004,7 +34007,7 @@
           "Trainer": "Bob Adams",
           "Model Price": 26.43,
           "Exposed Form Price": 19.63,
-          "SP-Informed Price": 34.49,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 8.99,
           "Fair Top 3 Odds": 4.66,
           "Raw Advantage (L)": -3.7,
@@ -34029,7 +34032,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-28T21:11:00",
@@ -34043,7 +34046,7 @@
           "Trainer": "Ashley Bock",
           "Model Price": 31.6,
           "Exposed Form Price": 18.9,
-          "SP-Informed Price": 188.67,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 11.87,
           "Fair Top 3 Odds": 6.48,
           "Raw Advantage (L)": -4.5,
@@ -34068,7 +34071,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-28T21:11:00",
@@ -34082,7 +34085,7 @@
           "Trainer": "Riley Evans",
           "Model Price": 86.45,
           "Exposed Form Price": 162.61,
-          "SP-Informed Price": 21.34,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 32.89,
           "Fair Top 3 Odds": 16.39,
           "Raw Advantage (L)": -4.7,
@@ -34107,7 +34110,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 9,
           "Time": "2026-09-28T21:11:00",
@@ -34121,7 +34124,7 @@
           "Trainer": "Geoff Draheim",
           "Model Price": 258.5,
           "Exposed Form Price": 636.99,
-          "SP-Informed Price": 116.07,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 102.01,
           "Fair Top 3 Odds": 51.78,
           "Raw Advantage (L)": -6.1,
@@ -34146,7 +34149,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-28T21:33:00",
@@ -34160,7 +34163,7 @@
           "Trainer": "Stephen Mcdermott",
           "Model Price": 2.85,
           "Exposed Form Price": 5.3,
-          "SP-Informed Price": 2.1,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.57,
           "Fair Top 3 Odds": 1.22,
           "Raw Advantage (L)": 0.4,
@@ -34185,7 +34188,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-28T21:33:00",
@@ -34199,7 +34202,7 @@
           "Trainer": "Chloe Muller",
           "Model Price": 2.87,
           "Exposed Form Price": 2.65,
-          "SP-Informed Price": 2.78,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.51,
           "Fair Top 3 Odds": 1.17,
           "Raw Advantage (L)": -0.4,
@@ -34224,7 +34227,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-28T21:33:00",
@@ -34238,7 +34241,7 @@
           "Trainer": "Hayden Bock",
           "Model Price": 6.62,
           "Exposed Form Price": 3.52,
-          "SP-Informed Price": 20.02,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 3.15,
           "Fair Top 3 Odds": 1.91,
           "Raw Advantage (L)": -2.3,
@@ -34263,7 +34266,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-28T21:33:00",
@@ -34277,7 +34280,7 @@
           "Trainer": "Ashley Bock",
           "Model Price": 13.74,
           "Exposed Form Price": 19.05,
-          "SP-Informed Price": 78.91,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.34,
           "Fair Top 3 Odds": 2.53,
           "Raw Advantage (L)": -2.2,
@@ -34302,7 +34305,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-28T21:33:00",
@@ -34316,7 +34319,7 @@
           "Trainer": "Alan Cameron",
           "Model Price": 24.87,
           "Exposed Form Price": 13.17,
-          "SP-Informed Price": 24.93,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 9.98,
           "Fair Top 3 Odds": 5.04,
           "Raw Advantage (L)": -4.1,
@@ -34341,7 +34344,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-28T21:33:00",
@@ -34355,7 +34358,7 @@
           "Trainer": "Reg Hazelgrove",
           "Model Price": 64.59,
           "Exposed Form Price": 136.44,
-          "SP-Informed Price": 31.37,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 25.28,
           "Fair Top 3 Odds": 11.41,
           "Raw Advantage (L)": -4.1,
@@ -34380,7 +34383,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-28T21:33:00",
@@ -34394,7 +34397,7 @@
           "Trainer": "Riley Evans",
           "Model Price": 80.86,
           "Exposed Form Price": 107.42,
-          "SP-Informed Price": 37.83,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 31.25,
           "Fair Top 3 Odds": 14.01,
           "Raw Advantage (L)": -4.6,
@@ -34419,7 +34422,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 10,
           "Time": "2026-09-28T21:33:00",
@@ -34433,7 +34436,7 @@
           "Trainer": "Lina Langmaid",
           "Model Price": 114.29,
           "Exposed Form Price": 240.98,
-          "SP-Informed Price": 287.95,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 46.07,
           "Fair Top 3 Odds": 20.73,
           "Raw Advantage (L)": -4.9,
@@ -34458,7 +34461,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-28T21:55:00",
@@ -34472,7 +34475,7 @@
           "Trainer": "Keith Boan",
           "Model Price": 3.15,
           "Exposed Form Price": null,
-          "SP-Informed Price": 1.98,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 1.78,
           "Fair Top 3 Odds": 1.36,
           "Raw Advantage (L)": 1,
@@ -34497,7 +34500,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-28T21:55:00",
@@ -34511,7 +34514,7 @@
           "Trainer": "Ashley Bock",
           "Model Price": 4.23,
           "Exposed Form Price": 3.19,
-          "SP-Informed Price": 7.47,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.16,
           "Fair Top 3 Odds": 1.5,
           "Raw Advantage (L)": -1,
@@ -34536,7 +34539,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-28T21:55:00",
@@ -34550,7 +34553,7 @@
           "Trainer": "Jonathan Childs",
           "Model Price": 5.35,
           "Exposed Form Price": 4.41,
-          "SP-Informed Price": 11.3,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.57,
           "Fair Top 3 Odds": 1.69,
           "Raw Advantage (L)": -1.2,
@@ -34575,7 +34578,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-28T21:55:00",
@@ -34589,7 +34592,7 @@
           "Trainer": "Carlin Wendt",
           "Model Price": 10.58,
           "Exposed Form Price": 7.56,
-          "SP-Informed Price": 9.59,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.76,
           "Fair Top 3 Odds": 2.83,
           "Raw Advantage (L)": -2.3,
@@ -34614,7 +34617,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-28T21:55:00",
@@ -34628,7 +34631,7 @@
           "Trainer": "Ashley Bock",
           "Model Price": 11.64,
           "Exposed Form Price": 7.11,
-          "SP-Informed Price": 25.94,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.26,
           "Fair Top 3 Odds": 3.16,
           "Raw Advantage (L)": -2.7,
@@ -34653,7 +34656,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-28T21:55:00",
@@ -34667,7 +34670,7 @@
           "Trainer": "Reg Hazelgrove",
           "Model Price": 15.33,
           "Exposed Form Price": 33.66,
-          "SP-Informed Price": 10.22,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 6.48,
           "Fair Top 3 Odds": 3.6,
           "Raw Advantage (L)": -2.1,
@@ -34692,7 +34695,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-28T21:55:00",
@@ -34706,7 +34709,7 @@
           "Trainer": "Riley Evans",
           "Model Price": 86.94,
           "Exposed Form Price": 109.78,
-          "SP-Informed Price": 31.41,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 36.47,
           "Fair Top 3 Odds": 19.25,
           "Raw Advantage (L)": -4.6,
@@ -34731,7 +34734,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 11,
           "Time": "2026-09-28T21:55:00",
@@ -34745,7 +34748,7 @@
           "Trainer": "Lina Langmaid",
           "Model Price": 424.11,
           "Exposed Form Price": 709.28,
-          "SP-Informed Price": 761.07,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 181.64,
           "Fair Top 3 Odds": 99.81,
           "Raw Advantage (L)": -6.6,
@@ -34770,7 +34773,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-28T22:13:00",
@@ -34784,7 +34787,7 @@
           "Trainer": "Jeffrey Henzell",
           "Model Price": 3.9,
           "Exposed Form Price": 4.68,
-          "SP-Informed Price": 7.67,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.01,
           "Fair Top 3 Odds": 1.43,
           "Raw Advantage (L)": -0.1,
@@ -34809,7 +34812,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-28T22:13:00",
@@ -34823,7 +34826,7 @@
           "Trainer": "Kerry Perrett",
           "Model Price": 4.59,
           "Exposed Form Price": 18.38,
-          "SP-Informed Price": 2.35,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.4,
           "Fair Top 3 Odds": 1.7,
           "Raw Advantage (L)": 0.1,
@@ -34848,7 +34851,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-28T22:13:00",
@@ -34862,7 +34865,7 @@
           "Trainer": "Terry Priest",
           "Model Price": 4.6,
           "Exposed Form Price": 3.02,
-          "SP-Informed Price": 4.28,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 2.46,
           "Fair Top 3 Odds": 1.7,
           "Raw Advantage (L)": -0.9,
@@ -34887,7 +34890,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-28T22:13:00",
@@ -34901,7 +34904,7 @@
           "Trainer": "Ashley Bock",
           "Model Price": 9.3,
           "Exposed Form Price": 5.52,
-          "SP-Informed Price": 19.27,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 4.5,
           "Fair Top 3 Odds": 2.9,
           "Raw Advantage (L)": -2,
@@ -34926,7 +34929,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-28T22:13:00",
@@ -34940,7 +34943,7 @@
           "Trainer": "Renald Attard",
           "Model Price": 11.84,
           "Exposed Form Price": 16.45,
-          "SP-Informed Price": 13.75,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.22,
           "Fair Top 3 Odds": 3.04,
           "Raw Advantage (L)": -1.5,
@@ -34965,7 +34968,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-28T22:13:00",
@@ -34979,7 +34982,7 @@
           "Trainer": "Christopher Kadniak",
           "Model Price": 13.65,
           "Exposed Form Price": 10.22,
-          "SP-Informed Price": 18.54,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 5.92,
           "Fair Top 3 Odds": 3.45,
           "Raw Advantage (L)": -2.2,
@@ -35004,7 +35007,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-28T22:13:00",
@@ -35018,7 +35021,7 @@
           "Trainer": "Ashley Bock",
           "Model Price": 24.55,
           "Exposed Form Price": 16.91,
-          "SP-Informed Price": 33.34,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 11.21,
           "Fair Top 3 Odds": 6.56,
           "Raw Advantage (L)": -3.2,
@@ -35043,7 +35046,7 @@
           "Scratched": false
         },
         {
-          "Date": "2026-09-28",
+          "Date": "2026-09-28T00:00:00",
           "Venue": "The Q Straight",
           "Race": 12,
           "Time": "2026-09-28T22:13:00",
@@ -35057,7 +35060,7 @@
           "Trainer": "Shane Topping",
           "Model Price": 422.73,
           "Exposed Form Price": 497.55,
-          "SP-Informed Price": 633.13,
+          "SP-Informed Price": null,
           "Fair Top 2 Odds": 193.27,
           "Fair Top 3 Odds": 110.44,
           "Raw Advantage (L)": -6.5,
@@ -54839,20 +54842,6 @@
           "league": "afl"
         }
       ]
-    },
-    {
-      "file": "AFL_weekly_betting_report.html",
-      "model": "AFL round summary",
-      "sport": "AFL",
-      "extension": "html",
-      "modified": "2026-06-29 20:41:13",
-      "size": 1445157,
-      "fileUrl": "/files/AFL_weekly_betting_report.html?v=1782729673-1445157",
-      "sheets": [],
-      "defaultSheet": "",
-      "columns": [],
-      "rowCount": 0,
-      "rows": []
     }
   ]
 }
