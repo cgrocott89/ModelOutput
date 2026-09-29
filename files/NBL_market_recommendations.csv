@@ -1,0 +1,7 @@
+"Date","Game","Bookmaker","Market","Bet","Price","Expected Return","Confidence","Stake Units","Macro Confirmation"
+"2026-09-30","brisbane bullets at sydney kings","PlayUp","Line","sydney kings -6.5",1.9,"13.3%","standard",1,""
+"2026-09-30","brisbane bullets at sydney kings","PointsBet (AU)","Total","Under 194.5",1.9,"32.2%","high",1,"supports"
+"2026-10-01","melbourne united at tasmania jackjumpers","TAB","Line","melbourne united -4.5",1.95,"12%","standard",1,""
+"2026-10-01","melbourne united at tasmania jackjumpers","PlayUp","Total","Under 183.5",1.9,"21.5%","high",1,"supports"
+"2026-10-02","adelaide 36ers at illawarra hawks","TAB","Line","adelaide 36ers -5.5",1.9,"21.2%","standard",1,""
+"2026-10-02","adelaide 36ers at illawarra hawks","PointsBet (AU)","Total","Over 185.5",1.9,"10.7%","standard",0.5,"conflicts"
