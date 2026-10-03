@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03 15:42:05",
+  "generatedAt": "2026-10-03 15:51:58",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -1995,7 +1995,8 @@
       "defaultSheet": "",
       "columns": [
         "Date",
-        "Game",
+        "Home",
+        "Away",
         "Bookmaker",
         "Market",
         "Bet",
@@ -2009,7 +2010,8 @@
       "rows": [
         {
           "Date": "2026-10-03",
-          "Game": "cairns taipans at melbourne united",
+          "Home": "melbourne united",
+          "Away": "cairns taipans",
           "Bookmaker": "TABtouch",
           "Market": "Total",
           "Bet": "Under 181.5",
@@ -2021,7 +2023,8 @@
         },
         {
           "Date": "2026-10-03",
-          "Game": "tasmania jackjumpers at brisbane bullets",
+          "Home": "brisbane bullets",
+          "Away": "tasmania jackjumpers",
           "Bookmaker": "Betfair",
           "Market": "H2H",
           "Bet": "brisbane bullets",
@@ -2033,7 +2036,8 @@
         },
         {
           "Date": "2026-10-03",
-          "Game": "tasmania jackjumpers at brisbane bullets",
+          "Home": "brisbane bullets",
+          "Away": "tasmania jackjumpers",
           "Bookmaker": "TABtouch",
           "Market": "Total",
           "Bet": "Under 181.5",
@@ -2045,7 +2049,8 @@
         },
         {
           "Date": "2026-10-04",
-          "Game": "nz breakers at adelaide 36ers",
+          "Home": "adelaide 36ers",
+          "Away": "nz breakers",
           "Bookmaker": "SportsBet",
           "Market": "Line",
           "Bet": "adelaide 36ers -3.5",
@@ -2057,7 +2062,8 @@
         },
         {
           "Date": "2026-10-04",
-          "Game": "nz breakers at adelaide 36ers",
+          "Home": "adelaide 36ers",
+          "Away": "nz breakers",
           "Bookmaker": "TAB",
           "Market": "Total",
           "Bet": "Over 182.5",
@@ -37558,7 +37564,8 @@
       "columns": [
         "Date",
         "Start",
-        "Game",
+        "Home",
+        "Away",
         "V8 Home Line",
         "V2 Total",
         "1H Total",
@@ -37575,7 +37582,8 @@
         {
           "Date": "2026-10-03",
           "Start": "2026-10-03 05:30 PM AEST",
-          "Game": "tasmania jackjumpers at brisbane bullets",
+          "Home": "brisbane bullets",
+          "Away": "tasmania jackjumpers",
           "V8 Home Line": -11.3,
           "V2 Total": 177.7,
           "1H Total": 93.8,
@@ -37590,7 +37598,8 @@
         {
           "Date": "2026-10-03",
           "Start": "2026-10-03 07:30 PM AEST",
-          "Game": "cairns taipans at melbourne united",
+          "Home": "melbourne united",
+          "Away": "cairns taipans",
           "V8 Home Line": -11.9,
           "V2 Total": 176.2,
           "1H Total": 82.4,
@@ -37605,7 +37614,8 @@
         {
           "Date": "2026-10-04",
           "Start": "2026-10-04 03:00 PM AEDT",
-          "Game": "illawarra hawks at south east melbourne phoenix",
+          "Home": "south east melbourne phoenix",
+          "Away": "illawarra hawks",
           "V8 Home Line": -1.1,
           "V2 Total": 189.7,
           "1H Total": 94.1,
@@ -37620,7 +37630,8 @@
         {
           "Date": "2026-10-04",
           "Start": "2026-10-04 05:00 PM AEDT",
-          "Game": "nz breakers at adelaide 36ers",
+          "Home": "adelaide 36ers",
+          "Away": "nz breakers",
           "V8 Home Line": -10.1,
           "V2 Total": 187.7,
           "1H Total": 95.3,
@@ -37635,7 +37646,8 @@
         {
           "Date": "2026-10-07",
           "Start": "2026-10-07 07:30 PM AEDT",
-          "Game": "melbourne united at adelaide 36ers",
+          "Home": "adelaide 36ers",
+          "Away": "melbourne united",
           "V8 Home Line": -7.2,
           "V2 Total": 180.5,
           "1H Total": 90,
@@ -37650,7 +37662,8 @@
         {
           "Date": "2026-10-08",
           "Start": "2026-10-08 07:30 PM AEDT",
-          "Game": "brisbane bullets at cairns taipans",
+          "Home": "cairns taipans",
+          "Away": "brisbane bullets",
           "V8 Home Line": 8.8,
           "V2 Total": 178.1,
           "1H Total": 85.2,
@@ -37665,7 +37678,8 @@
         {
           "Date": "2026-10-09",
           "Start": "2026-10-09 07:30 PM AEDT",
-          "Game": "tasmania jackjumpers at illawarra hawks",
+          "Home": "illawarra hawks",
+          "Away": "tasmania jackjumpers",
           "V8 Home Line": -4.2,
           "V2 Total": 184.8,
           "1H Total": 100.7,
@@ -37680,7 +37694,8 @@
         {
           "Date": "2026-10-10",
           "Start": "2026-10-10 07:30 PM AEDT",
-          "Game": "melbourne united at south east melbourne phoenix",
+          "Home": "south east melbourne phoenix",
+          "Away": "melbourne united",
           "V8 Home Line": 5.9,
           "V2 Total": 180.5,
           "1H Total": 84.4,
@@ -37695,7 +37710,8 @@
         {
           "Date": "2026-10-10",
           "Start": "2026-10-10 09:30 PM AEDT",
-          "Game": "nz breakers at perth wildcats",
+          "Home": "perth wildcats",
+          "Away": "nz breakers",
           "V8 Home Line": -2.1,
           "V2 Total": 185.4,
           "1H Total": 94,

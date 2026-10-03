@@ -1,10 +1,10 @@
-"Date","Start","Game","V8 Home Line","V2 Total","1H Total","1Q Total","Projected Score","Macro Lean","Macro Environment","Line Model","Total Model","Lineup Coverage"
-"2026-10-03","2026-10-03 05:30 PM AEST","tasmania jackjumpers at brisbane bullets",-11.3,177.7,93.8,47.1,"94.5 - 83.2","lower scoring",-0.65,"V8 original","V2 pure team",0.84
-"2026-10-03","2026-10-03 07:30 PM AEST","cairns taipans at melbourne united",-11.9,176.2,82.4,41.3,"94.1 - 82.2","lower scoring",-0.65,"V8 original","V2 pure team",0.89
-"2026-10-04","2026-10-04 03:00 PM AEDT","illawarra hawks at south east melbourne phoenix",-1.1,189.7,94.1,47.2,"95.4 - 94.3","lower scoring",-0.65,"V8 original","V2 pure team",0.86
-"2026-10-04","2026-10-04 05:00 PM AEDT","nz breakers at adelaide 36ers",-10.1,187.7,95.3,47.8,"98.9 - 88.8","lower scoring",-0.65,"V8 original","V2 pure team",0.86
-"2026-10-07","2026-10-07 07:30 PM AEDT","melbourne united at adelaide 36ers",-7.2,180.5,90,45.2,"93.8 - 86.7","lower scoring",-0.65,"V8 original","V2 pure team",0.89
-"2026-10-08","2026-10-08 07:30 PM AEDT","brisbane bullets at cairns taipans",8.8,178.1,85.2,42.7,"84.6 - 93.5","lower scoring",-0.65,"V8 original","V2 pure team",0.84
-"2026-10-09","2026-10-09 07:30 PM AEDT","tasmania jackjumpers at illawarra hawks",-4.2,184.8,100.7,50.5,"94.5 - 90.3","lower scoring",-0.65,"V8 original","V2 pure team",0.86
-"2026-10-10","2026-10-10 07:30 PM AEDT","melbourne united at south east melbourne phoenix",5.9,180.5,84.4,42.3,"87.3 - 93.2","lower scoring",-0.65,"V8 original","V2 pure team",0.89
-"2026-10-10","2026-10-10 09:30 PM AEDT","nz breakers at perth wildcats",-2.1,185.4,94,47.1,"93.7 - 91.7","lower scoring",-0.65,"V8 original","V2 pure team",0.86
+"Date","Start","Home","Away","V8 Home Line","V2 Total","1H Total","1Q Total","Projected Score","Macro Lean","Macro Environment","Line Model","Total Model","Lineup Coverage"
+"2026-10-03","2026-10-03 05:30 PM AEST","brisbane bullets","tasmania jackjumpers",-11.3,177.7,93.8,47.1,"94.5 - 83.2","lower scoring",-0.65,"V8 original","V2 pure team",0.84
+"2026-10-03","2026-10-03 07:30 PM AEST","melbourne united","cairns taipans",-11.9,176.2,82.4,41.3,"94.1 - 82.2","lower scoring",-0.65,"V8 original","V2 pure team",0.89
+"2026-10-04","2026-10-04 03:00 PM AEDT","south east melbourne phoenix","illawarra hawks",-1.1,189.7,94.1,47.2,"95.4 - 94.3","lower scoring",-0.65,"V8 original","V2 pure team",0.86
+"2026-10-04","2026-10-04 05:00 PM AEDT","adelaide 36ers","nz breakers",-10.1,187.7,95.3,47.8,"98.9 - 88.8","lower scoring",-0.65,"V8 original","V2 pure team",0.86
+"2026-10-07","2026-10-07 07:30 PM AEDT","adelaide 36ers","melbourne united",-7.2,180.5,90,45.2,"93.8 - 86.7","lower scoring",-0.65,"V8 original","V2 pure team",0.89
+"2026-10-08","2026-10-08 07:30 PM AEDT","cairns taipans","brisbane bullets",8.8,178.1,85.2,42.7,"84.6 - 93.5","lower scoring",-0.65,"V8 original","V2 pure team",0.84
+"2026-10-09","2026-10-09 07:30 PM AEDT","illawarra hawks","tasmania jackjumpers",-4.2,184.8,100.7,50.5,"94.5 - 90.3","lower scoring",-0.65,"V8 original","V2 pure team",0.86
+"2026-10-10","2026-10-10 07:30 PM AEDT","south east melbourne phoenix","melbourne united",5.9,180.5,84.4,42.3,"87.3 - 93.2","lower scoring",-0.65,"V8 original","V2 pure team",0.89
+"2026-10-10","2026-10-10 09:30 PM AEDT","perth wildcats","nz breakers",-2.1,185.4,94,47.1,"93.7 - 91.7","lower scoring",-0.65,"V8 original","V2 pure team",0.86
