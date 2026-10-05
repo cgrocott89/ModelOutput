@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-10-05 10:22:45",
+  "generatedAt": "2026-10-05 17:46:23",
   "outputDir": "Published model outputs",
   "outputs": [
+    {
+      "file": "AFLW_upcoming_projections.xlsx",
+      "supporting": false,
+      "model": "AFLW upcoming projections",
+      "sport": "AFLW",
+      "extension": "xlsx",
+      "modified": "2026-10-01 08:27:18",
+      "size": 9946,
+      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1790807238-9946",
+      "sheets": [
+        "Projections"
+      ],
+      "defaultSheet": "Projections",
+      "columns": [
+        "Date",
+        "Home Team",
+        "Away Team",
+        "Home Team List",
+        "Away Team List",
+        "PROD Projected Line",
+        "TEAM-only Projected Line",
+        "PLAYER-only Projected Line",
+        "Projected Total",
+        "Venue"
+      ],
+      "rowCount": 0,
+      "rows": []
+    },
     {
       "file": "AFL_futures_sim.xlsx",
       "supporting": false,
@@ -116,7 +144,7 @@
           "Miss Top 8 Odds": "1.00"
         },
         {
-          "Team": "Gold Coast SUNS",
+          "Team": "GWS GIANTS",
           "Premiership Odds": "-",
           "Make GF Odds": "-",
           "Top 4 Odds": "-",
@@ -124,7 +152,7 @@
           "Miss Top 8 Odds": "1.00"
         },
         {
-          "Team": "GWS GIANTS",
+          "Team": "Gold Coast SUNS",
           "Premiership Odds": "-",
           "Make GF Odds": "-",
           "Top 4 Odds": "-",
@@ -550,34 +578,6 @@
         "Market Total",
         "Venue",
         "Forecast Rain mm"
-      ],
-      "rowCount": 0,
-      "rows": []
-    },
-    {
-      "file": "AFLW_upcoming_projections.xlsx",
-      "supporting": false,
-      "model": "AFLW upcoming projections",
-      "sport": "AFLW",
-      "extension": "xlsx",
-      "modified": "2026-10-01 08:27:18",
-      "size": 9946,
-      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1790807238-9946",
-      "sheets": [
-        "Projections"
-      ],
-      "defaultSheet": "Projections",
-      "columns": [
-        "Date",
-        "Home Team",
-        "Away Team",
-        "Home Team List",
-        "Away Team List",
-        "PROD Projected Line",
-        "TEAM-only Projected Line",
-        "PLAYER-only Projected Line",
-        "Projected Total",
-        "Venue"
       ],
       "rowCount": 0,
       "rows": []
@@ -8202,8 +8202,8 @@
           "Home_Team": "cairns taipans",
           "Away_Team": "brisbane bullets",
           "Team": "brisbane bullets",
-          "Player": "Arnas Velička",
-          "Player_Key": "arnas velička",
+          "Player": "Arnas VeliD\rka",
+          "Player_Key": "arnas veliD\rka",
           "Market": "points",
           "Projected_Minutes": 6.7123,
           "Projected_Stat": 3.0861,
@@ -8238,8 +8238,8 @@
           "Home_Team": "cairns taipans",
           "Away_Team": "brisbane bullets",
           "Team": "brisbane bullets",
-          "Player": "Arnas Velička",
-          "Player_Key": "arnas velička",
+          "Player": "Arnas VeliD\rka",
+          "Player_Key": "arnas veliD\rka",
           "Market": "rebounds",
           "Projected_Minutes": 6.7123,
           "Projected_Stat": 1.214,
@@ -8274,8 +8274,8 @@
           "Home_Team": "cairns taipans",
           "Away_Team": "brisbane bullets",
           "Team": "brisbane bullets",
-          "Player": "Arnas Velička",
-          "Player_Key": "arnas velička",
+          "Player": "Arnas VeliD\rka",
+          "Player_Key": "arnas veliD\rka",
           "Market": "assists",
           "Projected_Minutes": 6.7123,
           "Projected_Stat": 0.6325,
@@ -8310,8 +8310,8 @@
           "Home_Team": "cairns taipans",
           "Away_Team": "brisbane bullets",
           "Team": "brisbane bullets",
-          "Player": "Arnas Velička",
-          "Player_Key": "arnas velička",
+          "Player": "Arnas VeliD\rka",
+          "Player_Key": "arnas veliD\rka",
           "Market": "threes",
           "Projected_Minutes": 6.7123,
           "Projected_Stat": 0.3315,
@@ -29181,576 +29181,6 @@
       ]
     },
     {
-      "file": "NRL_anytime_tryscorers.xlsx",
-      "supporting": false,
-      "model": "NRL anytime tryscorers",
-      "sport": "NRL",
-      "extension": "xlsx",
-      "modified": "2026-10-05 08:59:34",
-      "size": 8011,
-      "fileUrl": "/files/NRL_anytime_tryscorers.xlsx?v=1791151174-8011",
-      "sheets": [
-        "Anytime"
-      ],
-      "defaultSheet": "Anytime",
-      "columns": [
-        "Game",
-        "Team",
-        "Player",
-        "Price"
-      ],
-      "rowCount": 30,
-      "rows": [
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "newcastle knights",
-          "Player": "Dominic Young",
-          "Price": 1.92
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "newcastle knights",
-          "Player": "Greg Marzhew",
-          "Price": 2.21
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "newcastle knights",
-          "Player": "Fletcher Sharpe",
-          "Price": 2.6
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "newcastle knights",
-          "Player": "Bradman Best",
-          "Price": 3.39
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "newcastle knights",
-          "Player": "Kalyn Ponga",
-          "Price": 3.95
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "newcastle knights",
-          "Player": "Francis Manuleleua",
-          "Price": 4.5
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "newcastle knights",
-          "Player": "Dane Gagai",
-          "Price": 5.14
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "newcastle knights",
-          "Player": "Jermaine McEwen",
-          "Price": 5.8
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "newcastle knights",
-          "Player": "Sandon Smith",
-          "Price": 6.12
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "newcastle knights",
-          "Player": "Thomas Cant",
-          "Price": 8.54
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "newcastle knights",
-          "Player": "Harrison Graham",
-          "Price": 10.14
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "newcastle knights",
-          "Player": "Fletcher Hunt",
-          "Price": 11.29
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "newcastle knights",
-          "Player": "Mat Croker",
-          "Price": 19.03
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Mark Nawaqanitawase",
-          "Price": 1.62
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Daniel Tupou",
-          "Price": 1.89
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "James Tedesco",
-          "Price": 2.35
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Robert Toia",
-          "Price": 2.73
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Billy Smith",
-          "Price": 3.25
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Sam Walker",
-          "Price": 3.73
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Daly Cherry-Evans",
-          "Price": 4.01
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Salesi Foketi",
-          "Price": 5.7
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Siua Wong",
-          "Price": 6.79
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Victor Radley",
-          "Price": 7.35
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Reece Robson",
-          "Price": 7.6
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Nat Butcher",
-          "Price": 10.41
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Lindsay Collins",
-          "Price": 10.48
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Spencer Leniu",
-          "Price": 11.7
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Cody Ramsey",
-          "Price": 16.84
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Naufahu Whyte",
-          "Price": 17.98
-        },
-        {
-          "Game": "newcastle knights at sydney roosters",
-          "Team": "sydney roosters",
-          "Player": "Angus Crichton",
-          "Price": 18.01
-        }
-      ]
-    },
-    {
-      "file": "NRL_futures_sim.xlsx",
-      "supporting": false,
-      "model": "NRL futures sim",
-      "sport": "NRL",
-      "extension": "xlsx",
-      "modified": "2026-10-05 08:23:59",
-      "size": 11712,
-      "fileUrl": "/files/NRL_futures_sim.xlsx?v=1791149039-11712",
-      "sheets": [
-        "futures",
-        "remaining_games",
-        "diagnostics"
-      ],
-      "defaultSheet": "futures",
-      "columns": [
-        "Team",
-        "Premiership Odds",
-        "Make GF Odds",
-        "Top 4 Odds",
-        "Top 8 Odds",
-        "Miss Top 8 Odds"
-      ],
-      "rowCount": 17,
-      "rows": [
-        {
-          "Team": "Penrith Panthers",
-          "Premiership Odds": "3.72",
-          "Make GF Odds": "2.09",
-          "Top 4 Odds": "1.00",
-          "Top 8 Odds": "1.00",
-          "Miss Top 8 Odds": "-"
-        },
-        {
-          "Team": "New Zealand Warriors",
-          "Premiership Odds": "3.92",
-          "Make GF Odds": "2.15",
-          "Top 4 Odds": "1.00",
-          "Top 8 Odds": "1.00",
-          "Miss Top 8 Odds": "-"
-        },
-        {
-          "Team": "Dolphins",
-          "Premiership Odds": "5.37",
-          "Make GF Odds": "2.58",
-          "Top 4 Odds": "1.00",
-          "Top 8 Odds": "1.00",
-          "Miss Top 8 Odds": "-"
-        },
-        {
-          "Team": "Sydney Roosters",
-          "Premiership Odds": "6.39",
-          "Make GF Odds": "2.92",
-          "Top 4 Odds": "1.09",
-          "Top 8 Odds": "1.00",
-          "Miss Top 8 Odds": "-"
-        },
-        {
-          "Team": "Newcastle Knights",
-          "Premiership Odds": "21.57",
-          "Make GF Odds": "8.80",
-          "Top 4 Odds": "12.44",
-          "Top 8 Odds": "1.00",
-          "Miss Top 8 Odds": "-"
-        },
-        {
-          "Team": "South Sydney Rabbitohs",
-          "Premiership Odds": "23.28",
-          "Make GF Odds": "10.58",
-          "Top 4 Odds": "-",
-          "Top 8 Odds": "1.00",
-          "Miss Top 8 Odds": "-"
-        },
-        {
-          "Team": "Cronulla Sharks",
-          "Premiership Odds": "28.25",
-          "Make GF Odds": "11.48",
-          "Top 4 Odds": "-",
-          "Top 8 Odds": "1.00",
-          "Miss Top 8 Odds": "-"
-        },
-        {
-          "Team": "NQ Cowboys",
-          "Premiership Odds": "122.70",
-          "Make GF Odds": "32.26",
-          "Top 4 Odds": "-",
-          "Top 8 Odds": "1.00",
-          "Miss Top 8 Odds": "-"
-        },
-        {
-          "Team": "Brisbane Broncos",
-          "Premiership Odds": "-",
-          "Make GF Odds": "-",
-          "Top 4 Odds": "-",
-          "Top 8 Odds": "-",
-          "Miss Top 8 Odds": "1.00"
-        },
-        {
-          "Team": "Canberra Raiders",
-          "Premiership Odds": "-",
-          "Make GF Odds": "-",
-          "Top 4 Odds": "-",
-          "Top 8 Odds": "-",
-          "Miss Top 8 Odds": "1.00"
-        },
-        {
-          "Team": "Canterbury Bulldogs",
-          "Premiership Odds": "-",
-          "Make GF Odds": "-",
-          "Top 4 Odds": "-",
-          "Top 8 Odds": "-",
-          "Miss Top 8 Odds": "1.00"
-        },
-        {
-          "Team": "Gold Coast Titans",
-          "Premiership Odds": "-",
-          "Make GF Odds": "-",
-          "Top 4 Odds": "-",
-          "Top 8 Odds": "-",
-          "Miss Top 8 Odds": "1.00"
-        },
-        {
-          "Team": "Manly Sea Eagles",
-          "Premiership Odds": "-",
-          "Make GF Odds": "-",
-          "Top 4 Odds": "-",
-          "Top 8 Odds": "-",
-          "Miss Top 8 Odds": "1.00"
-        },
-        {
-          "Team": "Melbourne Storm",
-          "Premiership Odds": "-",
-          "Make GF Odds": "-",
-          "Top 4 Odds": "-",
-          "Top 8 Odds": "-",
-          "Miss Top 8 Odds": "1.00"
-        },
-        {
-          "Team": "Parramatta Eels",
-          "Premiership Odds": "-",
-          "Make GF Odds": "-",
-          "Top 4 Odds": "-",
-          "Top 8 Odds": "-",
-          "Miss Top 8 Odds": "1.00"
-        },
-        {
-          "Team": "St. George Illawarra Dragons",
-          "Premiership Odds": "-",
-          "Make GF Odds": "-",
-          "Top 4 Odds": "-",
-          "Top 8 Odds": "-",
-          "Miss Top 8 Odds": "1.00"
-        },
-        {
-          "Team": "Wests Tigers",
-          "Premiership Odds": "-",
-          "Make GF Odds": "-",
-          "Top 4 Odds": "-",
-          "Top 8 Odds": "-",
-          "Miss Top 8 Odds": "1.00"
-        }
-      ]
-    },
-    {
-      "file": "NRL_try_channel_matchups.xlsx",
-      "supporting": true,
-      "model": "NRL try channel matchups",
-      "sport": "NRL",
-      "extension": "xlsx",
-      "modified": "2026-10-05 08:59:33",
-      "size": 19207,
-      "fileUrl": "/files/NRL_try_channel_matchups.xlsx?v=1791151173-19207",
-      "sheets": [
-        "Heatmap",
-        "Detail",
-        "Team Profiles",
-        "Notes"
-      ],
-      "defaultSheet": "Heatmap",
-      "columns": [
-        "date_local",
-        "time_local",
-        "matchup",
-        "attack_team",
-        "defence_team",
-        "side",
-        "left_wing",
-        "left_wing_off",
-        "left_wing_def",
-        "left_centre",
-        "left_centre_off",
-        "left_centre_def",
-        "fullback",
-        "fullback_off",
-        "fullback_def",
-        "right_centre",
-        "right_centre_off",
-        "right_centre_def",
-        "right_wing",
-        "right_wing_off",
-        "right_wing_def",
-        "focus_players"
-      ],
-      "rowCount": 2,
-      "rows": [
-        {
-          "date_local": "2026-10-04T00:00:00",
-          "time_local": "19:30",
-          "matchup": "sydney roosters v newcastle knights",
-          "attack_team": "newcastle knights",
-          "defence_team": "sydney roosters",
-          "side": "away",
-          "left_wing": 0.99,
-          "left_wing_off": 1.1,
-          "left_wing_def": 0.9,
-          "left_centre": 0.96,
-          "left_centre_off": 0.85,
-          "left_centre_def": 1.13,
-          "fullback": 1.1,
-          "fullback_off": 0.97,
-          "fullback_def": 1.14,
-          "right_centre": 0.52,
-          "right_centre_off": 0.68,
-          "right_centre_def": 0.77,
-          "right_wing": 1.29,
-          "right_wing_off": 1.22,
-          "right_wing_def": 1.06,
-          "focus_players": "right_wing 1.29 (off 1.22 x def 1.06): Dominic Young"
-        },
-        {
-          "date_local": "2026-10-04T00:00:00",
-          "time_local": "19:30",
-          "matchup": "sydney roosters v newcastle knights",
-          "attack_team": "sydney roosters",
-          "defence_team": "newcastle knights",
-          "side": "home",
-          "left_wing": 1.14,
-          "left_wing_off": 1.26,
-          "left_wing_def": 0.9,
-          "left_centre": 0.71,
-          "left_centre_off": 1.06,
-          "left_centre_def": 0.67,
-          "fullback": 1.09,
-          "fullback_off": 0.99,
-          "fullback_def": 1.1,
-          "right_centre": 1.56,
-          "right_centre_off": 1.08,
-          "right_centre_def": 1.44,
-          "right_wing": 0.69,
-          "right_wing_off": 1.13,
-          "right_wing_def": 0.61,
-          "focus_players": "left_wing 1.14 (off 1.26 x def 0.90): Mark Nawaqanitawase; right_centre 1.56 (off 1.08 x def 1.44): Billy Smith"
-        }
-      ]
-    },
-    {
-      "file": "NRL_upcoming_projections.xlsx",
-      "supporting": false,
-      "model": "NRL upcoming projections",
-      "sport": "NRL",
-      "extension": "xlsx",
-      "modified": "2026-10-05 08:59:34",
-      "size": 8079,
-      "fileUrl": "/files/NRL_upcoming_projections.xlsx?v=1791151174-8079",
-      "sheets": [
-        "LeanMain"
-      ],
-      "defaultSheet": "LeanMain",
-      "columns": [
-        "Date",
-        "Time",
-        "Home Team",
-        "Away Team",
-        "Selected / Hybrid Home Line",
-        "TEAM Home Line",
-        "PLAYER Home Line",
-        "Projected Total",
-        "Market Period",
-        "Projection Type",
-        "Market Line",
-        "Market Total",
-        "Venue",
-        "Forecast Rain mm"
-      ],
-      "rowCount": 4,
-      "rows": [
-        {
-          "Date": "2026-10-04T00:00:00",
-          "Time": "19:30",
-          "Home Team": "sydney roosters",
-          "Away Team": "newcastle knights",
-          "Selected / Hybrid Home Line": -5.7,
-          "TEAM Home Line": -5.7,
-          "PLAYER Home Line": -8,
-          "Projected Total": 48,
-          "Market Period": "FT",
-          "Projection Type": "No Rain",
-          "Market Line": -7.5,
-          "Market Total": 42.5,
-          "Venue": "Accor Stadium, Sydney",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-10-04T00:00:00",
-          "Time": "19:30",
-          "Home Team": "sydney roosters",
-          "Away Team": "newcastle knights",
-          "Selected / Hybrid Home Line": -5.7,
-          "TEAM Home Line": -5.7,
-          "PLAYER Home Line": -8,
-          "Projected Total": 48,
-          "Market Period": "FT",
-          "Projection Type": "Weather Adjusted",
-          "Market Line": -7.5,
-          "Market Total": 42.5,
-          "Venue": "Accor Stadium, Sydney",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-10-04T00:00:00",
-          "Time": "19:30",
-          "Home Team": "sydney roosters",
-          "Away Team": "newcastle knights",
-          "Selected / Hybrid Home Line": -2.8,
-          "TEAM Home Line": -2.8,
-          "PLAYER Home Line": -4,
-          "Projected Total": 24,
-          "Market Period": "1H",
-          "Projection Type": "No Rain",
-          "Market Line": -7.5,
-          "Market Total": 42.5,
-          "Venue": "Accor Stadium, Sydney",
-          "Forecast Rain mm": 0
-        },
-        {
-          "Date": "2026-10-04T00:00:00",
-          "Time": "19:30",
-          "Home Team": "sydney roosters",
-          "Away Team": "newcastle knights",
-          "Selected / Hybrid Home Line": -2.8,
-          "TEAM Home Line": -2.8,
-          "PLAYER Home Line": -4,
-          "Projected Total": 24,
-          "Market Period": "1H",
-          "Projection Type": "Weather Adjusted",
-          "Market Line": -7.5,
-          "Market Total": 42.5,
-          "Venue": "Accor Stadium, Sydney",
-          "Forecast Rain mm": 0
-        }
-      ]
-    },
-    {
-      "file": "NRL_weekly_betting_report.html",
-      "supporting": false,
-      "model": "NRL round summary",
-      "sport": "NRL",
-      "extension": "html",
-      "modified": "2026-10-05 08:59:58",
-      "size": 1062892,
-      "fileUrl": "/files/NRL_weekly_betting_report.html?v=1791151198-1062892",
-      "sheets": [],
-      "defaultSheet": "",
-      "columns": [],
-      "rowCount": 0,
-      "rows": []
-    },
-    {
       "file": "NRLW_futures_sim.xlsx",
       "supporting": false,
       "model": "NRLW futures sim",
@@ -30126,6 +29556,576 @@
       "modified": "2026-10-01 08:44:22",
       "size": 4549,
       "fileUrl": "/files/NRLW_weekly_betting_report.html?v=1790808262-4549",
+      "sheets": [],
+      "defaultSheet": "",
+      "columns": [],
+      "rowCount": 0,
+      "rows": []
+    },
+    {
+      "file": "NRL_anytime_tryscorers.xlsx",
+      "supporting": false,
+      "model": "NRL anytime tryscorers",
+      "sport": "NRL",
+      "extension": "xlsx",
+      "modified": "2026-10-05 14:12:16",
+      "size": 8009,
+      "fileUrl": "/files/NRL_anytime_tryscorers.xlsx?v=1791169936-8009",
+      "sheets": [
+        "Anytime"
+      ],
+      "defaultSheet": "Anytime",
+      "columns": [
+        "Game",
+        "Team",
+        "Player",
+        "Price"
+      ],
+      "rowCount": 30,
+      "rows": [
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "newcastle knights",
+          "Player": "Dominic Young",
+          "Price": 1.92
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "newcastle knights",
+          "Player": "Greg Marzhew",
+          "Price": 2.21
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "newcastle knights",
+          "Player": "Fletcher Sharpe",
+          "Price": 2.6
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "newcastle knights",
+          "Player": "Bradman Best",
+          "Price": 3.39
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "newcastle knights",
+          "Player": "Kalyn Ponga",
+          "Price": 3.95
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "newcastle knights",
+          "Player": "Francis Manuleleua",
+          "Price": 4.5
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "newcastle knights",
+          "Player": "Dane Gagai",
+          "Price": 5.14
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "newcastle knights",
+          "Player": "Jermaine McEwen",
+          "Price": 5.8
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "newcastle knights",
+          "Player": "Sandon Smith",
+          "Price": 6.12
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "newcastle knights",
+          "Player": "Thomas Cant",
+          "Price": 8.54
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "newcastle knights",
+          "Player": "Harrison Graham",
+          "Price": 10.14
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "newcastle knights",
+          "Player": "Fletcher Hunt",
+          "Price": 11.29
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "newcastle knights",
+          "Player": "Mat Croker",
+          "Price": 19.03
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Mark Nawaqanitawase",
+          "Price": 1.62
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Daniel Tupou",
+          "Price": 1.89
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "James Tedesco",
+          "Price": 2.35
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Robert Toia",
+          "Price": 2.73
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Billy Smith",
+          "Price": 3.25
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Sam Walker",
+          "Price": 3.73
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Daly Cherry-Evans",
+          "Price": 4.01
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Salesi Foketi",
+          "Price": 5.7
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Siua Wong",
+          "Price": 6.79
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Victor Radley",
+          "Price": 7.35
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Reece Robson",
+          "Price": 7.6
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Nat Butcher",
+          "Price": 10.41
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Lindsay Collins",
+          "Price": 10.48
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Spencer Leniu",
+          "Price": 11.7
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Cody Ramsey",
+          "Price": 16.84
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Naufahu Whyte",
+          "Price": 17.98
+        },
+        {
+          "Game": "newcastle knights at sydney roosters",
+          "Team": "sydney roosters",
+          "Player": "Angus Crichton",
+          "Price": 18.01
+        }
+      ]
+    },
+    {
+      "file": "NRL_futures_sim.xlsx",
+      "supporting": false,
+      "model": "NRL futures sim",
+      "sport": "NRL",
+      "extension": "xlsx",
+      "modified": "2026-10-05 08:23:59",
+      "size": 11712,
+      "fileUrl": "/files/NRL_futures_sim.xlsx?v=1791149039-11712",
+      "sheets": [
+        "futures",
+        "remaining_games",
+        "diagnostics"
+      ],
+      "defaultSheet": "futures",
+      "columns": [
+        "Team",
+        "Premiership Odds",
+        "Make GF Odds",
+        "Top 4 Odds",
+        "Top 8 Odds",
+        "Miss Top 8 Odds"
+      ],
+      "rowCount": 17,
+      "rows": [
+        {
+          "Team": "Penrith Panthers",
+          "Premiership Odds": "3.72",
+          "Make GF Odds": "2.09",
+          "Top 4 Odds": "1.00",
+          "Top 8 Odds": "1.00",
+          "Miss Top 8 Odds": "-"
+        },
+        {
+          "Team": "New Zealand Warriors",
+          "Premiership Odds": "3.92",
+          "Make GF Odds": "2.15",
+          "Top 4 Odds": "1.00",
+          "Top 8 Odds": "1.00",
+          "Miss Top 8 Odds": "-"
+        },
+        {
+          "Team": "Dolphins",
+          "Premiership Odds": "5.37",
+          "Make GF Odds": "2.58",
+          "Top 4 Odds": "1.00",
+          "Top 8 Odds": "1.00",
+          "Miss Top 8 Odds": "-"
+        },
+        {
+          "Team": "Sydney Roosters",
+          "Premiership Odds": "6.39",
+          "Make GF Odds": "2.92",
+          "Top 4 Odds": "1.09",
+          "Top 8 Odds": "1.00",
+          "Miss Top 8 Odds": "-"
+        },
+        {
+          "Team": "Newcastle Knights",
+          "Premiership Odds": "21.57",
+          "Make GF Odds": "8.80",
+          "Top 4 Odds": "12.44",
+          "Top 8 Odds": "1.00",
+          "Miss Top 8 Odds": "-"
+        },
+        {
+          "Team": "South Sydney Rabbitohs",
+          "Premiership Odds": "23.28",
+          "Make GF Odds": "10.58",
+          "Top 4 Odds": "-",
+          "Top 8 Odds": "1.00",
+          "Miss Top 8 Odds": "-"
+        },
+        {
+          "Team": "Cronulla Sharks",
+          "Premiership Odds": "28.25",
+          "Make GF Odds": "11.48",
+          "Top 4 Odds": "-",
+          "Top 8 Odds": "1.00",
+          "Miss Top 8 Odds": "-"
+        },
+        {
+          "Team": "NQ Cowboys",
+          "Premiership Odds": "122.70",
+          "Make GF Odds": "32.26",
+          "Top 4 Odds": "-",
+          "Top 8 Odds": "1.00",
+          "Miss Top 8 Odds": "-"
+        },
+        {
+          "Team": "Brisbane Broncos",
+          "Premiership Odds": "-",
+          "Make GF Odds": "-",
+          "Top 4 Odds": "-",
+          "Top 8 Odds": "-",
+          "Miss Top 8 Odds": "1.00"
+        },
+        {
+          "Team": "Canberra Raiders",
+          "Premiership Odds": "-",
+          "Make GF Odds": "-",
+          "Top 4 Odds": "-",
+          "Top 8 Odds": "-",
+          "Miss Top 8 Odds": "1.00"
+        },
+        {
+          "Team": "Canterbury Bulldogs",
+          "Premiership Odds": "-",
+          "Make GF Odds": "-",
+          "Top 4 Odds": "-",
+          "Top 8 Odds": "-",
+          "Miss Top 8 Odds": "1.00"
+        },
+        {
+          "Team": "Gold Coast Titans",
+          "Premiership Odds": "-",
+          "Make GF Odds": "-",
+          "Top 4 Odds": "-",
+          "Top 8 Odds": "-",
+          "Miss Top 8 Odds": "1.00"
+        },
+        {
+          "Team": "Manly Sea Eagles",
+          "Premiership Odds": "-",
+          "Make GF Odds": "-",
+          "Top 4 Odds": "-",
+          "Top 8 Odds": "-",
+          "Miss Top 8 Odds": "1.00"
+        },
+        {
+          "Team": "Melbourne Storm",
+          "Premiership Odds": "-",
+          "Make GF Odds": "-",
+          "Top 4 Odds": "-",
+          "Top 8 Odds": "-",
+          "Miss Top 8 Odds": "1.00"
+        },
+        {
+          "Team": "Parramatta Eels",
+          "Premiership Odds": "-",
+          "Make GF Odds": "-",
+          "Top 4 Odds": "-",
+          "Top 8 Odds": "-",
+          "Miss Top 8 Odds": "1.00"
+        },
+        {
+          "Team": "St. George Illawarra Dragons",
+          "Premiership Odds": "-",
+          "Make GF Odds": "-",
+          "Top 4 Odds": "-",
+          "Top 8 Odds": "-",
+          "Miss Top 8 Odds": "1.00"
+        },
+        {
+          "Team": "Wests Tigers",
+          "Premiership Odds": "-",
+          "Make GF Odds": "-",
+          "Top 4 Odds": "-",
+          "Top 8 Odds": "-",
+          "Miss Top 8 Odds": "1.00"
+        }
+      ]
+    },
+    {
+      "file": "NRL_try_channel_matchups.xlsx",
+      "supporting": true,
+      "model": "NRL try channel matchups",
+      "sport": "NRL",
+      "extension": "xlsx",
+      "modified": "2026-10-05 14:12:16",
+      "size": 19206,
+      "fileUrl": "/files/NRL_try_channel_matchups.xlsx?v=1791169936-19206",
+      "sheets": [
+        "Heatmap",
+        "Detail",
+        "Team Profiles",
+        "Notes"
+      ],
+      "defaultSheet": "Heatmap",
+      "columns": [
+        "date_local",
+        "time_local",
+        "matchup",
+        "attack_team",
+        "defence_team",
+        "side",
+        "left_wing",
+        "left_wing_off",
+        "left_wing_def",
+        "left_centre",
+        "left_centre_off",
+        "left_centre_def",
+        "fullback",
+        "fullback_off",
+        "fullback_def",
+        "right_centre",
+        "right_centre_off",
+        "right_centre_def",
+        "right_wing",
+        "right_wing_off",
+        "right_wing_def",
+        "focus_players"
+      ],
+      "rowCount": 2,
+      "rows": [
+        {
+          "date_local": "2026-10-04T00:00:00",
+          "time_local": "19:30",
+          "matchup": "sydney roosters v newcastle knights",
+          "attack_team": "newcastle knights",
+          "defence_team": "sydney roosters",
+          "side": "away",
+          "left_wing": 0.99,
+          "left_wing_off": 1.1,
+          "left_wing_def": 0.9,
+          "left_centre": 0.96,
+          "left_centre_off": 0.85,
+          "left_centre_def": 1.13,
+          "fullback": 1.1,
+          "fullback_off": 0.97,
+          "fullback_def": 1.14,
+          "right_centre": 0.52,
+          "right_centre_off": 0.68,
+          "right_centre_def": 0.77,
+          "right_wing": 1.29,
+          "right_wing_off": 1.22,
+          "right_wing_def": 1.06,
+          "focus_players": "right_wing 1.29 (off 1.22 x def 1.06): Dominic Young"
+        },
+        {
+          "date_local": "2026-10-04T00:00:00",
+          "time_local": "19:30",
+          "matchup": "sydney roosters v newcastle knights",
+          "attack_team": "sydney roosters",
+          "defence_team": "newcastle knights",
+          "side": "home",
+          "left_wing": 1.14,
+          "left_wing_off": 1.26,
+          "left_wing_def": 0.9,
+          "left_centre": 0.71,
+          "left_centre_off": 1.06,
+          "left_centre_def": 0.67,
+          "fullback": 1.09,
+          "fullback_off": 0.99,
+          "fullback_def": 1.1,
+          "right_centre": 1.56,
+          "right_centre_off": 1.08,
+          "right_centre_def": 1.44,
+          "right_wing": 0.69,
+          "right_wing_off": 1.13,
+          "right_wing_def": 0.61,
+          "focus_players": "left_wing 1.14 (off 1.26 x def 0.90): Mark Nawaqanitawase; right_centre 1.56 (off 1.08 x def 1.44): Billy Smith"
+        }
+      ]
+    },
+    {
+      "file": "NRL_upcoming_projections.xlsx",
+      "supporting": false,
+      "model": "NRL upcoming projections",
+      "sport": "NRL",
+      "extension": "xlsx",
+      "modified": "2026-10-05 14:12:17",
+      "size": 8078,
+      "fileUrl": "/files/NRL_upcoming_projections.xlsx?v=1791169937-8078",
+      "sheets": [
+        "LeanMain"
+      ],
+      "defaultSheet": "LeanMain",
+      "columns": [
+        "Date",
+        "Time",
+        "Home Team",
+        "Away Team",
+        "Selected / Hybrid Home Line",
+        "TEAM Home Line",
+        "PLAYER Home Line",
+        "Projected Total",
+        "Market Period",
+        "Projection Type",
+        "Market Line",
+        "Market Total",
+        "Venue",
+        "Forecast Rain mm"
+      ],
+      "rowCount": 4,
+      "rows": [
+        {
+          "Date": "2026-10-04T00:00:00",
+          "Time": "19:30",
+          "Home Team": "sydney roosters",
+          "Away Team": "newcastle knights",
+          "Selected / Hybrid Home Line": -5.7,
+          "TEAM Home Line": -5.7,
+          "PLAYER Home Line": -8,
+          "Projected Total": 48,
+          "Market Period": "FT",
+          "Projection Type": "No Rain",
+          "Market Line": -7.5,
+          "Market Total": 42.5,
+          "Venue": "Accor Stadium, Sydney",
+          "Forecast Rain mm": 0
+        },
+        {
+          "Date": "2026-10-04T00:00:00",
+          "Time": "19:30",
+          "Home Team": "sydney roosters",
+          "Away Team": "newcastle knights",
+          "Selected / Hybrid Home Line": -5.7,
+          "TEAM Home Line": -5.7,
+          "PLAYER Home Line": -8,
+          "Projected Total": 48,
+          "Market Period": "FT",
+          "Projection Type": "Weather Adjusted",
+          "Market Line": -7.5,
+          "Market Total": 42.5,
+          "Venue": "Accor Stadium, Sydney",
+          "Forecast Rain mm": 0
+        },
+        {
+          "Date": "2026-10-04T00:00:00",
+          "Time": "19:30",
+          "Home Team": "sydney roosters",
+          "Away Team": "newcastle knights",
+          "Selected / Hybrid Home Line": -2.8,
+          "TEAM Home Line": -2.8,
+          "PLAYER Home Line": -4,
+          "Projected Total": 24,
+          "Market Period": "1H",
+          "Projection Type": "No Rain",
+          "Market Line": -7.5,
+          "Market Total": 42.5,
+          "Venue": "Accor Stadium, Sydney",
+          "Forecast Rain mm": 0
+        },
+        {
+          "Date": "2026-10-04T00:00:00",
+          "Time": "19:30",
+          "Home Team": "sydney roosters",
+          "Away Team": "newcastle knights",
+          "Selected / Hybrid Home Line": -2.8,
+          "TEAM Home Line": -2.8,
+          "PLAYER Home Line": -4,
+          "Projected Total": 24,
+          "Market Period": "1H",
+          "Projection Type": "Weather Adjusted",
+          "Market Line": -7.5,
+          "Market Total": 42.5,
+          "Venue": "Accor Stadium, Sydney",
+          "Forecast Rain mm": 0
+        }
+      ]
+    },
+    {
+      "file": "NRL_weekly_betting_report.html",
+      "supporting": false,
+      "model": "NRL round summary",
+      "sport": "NRL",
+      "extension": "html",
+      "modified": "2026-10-05 14:12:41",
+      "size": 1062892,
+      "fileUrl": "/files/NRL_weekly_betting_report.html?v=1791169961-1062892",
       "sheets": [],
       "defaultSheet": "",
       "columns": [],
@@ -51005,6 +51005,62 @@
       ]
     },
     {
+      "file": "WNBL_market_recommendations.csv",
+      "supporting": true,
+      "model": "WNBL market recommendations",
+      "sport": "WNBL",
+      "extension": "csv",
+      "modified": "2026-10-05 17:39:26",
+      "size": 85,
+      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1791182366-85",
+      "sheets": [],
+      "defaultSheet": "",
+      "columns": [
+        "League",
+        "Status",
+        "Checked_At_UTC"
+      ],
+      "rowCount": 1,
+      "rows": [
+        {
+          "League": "WNBL",
+          "Status": "NO_REGULAR_SEASON_FIXTURES",
+          "Checked_At_UTC": "2026-10-05 06:39:26 UTC"
+        }
+      ]
+    },
+    {
+      "file": "WNBL_upcoming_projections.csv",
+      "supporting": false,
+      "model": "WNBL upcoming projections",
+      "sport": "WNBL",
+      "extension": "csv",
+      "modified": "2026-10-05 17:39:26",
+      "size": 158,
+      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1791182366-158",
+      "sheets": [],
+      "defaultSheet": "",
+      "columns": [
+        "League",
+        "Status",
+        "As_Of",
+        "Next_Fixture",
+        "Generated_At_UTC",
+        "Model_Version"
+      ],
+      "rowCount": 1,
+      "rows": [
+        {
+          "League": "WNBL",
+          "Status": "NO_REGULAR_SEASON_FIXTURES",
+          "As_Of": "2026-10-05",
+          "Next_Fixture": "2026-10-15",
+          "Generated_At_UTC": "2026-10-05 06:39:26 UTC",
+          "Model_Version": "basketball_2026"
+        }
+      ]
+    },
+    {
       "file": "weekly_returns_nrl_afl_super_rugby_summary_latest.csv",
       "supporting": false,
       "model": "weekly returns nrl afl super rugby summary",
@@ -52822,93 +52878,6 @@
           "roi_pct": -13.1176,
           "avg_abs_edge": 19.0791,
           "league": "afl"
-        }
-      ]
-    },
-    {
-      "file": "WNBL_bet_recommendations.csv",
-      "supporting": true,
-      "model": "WNBL bet recommendations",
-      "sport": "WNBL",
-      "extension": "csv",
-      "modified": "2026-10-05 10:22:18",
-      "size": 134,
-      "fileUrl": "/files/WNBL_bet_recommendations.csv?v=1791156138-134",
-      "sheets": [],
-      "defaultSheet": "",
-      "columns": [
-        "League",
-        "Status",
-        "As_Of",
-        "Generated_At_UTC",
-        "Model_Version"
-      ],
-      "rowCount": 1,
-      "rows": [
-        {
-          "League": "WNBL",
-          "Status": "NO_REGULAR_SEASON_FIXTURES",
-          "As_Of": "2026-10-05",
-          "Generated_At_UTC": "2026-10-04 23:20:36 UTC",
-          "Model_Version": "basketball_2026"
-        }
-      ]
-    },
-    {
-      "file": "WNBL_player_projections.csv",
-      "supporting": true,
-      "model": "WNBL player projections",
-      "sport": "WNBL",
-      "extension": "csv",
-      "modified": "2026-10-05 10:22:18",
-      "size": 134,
-      "fileUrl": "/files/WNBL_player_projections.csv?v=1791156138-134",
-      "sheets": [],
-      "defaultSheet": "",
-      "columns": [
-        "League",
-        "Status",
-        "As_Of",
-        "Generated_At_UTC",
-        "Model_Version"
-      ],
-      "rowCount": 1,
-      "rows": [
-        {
-          "League": "WNBL",
-          "Status": "NO_REGULAR_SEASON_FIXTURES",
-          "As_Of": "2026-10-05",
-          "Generated_At_UTC": "2026-10-04 23:20:36 UTC",
-          "Model_Version": "basketball_2026"
-        }
-      ]
-    },
-    {
-      "file": "WNBL_upcoming_projections.csv",
-      "supporting": false,
-      "model": "WNBL upcoming projections",
-      "sport": "WNBL",
-      "extension": "csv",
-      "modified": "2026-10-05 10:22:18",
-      "size": 134,
-      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1791156138-134",
-      "sheets": [],
-      "defaultSheet": "",
-      "columns": [
-        "League",
-        "Status",
-        "As_Of",
-        "Generated_At_UTC",
-        "Model_Version"
-      ],
-      "rowCount": 1,
-      "rows": [
-        {
-          "League": "WNBL",
-          "Status": "NO_REGULAR_SEASON_FIXTURES",
-          "As_Of": "2026-10-05",
-          "Generated_At_UTC": "2026-10-04 23:20:36 UTC",
-          "Model_Version": "basketball_2026"
         }
       ]
     },
