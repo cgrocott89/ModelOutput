@@ -1,3 +1,6 @@
 "Date","Home","Away","Bookmaker","Market","Bet","Price","Expected Return","Confidence","Stake Units","Macro Confirmation"
-"2026-10-10","perth wildcats","nz breakers","PointsBet (AU)","Total","Over 180.5",1.9,"11.6%","standard",0.5,"conflicts"
-"2026-10-11","sydney kings","adelaide 36ers","PointsBet (AU)","H2H","adelaide 36ers",3.9,"23%","standard",1,""
+"2026-10-14","sydney kings","nz breakers","TAB","Total","Over 183.5",1.9,"13.4%","standard",0.5,"conflicts"
+"2026-10-16","tasmania jackjumpers","adelaide 36ers","Ladbrokes","H2H","adelaide 36ers",2.6,"71.4%","standard",1,""
+"2026-10-16","tasmania jackjumpers","adelaide 36ers","TAB","Total","Over 183.5",1.9,"13%","standard",0.5,"conflicts"
+"2026-10-18","melbourne united","illawarra hawks","Ladbrokes","H2H","illawarra hawks",5.5,"100.5%","standard",1,""
+"2026-10-18","melbourne united","illawarra hawks","PointsBet (AU)","Total","Under 199.5",1.9,"40.9%","high",1,"supports"
