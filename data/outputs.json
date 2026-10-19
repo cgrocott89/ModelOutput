@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19 17:21:39",
+  "generatedAt": "2026-10-19 17:23:20",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -48230,9 +48230,9 @@
       "model": "WNBL full game odds",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-10-19 17:21:11",
+      "modified": "2026-10-19 17:23:15",
       "size": 89,
-      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1792390871-89",
+      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1792390995-89",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -48245,7 +48245,7 @@
         {
           "League": "WNBL",
           "Status": "NO_VERIFIED_WNBL_ODDS_COVERAGE",
-          "Checked_At_UTC": "2026-10-19 06:21:11 UTC"
+          "Checked_At_UTC": "2026-10-19 06:23:15 UTC"
         }
       ]
     },
@@ -48255,9 +48255,9 @@
       "model": "WNBL market recommendations",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-10-19 17:21:11",
+      "modified": "2026-10-19 17:23:15",
       "size": 89,
-      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1792390871-89",
+      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1792390995-89",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -48270,7 +48270,7 @@
         {
           "League": "WNBL",
           "Status": "NO_VERIFIED_WNBL_ODDS_COVERAGE",
-          "Checked_At_UTC": "2026-10-19 06:21:11 UTC"
+          "Checked_At_UTC": "2026-10-19 06:23:15 UTC"
         }
       ]
     },
@@ -48280,9 +48280,9 @@
       "model": "WNBL upcoming projections",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-10-19 17:21:11",
+      "modified": "2026-10-19 17:23:15",
       "size": 4324,
-      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1792390871-4324",
+      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1792390995-4324",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -48357,7 +48357,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-19 06:18:54 UTC"
+          "Generated_At_UTC": "2026-10-19 06:22:18 UTC"
         },
         {
           "League": "WNBL",
@@ -48393,7 +48393,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-19 06:18:54 UTC"
+          "Generated_At_UTC": "2026-10-19 06:22:18 UTC"
         },
         {
           "League": "WNBL",
@@ -48429,7 +48429,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-19 06:18:54 UTC"
+          "Generated_At_UTC": "2026-10-19 06:22:18 UTC"
         },
         {
           "League": "WNBL",
@@ -48465,7 +48465,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-19 06:18:54 UTC"
+          "Generated_At_UTC": "2026-10-19 06:22:18 UTC"
         },
         {
           "League": "WNBL",
@@ -48501,7 +48501,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-19 06:18:54 UTC"
+          "Generated_At_UTC": "2026-10-19 06:22:18 UTC"
         },
         {
           "League": "WNBL",
@@ -48537,7 +48537,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-19 06:18:54 UTC"
+          "Generated_At_UTC": "2026-10-19 06:22:18 UTC"
         }
       ]
     },
