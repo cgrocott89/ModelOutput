@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19 17:23:20",
+  "generatedAt": "2026-10-20 17:50:18",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -8,9 +8,9 @@
       "model": "A-Leagues upcoming projections",
       "sport": "A-Leagues",
       "extension": "xlsx",
-      "modified": "2026-10-18 13:43:29",
+      "modified": "2026-10-19 17:24:08",
       "size": 11973,
-      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1792291409-11973",
+      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1792391048-11973",
       "sheets": [
         "Projections"
       ],
@@ -134,7 +134,7 @@
           "model_version": "aleagues_team_player_joint_prod_v1.1.0",
           "config_id": "ALM_2026/2027_wdw_0.99_none_l0.3_total_0.99_global_l0.3",
           "rating_as_of": "2026-05-23T00:00:00",
-          "prediction_generated_at": "2026-10-18 13:43:17 AEDT",
+          "prediction_generated_at": "2026-10-19 17:23:56 AEDT",
           "match_id": "4fvv54cadlavkl7k6twdfoy6s",
           "season": "2026/2027",
           "stage": "Regular Season",
@@ -208,7 +208,7 @@
           "model_version": "aleagues_team_player_joint_prod_v1.1.0",
           "config_id": "ALM_2026/2027_wdw_0.99_none_l0.3_total_0.99_global_l0.3",
           "rating_as_of": "2026-05-23T00:00:00",
-          "prediction_generated_at": "2026-10-18 13:43:17 AEDT",
+          "prediction_generated_at": "2026-10-19 17:23:56 AEDT",
           "match_id": "4gc631hxb8kjwe3gs3o2rblsk",
           "season": "2026/2027",
           "stage": "Regular Season",
@@ -282,7 +282,7 @@
           "model_version": "aleagues_team_player_joint_prod_v1.1.0",
           "config_id": "ALM_2026/2027_wdw_0.99_none_l0.3_total_0.99_global_l0.3",
           "rating_as_of": "2026-05-23T00:00:00",
-          "prediction_generated_at": "2026-10-18 13:43:17 AEDT",
+          "prediction_generated_at": "2026-10-19 17:23:56 AEDT",
           "match_id": "4gpo8d0qh5hhucerumdq73dhw",
           "season": "2026/2027",
           "stage": "Regular Season",
@@ -356,7 +356,7 @@
           "model_version": "aleagues_team_player_joint_prod_v1.1.0",
           "config_id": "ALM_2026/2027_wdw_0.99_none_l0.3_total_0.99_global_l0.3",
           "rating_as_of": "2026-05-23T00:00:00",
-          "prediction_generated_at": "2026-10-18 13:43:17 AEDT",
+          "prediction_generated_at": "2026-10-19 17:23:56 AEDT",
           "match_id": "4h3a60ofbfqccw27euzi80qhg",
           "season": "2026/2027",
           "stage": "Regular Season",
@@ -430,7 +430,7 @@
           "model_version": "aleagues_team_player_joint_prod_v1.1.0",
           "config_id": "ALM_2026/2027_wdw_0.99_none_l0.3_total_0.99_global_l0.3",
           "rating_as_of": "2026-05-23T00:00:00",
-          "prediction_generated_at": "2026-10-18 13:43:17 AEDT",
+          "prediction_generated_at": "2026-10-19 17:23:56 AEDT",
           "match_id": "4hgyjdzmsg3yrculpbz3igaac",
           "season": "2026/2027",
           "stage": "Regular Season",
@@ -504,7 +504,7 @@
           "model_version": "aleagues_team_player_joint_prod_v1.1.0",
           "config_id": "ALM_2026/2027_wdw_0.99_none_l0.3_total_0.99_global_l0.3",
           "rating_as_of": "2026-05-23T00:00:00",
-          "prediction_generated_at": "2026-10-18 13:43:17 AEDT",
+          "prediction_generated_at": "2026-10-19 17:23:56 AEDT",
           "match_id": "4hujgxl6g64zsyrlo2clswydw",
           "season": "2026/2027",
           "stage": "Regular Season",
@@ -578,7 +578,7 @@
           "model_version": "aleagues_team_player_joint_prod_v1.1.0",
           "config_id": "ALM_2026/2027_wdw_0.99_none_l0.3_total_0.99_global_l0.3",
           "rating_as_of": "2026-05-23T00:00:00",
-          "prediction_generated_at": "2026-10-18 13:43:17 AEDT",
+          "prediction_generated_at": "2026-10-19 17:23:56 AEDT",
           "match_id": "4i7ddonqbzg9r75i3h8fdlel0",
           "season": "2026/2027",
           "stage": "Regular Season",
@@ -652,7 +652,7 @@
           "model_version": "aleagues_team_player_joint_prod_v1.1.0",
           "config_id": "ALM_2026/2027_wdw_0.99_none_l0.3_total_0.99_global_l0.3",
           "rating_as_of": "2026-05-23T00:00:00",
-          "prediction_generated_at": "2026-10-18 13:43:17 AEDT",
+          "prediction_generated_at": "2026-10-19 17:23:56 AEDT",
           "match_id": "4ik9ue5lyqnu1nhtb32a6uiac",
           "season": "2026/2027",
           "stage": "Regular Season",
@@ -48230,9 +48230,9 @@
       "model": "WNBL full game odds",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-10-19 17:23:15",
+      "modified": "2026-10-20 17:50:08",
       "size": 89,
-      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1792390995-89",
+      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1792479008-89",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -48245,7 +48245,7 @@
         {
           "League": "WNBL",
           "Status": "NO_VERIFIED_WNBL_ODDS_COVERAGE",
-          "Checked_At_UTC": "2026-10-19 06:23:15 UTC"
+          "Checked_At_UTC": "2026-10-20 06:50:08 UTC"
         }
       ]
     },
@@ -48255,9 +48255,9 @@
       "model": "WNBL market recommendations",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-10-19 17:23:15",
+      "modified": "2026-10-20 17:50:08",
       "size": 89,
-      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1792390995-89",
+      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1792479008-89",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -48270,7 +48270,7 @@
         {
           "League": "WNBL",
           "Status": "NO_VERIFIED_WNBL_ODDS_COVERAGE",
-          "Checked_At_UTC": "2026-10-19 06:23:15 UTC"
+          "Checked_At_UTC": "2026-10-20 06:50:08 UTC"
         }
       ]
     },
@@ -48280,9 +48280,9 @@
       "model": "WNBL upcoming projections",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-10-19 17:23:15",
-      "size": 4324,
-      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1792390995-4324",
+      "modified": "2026-10-20 17:50:08",
+      "size": 3679,
+      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1792479008-3679",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -48321,7 +48321,7 @@
         "Model_Version",
         "Generated_At_UTC"
       ],
-      "rowCount": 6,
+      "rowCount": 5,
       "rows": [
         {
           "League": "WNBL",
@@ -48357,7 +48357,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-19 06:22:18 UTC"
+          "Generated_At_UTC": "2026-10-20 06:48:50 UTC"
         },
         {
           "League": "WNBL",
@@ -48393,7 +48393,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-19 06:22:18 UTC"
+          "Generated_At_UTC": "2026-10-20 06:48:50 UTC"
         },
         {
           "League": "WNBL",
@@ -48429,7 +48429,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-19 06:22:18 UTC"
+          "Generated_At_UTC": "2026-10-20 06:48:50 UTC"
         },
         {
           "League": "WNBL",
@@ -48465,7 +48465,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-19 06:22:18 UTC"
+          "Generated_At_UTC": "2026-10-20 06:48:50 UTC"
         },
         {
           "League": "WNBL",
@@ -48501,43 +48501,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-19 06:22:18 UTC"
-        },
-        {
-          "League": "WNBL",
-          "Game_ID": "69d907b5-7351-11f1-aae8-35eafe1ad2e9",
-          "Game_Date": "2026-10-25",
-          "Fixture_Time_Sydney": "2026-10-25 03:00 PM AEDT",
-          "Home_Team": "townsville fire",
-          "Away_Team": "sydney flames",
-          "Full_Home_Line": -1.52,
-          "Full_Total": 161.6355,
-          "Full_Margin_SD": 15.2306,
-          "Full_Home_Win_Probability": 0.5397,
-          "Full_Total_SD": 17.0046,
-          "Scenario_Out_Home_Line": -1.4913,
-          "Scenario_Out_Total": 161.6355,
-          "Q1_Home_Line": -1.9071,
-          "Q1_Total": 42.7431,
-          "Q2_Home_Line": -2.4925,
-          "Q2_Total": 41.1308,
-          "H1_Home_Line": -4.3996,
-          "H1_Total": 83.8739,
-          "Q1_Margin_SD": 7.7268,
-          "Q1_Total_SD": 7.384,
-          "H1_Margin_SD": 11.4705,
-          "H1_Total_SD": 11.3377,
-          "Q1_Period_Model": "margin:team;total:league",
-          "H1_Period_Model": "margin:team;total:league",
-          "Period_Training_Games": 378,
-          "Period_Training_Through": "2026-09-20",
-          "Player_Training_Through": "2026-10-18",
-          "Lineup_Source": "official_roster_tracker",
-          "Injury_Scenario": "in_out_review",
-          "Line_Model": "APPROVED_SPM",
-          "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
-          "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-19 06:22:18 UTC"
+          "Generated_At_UTC": "2026-10-20 06:48:50 UTC"
         }
       ]
     },
