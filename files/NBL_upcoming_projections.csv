@@ -1,8 +1,8 @@
 "Date","Start","Home","Away","V8 Home Line","V2 Total","1H Total","1Q Total","Projected Score","Macro Lean","Macro Environment","Line Model","Total Model","Lineup Coverage"
-"2026-10-21","2026-10-21 07:30 PM AEDT","tasmania jackjumpers","brisbane bullets",0.4,184.8,94.3,47.2,"92.2 - 92.6","lower scoring",-0.65,"V8 original","V2 pure team",0.86
-"2026-10-22","2026-10-22 07:30 PM AEDT","illawarra hawks","sydney kings",9.2,193.9,98.9,49.6,"92.4 - 101.6","lower scoring",-0.65,"V8 original","V2 pure team",0.83
-"2026-10-23","2026-10-23 09:30 PM AEDT","perth wildcats","melbourne united",0.8,179.9,91.8,46,"89.6 - 90.4","lower scoring",-0.65,"V8 original","V2 pure team",0.9
-"2026-10-24","2026-10-24 05:30 PM AEDT","illawarra hawks","brisbane bullets",0.6,190.4,97.1,48.7,"94.9 - 95.5","lower scoring",-0.65,"V8 original","V2 pure team",0.83
-"2026-10-24","2026-10-24 07:30 PM AEDT","south east melbourne phoenix","adelaide 36ers",0.7,190.2,97,48.6,"94.7 - 95.5","lower scoring",-0.65,"V8 original","V2 pure team",0.91
-"2026-10-25","2026-10-25 03:00 PM AEDT","cairns taipans","nz breakers",-1.2,185.9,94.8,47.5,"93.5 - 92.3","lower scoring",-0.65,"V8 original","V2 pure team",0.82
-"2026-10-25","2026-10-25 05:00 PM AEDT","melbourne united","sydney kings",4.3,182.5,93.1,46.6,"89.1 - 93.4","lower scoring",-0.65,"V8 original","V2 pure team",0.9
+"2026-10-21","2026-10-21 07:30 PM AEDT","tasmania jackjumpers","brisbane bullets",-6.7,184.8,94.3,47.2,"95.7 - 89.1","lower scoring",-0.65,"V2 team-only (cold-start guard)","V2 pure team",0.86
+"2026-10-22","2026-10-22 07:30 PM AEDT","illawarra hawks","sydney kings",7.9,193.9,98.9,49.6,"93 - 100.9","lower scoring",-0.65,"V2 team-only (cold-start guard)","V2 pure team",0.83
+"2026-10-23","2026-10-23 09:30 PM AEDT","perth wildcats","melbourne united",-2,179.9,91.8,46,"91 - 89","lower scoring",-0.65,"V2 team-only (cold-start guard)","V2 pure team",0.9
+"2026-10-24","2026-10-24 05:30 PM AEDT","illawarra hawks","brisbane bullets",-5.1,190.4,97.1,48.7,"97.7 - 92.6","lower scoring",-0.65,"V2 team-only (cold-start guard)","V2 pure team",0.83
+"2026-10-24","2026-10-24 07:30 PM AEDT","south east melbourne phoenix","adelaide 36ers",-3.5,190.2,97,48.6,"96.8 - 93.4","lower scoring",-0.65,"V2 team-only (cold-start guard)","V2 pure team",0.91
+"2026-10-25","2026-10-25 03:00 PM AEDT","cairns taipans","nz breakers",5,185.9,94.8,47.5,"90.4 - 95.4","lower scoring",-0.65,"V2 team-only (cold-start guard)","V2 pure team",0.82
+"2026-10-25","2026-10-25 05:00 PM AEDT","melbourne united","sydney kings",5.3,182.5,93.1,46.6,"88.6 - 93.9","lower scoring",-0.65,"V2 team-only (cold-start guard)","V2 pure team",0.9
