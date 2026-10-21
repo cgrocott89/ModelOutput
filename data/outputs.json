@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21 22:24:50",
+  "generatedAt": "2026-10-22 07:16:19",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -82364,9 +82364,9 @@
       "model": "WNBL full game odds",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-10-21 15:30:24",
+      "modified": "2026-10-22 07:16:10",
       "size": 89,
-      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1792557024-89",
+      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1792613770-89",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -82379,7 +82379,7 @@
         {
           "League": "WNBL",
           "Status": "NO_VERIFIED_WNBL_ODDS_COVERAGE",
-          "Checked_At_UTC": "2026-10-21 04:30:24 UTC"
+          "Checked_At_UTC": "2026-10-21 20:16:10 UTC"
         }
       ]
     },
@@ -82389,9 +82389,9 @@
       "model": "WNBL market recommendations",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-10-21 15:30:24",
+      "modified": "2026-10-22 07:16:10",
       "size": 89,
-      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1792557024-89",
+      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1792613770-89",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -82404,7 +82404,7 @@
         {
           "League": "WNBL",
           "Status": "NO_VERIFIED_WNBL_ODDS_COVERAGE",
-          "Checked_At_UTC": "2026-10-21 04:30:24 UTC"
+          "Checked_At_UTC": "2026-10-21 20:16:10 UTC"
         }
       ]
     },
@@ -82414,9 +82414,9 @@
       "model": "WNBL upcoming projections",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-10-21 15:30:24",
-      "size": 4319,
-      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1792557024-4319",
+      "modified": "2026-10-22 07:16:10",
+      "size": 3681,
+      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1792613770-3681",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -82455,7 +82455,7 @@
         "Model_Version",
         "Generated_At_UTC"
       ],
-      "rowCount": 6,
+      "rowCount": 5,
       "rows": [
         {
           "League": "WNBL",
@@ -82491,7 +82491,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-21 04:29:11 UTC"
+          "Generated_At_UTC": "2026-10-21 20:15:03 UTC"
         },
         {
           "League": "WNBL",
@@ -82527,7 +82527,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-21 04:29:11 UTC"
+          "Generated_At_UTC": "2026-10-21 20:15:03 UTC"
         },
         {
           "League": "WNBL",
@@ -82563,7 +82563,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-21 04:29:11 UTC"
+          "Generated_At_UTC": "2026-10-21 20:15:03 UTC"
         },
         {
           "League": "WNBL",
@@ -82599,7 +82599,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-21 04:29:11 UTC"
+          "Generated_At_UTC": "2026-10-21 20:15:03 UTC"
         },
         {
           "League": "WNBL",
@@ -82635,43 +82635,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-21 04:29:11 UTC"
-        },
-        {
-          "League": "WNBL",
-          "Game_ID": "69e18c87-7351-11f1-b6f0-8d74e8c1d09b",
-          "Game_Date": "2026-10-27",
-          "Fixture_Time_Sydney": "2026-10-27 07:00 PM AEDT",
-          "Home_Team": "bendigo spirit",
-          "Away_Team": "townsville fire",
-          "Full_Home_Line": 6.44,
-          "Full_Total": 156.8828,
-          "Full_Margin_SD": 15.2306,
-          "Full_Home_Win_Probability": 0.3362,
-          "Full_Total_SD": 17.0046,
-          "Scenario_Out_Home_Line": 6.4067,
-          "Scenario_Out_Total": 156.8828,
-          "Q1_Home_Line": 2.5586,
-          "Q1_Total": 41.4863,
-          "Q2_Home_Line": 2.3454,
-          "Q2_Total": 39.9215,
-          "H1_Home_Line": 4.9039,
-          "H1_Total": 81.4077,
-          "Q1_Margin_SD": 7.7268,
-          "Q1_Total_SD": 7.384,
-          "H1_Margin_SD": 11.4705,
-          "H1_Total_SD": 11.3377,
-          "Q1_Period_Model": "margin:team;total:league",
-          "H1_Period_Model": "margin:team;total:league",
-          "Period_Training_Games": 378,
-          "Period_Training_Through": "2026-09-20",
-          "Player_Training_Through": "2026-10-20",
-          "Lineup_Source": "official_roster_tracker",
-          "Injury_Scenario": "in_out_review",
-          "Line_Model": "APPROVED_SPM",
-          "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
-          "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-21 04:29:11 UTC"
+          "Generated_At_UTC": "2026-10-21 20:15:03 UTC"
         }
       ]
     },
