@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23 13:01:52",
+  "generatedAt": "2026-10-23 17:01:22",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -56588,9 +56588,9 @@
       "model": "WNBL full game odds",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-10-23 13:01:46",
+      "modified": "2026-10-23 17:01:17",
       "size": 89,
-      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1792720906-89",
+      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1792735277-89",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -56603,7 +56603,7 @@
         {
           "League": "WNBL",
           "Status": "NO_VERIFIED_WNBL_ODDS_COVERAGE",
-          "Checked_At_UTC": "2026-10-23 02:01:46 UTC"
+          "Checked_At_UTC": "2026-10-23 06:01:17 UTC"
         }
       ]
     },
@@ -56613,9 +56613,9 @@
       "model": "WNBL market recommendations",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-10-23 13:01:46",
+      "modified": "2026-10-23 17:01:17",
       "size": 89,
-      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1792720906-89",
+      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1792735277-89",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -56628,7 +56628,7 @@
         {
           "League": "WNBL",
           "Status": "NO_VERIFIED_WNBL_ODDS_COVERAGE",
-          "Checked_At_UTC": "2026-10-23 02:01:46 UTC"
+          "Checked_At_UTC": "2026-10-23 06:01:17 UTC"
         }
       ]
     },
@@ -56638,9 +56638,9 @@
       "model": "WNBL upcoming projections",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-10-23 13:01:46",
+      "modified": "2026-10-23 17:01:17",
       "size": 3677,
-      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1792720906-3677",
+      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1792735277-3677",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -56715,7 +56715,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-23 02:00:02 UTC"
+          "Generated_At_UTC": "2026-10-23 06:00:03 UTC"
         },
         {
           "League": "WNBL",
@@ -56751,7 +56751,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-23 02:00:02 UTC"
+          "Generated_At_UTC": "2026-10-23 06:00:03 UTC"
         },
         {
           "League": "WNBL",
@@ -56787,7 +56787,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-23 02:00:02 UTC"
+          "Generated_At_UTC": "2026-10-23 06:00:03 UTC"
         },
         {
           "League": "WNBL",
@@ -56823,7 +56823,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-23 02:00:02 UTC"
+          "Generated_At_UTC": "2026-10-23 06:00:03 UTC"
         },
         {
           "League": "WNBL",
@@ -56859,7 +56859,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.2.0",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-10-23 02:00:02 UTC"
+          "Generated_At_UTC": "2026-10-23 06:00:03 UTC"
         }
       ]
     },
