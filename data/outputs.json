@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24 20:40:17",
+  "generatedAt": "2026-10-24 22:22:14",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -31893,9 +31893,9 @@
       "model": "Straight greyhound rated prices",
       "sport": "Greyhounds",
       "extension": "xlsx",
-      "modified": "2026-10-24 20:39:03",
+      "modified": "2026-10-24 22:21:46",
       "size": 261117,
-      "fileUrl": "/files/Straight_Greyhound_upcoming_rated_prices.xlsx?v=1792834743-261117",
+      "fileUrl": "/files/Straight_Greyhound_upcoming_rated_prices.xlsx?v=1792840906-261117",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -45441,9 +45441,9 @@
       "model": "Straight Greyhound upcoming rated prices LOGIT",
       "sport": "Greyhounds",
       "extension": "xlsx",
-      "modified": "2026-10-24 20:38:17",
-      "size": 117367,
-      "fileUrl": "/files/Straight_Greyhound_upcoming_rated_prices_LOGIT.xlsx?v=1792834697-117367",
+      "modified": "2026-10-24 22:21:20",
+      "size": 117365,
+      "fileUrl": "/files/Straight_Greyhound_upcoming_rated_prices_LOGIT.xlsx?v=1792840880-117365",
       "sheets": [
         "Rated prices",
         "Component audit"
