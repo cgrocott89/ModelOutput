@@ -1,5 +1,3 @@
 "Date","Home","Away","Bookmaker","Market","Bet","Price","Expected Return","Confidence","Stake Units","Macro Confirmation"
-"2026-10-23","perth wildcats","melbourne united","PointsBet (AU)","H2H","perth wildcats",2.1,"12.5%","standard",1,""
-"2026-10-23","perth wildcats","melbourne united","SportsBet","Total","Under 186.5",1.89,"21.6%","high",1,"supports"
-"2026-10-25","cairns taipans","nz breakers","PointsBet (AU)","Line","nz breakers 1.5",1.85,"23%","standard",1,""
-"2026-10-25","cairns taipans","nz breakers","SportsBet","Total","Under 189.5",1.89,"9.7%","high",1,"supports"
+"2026-10-28","perth wildcats","sydney kings","PointsBet (AU)","Total","Over 188.5",1.9,"6.9%","standard",0.5,"conflicts"
+"2026-10-30","new zealand breakers","adelaide 36ers","PlayUp","Total","Over 181.5",1.9,"7.6%","standard",0.5,"conflicts"
