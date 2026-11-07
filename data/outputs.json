@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07 09:15:41",
+  "generatedAt": "2026-11-07 11:48:39",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -925,9 +925,9 @@
       "model": "AFLW upcoming projections",
       "sport": "AFLW",
       "extension": "xlsx",
-      "modified": "2026-10-01 08:27:18",
-      "size": 9946,
-      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1790807238-9946",
+      "modified": "2026-11-07 11:48:36",
+      "size": 8767,
+      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1794012516-8767",
       "sheets": [
         "Projections"
       ],
@@ -944,8 +944,81 @@
         "Projected Total",
         "Venue"
       ],
-      "rowCount": 0,
-      "rows": []
+      "rowCount": 6,
+      "rows": [
+        {
+          "Date": "2026-11-07",
+          "Home Team": "geelong cats",
+          "Away Team": "melbourne",
+          "Home Team List": "Provisional",
+          "Away Team List": "Provisional",
+          "PROD Projected Line": 2.1,
+          "TEAM-only Projected Line": 10.2,
+          "PLAYER-only Projected Line": 9.2,
+          "Projected Total": 89.3,
+          "Venue": "IKON Park"
+        },
+        {
+          "Date": "2026-11-07",
+          "Home Team": "north melbourne",
+          "Away Team": "carlton",
+          "Home Team List": "Provisional",
+          "Away Team List": "Provisional",
+          "PROD Projected Line": -28.1,
+          "TEAM-only Projected Line": -19.7,
+          "PLAYER-only Projected Line": -31.7,
+          "Projected Total": 89,
+          "Venue": "IKON Park"
+        },
+        {
+          "Date": "2026-11-08",
+          "Home Team": "sydney swans",
+          "Away Team": "western bulldogs",
+          "Home Team List": "Provisional",
+          "Away Team List": "Provisional",
+          "PROD Projected Line": 0,
+          "TEAM-only Projected Line": 2.3,
+          "PLAYER-only Projected Line": 0.9,
+          "Projected Total": 79.8,
+          "Venue": "Henson Park"
+        },
+        {
+          "Date": "2026-11-08",
+          "Home Team": "gold coast suns",
+          "Away Team": "hawthorn",
+          "Home Team List": "Provisional",
+          "Away Team List": "Provisional",
+          "PROD Projected Line": 0,
+          "TEAM-only Projected Line": 11,
+          "PLAYER-only Projected Line": -4.3,
+          "Projected Total": 83.5,
+          "Venue": "People First Stadium"
+        },
+        {
+          "Date": "2026-11-09",
+          "Home Team": "loser of qf1",
+          "Away Team": "winner of ef1",
+          "Home Team List": "Previous",
+          "Away Team List": "Previous",
+          "PROD Projected Line": -2,
+          "TEAM-only Projected Line": -2,
+          "PLAYER-only Projected Line": -2,
+          "Projected Total": 83.1,
+          "Venue": "To Be Confirmed"
+        },
+        {
+          "Date": "2026-11-09",
+          "Home Team": "loser of qf2",
+          "Away Team": "winner of ef2",
+          "Home Team List": "Previous",
+          "Away Team List": "Previous",
+          "PROD Projected Line": -2,
+          "TEAM-only Projected Line": -2,
+          "PLAYER-only Projected Line": -2,
+          "Projected Total": 83.1,
+          "Venue": "To Be Confirmed"
+        }
+      ]
     },
     {
       "file": "International_Netball_upcoming_projections.csv",
