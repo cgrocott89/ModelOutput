@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07 13:00:54",
+  "generatedAt": "2026-11-07 17:00:39",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -64890,9 +64890,9 @@
       "model": "WNBL full game odds",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-11-07 13:00:52",
+      "modified": "2026-11-07 17:00:36",
       "size": 74,
-      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1794016852-74",
+      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1794031236-74",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -64905,7 +64905,7 @@
         {
           "League": "WNBL",
           "Status": "COLLECTION_ONLY",
-          "Checked_At_UTC": "2026-11-07 02:00:52 UTC"
+          "Checked_At_UTC": "2026-11-07 06:00:36 UTC"
         }
       ]
     },
@@ -64915,9 +64915,9 @@
       "model": "WNBL market recommendations",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-11-07 13:00:52",
+      "modified": "2026-11-07 17:00:36",
       "size": 74,
-      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1794016852-74",
+      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1794031236-74",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -64930,7 +64930,7 @@
         {
           "League": "WNBL",
           "Status": "COLLECTION_ONLY",
-          "Checked_At_UTC": "2026-11-07 02:00:52 UTC"
+          "Checked_At_UTC": "2026-11-07 06:00:36 UTC"
         }
       ]
     },
@@ -64940,9 +64940,9 @@
       "model": "WNBL upcoming projections",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-11-07 13:00:52",
-      "size": 3145,
-      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1794016852-3145",
+      "modified": "2026-11-07 17:00:36",
+      "size": 2487,
+      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1794031236-2487",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -64982,45 +64982,8 @@
         "Model_Version",
         "Generated_At_UTC"
       ],
-      "rowCount": 4,
+      "rowCount": 3,
       "rows": [
-        {
-          "League": "WNBL",
-          "Game_ID": "69da9853-7351-11f1-946c-555936f39863",
-          "Game_Date": "2026-11-07",
-          "Fixture_Time_Sydney": "2026-11-07 03:00 PM AEDT",
-          "Home_Team": "adelaide lightning",
-          "Away_Team": "tasmania jewels",
-          "Full_Home_Line": 0.6935,
-          "Full_Total": 167.0834,
-          "Full_Margin_SD": 15.2306,
-          "Full_Home_Win_Probability": 0.4818,
-          "Full_Total_SD": 17.0046,
-          "Scenario_Out_Home_Line": 0.6935,
-          "Scenario_Out_Total": 167.0834,
-          "Q1_Home_Line": 0.26,
-          "Q1_Total": 44.1982,
-          "Q2_Home_Line": 1.1332,
-          "Q2_Total": 42.5216,
-          "H1_Home_Line": 1.3932,
-          "H1_Total": 86.7197,
-          "Q1_Margin_SD": 7.7268,
-          "Q1_Total_SD": 7.384,
-          "H1_Margin_SD": 11.4705,
-          "H1_Total_SD": 11.3377,
-          "Q1_Period_Model": "margin:team;total:league",
-          "H1_Period_Model": "margin:team;total:league",
-          "Period_Training_Games": 396,
-          "Period_Training_Through": "2026-11-05",
-          "Period_Input_Status": "CURRENT",
-          "Player_Training_Through": "2026-11-05",
-          "Lineup_Source": "official_roster_tracker",
-          "Injury_Scenario": "resolved",
-          "Line_Model": "APPROVED_SPM",
-          "Total_Model": "wnbl_total_scorereg_v2_0.3.0_cold_start",
-          "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-11-07 02:00:02 UTC"
-        },
         {
           "League": "WNBL",
           "Game_ID": "69dbcb61-7351-11f1-90e6-356ce525f133",
@@ -65050,13 +65013,13 @@
           "Period_Training_Games": 396,
           "Period_Training_Through": "2026-11-05",
           "Period_Input_Status": "CURRENT",
-          "Player_Training_Through": "2026-11-05",
+          "Player_Training_Through": "2026-11-07",
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.3.0_cold_start",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-11-07 02:00:02 UTC"
+          "Generated_At_UTC": "2026-11-07 06:00:01 UTC"
         },
         {
           "League": "WNBL",
@@ -65065,19 +65028,19 @@
           "Fixture_Time_Sydney": "2026-11-08 12:30 PM AEDT",
           "Home_Team": "sydney flames",
           "Away_Team": "southside flyers",
-          "Full_Home_Line": -10.1636,
-          "Full_Total": 159.5262,
+          "Full_Home_Line": -9.7167,
+          "Full_Total": 159.5618,
           "Full_Margin_SD": 15.2306,
-          "Full_Home_Win_Probability": 0.7477,
+          "Full_Home_Win_Probability": 0.7383,
           "Full_Total_SD": 17.0046,
-          "Scenario_Out_Home_Line": -10.1636,
-          "Scenario_Out_Total": 159.5262,
-          "Q1_Home_Line": -2.7812,
-          "Q1_Total": 42.1991,
-          "Q2_Home_Line": -1.4094,
-          "Q2_Total": 40.5983,
-          "H1_Home_Line": -4.1906,
-          "H1_Total": 82.7974,
+          "Scenario_Out_Home_Line": -9.7167,
+          "Scenario_Out_Total": 159.5618,
+          "Q1_Home_Line": -2.6644,
+          "Q1_Total": 42.2085,
+          "Q2_Home_Line": -1.296,
+          "Q2_Total": 40.6074,
+          "H1_Home_Line": -3.9604,
+          "H1_Total": 82.8159,
           "Q1_Margin_SD": 7.7268,
           "Q1_Total_SD": 7.384,
           "H1_Margin_SD": 11.4705,
@@ -65087,13 +65050,13 @@
           "Period_Training_Games": 396,
           "Period_Training_Through": "2026-11-05",
           "Period_Input_Status": "CURRENT",
-          "Player_Training_Through": "2026-11-05",
+          "Player_Training_Through": "2026-11-07",
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "resolved",
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.3.0_cold_start",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-11-07 02:00:02 UTC"
+          "Generated_At_UTC": "2026-11-07 06:00:01 UTC"
         },
         {
           "League": "WNBL",
@@ -65102,19 +65065,19 @@
           "Fixture_Time_Sydney": "2026-11-10 09:00 PM AEDT",
           "Home_Team": "perth lynx",
           "Away_Team": "bendigo spirit",
-          "Full_Home_Line": -6.9253,
-          "Full_Total": 158.6835,
+          "Full_Home_Line": -7.8193,
+          "Full_Total": 158.7628,
           "Full_Margin_SD": 15.2306,
-          "Full_Home_Win_Probability": 0.6753,
+          "Full_Home_Win_Probability": 0.6962,
           "Full_Total_SD": 17.0046,
-          "Scenario_Out_Home_Line": -7.4421,
-          "Scenario_Out_Total": 158.6835,
-          "Q1_Home_Line": -1.1584,
-          "Q1_Total": 41.9762,
-          "Q2_Home_Line": -2.0893,
-          "Q2_Total": 40.3839,
-          "H1_Home_Line": -3.2477,
-          "H1_Total": 82.36,
+          "Scenario_Out_Home_Line": -8.3368,
+          "Scenario_Out_Total": 158.7628,
+          "Q1_Home_Line": -1.3968,
+          "Q1_Total": 41.9971,
+          "Q2_Home_Line": -2.318,
+          "Q2_Total": 40.404,
+          "H1_Home_Line": -3.7149,
+          "H1_Total": 82.4012,
           "Q1_Margin_SD": 7.7268,
           "Q1_Total_SD": 7.384,
           "H1_Margin_SD": 11.4705,
@@ -65124,13 +65087,13 @@
           "Period_Training_Games": 396,
           "Period_Training_Through": "2026-11-05",
           "Period_Input_Status": "CURRENT",
-          "Player_Training_Through": "2026-11-05",
+          "Player_Training_Through": "2026-11-07",
           "Lineup_Source": "official_roster_tracker",
           "Injury_Scenario": "in_out_review",
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.3.0_cold_start",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-11-07 02:00:02 UTC"
+          "Generated_At_UTC": "2026-11-07 06:00:01 UTC"
         }
       ]
     }
