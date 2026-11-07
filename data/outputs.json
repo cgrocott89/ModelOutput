@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07 11:48:39",
+  "generatedAt": "2026-11-07 11:50:36",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -925,9 +925,9 @@
       "model": "AFLW upcoming projections",
       "sport": "AFLW",
       "extension": "xlsx",
-      "modified": "2026-11-07 11:48:36",
-      "size": 8767,
-      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1794012516-8767",
+      "modified": "2026-11-07 11:50:34",
+      "size": 8413,
+      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1794012634-8413",
       "sheets": [
         "Projections"
       ],
@@ -944,7 +944,7 @@
         "Projected Total",
         "Venue"
       ],
-      "rowCount": 6,
+      "rowCount": 4,
       "rows": [
         {
           "Date": "2026-11-07",
@@ -993,30 +993,6 @@
           "PLAYER-only Projected Line": -4.3,
           "Projected Total": 83.5,
           "Venue": "People First Stadium"
-        },
-        {
-          "Date": "2026-11-09",
-          "Home Team": "loser of qf1",
-          "Away Team": "winner of ef1",
-          "Home Team List": "Previous",
-          "Away Team List": "Previous",
-          "PROD Projected Line": -2,
-          "TEAM-only Projected Line": -2,
-          "PLAYER-only Projected Line": -2,
-          "Projected Total": 83.1,
-          "Venue": "To Be Confirmed"
-        },
-        {
-          "Date": "2026-11-09",
-          "Home Team": "loser of qf2",
-          "Away Team": "winner of ef2",
-          "Home Team List": "Previous",
-          "Away Team List": "Previous",
-          "PROD Projected Line": -2,
-          "TEAM-only Projected Line": -2,
-          "PLAYER-only Projected Line": -2,
-          "Projected Total": 83.1,
-          "Venue": "To Be Confirmed"
         }
       ]
     },
