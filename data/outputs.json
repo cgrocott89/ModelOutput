@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09 08:41:05",
+  "generatedAt": "2026-11-09 08:48:44",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -133,9 +133,9 @@
       "model": "AFLW upcoming projections",
       "sport": "AFLW",
       "extension": "xlsx",
-      "modified": "2026-11-07 11:50:34",
-      "size": 8413,
-      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1794012634-8413",
+      "modified": "2026-11-09 08:43:43",
+      "size": 7831,
+      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1794174223-7831",
       "sheets": [
         "Projections"
       ],
@@ -152,8 +152,33 @@
         "Projected Total",
         "Venue"
       ],
-      "rowCount": 0,
-      "rows": []
+      "rowCount": 2,
+      "rows": [
+        {
+          "Date": "2026-11-14",
+          "Home Team": "geelong cats",
+          "Away Team": "sydney swans",
+          "Home Team List": "Previous",
+          "Away Team List": "Previous",
+          "PROD Projected Line": -18.4,
+          "TEAM-only Projected Line": -2.8,
+          "PLAYER-only Projected Line": -14.8,
+          "Projected Total": 87.4,
+          "Venue": "GMHBA Stadium"
+        },
+        {
+          "Date": "2026-11-14",
+          "Home Team": "carlton",
+          "Away Team": "hawthorn",
+          "Home Team List": "Previous",
+          "Away Team List": "Previous",
+          "PROD Projected Line": -10.3,
+          "TEAM-only Projected Line": -7.2,
+          "PLAYER-only Projected Line": -15.1,
+          "Projected Total": 84.6,
+          "Venue": "IKON Park"
+        }
+      ]
     },
     {
       "file": "International_Netball_upcoming_projections.csv",
@@ -30916,9 +30941,9 @@
       "model": "RLWC Men upcoming projections",
       "sport": "RLWC Men",
       "extension": "csv",
-      "modified": "2026-11-07 11:53:08",
-      "size": 2918,
-      "fileUrl": "/files/RLWC_Men_upcoming_projections.csv?v=1794012788-2918",
+      "modified": "2026-11-09 08:48:41",
+      "size": 1821,
+      "fileUrl": "/files/RLWC_Men_upcoming_projections.csv?v=1794174521-1821",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -30935,34 +30960,20 @@
         "Player Coverage (H/A)",
         "Forecast Status"
       ],
-      "rowCount": 2,
+      "rowCount": 1,
       "rows": [
         {
-          "Date": "2026-11-07",
-          "Start": "2026-11-07 20:05:00 AEDT",
-          "Round": "Semi Final",
-          "Home": "New Zealand",
-          "Away": "Tonga",
-          "Venue": "McDonald Jones Stadium",
-          "Projected Home Line": -11.8,
-          "Projected Total": 41.7,
-          "Projected Score": "26.7 - 14.9",
-          "Named Lineups": "Yes",
-          "Player Coverage (H/A)": "100% / 92%",
-          "Forecast Status": "EXPERIMENTAL_TEAM_BASELINE_PLAYER_SHADOW"
-        },
-        {
-          "Date": "2026-11-08",
-          "Start": "2026-11-08 20:05:00 AEDT",
-          "Round": "Semi Final",
+          "Date": "2026-11-15",
+          "Start": "2026-11-15 19:35:00 AEDT",
+          "Round": "Final",
           "Home": "Australia",
-          "Away": "Samoa",
-          "Venue": "Allianz Stadium",
-          "Projected Home Line": -19.7,
-          "Projected Total": 43.8,
-          "Projected Score": "31.7 - 12",
-          "Named Lineups": "Yes",
-          "Player Coverage (H/A)": "100% / 100%",
+          "Away": "New Zealand",
+          "Venue": "Suncorp Stadium",
+          "Projected Home Line": -5.1,
+          "Projected Total": 36.3,
+          "Projected Score": "20.7 - 15.6",
+          "Named Lineups": "No",
+          "Player Coverage (H/A)": "0% / 0%",
           "Forecast Status": "EXPERIMENTAL_TEAM_BASELINE_PLAYER_SHADOW"
         }
       ]
@@ -30973,9 +30984,9 @@
       "model": "RLWC Women upcoming projections",
       "sport": "RLWC Women",
       "extension": "csv",
-      "modified": "2026-11-07 11:53:08",
-      "size": 2895,
-      "fileUrl": "/files/RLWC_Women_upcoming_projections.csv?v=1794012788-2895",
+      "modified": "2026-11-09 08:48:41",
+      "size": 1817,
+      "fileUrl": "/files/RLWC_Women_upcoming_projections.csv?v=1794174521-1817",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -30992,34 +31003,20 @@
         "Player Coverage (H/A)",
         "Forecast Status"
       ],
-      "rowCount": 2,
+      "rowCount": 1,
       "rows": [
         {
-          "Date": "2026-11-07",
-          "Start": "2026-11-07 17:45:00 AEDT",
-          "Round": "Semi Final",
-          "Home": "New Zealand",
-          "Away": "Samoa",
-          "Venue": "McDonald Jones Stadium",
-          "Projected Home Line": -9.1,
-          "Projected Total": 32.8,
-          "Projected Score": "20.9 - 11.8",
-          "Named Lineups": "Yes",
-          "Player Coverage (H/A)": "100% / 92%",
-          "Forecast Status": "EXPERIMENTAL_TEAM_BASELINE_PLAYER_SHADOW"
-        },
-        {
-          "Date": "2026-11-08",
-          "Start": "2026-11-08 17:45:00 AEDT",
-          "Round": "Semi Final",
+          "Date": "2026-11-15",
+          "Start": "2026-11-15 16:10:00 AEDT",
+          "Round": "Final",
           "Home": "Australia",
-          "Away": "Fiji",
-          "Venue": "Allianz Stadium",
-          "Projected Home Line": -32.4,
-          "Projected Total": 40.8,
-          "Projected Score": "36.6 - 4.2",
-          "Named Lineups": "Yes",
-          "Player Coverage (H/A)": "100% / 55%",
+          "Away": "New Zealand",
+          "Venue": "Suncorp Stadium",
+          "Projected Home Line": -17,
+          "Projected Total": 28.8,
+          "Projected Score": "22.9 - 5.9",
+          "Named Lineups": "No",
+          "Player Coverage (H/A)": "0% / 0%",
           "Forecast Status": "EXPERIMENTAL_TEAM_BASELINE_PLAYER_SHADOW"
         }
       ]
