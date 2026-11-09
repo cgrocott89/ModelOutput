@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10 03:18:47",
+  "generatedAt": "2026-11-10 03:24:56",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -25439,9 +25439,9 @@
       "model": "RLWC Men upcoming projections",
       "sport": "RLWC Men",
       "extension": "csv",
-      "modified": "2026-11-09 08:48:41",
-      "size": 1821,
-      "fileUrl": "/files/RLWC_Men_upcoming_projections.csv?v=1794174521-1821",
+      "modified": "2026-11-10 03:24:54",
+      "size": 1825,
+      "fileUrl": "/files/RLWC_Men_upcoming_projections.csv?v=1794241494-1825",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -25482,9 +25482,9 @@
       "model": "RLWC Women upcoming projections",
       "sport": "RLWC Women",
       "extension": "csv",
-      "modified": "2026-11-09 08:48:41",
+      "modified": "2026-11-10 03:24:54",
       "size": 1817,
-      "fileUrl": "/files/RLWC_Women_upcoming_projections.csv?v=1794174521-1817",
+      "fileUrl": "/files/RLWC_Women_upcoming_projections.csv?v=1794241494-1817",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
