@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10 18:52:00",
+  "generatedAt": "2026-11-10 19:00:57",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -8,9 +8,9 @@
       "model": "A-Leagues upcoming projections",
       "sport": "A-Leagues",
       "extension": "xlsx",
-      "modified": "2026-11-10 03:13:51",
-      "size": 9957,
-      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1794240831-9957",
+      "modified": "2026-11-10 18:58:22",
+      "size": 8438,
+      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1794297502-8438",
       "sheets": [
         "Projections"
       ],
@@ -33,7 +33,7 @@
         "Significant Lineup Change",
         "Venue"
       ],
-      "rowCount": 5,
+      "rowCount": 3,
       "rows": [
         {
           "Date": "2026-11-14T00:00:00",
@@ -42,11 +42,11 @@
           "Round": "5",
           "Home": "Melbourne City",
           "Away": "Newcastle Jets",
-          "Fair Home": 1.33,
-          "Fair Draw": 7.01,
-          "Fair Away": 9.52,
-          "Projected Score": "2.45 - 0.99",
-          "Projected Total": 3.44,
+          "Fair Home": 1.32,
+          "Fair Draw": 7.07,
+          "Fair Away": 9.66,
+          "Projected Score": "2.47 - 0.99",
+          "Projected Total": 3.45,
           "Model": "TEAM",
           "Lineup Status": "Previous",
           "Lineup Coverage (H/A)": "100% / 100%",
@@ -60,11 +60,11 @@
           "Round": "5",
           "Home": "Melbourne Victory",
           "Away": "Adelaide United",
-          "Fair Home": 1.65,
-          "Fair Draw": 4.52,
-          "Fair Away": 5.74,
-          "Projected Score": "1.79 - 0.92",
-          "Projected Total": 2.71,
+          "Fair Home": 1.64,
+          "Fair Draw": 4.57,
+          "Fair Away": 5.89,
+          "Projected Score": "1.81 - 0.91",
+          "Projected Total": 2.72,
           "Model": "TEAM",
           "Lineup Status": "Previous",
           "Lineup Coverage (H/A)": "100% / 100%",
@@ -78,52 +78,16 @@
           "Round": "5",
           "Home": "Central Coast Mariners",
           "Away": "Perth Glory",
-          "Fair Home": 1.87,
-          "Fair Draw": 3.88,
-          "Fair Away": 4.81,
-          "Projected Score": "1.54 - 0.9",
-          "Projected Total": 2.44,
+          "Fair Home": 1.86,
+          "Fair Draw": 3.92,
+          "Fair Away": 4.8,
+          "Projected Score": "1.56 - 0.91",
+          "Projected Total": 2.47,
           "Model": "TEAM",
           "Lineup Status": "Previous",
           "Lineup Coverage (H/A)": "100% / 100%",
           "Significant Lineup Change": "No",
           "Venue": "polytec Stadium"
-        },
-        {
-          "Date": "2026-11-15T00:00:00",
-          "Start": "2026-11-15T01:00:00",
-          "Competition": "ALW",
-          "Round": "5",
-          "Home": "Wellington Phoenix",
-          "Away": "Sydney",
-          "Fair Home": 2.38,
-          "Fair Draw": 3.53,
-          "Fair Away": 3.37,
-          "Projected Score": "1.36 - 1",
-          "Projected Total": 2.36,
-          "Model": "TEAM",
-          "Lineup Status": "Previous",
-          "Lineup Coverage (H/A)": "100% / 100%",
-          "Significant Lineup Change": "No",
-          "Venue": "Porirua Park"
-        },
-        {
-          "Date": "2026-11-15T00:00:00",
-          "Start": "2026-11-15T04:00:00",
-          "Competition": "ALW",
-          "Round": "5",
-          "Home": "Canberra United",
-          "Away": "Brisbane Roar",
-          "Fair Home": 2.11,
-          "Fair Draw": 4.58,
-          "Fair Away": 3.25,
-          "Projected Score": "1.82 - 1.34",
-          "Projected Total": 3.16,
-          "Model": "TEAM",
-          "Lineup Status": "Previous",
-          "Lineup Coverage (H/A)": "100% / 100%",
-          "Significant Lineup Change": "No",
-          "Venue": "McKellar Park"
         }
       ]
     },
@@ -186,9 +150,9 @@
       "model": "International Netball upcoming projections",
       "sport": "International Netball",
       "extension": "csv",
-      "modified": "2026-11-10 03:16:01",
+      "modified": "2026-11-10 19:00:23",
       "size": 12128,
-      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1794240961-12128",
+      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1794297623-12128",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -61852,9 +61816,9 @@
       "model": "WNBL full game odds",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-11-10 18:51:30",
+      "modified": "2026-11-10 19:00:51",
       "size": 74,
-      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1794297090-74",
+      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1794297651-74",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -61867,7 +61831,7 @@
         {
           "League": "WNBL",
           "Status": "COLLECTION_ONLY",
-          "Checked_At_UTC": "2026-11-10 07:51:30 UTC"
+          "Checked_At_UTC": "2026-11-10 08:00:51 UTC"
         }
       ]
     },
@@ -61877,9 +61841,9 @@
       "model": "WNBL market recommendations",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-11-10 18:51:30",
+      "modified": "2026-11-10 19:00:51",
       "size": 74,
-      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1794297090-74",
+      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1794297651-74",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -61892,7 +61856,7 @@
         {
           "League": "WNBL",
           "Status": "COLLECTION_ONLY",
-          "Checked_At_UTC": "2026-11-10 07:51:30 UTC"
+          "Checked_At_UTC": "2026-11-10 08:00:51 UTC"
         }
       ]
     },
@@ -61902,9 +61866,9 @@
       "model": "WNBL upcoming projections",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-11-10 18:51:30",
-      "size": 5087,
-      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1794297090-5087",
+      "modified": "2026-11-10 19:00:51",
+      "size": 3123,
+      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1794297651-3123",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -61944,7 +61908,7 @@
         "Model_Version",
         "Generated_At_UTC"
       ],
-      "rowCount": 7,
+      "rowCount": 4,
       "rows": [
         {
           "League": "WNBL",
@@ -61981,7 +61945,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.3.0_cold_start",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-11-10 07:49:10 UTC"
+          "Generated_At_UTC": "2026-11-10 08:00:04 UTC"
         },
         {
           "League": "WNBL",
@@ -62018,7 +61982,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.3.0_cold_start",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-11-10 07:49:10 UTC"
+          "Generated_At_UTC": "2026-11-10 08:00:04 UTC"
         },
         {
           "League": "WNBL",
@@ -62055,7 +62019,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.3.0_cold_start",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-11-10 07:49:10 UTC"
+          "Generated_At_UTC": "2026-11-10 08:00:04 UTC"
         },
         {
           "League": "WNBL",
@@ -62092,118 +62056,7 @@
           "Line_Model": "APPROVED_SPM",
           "Total_Model": "wnbl_total_scorereg_v2_0.3.0_cold_start",
           "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-11-10 07:49:10 UTC"
-        },
-        {
-          "League": "WNBL",
-          "Game_ID": "69e98cd7-7351-11f1-beaa-efdb90f529db",
-          "Game_Date": "2026-11-15",
-          "Fixture_Time_Sydney": "2026-11-15 03:00 PM AEDT",
-          "Home_Team": "uc capitals",
-          "Away_Team": "townsville fire",
-          "Full_Home_Line": 3.5858,
-          "Full_Total": 160.2916,
-          "Full_Margin_SD": 15.2306,
-          "Full_Home_Win_Probability": 0.4069,
-          "Full_Total_SD": 17.0046,
-          "Scenario_Out_Home_Line": 3.5858,
-          "Scenario_Out_Total": 160.2916,
-          "Q1_Home_Line": 3.2971,
-          "Q1_Total": 42.3937,
-          "Q2_Home_Line": 3.0454,
-          "Q2_Total": 40.8032,
-          "H1_Home_Line": 6.3425,
-          "H1_Total": 83.197,
-          "Q1_Margin_SD": 7.7268,
-          "Q1_Total_SD": 7.384,
-          "H1_Margin_SD": 11.4705,
-          "H1_Total_SD": 11.3377,
-          "Q1_Period_Model": "margin:team;total:league",
-          "H1_Period_Model": "margin:team;total:league",
-          "Period_Training_Games": 399,
-          "Period_Training_Through": "2026-11-08",
-          "Period_Input_Status": "CURRENT",
-          "Player_Training_Through": "2026-11-08",
-          "Lineup_Source": "official_roster_tracker",
-          "Injury_Scenario": "resolved",
-          "Line_Model": "APPROVED_SPM",
-          "Total_Model": "wnbl_total_scorereg_v2_0.3.0_cold_start",
-          "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-11-10 07:49:10 UTC"
-        },
-        {
-          "League": "WNBL",
-          "Game_ID": "6a0448e8-7351-11f1-affa-2583932f6c8e",
-          "Game_Date": "2026-11-15",
-          "Fixture_Time_Sydney": "2026-11-15 01:00 PM AEDT",
-          "Home_Team": "southside flyers",
-          "Away_Team": "perth lynx",
-          "Full_Home_Line": -2.6225,
-          "Full_Total": 160.5184,
-          "Full_Margin_SD": 15.2306,
-          "Full_Home_Win_Probability": 0.5684,
-          "Full_Total_SD": 17.0046,
-          "Scenario_Out_Home_Line": -2.6225,
-          "Scenario_Out_Total": 160.5184,
-          "Q1_Home_Line": -0.7591,
-          "Q1_Total": 42.4537,
-          "Q2_Home_Line": -0.0754,
-          "Q2_Total": 40.861,
-          "H1_Home_Line": -0.8345,
-          "H1_Total": 83.3147,
-          "Q1_Margin_SD": 7.7268,
-          "Q1_Total_SD": 7.384,
-          "H1_Margin_SD": 11.4705,
-          "H1_Total_SD": 11.3377,
-          "Q1_Period_Model": "margin:team;total:league",
-          "H1_Period_Model": "margin:team;total:league",
-          "Period_Training_Games": 399,
-          "Period_Training_Through": "2026-11-08",
-          "Period_Input_Status": "CURRENT",
-          "Player_Training_Through": "2026-11-08",
-          "Lineup_Source": "official_roster_tracker",
-          "Injury_Scenario": "resolved",
-          "Line_Model": "APPROVED_SPM",
-          "Total_Model": "wnbl_total_scorereg_v2_0.3.0_cold_start",
-          "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-11-10 07:49:10 UTC"
-        },
-        {
-          "League": "WNBL",
-          "Game_ID": "69f153c0-7351-11f1-950c-3d12b81463ca",
-          "Game_Date": "2026-11-17",
-          "Fixture_Time_Sydney": "2026-11-17 07:00 PM AEDT",
-          "Home_Team": "adelaide lightning",
-          "Away_Team": "geelong venom",
-          "Full_Home_Line": -5.7146,
-          "Full_Total": 156.9928,
-          "Full_Margin_SD": 15.2306,
-          "Full_Home_Win_Probability": 0.6462,
-          "Full_Total_SD": 17.0046,
-          "Scenario_Out_Home_Line": -5.7146,
-          "Scenario_Out_Total": 156.9928,
-          "Q1_Home_Line": -2.6214,
-          "Q1_Total": 41.5213,
-          "Q2_Home_Line": -1.4466,
-          "Q2_Total": 39.9635,
-          "H1_Home_Line": -4.0679,
-          "H1_Total": 81.4848,
-          "Q1_Margin_SD": 7.7268,
-          "Q1_Total_SD": 7.384,
-          "H1_Margin_SD": 11.4705,
-          "H1_Total_SD": 11.3377,
-          "Q1_Period_Model": "margin:team;total:league",
-          "H1_Period_Model": "margin:team;total:league",
-          "Period_Training_Games": 399,
-          "Period_Training_Through": "2026-11-08",
-          "Period_Input_Status": "CURRENT",
-          "Player_Training_Through": "2026-11-08",
-          "Lineup_Source": "official_roster_tracker",
-          "Injury_Scenario": "resolved",
-          "Line_Model": "APPROVED_SPM",
-          "Total_Model": "wnbl_total_scorereg_v2_0.3.0_cold_start",
-          "Model_Version": "WNBL_APPROVED_SPM_LINE_V2_TEAM_TOTAL",
-          "Generated_At_UTC": "2026-11-10 07:49:10 UTC"
+          "Generated_At_UTC": "2026-11-10 08:00:04 UTC"
         }
       ]
     }
