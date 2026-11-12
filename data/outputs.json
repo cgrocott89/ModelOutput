@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13 03:08:32",
+  "generatedAt": "2026-11-13 03:10:25",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -169,9 +169,9 @@
       "model": "AFLW upcoming projections",
       "sport": "AFLW",
       "extension": "xlsx",
-      "modified": "2026-11-12 03:19:02",
-      "size": 7831,
-      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1794413942-7831",
+      "modified": "2026-11-13 03:10:23",
+      "size": 7841,
+      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1794499823-7841",
       "sheets": [
         "Projections"
       ],
@@ -194,11 +194,11 @@
           "Date": "2026-11-14",
           "Home Team": "geelong cats",
           "Away Team": "sydney swans",
-          "Home Team List": "Previous",
-          "Away Team List": "Previous",
-          "PROD Projected Line": -18.4,
+          "Home Team List": "Provisional",
+          "Away Team List": "Provisional",
+          "PROD Projected Line": -19.1,
           "TEAM-only Projected Line": -2.8,
-          "PLAYER-only Projected Line": -14.8,
+          "PLAYER-only Projected Line": -15.5,
           "Projected Total": 87.4,
           "Venue": "GMHBA Stadium"
         },
@@ -206,11 +206,11 @@
           "Date": "2026-11-14",
           "Home Team": "carlton",
           "Away Team": "hawthorn",
-          "Home Team List": "Previous",
-          "Away Team List": "Previous",
-          "PROD Projected Line": -10.3,
+          "Home Team List": "Provisional",
+          "Away Team List": "Provisional",
+          "PROD Projected Line": -6.8,
           "TEAM-only Projected Line": -7.2,
-          "PLAYER-only Projected Line": -15.1,
+          "PLAYER-only Projected Line": -13.2,
           "Projected Total": 84.6,
           "Venue": "IKON Park"
         }
