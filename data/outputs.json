@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14 03:05:22",
+  "generatedAt": "2026-11-14 03:18:32",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -8,9 +8,9 @@
       "model": "A-Leagues upcoming projections",
       "sport": "A-Leagues",
       "extension": "xlsx",
-      "modified": "2026-11-13 03:06:38",
-      "size": 11604,
-      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1794499598-11604",
+      "modified": "2026-11-14 03:16:16",
+      "size": 15918,
+      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1794586576-15918",
       "sheets": [
         "Projections"
       ],
@@ -33,7 +33,7 @@
         "Significant Lineup Change",
         "Venue"
       ],
-      "rowCount": 7,
+      "rowCount": 13,
       "rows": [
         {
           "Date": "2026-11-20T00:00:00",
@@ -52,6 +52,60 @@
           "Lineup Coverage (H/A)": "100% / 100%",
           "Significant Lineup Change": "No",
           "Venue": "CommBank Stadium"
+        },
+        {
+          "Date": "2026-11-21T00:00:00",
+          "Start": "2026-11-21T04:00:00",
+          "Competition": "ALM",
+          "Round": "5",
+          "Home": "Auckland",
+          "Away": "Melbourne Victory",
+          "Fair Home": 2.74,
+          "Fair Draw": 3.45,
+          "Fair Away": 2.89,
+          "Projected Score": "1.58 - 1.01",
+          "Projected Total": 2.59,
+          "Model": "TEAM",
+          "Lineup Status": "Previous",
+          "Lineup Coverage (H/A)": "100% / 100%",
+          "Significant Lineup Change": "No",
+          "Venue": "Go Media Stadium"
+        },
+        {
+          "Date": "2026-11-21T00:00:00",
+          "Start": "2026-11-21T06:00:00",
+          "Competition": "ALM",
+          "Round": "5",
+          "Home": "Central Coast Mariners",
+          "Away": "Perth Glory",
+          "Fair Home": 2.54,
+          "Fair Draw": 3.64,
+          "Fair Away": 3.02,
+          "Projected Score": "1.76 - 1.04",
+          "Projected Total": 2.8,
+          "Model": "TEAM",
+          "Lineup Status": "Previous",
+          "Lineup Coverage (H/A)": "100% / 100%",
+          "Significant Lineup Change": "No",
+          "Venue": "polytec Stadium"
+        },
+        {
+          "Date": "2026-11-21T00:00:00",
+          "Start": "2026-11-21T08:40:00",
+          "Competition": "ALM",
+          "Round": "5",
+          "Home": "Brisbane Roar",
+          "Away": "Sydney",
+          "Fair Home": 3.12,
+          "Fair Draw": 3.55,
+          "Fair Away": 2.51,
+          "Projected Score": "1.5 - 1.12",
+          "Projected Total": 2.62,
+          "Model": "TEAM",
+          "Lineup Status": "Previous",
+          "Lineup Coverage (H/A)": "100% / 100%",
+          "Significant Lineup Change": "No",
+          "Venue": "Kayo Stadium"
         },
         {
           "Date": "2026-11-14T00:00:00",
@@ -160,6 +214,60 @@
           "Lineup Coverage (H/A)": "100% / 100%",
           "Significant Lineup Change": "Yes",
           "Venue": "CommBank Stadium"
+        },
+        {
+          "Date": "2026-11-21T00:00:00",
+          "Start": "2026-11-21T00:00:00",
+          "Competition": "ALW",
+          "Round": "6",
+          "Home": "Newcastle Jets",
+          "Away": "Adelaide United",
+          "Fair Home": 2.31,
+          "Fair Draw": 4.35,
+          "Fair Away": 2.96,
+          "Projected Score": "1.69 - 1.35",
+          "Projected Total": 3.04,
+          "Model": "TEAM",
+          "Lineup Status": "Previous",
+          "Lineup Coverage (H/A)": "100% / 100%",
+          "Significant Lineup Change": "No",
+          "Venue": null
+        },
+        {
+          "Date": "2026-11-21T00:00:00",
+          "Start": "2026-11-21T05:50:00",
+          "Competition": "ALW",
+          "Round": "6",
+          "Home": "Brisbane Roar",
+          "Away": "Melbourne City",
+          "Fair Home": 4.2,
+          "Fair Draw": 4.78,
+          "Fair Away": 1.81,
+          "Projected Score": "1.39 - 1.71",
+          "Projected Total": 3.1,
+          "Model": "TEAM",
+          "Lineup Status": "Previous",
+          "Lineup Coverage (H/A)": "100% / 100%",
+          "Significant Lineup Change": "No",
+          "Venue": "Kayo Stadium"
+        },
+        {
+          "Date": "2026-11-21T00:00:00",
+          "Start": "2026-11-21T06:00:00",
+          "Competition": "ALW",
+          "Round": "6",
+          "Home": "Sydney",
+          "Away": "Canberra United",
+          "Fair Home": 2.15,
+          "Fair Draw": 3.88,
+          "Fair Away": 3.61,
+          "Projected Score": "1.52 - 1.06",
+          "Projected Total": 2.58,
+          "Model": "TEAM",
+          "Lineup Status": "Previous",
+          "Lineup Coverage (H/A)": "100% / 100%",
+          "Significant Lineup Change": "No",
+          "Venue": "Sydney Olympic Park Athletic Centre"
         }
       ]
     },
@@ -222,9 +330,9 @@
       "model": "International Netball upcoming projections",
       "sport": "International Netball",
       "extension": "csv",
-      "modified": "2026-11-13 03:08:28",
+      "modified": "2026-11-14 03:18:29",
       "size": 12128,
-      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1794499708-12128",
+      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1794586709-12128",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
