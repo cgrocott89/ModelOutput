@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14 03:21:22",
+  "generatedAt": "2026-11-14 03:27:52",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -25727,9 +25727,9 @@
       "model": "RLWC Men upcoming projections",
       "sport": "RLWC Men",
       "extension": "csv",
-      "modified": "2026-11-13 03:13:16",
-      "size": 1891,
-      "fileUrl": "/files/RLWC_Men_upcoming_projections.csv?v=1794499996-1891",
+      "modified": "2026-11-14 03:27:50",
+      "size": 1893,
+      "fileUrl": "/files/RLWC_Men_upcoming_projections.csv?v=1794587270-1893",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -25755,7 +25755,7 @@
           "Home": "Australia",
           "Away": "New Zealand",
           "Venue": "Suncorp Stadium",
-          "Projected Home Line": -5.1,
+          "Projected Home Line": -5.2,
           "Projected Total": 36.3,
           "Projected Score": "20.7 - 15.6",
           "Named Lineups": "Yes",
@@ -25770,9 +25770,9 @@
       "model": "RLWC Women upcoming projections",
       "sport": "RLWC Women",
       "extension": "csv",
-      "modified": "2026-11-13 03:13:16",
-      "size": 1882,
-      "fileUrl": "/files/RLWC_Women_upcoming_projections.csv?v=1794499996-1882",
+      "modified": "2026-11-14 03:27:50",
+      "size": 1886,
+      "fileUrl": "/files/RLWC_Women_upcoming_projections.csv?v=1794587270-1886",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
