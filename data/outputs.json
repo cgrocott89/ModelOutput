@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14 20:52:52",
+  "generatedAt": "2026-11-14 20:54:04",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -60141,7 +60141,7 @@
           "Price": 1.9,
           "Expected Return": "3.5%",
           "Confidence": "Pilot",
-          "Minimum Price": 1.89,
+          "Minimum Price": 1.9,
           "Quote": "2026-11-14 09:52:04 UTC",
           "Source": "https://www.sportsbet.com.au/betting/basketball-aus-other/australian-wnbl/canberra-capitals-w-v-townsville-fire-w-11158284",
           "Stake Units": 0.25,
