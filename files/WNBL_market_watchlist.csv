@@ -1,2 +1,2 @@
-League,Status,Checked_At_UTC
-WNBL,NO_WATCHLIST_CANDIDATES,2026-11-14 22:00:39 UTC
+League,Game_ID,Game_Date,Game,Home_Team,Away_Team,Bookmaker,Market,Market_Key,Selection,Side,Line,Price,Model_Probability,Market_Probability,Estimated_Probability,Push_Probability,Raw_EV,Expected_Return,Quote_Time_UTC,Observed_At_UTC,Minimum_Price,Forecast_Time_UTC,Source_URL
+WNBL,69e98cd7-7351-11f1-beaa-efdb90f529db,2026-11-15,townsville fire at uc capitals,uc capitals,townsville fire,sportsbet,Full spreads,spreads,Canberra Capitals W 9.5,1,9.5,1.72,0.6526809880502071,0.5376344086021505,0.5951576983261788,0,0.12261129944635618,0.023671241121027586,2026-11-15 00:00:52 UTC,2026-11-15 00:00:52 UTC,1.730633751183546,2026-11-15 00:00:02 UTC,https://www.sportsbet.com.au/betting/basketball-aus-other/australian-wnbl/canberra-capitals-w-v-townsville-fire-w-11158284
