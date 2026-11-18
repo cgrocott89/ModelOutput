@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19 03:14:13",
+  "generatedAt": "2026-11-19 07:15:36",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -75628,9 +75628,9 @@
       "model": "WNBL full game odds",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-11-18 07:15:30",
+      "modified": "2026-11-19 07:15:30",
       "size": 82,
-      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1794946530-82",
+      "fileUrl": "/files/WNBL_full_game_odds.csv?v=1795032930-82",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -75643,7 +75643,7 @@
         {
           "League": "WNBL",
           "Status": "NO_FRESH_MATCHED_QUOTES",
-          "Checked_At_UTC": "2026-11-17 20:15:30 UTC"
+          "Checked_At_UTC": "2026-11-18 20:15:30 UTC"
         }
       ]
     },
@@ -75653,9 +75653,9 @@
       "model": "WNBL market recommendations",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-11-18 07:15:30",
+      "modified": "2026-11-19 07:15:30",
       "size": 82,
-      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1794946530-82",
+      "fileUrl": "/files/WNBL_market_recommendations.csv?v=1795032930-82",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -75668,7 +75668,7 @@
         {
           "League": "WNBL",
           "Status": "NO_FRESH_MATCHED_QUOTES",
-          "Checked_At_UTC": "2026-11-17 20:15:30 UTC"
+          "Checked_At_UTC": "2026-11-18 20:15:30 UTC"
         }
       ]
     },
@@ -75678,9 +75678,9 @@
       "model": "WNBL market watchlist",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-11-18 07:15:30",
+      "modified": "2026-11-19 07:15:30",
       "size": 82,
-      "fileUrl": "/files/WNBL_market_watchlist.csv?v=1794946530-82",
+      "fileUrl": "/files/WNBL_market_watchlist.csv?v=1795032930-82",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -75693,7 +75693,7 @@
         {
           "League": "WNBL",
           "Status": "NO_WATCHLIST_CANDIDATES",
-          "Checked_At_UTC": "2026-11-17 20:15:30 UTC"
+          "Checked_At_UTC": "2026-11-18 20:15:30 UTC"
         }
       ]
     },
@@ -75703,9 +75703,9 @@
       "model": "WNBL upcoming projections",
       "sport": "WNBL",
       "extension": "csv",
-      "modified": "2026-11-18 07:15:30",
+      "modified": "2026-11-19 07:15:30",
       "size": 3145,
-      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1794946530-3145",
+      "fileUrl": "/files/WNBL_upcoming_projections.csv?v=1795032930-3145",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
