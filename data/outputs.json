@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20 03:06:41",
+  "generatedAt": "2026-11-20 03:08:28",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -265,9 +265,9 @@
       "model": "AFLW upcoming projections",
       "sport": "AFLW",
       "extension": "xlsx",
-      "modified": "2026-11-19 03:14:10",
-      "size": 7815,
-      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1795018450-7815",
+      "modified": "2026-11-20 03:08:26",
+      "size": 7828,
+      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1795104506-7828",
       "sheets": [
         "Projections"
       ],
@@ -290,11 +290,11 @@
           "Date": "2026-11-21",
           "Home Team": "north melbourne",
           "Away Team": "sydney swans",
-          "Home Team List": "Previous",
-          "Away Team List": "Previous",
-          "PROD Projected Line": -38.7,
+          "Home Team List": "Provisional",
+          "Away Team List": "Provisional",
+          "PROD Projected Line": -43,
           "TEAM-only Projected Line": -26.7,
-          "PLAYER-only Projected Line": -44.4,
+          "PLAYER-only Projected Line": -50.2,
           "Projected Total": 86.2,
           "Venue": "IKON Park"
         },
@@ -302,11 +302,11 @@
           "Date": "2026-11-21",
           "Home Team": "melbourne",
           "Away Team": "carlton",
-          "Home Team List": "Previous",
-          "Away Team List": "Previous",
-          "PROD Projected Line": -20.1,
+          "Home Team List": "Provisional",
+          "Away Team List": "Provisional",
+          "PROD Projected Line": -27.6,
           "TEAM-only Projected Line": -6.2,
-          "PLAYER-only Projected Line": -25.2,
+          "PLAYER-only Projected Line": -34.8,
           "Projected Total": 89.8,
           "Venue": "IKON Park"
         }
