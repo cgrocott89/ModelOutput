@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19 22:37:22",
+  "generatedAt": "2026-11-20 03:06:41",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -8,9 +8,9 @@
       "model": "A-Leagues upcoming projections",
       "sport": "A-Leagues",
       "extension": "xlsx",
-      "modified": "2026-11-19 03:09:27",
-      "size": 13677,
-      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1795018167-13677",
+      "modified": "2026-11-20 03:04:48",
+      "size": 14557,
+      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1795104288-14557",
       "sheets": [
         "Projections"
       ],
@@ -35,7 +35,7 @@
         "Significant Lineup Change",
         "Venue"
       ],
-      "rowCount": 10,
+      "rowCount": 11,
       "rows": [
         {
           "Date": "2026-11-20T00:00:00",
@@ -52,9 +52,9 @@
           "Over 2.5 Fair": 1.8,
           "Under 2.5 Fair": 2.26,
           "Model": "TEAM",
-          "Lineup Status": "Previous",
+          "Lineup Status": "Provisional/Previous",
           "Lineup Coverage (H/A)": "100% / 100%",
-          "Significant Lineup Change": "No",
+          "Significant Lineup Change": "Yes",
           "Venue": "CommBank Stadium"
         },
         {
@@ -72,9 +72,9 @@
           "Over 2.5 Fair": 2.09,
           "Under 2.5 Fair": 1.92,
           "Model": "TEAM",
-          "Lineup Status": "Previous",
-          "Lineup Coverage (H/A)": "100% / 100%",
-          "Significant Lineup Change": "No",
+          "Lineup Status": "Provisional/Previous",
+          "Lineup Coverage (H/A)": "99% / 100%",
+          "Significant Lineup Change": "Yes",
           "Venue": "Go Media Stadium"
         },
         {
@@ -92,9 +92,9 @@
           "Over 2.5 Fair": 1.88,
           "Under 2.5 Fair": 2.13,
           "Model": "TEAM",
-          "Lineup Status": "Previous",
+          "Lineup Status": "Provisional",
           "Lineup Coverage (H/A)": "100% / 100%",
-          "Significant Lineup Change": "No",
+          "Significant Lineup Change": "Yes",
           "Venue": "polytec Stadium"
         },
         {
@@ -112,9 +112,9 @@
           "Over 2.5 Fair": 2.06,
           "Under 2.5 Fair": 1.95,
           "Model": "TEAM",
-          "Lineup Status": "Previous",
-          "Lineup Coverage (H/A)": "100% / 100%",
-          "Significant Lineup Change": "No",
+          "Lineup Status": "Previous/Provisional",
+          "Lineup Coverage (H/A)": "100% / 99%",
+          "Significant Lineup Change": "Yes",
           "Venue": "Kayo Stadium"
         },
         {
@@ -132,10 +132,30 @@
           "Over 2.5 Fair": 1.95,
           "Under 2.5 Fair": 2.06,
           "Model": "TEAM",
+          "Lineup Status": "Previous/Provisional",
+          "Lineup Coverage (H/A)": "100% / 95%",
+          "Significant Lineup Change": "Yes",
+          "Venue": "Hnry Stadium"
+        },
+        {
+          "Date": "2026-11-27T00:00:00",
+          "Start": "2026-11-27T08:40:00",
+          "Competition": "ALM",
+          "Round": "6",
+          "Home": "Macarthur",
+          "Away": "Melbourne City",
+          "Fair Home": 3.08,
+          "Fair Draw": 3.62,
+          "Fair Away": 2.5,
+          "Projected Score": "1.55 - 1.15",
+          "Projected Total": 2.7,
+          "Over 2.5 Fair": 1.97,
+          "Under 2.5 Fair": 2.03,
+          "Model": "TEAM",
           "Lineup Status": "Previous",
           "Lineup Coverage (H/A)": "100% / 100%",
           "Significant Lineup Change": "No",
-          "Venue": "Hnry Stadium"
+          "Venue": "Campbelltown Sports Stadium"
         },
         {
           "Date": "2026-11-20T00:00:00",
@@ -172,9 +192,9 @@
           "Over 2.5 Fair": 1.72,
           "Under 2.5 Fair": 2.39,
           "Model": "TEAM",
-          "Lineup Status": "Previous",
+          "Lineup Status": "Previous/Provisional",
           "Lineup Coverage (H/A)": "100% / 100%",
-          "Significant Lineup Change": "No",
+          "Significant Lineup Change": "Yes",
           "Venue": null
         },
         {
@@ -192,9 +212,9 @@
           "Over 2.5 Fair": 1.7,
           "Under 2.5 Fair": 2.44,
           "Model": "TEAM",
-          "Lineup Status": "Previous",
-          "Lineup Coverage (H/A)": "100% / 100%",
-          "Significant Lineup Change": "No",
+          "Lineup Status": "Provisional",
+          "Lineup Coverage (H/A)": "99% / 0%",
+          "Significant Lineup Change": "Yes",
           "Venue": "Kayo Stadium"
         },
         {
@@ -212,9 +232,9 @@
           "Over 2.5 Fair": 2.1,
           "Under 2.5 Fair": 1.91,
           "Model": "TEAM",
-          "Lineup Status": "Previous",
+          "Lineup Status": "Provisional",
           "Lineup Coverage (H/A)": "100% / 100%",
-          "Significant Lineup Change": "No",
+          "Significant Lineup Change": "Yes",
           "Venue": "Sydney Olympic Park Athletic Centre"
         },
         {
@@ -232,9 +252,9 @@
           "Over 2.5 Fair": 2.15,
           "Under 2.5 Fair": 1.87,
           "Model": "TEAM",
-          "Lineup Status": "Previous",
-          "Lineup Coverage (H/A)": "100% / 100%",
-          "Significant Lineup Change": "No",
+          "Lineup Status": "Provisional",
+          "Lineup Coverage (H/A)": "99% / 100%",
+          "Significant Lineup Change": "Yes",
           "Venue": "Lakeside Stadium"
         }
       ]
@@ -298,9 +318,9 @@
       "model": "International Netball upcoming projections",
       "sport": "International Netball",
       "extension": "csv",
-      "modified": "2026-11-19 03:11:38",
+      "modified": "2026-11-20 03:06:38",
       "size": 12128,
-      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1795018298-12128",
+      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1795104398-12128",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
