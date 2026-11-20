@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21 03:06:31",
+  "generatedAt": "2026-11-21 03:08:17",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -245,9 +245,9 @@
       "model": "AFLW upcoming projections",
       "sport": "AFLW",
       "extension": "xlsx",
-      "modified": "2026-11-20 03:08:26",
-      "size": 7828,
-      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1795104506-7828",
+      "modified": "2026-11-21 03:08:15",
+      "size": 7826,
+      "fileUrl": "/files/AFLW_upcoming_projections.xlsx?v=1795190895-7826",
       "sheets": [
         "Projections"
       ],
