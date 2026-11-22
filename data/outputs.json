@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22 22:28:05",
+  "generatedAt": "2026-11-23 03:07:27",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -8,9 +8,9 @@
       "model": "A-Leagues upcoming projections",
       "sport": "A-Leagues",
       "extension": "xlsx",
-      "modified": "2026-11-22 03:06:15",
-      "size": 9251,
-      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1795277175-9251",
+      "modified": "2026-11-23 03:05:34",
+      "size": 7661,
+      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1795363534-7661",
       "sheets": [
         "Projections"
       ],
@@ -35,28 +35,8 @@
         "Significant Lineup Change",
         "Venue"
       ],
-      "rowCount": 4,
+      "rowCount": 2,
       "rows": [
-        {
-          "Date": "2026-11-22T00:00:00",
-          "Start": "2026-11-22T02:00:00",
-          "Competition": "ALM",
-          "Round": "5",
-          "Home": "Wellington Phoenix",
-          "Away": "Macarthur",
-          "Fair Home": 2.75,
-          "Fair Draw": 3.59,
-          "Fair Away": 2.8,
-          "Projected Score": "1.66 - 1.07",
-          "Projected Total": 2.73,
-          "Over 2.5 Fair": 1.95,
-          "Under 2.5 Fair": 2.06,
-          "Model": "TEAM",
-          "Lineup Status": "Previous/Provisional",
-          "Lineup Coverage (H/A)": "100% / 95%",
-          "Significant Lineup Change": "Yes",
-          "Venue": "Hnry Stadium"
-        },
         {
           "Date": "2026-11-27T00:00:00",
           "Start": "2026-11-27T08:40:00",
@@ -64,9 +44,9 @@
           "Round": "6",
           "Home": "Macarthur",
           "Away": "Melbourne City",
-          "Fair Home": 3.08,
+          "Fair Home": 3.07,
           "Fair Draw": 3.62,
-          "Fair Away": 2.5,
+          "Fair Away": 2.51,
           "Projected Score": "1.55 - 1.15",
           "Projected Total": 2.7,
           "Over 2.5 Fair": 1.97,
@@ -96,26 +76,6 @@
           "Lineup Coverage (H/A)": "100% / 100%",
           "Significant Lineup Change": "No",
           "Venue": "polytec Stadium"
-        },
-        {
-          "Date": "2026-11-22T00:00:00",
-          "Start": "2026-11-22T04:00:00",
-          "Competition": "ALW",
-          "Round": "6",
-          "Home": "Melbourne Victory",
-          "Away": "Perth Glory",
-          "Fair Home": 1.76,
-          "Fair Draw": 4.11,
-          "Fair Away": 5.27,
-          "Projected Score": "1.64 - 0.89",
-          "Projected Total": 2.53,
-          "Over 2.5 Fair": 2.16,
-          "Under 2.5 Fair": 1.87,
-          "Model": "TEAM",
-          "Lineup Status": "Provisional",
-          "Lineup Coverage (H/A)": "99% / 100%",
-          "Significant Lineup Change": "Yes",
-          "Venue": "Lakeside Stadium"
         }
       ]
     },
@@ -166,9 +126,9 @@
       "model": "International Netball upcoming projections",
       "sport": "International Netball",
       "extension": "csv",
-      "modified": "2026-11-22 03:08:14",
-      "size": 11457,
-      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1795277294-11457",
+      "modified": "2026-11-23 03:07:23",
+      "size": 10786,
+      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1795363643-10786",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
@@ -183,20 +143,8 @@
         "Prior Matches (H/A)",
         "Cold Start"
       ],
-      "rowCount": 16,
+      "rowCount": 15,
       "rows": [
-        {
-          "Date": "2026-11-23",
-          "Start": "2026-11-23 03:00:00 AEDT",
-          "Competition": "Friendly International",
-          "Home": "England",
-          "Away": "Jamaica",
-          "Projected Home Line": -7.6,
-          "Projected Total": 108,
-          "Projected Score": "57.8 - 50.2",
-          "Prior Matches (H/A)": "64 / 39",
-          "Cold Start": "No"
-        },
         {
           "Date": "2026-11-29",
           "Start": "2026-11-29 18:00:00 AEDT",
