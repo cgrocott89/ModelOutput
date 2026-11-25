@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25 22:26:59",
+  "generatedAt": "2026-11-26 03:08:21",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -8,9 +8,9 @@
       "model": "A-Leagues upcoming projections",
       "sport": "A-Leagues",
       "extension": "xlsx",
-      "modified": "2026-11-25 03:06:18",
-      "size": 7660,
-      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1795536378-7660",
+      "modified": "2026-11-26 03:06:27",
+      "size": 7661,
+      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1795622787-7661",
       "sheets": [
         "Projections"
       ],
@@ -126,9 +126,9 @@
       "model": "International Netball upcoming projections",
       "sport": "International Netball",
       "extension": "csv",
-      "modified": "2026-11-25 19:01:59",
+      "modified": "2026-11-26 03:08:14",
       "size": 10786,
-      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1795593719-10786",
+      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1795622894-10786",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
