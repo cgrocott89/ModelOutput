@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26 22:39:33",
+  "generatedAt": "2026-11-27 03:08:47",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -8,9 +8,9 @@
       "model": "A-Leagues upcoming projections",
       "sport": "A-Leagues",
       "extension": "xlsx",
-      "modified": "2026-11-26 03:06:27",
-      "size": 7661,
-      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1795622787-7661",
+      "modified": "2026-11-27 03:06:51",
+      "size": 7682,
+      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1795709211-7682",
       "sheets": [
         "Projections"
       ],
@@ -72,9 +72,9 @@
           "Over 2.5 Fair": 2.06,
           "Under 2.5 Fair": 1.94,
           "Model": "TEAM",
-          "Lineup Status": "Previous",
-          "Lineup Coverage (H/A)": "100% / 100%",
-          "Significant Lineup Change": "No",
+          "Lineup Status": "Previous/Provisional",
+          "Lineup Coverage (H/A)": "100% / 99%",
+          "Significant Lineup Change": "Yes",
           "Venue": "polytec Stadium"
         }
       ]
@@ -126,9 +126,9 @@
       "model": "International Netball upcoming projections",
       "sport": "International Netball",
       "extension": "csv",
-      "modified": "2026-11-26 03:08:14",
+      "modified": "2026-11-27 03:08:41",
       "size": 10786,
-      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1795622894-10786",
+      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1795709321-10786",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
