@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28 03:02:26",
+  "generatedAt": "2026-11-28 03:11:12",
   "outputDir": "Published model outputs",
   "outputs": [
     {
@@ -8,9 +8,9 @@
       "model": "A-Leagues upcoming projections",
       "sport": "A-Leagues",
       "extension": "xlsx",
-      "modified": "2026-11-27 17:52:43",
-      "size": 7683,
-      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1795762363-7683",
+      "modified": "2026-11-28 03:09:14",
+      "size": 7684,
+      "fileUrl": "/files/A-Leagues_upcoming_projections.xlsx?v=1795795754-7684",
       "sheets": [
         "Projections"
       ],
@@ -38,26 +38,6 @@
       "rowCount": 2,
       "rows": [
         {
-          "Date": "2026-11-27T00:00:00",
-          "Start": "2026-11-27T08:40:00",
-          "Competition": "ALM",
-          "Round": "6",
-          "Home": "Macarthur",
-          "Away": "Melbourne City",
-          "Fair Home": 3.07,
-          "Fair Draw": 3.62,
-          "Fair Away": 2.51,
-          "Projected Score": "1.55 - 1.15",
-          "Projected Total": 2.7,
-          "Over 2.5 Fair": 1.97,
-          "Under 2.5 Fair": 2.03,
-          "Model": "TEAM",
-          "Lineup Status": "Previous",
-          "Lineup Coverage (H/A)": "100% / 100%",
-          "Significant Lineup Change": "No",
-          "Venue": "Campbelltown Sports Stadium"
-        },
-        {
           "Date": "2026-11-28T00:00:00",
           "Start": "2026-11-28T08:40:00",
           "Competition": "ALM",
@@ -76,6 +56,26 @@
           "Lineup Coverage (H/A)": "100% / 99%",
           "Significant Lineup Change": "Yes",
           "Venue": "polytec Stadium"
+        },
+        {
+          "Date": "2026-12-05T00:00:00",
+          "Start": "2026-12-05T08:40:00",
+          "Competition": "ALM",
+          "Round": "7",
+          "Home": "Western Sydney Wanderers",
+          "Away": "Perth Glory",
+          "Fair Home": 2.49,
+          "Fair Draw": 3.66,
+          "Fair Away": 3.07,
+          "Projected Score": "1.78 - 1.04",
+          "Projected Total": 2.82,
+          "Over 2.5 Fair": 1.87,
+          "Under 2.5 Fair": 2.16,
+          "Model": "TEAM",
+          "Lineup Status": "Previous",
+          "Lineup Coverage (H/A)": "100% / 100%",
+          "Significant Lineup Change": "No",
+          "Venue": "CommBank Stadium"
         }
       ]
     },
@@ -113,9 +113,9 @@
       "model": "International Netball upcoming projections",
       "sport": "International Netball",
       "extension": "csv",
-      "modified": "2026-11-27 17:54:45",
+      "modified": "2026-11-28 03:11:08",
       "size": 10786,
-      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1795762485-10786",
+      "fileUrl": "/files/International_Netball_upcoming_projections.csv?v=1795795868-10786",
       "sheets": [],
       "defaultSheet": "",
       "columns": [
